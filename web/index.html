@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Home, Draw, Away</title>
+  <meta name="description" content="Premier League and La Liga match predictions from recent form, with a head to head simulator and an honest look at how often the model gets it right.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <script>
+    try {
+      const saved = localStorage.getItem("theme");
+      if (saved === "light" || saved === "dark") document.documentElement.dataset.theme = saved;
+    } catch (e) {}
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="board">
+    <div class="board-inner">
+      <a class="brand" href="./" aria-label="Home, Draw, Away">
+        <span>Home</span><i></i><span>Draw</span><i></i><span>Away</span>
+      </a>
+      <nav class="league-switch" id="league-switch" aria-label="League"></nav>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch colour theme">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path class="sun" d="M12 7.5a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9zM12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/><path class="moon" d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+      </button>
+    </div>
+    <div class="tricolour" aria-hidden="true"><span></span><span></span><span></span></div>
+  </header>
+
+  <div class="page">
+    <aside class="settings" aria-label="Model settings">
+      <p class="intro">Predictions for every game from each side's last five matches, their Elo rating, home advantage and head to head record. Nothing the model uses was known after kickoff.</p>
+
+      <div class="setting">
+        <span class="setting-label" id="model-label">Model</span>
+        <div class="toggle" role="radiogroup" aria-labelledby="model-label" id="model-toggle">
+          <button type="button" role="radio" data-value="xgb">XGBoost</button>
+          <button type="button" role="radio" data-value="rf">Random forest</button>
+        </div>
+      </div>
+
+      <div class="setting">
+        <span class="setting-label" id="cal-label">Calibration</span>
+        <div class="toggle" role="radiogroup" aria-labelledby="cal-label" id="cal-toggle">
+          <button type="button" role="radio" data-value="raw">Raw</button>
+          <button type="button" role="radio" data-value="platt">Platt</button>
+          <button type="button" role="radio" data-value="isotonic">Isotonic</button>
+        </div>
+        <p class="setting-note" id="cal-note"></p>
+      </div>
+
+      <dl class="facts" id="facts"></dl>
+    </aside>
+
+    <main>
+      <nav class="tabs" role="tablist" aria-label="Sections">
+        <button type="button" role="tab" id="tab-centre" aria-controls="panel-centre" aria-selected="true">Match centre</button>
+        <button type="button" role="tab" id="tab-report" aria-controls="panel-report" aria-selected="false" tabindex="-1">How good is it?</button>
+      </nav>
+
+      <section id="panel-centre" class="panel" role="tabpanel" aria-labelledby="tab-centre">
+        <div class="section-head">
+          <h2>Next up</h2>
+          <span class="muted" id="fixtures-note"></span>
+        </div>
+        <div class="rail" id="fixtures" role="list"></div>
+
+        <article class="matchup" id="matchup" aria-live="polite">
+          <div class="teams">
+            <label class="team-pick home">
+              <span class="pick-label">Home</span>
+              <select id="home-select"></select>
+            </label>
+            <button type="button" class="swap" id="swap" aria-label="Swap home and away">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h11l-3-3M17 17H6l3 3"/></svg>
+            </button>
+            <label class="team-pick away">
+              <span class="pick-label">Away</span>
+              <select id="away-select"></select>
+            </label>
+          </div>
+          <p class="kickoff" id="kickoff"></p>
+
+          <div class="odds-row">
+            <div class="outcome home"><span class="pct" id="pct-home">0%</span><span class="who" id="who-home"></span></div>
+            <div class="outcome draw"><span class="pct" id="pct-draw">0%</span><span class="who">Draw</span></div>
+            <div class="outcome away"><span class="pct" id="pct-away">0%</span><span class="who" id="who-away"></span></div>
+          </div>
+          <div class="bar" id="bar" role="img">
+            <span class="seg home"></span><span class="seg draw"></span><span class="seg away"></span>
+          </div>
+
+          <div class="verdict-row">
+            <div class="confidence" id="confidence"></div>
+            <div class="fair-odds" id="fair-odds" title="Decimal odds with no bookmaker margin, 1 divided by the probability"></div>
+          </div>
+          <p class="tweak-note" id="tweak-note" hidden></p>
+        </article>
+
+        <section class="tweaks" aria-labelledby="tweak-title">
+          <div class="section-head">
+            <h2 id="tweak-title">Tweak the form</h2>
+            <button type="button" class="text-button" id="reset-all" hidden>Back to the real numbers</button>
+          </div>
+          <p class="muted">What if they'd won their last three? Drag and the prediction follows, the small tick marks where each team really is. Fair warning: the model leans on Elo far more than anything else, so that's the slider that really moves it. Form and goals only nudge, and not always in the direction you'd expect.</p>
+          <div class="tweak-grid">
+            <div class="tweak-col" id="tweak-home"></div>
+            <div class="tweak-col" id="tweak-away"></div>
+          </div>
+        </section>
+
+        <div class="split">
+          <section aria-labelledby="form-title">
+            <h2 id="form-title">Form guide</h2>
+            <div class="form-guide" id="form-guide"></div>
+          </section>
+          <section aria-labelledby="tape-title">
+            <h2 id="tape-title">What the model sees</h2>
+            <div class="tape" id="tape"></div>
+          </section>
+        </div>
+
+        <section aria-labelledby="h2h-title">
+          <h2 id="h2h-title">Head to head, last three seasons</h2>
+          <div id="h2h"></div>
+        </section>
+      </section>
+
+      <section id="panel-report" class="panel" role="tabpanel" aria-labelledby="tab-report" hidden>
+        <p class="report-lede" id="report-lede"></p>
+        <div class="tiles" id="tiles"></div>
+
+        <section class="chart-card" aria-labelledby="baseline-title">
+          <h2 id="baseline-title">Against the obvious alternatives</h2>
+          <p class="muted">Log loss punishes confident wrong calls, lower is better. Always home means guessing a home win every time with the usual frequencies as probabilities. The bookmakers are the average closing odds with their margin stripped out.</p>
+          <div id="baselines"></div>
+        </section>
+
+        <div class="split">
+          <section class="chart-card" aria-labelledby="cm-title">
+            <h2 id="cm-title">What it predicted, what happened</h2>
+            <p class="muted">Rows are the real result, columns the model's pick. The diagonal is where it got it right.</p>
+            <div id="confusion"></div>
+          </section>
+          <section class="chart-card" aria-labelledby="rel-title">
+            <h2 id="rel-title">When it says 40%, is it 40%?</h2>
+            <p class="muted">Every predicted probability, bucketed, against how often that outcome actually happened. On the dotted line the probabilities can be taken at face value.</p>
+            <div id="reliability"></div>
+          </section>
+        </div>
+
+        <section class="chart-card" aria-labelledby="imp-title">
+          <h2 id="imp-title">What it leans on</h2>
+          <p class="muted">Shuffle one input across the test season and see how much worse the log loss gets.</p>
+          <div id="importance"></div>
+          <p class="muted" id="importance-rest"></p>
+        </section>
+
+        <div class="split">
+          <section class="chart-card" aria-labelledby="live-title">
+            <h2 id="live-title">This season so far</h2>
+            <p class="muted" id="live-note"></p>
+            <ol class="results" id="live"></ol>
+          </section>
+          <section class="chart-card" aria-labelledby="upset-title">
+            <h2 id="upset-title">Biggest shocks last season</h2>
+            <p class="muted">The results the model gave the lowest chance of happening.</p>
+            <ol class="results" id="upsets"></ol>
+          </section>
+        </div>
+
+        <section class="draw-note">
+          <h2>About draws</h2>
+          <p>Around a quarter of games end level, but a draw is almost never the single most likely result, so a model that only picks the favourite never calls one. Training with balanced class weights (the Raw setting) makes it call draws, and it catches a fair few, but it's wrong more often overall and its percentages run too high on draws. Calibration pulls the percentages back to reality, and in doing so it stops calling draws altogether. Flip between them above and watch the draw column in the table and the tiles.</p>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p>Results, shots and odds from <a href="https://www.football-data.co.uk" rel="noopener">football-data.co.uk</a>, possession and fixtures from <a href="https://www.sofascore.com" rel="noopener">Sofascore</a>. <a href="https://github.com/mrayyan6/match-outcome-predictor" rel="noopener">Source on GitHub</a>.</p>
+    <p class="muted" id="updated"></p>
+  </footer>
+
+  <div class="tooltip" id="tooltip" hidden></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
