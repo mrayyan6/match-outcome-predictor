@@ -16,3 +16,8 @@ Thumbs.db
 
 # written by refresh.py
 refresh.log
+fetch.log
+fetch.err
+
+# rebuilt by model.py, pickles aren't byte-for-byte stable
+models/

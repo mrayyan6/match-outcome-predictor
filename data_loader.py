@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import random
 import re
 import time
 import unicodedata
@@ -46,8 +47,10 @@ LEAGUES = {
 # football-data goes back further than we need: the extra seasons are only
 # there so head to head records and rolling form have some history.
 FIRST_SEASON = 2016
-# Sofascore possession is complete from 2019/20 onwards.
-POSSESSION_FROM = 2019
+# Sofascore has possession from 2019/20 on. Only 2020/21 onwards gets
+# crawled though: the model trains on five seasons back from last season,
+# and Sofascore starts refusing requests if you ask for too many too fast.
+POSSESSION_FROM = 2020
 
 
 def current_season(today: date | None = None) -> int:
@@ -77,12 +80,18 @@ class Blocked(RuntimeError):
     pass
 
 
-def _get(url: str, pause: float = 0.6):
-    for attempt in range(4):
+def _get(url: str, pause: float = 0.6, patience: int = 3):
+    """GET with backoff. A 403 "challenge" from Sofascore means we've been
+    asking too often: wait ten minutes and try again, `patience` times."""
+    for attempt in range(4 + patience):
         resp = _http().get(url, timeout=30)
         if resp.status_code in (200, 404):
-            time.sleep(pause)
+            time.sleep(pause + random.random() * pause / 2)
             return resp
+        if resp.status_code == 403 and "challenge" in resp.text and attempt < patience:
+            print(f"    Sofascore wants a break, waiting ten minutes ({time.strftime('%H:%M')})", flush=True)
+            time.sleep(600)
+            continue
         if resp.status_code in (403, 429) or resp.status_code >= 500:
             time.sleep(6 * (attempt + 1))
             continue
@@ -193,18 +202,39 @@ def update_events(verbose: bool = True) -> pd.DataFrame:
     now = current_season()
     rows = []
     for league, cfg in LEAGUES.items():
-        ids = _season_ids(cfg["sofascore"])
+        try:
+            ids = _season_ids(cfg["sofascore"])
+        except Blocked as err:
+            print(f"  Sofascore said no ({err}), keeping the fixtures we had")
+            return known
+
         for start in range(POSSESSION_FROM, now + 1):
             have = known[(known.get("league") == league) & (known.get("season") == start)] if len(known) else known
             finished_before = start < now and len(have) >= 370
             if finished_before:
                 rows.extend(have.to_dict("records"))
                 continue
-            if verbose:
-                print(f"  fixtures {league} {season_label(start)}")
-            for rnd in range(1, 39):
-                data = _get(f"{SOFASCORE}/unique-tournament/{cfg['sofascore']}/season/{ids[start]}/events/round/{rnd}").json()
-                rows.extend(_parse_event(ev, league, start, rnd) for ev in data.get("events", []))
+            rounds = range(1, 39)
+            if start == now and len(have):
+                # only rounds with games still to settle in the next three
+                # weeks, the rest of the season can wait
+                soon = time.time() + 21 * 86400
+                open_ = have[(have["status"] != "finished") & (have["kickoff"] < soon)]
+                rounds = sorted(set(open_["round"].astype(int)))
+                rows.extend(have[~have["round"].isin(rounds)].to_dict("records"))
+            if verbose and len(rounds):
+                print(f"  fixtures {league} {season_label(start)}: {len(rounds)} rounds")
+            fetched = []
+            try:
+                for rnd in rounds:
+                    data = _get(f"{SOFASCORE}/unique-tournament/{cfg['sofascore']}/season/{ids[start]}/events/round/{rnd}").json()
+                    fetched.extend(_parse_event(ev, league, start, rnd) for ev in data.get("events", []))
+            except Blocked as err:
+                # keep what we already knew about these rounds and move on,
+                # results still come in from football-data regardless
+                print(f"  Sofascore said no ({err}), keeping the fixtures we had")
+                fetched = have[have["round"].isin(rounds)].to_dict("records") if len(have) else []
+            rows.extend(fetched)
 
     events = pd.DataFrame(rows).drop_duplicates("event_id", keep="last")
     events = events.sort_values(["league", "season", "kickoff"]).reset_index(drop=True)
@@ -227,12 +257,23 @@ def _parse_stats(data: dict) -> dict:
     return out
 
 
-def update_match_stats(events: pd.DataFrame, verbose: bool = True) -> pd.DataFrame:
+def update_match_stats(events: pd.DataFrame, verbose: bool = True, limit: int | None = None) -> pd.DataFrame:
+    """Possession for finished games we don't have yet. `limit` caps how
+    many get fetched in one go, so a scheduled run fills in the history a
+    few hundred games at a time instead of getting us blocked."""
     stats = pd.read_csv(STATS_CSV) if STATS_CSV.exists() else pd.DataFrame(columns=["event_id"])
     done = set(stats["event_id"])
-    todo = events[(events["status"] == "finished") & ~events["event_id"].isin(done)]["event_id"].tolist()
+    todo = events[
+        (events["status"] == "finished")
+        & (events["season"] >= POSSESSION_FROM)
+        & ~events["event_id"].isin(done)
+    ]
+    # newest seasons first: if the crawl gets cut off, the test season and
+    # this season are the ones that matter most
+    todo = todo.sort_values(["season", "kickoff"], ascending=[False, True])["event_id"].tolist()
     if verbose and todo:
-        print(f"  possession: {len(todo)} matches to fetch")
+        print(f"  possession: {len(todo)} matches missing" + (f", fetching up to {limit}" if limit else ""))
+    todo = todo[:limit] if limit else todo
 
     new = []
 
@@ -245,13 +286,19 @@ def update_match_stats(events: pd.DataFrame, verbose: bool = True) -> pd.DataFra
 
     try:
         for i, event_id in enumerate(todo, 1):
-            resp = _get(f"{SOFASCORE}/event/{event_id}/statistics")
+            # slow and steady, this is thousands of requests the first time
+            # a scheduled run (with a limit) gives up quickly and tries next time
+            resp = _get(f"{SOFASCORE}/event/{event_id}/statistics", pause=2.5, patience=1 if limit else 12)
             row = _parse_stats(resp.json()) if resp.status_code == 200 else _parse_stats({})
             new.append({"event_id": event_id, **row})
             if i % 50 == 0:
                 save()
                 if verbose:
-                    print(f"    {i}/{len(todo)}", flush=True)
+                    print(f"    {i}/{len(todo)} ({time.strftime('%H:%M')})", flush=True)
+            if i % 200 == 0:
+                time.sleep(180)
+    except Blocked as err:
+        print(f"  stopped early: {err}. Run again later to carry on.")
     finally:
         save()
     return stats
@@ -302,20 +349,25 @@ def attach_possession(results: pd.DataFrame, events: pd.DataFrame, stats: pd.Dat
     df["home_sofa"] = [mapping.get((lg, t)) for lg, t in zip(df["league"], df["home"])]
     df["away_sofa"] = [mapping.get((lg, t)) for lg, t in zip(df["league"], df["away"])]
     # each pair meets once at each ground per season, so this key is unique
-    # and survives postponements that move a game to another date
-    ev = events.merge(stats, on="event_id", how="left")
-    ev = ev[["league", "season", "home_sofa", "away_sofa", "event_id", "home_possession", "away_possession", "home_xg", "away_xg"]]
-    return df.merge(ev, on=["league", "season", "home_sofa", "away_sofa"], how="left")
+    # and survives postponements that move a game to another date. A
+    # postponed game comes back as a new event, so only finished ones count.
+    key = ["league", "season", "home_sofa", "away_sofa"]
+    ev = events[events["status"] == "finished"].sort_values("kickoff").drop_duplicates(key, keep="last")
+    ev = ev.merge(stats, on="event_id", how="left")
+    ev = ev[[*key, "event_id", "home_possession", "away_possession", "home_xg", "away_xg"]]
+    out = df.merge(ev, on=key, how="left")
+    assert len(out) == len(df), "the possession join duplicated some matches"
+    return out
 
 
-def fetch_everything(verbose: bool = True) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+def fetch_everything(verbose: bool = True, max_stats: int | None = None) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     if verbose:
         print("results from football-data.co.uk")
     results = load_all_results(fetch=True)
     if verbose:
         print("fixtures and possession from Sofascore")
     events = update_events(verbose)
-    stats = update_match_stats(events, verbose)
+    stats = update_match_stats(events, verbose, limit=max_stats)
     return results, events, stats
 
 
@@ -617,9 +669,10 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--offline", action="store_true", help="don't download anything")
     parser.add_argument("--fetch-only", action="store_true", help="download, skip the feature build")
+    parser.add_argument("--max-stats", type=int, default=None, help="fetch possession for at most this many games")
     args = parser.parse_args()
 
-    results, events, stats = load_offline() if args.offline else fetch_everything()
+    results, events, stats = load_offline() if args.offline else fetch_everything(max_stats=args.max_stats)
     if args.fetch_only:
         return
     build_and_save(results, events, stats)
