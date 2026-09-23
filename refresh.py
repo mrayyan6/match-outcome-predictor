@@ -19,7 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 LOG = ROOT / "refresh.log"
-OUTPUTS = ["data/processed", "models", "reports", "web/data"]
+OUTPUTS = ["data/processed", "reports", "web/data"]
 NO_WINDOW = getattr(subprocess, "CREATE_NO_WINDOW", 0)  # quiet under pythonw
 
 
