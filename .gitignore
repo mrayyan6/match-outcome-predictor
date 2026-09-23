@@ -1,0 +1,18 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# api responses are cached here while fetching, no need to version them
+data/raw/
+
+# local stuff
+.vercel/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+
+# written by refresh.py
+refresh.log

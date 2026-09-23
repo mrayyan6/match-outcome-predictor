@@ -1,0 +1,10 @@
+# only web/ gets served, keep the python side out of the upload
+/.venv
+/data
+/models
+/reports
+/tests
+/docs
+/*.py
+/requirements.txt
+/refresh.log
