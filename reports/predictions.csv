@@ -1,0 +1,1759 @@
+league,season,date,home,away,home_goals,away_goals,result,model,split,p_home,p_draw,p_away
+Premier League,2025,2025-08-15,Liverpool,Bournemouth,4,2,H,rf,test,0.4791,0.3172,0.2036
+Premier League,2025,2025-08-16,Aston Villa,Newcastle,0,0,D,rf,test,0.3066,0.3562,0.3373
+Premier League,2025,2025-08-16,Brighton,Fulham,1,1,D,rf,test,0.4193,0.3400,0.2406
+Premier League,2025,2025-08-16,Sunderland,West Ham,3,0,H,rf,test,0.2312,0.2851,0.4837
+Premier League,2025,2025-08-16,Tottenham,Burnley,3,0,H,rf,test,0.3429,0.3326,0.3245
+Premier League,2025,2025-08-16,Wolves,Man City,0,4,A,rf,test,0.1078,0.3280,0.5642
+Premier League,2025,2025-08-17,Chelsea,Crystal Palace,0,0,D,rf,test,0.3867,0.3687,0.2446
+Premier League,2025,2025-08-17,Man United,Arsenal,0,1,A,rf,test,0.1905,0.3586,0.4509
+Premier League,2025,2025-08-17,Nott'm Forest,Brentford,3,1,H,rf,test,0.3384,0.3351,0.3266
+Premier League,2025,2025-08-18,Leeds,Everton,1,0,H,rf,test,0.1860,0.3048,0.5092
+Premier League,2025,2025-08-22,West Ham,Chelsea,1,5,A,rf,test,0.1999,0.3751,0.4250
+Premier League,2025,2025-08-23,Arsenal,Leeds,5,0,H,rf,test,0.5486,0.2733,0.1781
+Premier League,2025,2025-08-23,Bournemouth,Wolves,1,0,H,rf,test,0.3648,0.4133,0.2219
+Premier League,2025,2025-08-23,Brentford,Aston Villa,1,0,H,rf,test,0.2683,0.3545,0.3772
+Premier League,2025,2025-08-23,Burnley,Sunderland,2,0,H,rf,test,0.2940,0.2719,0.4341
+Premier League,2025,2025-08-23,Man City,Tottenham,0,2,A,rf,test,0.6040,0.2417,0.1543
+Premier League,2025,2025-08-24,Crystal Palace,Nott'm Forest,1,1,D,rf,test,0.3993,0.3178,0.2829
+Premier League,2025,2025-08-24,Everton,Brighton,2,0,H,rf,test,0.2545,0.3326,0.4129
+Premier League,2025,2025-08-24,Fulham,Man United,1,1,D,rf,test,0.3061,0.4113,0.2826
+Premier League,2025,2025-08-25,Newcastle,Liverpool,2,3,A,rf,test,0.2389,0.2942,0.4668
+Premier League,2025,2025-08-30,Chelsea,Fulham,2,0,H,rf,test,0.4673,0.3106,0.2221
+Premier League,2025,2025-08-30,Leeds,Newcastle,0,0,D,rf,test,0.1644,0.2986,0.5370
+Premier League,2025,2025-08-30,Man United,Burnley,3,2,H,rf,test,0.4788,0.2957,0.2255
+Premier League,2025,2025-08-30,Sunderland,Brentford,2,1,H,rf,test,0.2009,0.3345,0.4646
+Premier League,2025,2025-08-30,Tottenham,Bournemouth,0,1,A,rf,test,0.2672,0.4157,0.3171
+Premier League,2025,2025-08-30,Wolves,Everton,2,3,A,rf,test,0.1921,0.3511,0.4569
+Premier League,2025,2025-08-31,Aston Villa,Crystal Palace,0,3,A,rf,test,0.2712,0.3344,0.3944
+Premier League,2025,2025-08-31,Brighton,Man City,2,1,H,rf,test,0.2087,0.3307,0.4606
+Premier League,2025,2025-08-31,Liverpool,Arsenal,1,0,H,rf,test,0.3087,0.3794,0.3119
+Premier League,2025,2025-08-31,Nott'm Forest,West Ham,0,3,A,rf,test,0.4429,0.3567,0.2003
+Premier League,2025,2025-09-13,Arsenal,Nott'm Forest,3,0,H,rf,test,0.5361,0.2790,0.1850
+Premier League,2025,2025-09-13,Bournemouth,Brighton,2,1,H,rf,test,0.3003,0.3382,0.3615
+Premier League,2025,2025-09-13,Brentford,Chelsea,2,2,D,rf,test,0.1623,0.3821,0.4556
+Premier League,2025,2025-09-13,Crystal Palace,Sunderland,0,0,D,rf,test,0.5735,0.2559,0.1706
+Premier League,2025,2025-09-13,Everton,Aston Villa,0,0,D,rf,test,0.3321,0.3023,0.3656
+Premier League,2025,2025-09-13,Fulham,Leeds,1,0,H,rf,test,0.4080,0.3954,0.1967
+Premier League,2025,2025-09-13,Newcastle,Wolves,1,0,H,rf,test,0.4404,0.3654,0.1942
+Premier League,2025,2025-09-13,West Ham,Tottenham,0,3,A,rf,test,0.3266,0.3747,0.2987
+Premier League,2025,2025-09-14,Burnley,Liverpool,0,1,A,rf,test,0.1546,0.2832,0.5622
+Premier League,2025,2025-09-14,Man City,Man United,3,0,H,rf,test,0.4701,0.3217,0.2081
+Premier League,2025,2025-09-20,Brighton,Tottenham,2,2,D,rf,test,0.4648,0.3017,0.2335
+Premier League,2025,2025-09-20,Burnley,Nott'm Forest,1,1,D,rf,test,0.2272,0.3284,0.4444
+Premier League,2025,2025-09-20,Fulham,Brentford,3,1,H,rf,test,0.3177,0.3373,0.3450
+Premier League,2025,2025-09-20,Liverpool,Everton,2,1,H,rf,test,0.5669,0.2671,0.1661
+Premier League,2025,2025-09-20,Man United,Chelsea,2,1,H,rf,test,0.1930,0.4373,0.3696
+Premier League,2025,2025-09-20,West Ham,Crystal Palace,1,2,A,rf,test,0.1601,0.3560,0.4839
+Premier League,2025,2025-09-20,Wolves,Leeds,1,3,A,rf,test,0.3165,0.3350,0.3485
+Premier League,2025,2025-09-21,Arsenal,Man City,1,1,D,rf,test,0.3875,0.3322,0.2803
+Premier League,2025,2025-09-21,Bournemouth,Newcastle,0,0,D,rf,test,0.3414,0.3091,0.3495
+Premier League,2025,2025-09-21,Sunderland,Aston Villa,1,1,D,rf,test,0.2577,0.3550,0.3873
+Premier League,2025,2025-09-27,Brentford,Man United,3,1,H,rf,test,0.3070,0.3323,0.3607
+Premier League,2025,2025-09-27,Chelsea,Brighton,1,3,A,rf,test,0.3611,0.3856,0.2533
+Premier League,2025,2025-09-27,Crystal Palace,Liverpool,2,1,H,rf,test,0.1975,0.3405,0.4620
+Premier League,2025,2025-09-27,Leeds,Bournemouth,2,2,D,rf,test,0.2028,0.3531,0.4441
+Premier League,2025,2025-09-27,Man City,Burnley,5,1,H,rf,test,0.5063,0.3230,0.1707
+Premier League,2025,2025-09-27,Nott'm Forest,Sunderland,0,1,A,rf,test,0.3545,0.3344,0.3112
+Premier League,2025,2025-09-27,Tottenham,Wolves,1,1,D,rf,test,0.4428,0.3465,0.2106
+Premier League,2025,2025-09-28,Aston Villa,Fulham,3,1,H,rf,test,0.4028,0.2868,0.3104
+Premier League,2025,2025-09-28,Newcastle,Arsenal,1,2,A,rf,test,0.1876,0.3875,0.4249
+Premier League,2025,2025-09-29,Everton,West Ham,1,1,D,rf,test,0.4156,0.3857,0.1987
+Premier League,2025,2025-10-03,Bournemouth,Fulham,3,1,H,rf,test,0.4108,0.3170,0.2722
+Premier League,2025,2025-10-04,Arsenal,West Ham,2,0,H,rf,test,0.5945,0.2353,0.1702
+Premier League,2025,2025-10-04,Chelsea,Liverpool,2,1,H,rf,test,0.2177,0.3423,0.4400
+Premier League,2025,2025-10-04,Leeds,Tottenham,1,2,A,rf,test,0.2097,0.3421,0.4482
+Premier League,2025,2025-10-04,Man United,Sunderland,2,0,H,rf,test,0.3893,0.3368,0.2739
+Premier League,2025,2025-10-05,Aston Villa,Burnley,2,1,H,rf,test,0.5064,0.3012,0.1923
+Premier League,2025,2025-10-05,Brentford,Man City,0,1,A,rf,test,0.2036,0.3410,0.4554
+Premier League,2025,2025-10-05,Everton,Crystal Palace,2,1,H,rf,test,0.2679,0.3457,0.3863
+Premier League,2025,2025-10-05,Newcastle,Nott'm Forest,2,0,H,rf,test,0.3977,0.3628,0.2395
+Premier League,2025,2025-10-05,Wolves,Brighton,1,1,D,rf,test,0.1859,0.2629,0.5511
+Premier League,2025,2025-10-18,Brighton,Newcastle,2,1,H,rf,test,0.2876,0.3604,0.3520
+Premier League,2025,2025-10-18,Burnley,Leeds,2,0,H,rf,test,0.1977,0.3393,0.4629
+Premier League,2025,2025-10-18,Crystal Palace,Bournemouth,3,3,D,rf,test,0.3474,0.3815,0.2711
+Premier League,2025,2025-10-18,Fulham,Arsenal,0,1,A,rf,test,0.1352,0.3439,0.5209
+Premier League,2025,2025-10-18,Man City,Everton,2,0,H,rf,test,0.5383,0.2853,0.1765
+Premier League,2025,2025-10-18,Nott'm Forest,Chelsea,0,3,A,rf,test,0.1535,0.3072,0.5393
+Premier League,2025,2025-10-18,Sunderland,Wolves,2,0,H,rf,test,0.2937,0.3603,0.3460
+Premier League,2025,2025-10-19,Liverpool,Man United,1,2,A,rf,test,0.5442,0.2474,0.2084
+Premier League,2025,2025-10-19,Tottenham,Aston Villa,1,2,A,rf,test,0.2739,0.3422,0.3839
+Premier League,2025,2025-10-20,West Ham,Brentford,0,2,A,rf,test,0.2535,0.3599,0.3865
+Premier League,2025,2025-10-24,Leeds,West Ham,2,1,H,rf,test,0.3038,0.3704,0.3258
+Premier League,2025,2025-10-25,Brentford,Liverpool,3,2,H,rf,test,0.2090,0.3258,0.4652
+Premier League,2025,2025-10-25,Chelsea,Sunderland,1,2,A,rf,test,0.4859,0.3222,0.1919
+Premier League,2025,2025-10-25,Man United,Brighton,4,2,H,rf,test,0.2775,0.3044,0.4181
+Premier League,2025,2025-10-25,Newcastle,Fulham,2,1,H,rf,test,0.4795,0.3162,0.2043
+Premier League,2025,2025-10-26,Arsenal,Crystal Palace,1,0,H,rf,test,0.5352,0.2669,0.1979
+Premier League,2025,2025-10-26,Aston Villa,Man City,1,0,H,rf,test,0.1930,0.3646,0.4424
+Premier League,2025,2025-10-26,Bournemouth,Nott'm Forest,2,0,H,rf,test,0.4100,0.3713,0.2187
+Premier League,2025,2025-10-26,Everton,Tottenham,0,3,A,rf,test,0.3156,0.2917,0.3927
+Premier League,2025,2025-10-26,Wolves,Burnley,2,3,A,rf,test,0.3727,0.3495,0.2778
+Premier League,2025,2025-11-01,Brighton,Leeds,3,0,H,rf,test,0.4462,0.3318,0.2219
+Premier League,2025,2025-11-01,Burnley,Arsenal,0,2,A,rf,test,0.1138,0.3076,0.5786
+Premier League,2025,2025-11-01,Crystal Palace,Brentford,2,0,H,rf,test,0.4136,0.2979,0.2886
+Premier League,2025,2025-11-01,Fulham,Wolves,3,0,H,rf,test,0.3916,0.4025,0.2059
+Premier League,2025,2025-11-01,Liverpool,Aston Villa,2,0,H,rf,test,0.3115,0.3619,0.3266
+Premier League,2025,2025-11-01,Nott'm Forest,Man United,2,2,D,rf,test,0.1963,0.3528,0.4509
+Premier League,2025,2025-11-01,Tottenham,Chelsea,0,1,A,rf,test,0.3120,0.2881,0.3998
+Premier League,2025,2025-11-02,Man City,Bournemouth,3,1,H,rf,test,0.5708,0.2629,0.1663
+Premier League,2025,2025-11-02,West Ham,Newcastle,3,1,H,rf,test,0.1765,0.2783,0.5452
+Premier League,2025,2025-11-03,Sunderland,Everton,1,1,D,rf,test,0.2758,0.3513,0.3730
+Premier League,2025,2025-11-08,Chelsea,Wolves,3,0,H,rf,test,0.5685,0.2686,0.1629
+Premier League,2025,2025-11-08,Everton,Fulham,2,0,H,rf,test,0.3250,0.4020,0.2731
+Premier League,2025,2025-11-08,Sunderland,Arsenal,2,2,D,rf,test,0.1269,0.3553,0.5178
+Premier League,2025,2025-11-08,Tottenham,Man United,2,2,D,rf,test,0.3943,0.3553,0.2503
+Premier League,2025,2025-11-08,West Ham,Burnley,3,2,H,rf,test,0.4062,0.3589,0.2349
+Premier League,2025,2025-11-09,Aston Villa,Bournemouth,4,0,H,rf,test,0.3912,0.3646,0.2443
+Premier League,2025,2025-11-09,Brentford,Newcastle,3,1,H,rf,test,0.3443,0.2996,0.3561
+Premier League,2025,2025-11-09,Crystal Palace,Brighton,0,0,D,rf,test,0.4058,0.3088,0.2855
+Premier League,2025,2025-11-09,Man City,Liverpool,3,0,H,rf,test,0.4582,0.2940,0.2479
+Premier League,2025,2025-11-09,Nott'm Forest,Leeds,3,1,H,rf,test,0.3660,0.3393,0.2947
+Premier League,2025,2025-11-22,Bournemouth,West Ham,2,2,D,rf,test,0.4484,0.3476,0.2039
+Premier League,2025,2025-11-22,Brighton,Brentford,2,1,H,rf,test,0.3326,0.3482,0.3192
+Premier League,2025,2025-11-22,Burnley,Chelsea,0,2,A,rf,test,0.1108,0.3068,0.5824
+Premier League,2025,2025-11-22,Fulham,Sunderland,1,0,H,rf,test,0.3877,0.3416,0.2707
+Premier League,2025,2025-11-22,Liverpool,Nott'm Forest,0,3,A,rf,test,0.4522,0.3621,0.1857
+Premier League,2025,2025-11-22,Newcastle,Man City,2,1,H,rf,test,0.1412,0.3420,0.5168
+Premier League,2025,2025-11-22,Wolves,Crystal Palace,0,2,A,rf,test,0.1320,0.2498,0.6182
+Premier League,2025,2025-11-23,Arsenal,Tottenham,4,1,H,rf,test,0.6067,0.2208,0.1725
+Premier League,2025,2025-11-23,Leeds,Aston Villa,1,2,A,rf,test,0.1482,0.2956,0.5562
+Premier League,2025,2025-11-24,Man United,Everton,0,1,A,rf,test,0.3938,0.3616,0.2446
+Premier League,2025,2025-11-29,Brentford,Burnley,3,1,H,rf,test,0.5292,0.2833,0.1874
+Premier League,2025,2025-11-29,Everton,Newcastle,1,4,A,rf,test,0.2842,0.3916,0.3242
+Premier League,2025,2025-11-29,Man City,Leeds,3,2,H,rf,test,0.5936,0.2781,0.1283
+Premier League,2025,2025-11-29,Sunderland,Bournemouth,3,2,H,rf,test,0.2612,0.3488,0.3901
+Premier League,2025,2025-11-29,Tottenham,Fulham,1,2,A,rf,test,0.3210,0.3492,0.3297
+Premier League,2025,2025-11-30,Aston Villa,Wolves,1,0,H,rf,test,0.5111,0.3311,0.1578
+Premier League,2025,2025-11-30,Chelsea,Arsenal,1,1,D,rf,test,0.2707,0.3397,0.3896
+Premier League,2025,2025-11-30,Crystal Palace,Man United,1,2,A,rf,test,0.4887,0.2973,0.2140
+Premier League,2025,2025-11-30,Nott'm Forest,Brighton,0,2,A,rf,test,0.2970,0.3099,0.3931
+Premier League,2025,2025-11-30,West Ham,Liverpool,0,2,A,rf,test,0.2368,0.3493,0.4139
+Premier League,2025,2025-12-02,Bournemouth,Everton,0,1,A,rf,test,0.3900,0.3516,0.2584
+Premier League,2025,2025-12-02,Fulham,Man City,4,5,A,rf,test,0.1937,0.3216,0.4847
+Premier League,2025,2025-12-02,Newcastle,Tottenham,2,2,D,rf,test,0.4977,0.3046,0.1976
+Premier League,2025,2025-12-03,Arsenal,Brentford,2,0,H,rf,test,0.4935,0.3249,0.1816
+Premier League,2025,2025-12-03,Brighton,Aston Villa,3,4,A,rf,test,0.3335,0.3147,0.3519
+Premier League,2025,2025-12-03,Burnley,Crystal Palace,0,1,A,rf,test,0.1276,0.3454,0.5270
+Premier League,2025,2025-12-03,Leeds,Chelsea,3,1,H,rf,test,0.0960,0.2775,0.6266
+Premier League,2025,2025-12-03,Liverpool,Sunderland,1,1,D,rf,test,0.4854,0.3208,0.1938
+Premier League,2025,2025-12-03,Wolves,Nott'm Forest,0,1,A,rf,test,0.1506,0.2857,0.5637
+Premier League,2025,2025-12-04,Man United,West Ham,1,1,D,rf,test,0.4539,0.3361,0.2100
+Premier League,2025,2025-12-06,Aston Villa,Arsenal,2,1,H,rf,test,0.2149,0.3677,0.4174
+Premier League,2025,2025-12-06,Bournemouth,Chelsea,0,0,D,rf,test,0.1585,0.3581,0.4834
+Premier League,2025,2025-12-06,Everton,Nott'm Forest,3,0,H,rf,test,0.3967,0.3505,0.2529
+Premier League,2025,2025-12-06,Leeds,Liverpool,3,3,D,rf,test,0.1748,0.3498,0.4755
+Premier League,2025,2025-12-06,Man City,Sunderland,3,0,H,rf,test,0.5729,0.2716,0.1555
+Premier League,2025,2025-12-06,Newcastle,Burnley,2,1,H,rf,test,0.5284,0.3033,0.1683
+Premier League,2025,2025-12-06,Tottenham,Brentford,2,0,H,rf,test,0.2607,0.3879,0.3514
+Premier League,2025,2025-12-07,Brighton,West Ham,1,1,D,rf,test,0.5097,0.3113,0.1790
+Premier League,2025,2025-12-07,Fulham,Crystal Palace,1,2,A,rf,test,0.2507,0.3410,0.4083
+Premier League,2025,2025-12-08,Wolves,Man United,1,4,A,rf,test,0.1504,0.3136,0.5360
+Premier League,2025,2025-12-13,Arsenal,Wolves,2,1,H,rf,test,0.6959,0.2084,0.0958
+Premier League,2025,2025-12-13,Burnley,Fulham,2,3,A,rf,test,0.1951,0.2524,0.5525
+Premier League,2025,2025-12-13,Chelsea,Everton,2,0,H,rf,test,0.4019,0.3381,0.2600
+Premier League,2025,2025-12-13,Liverpool,Brighton,2,0,H,rf,test,0.3860,0.3165,0.2976
+Premier League,2025,2025-12-14,Brentford,Leeds,1,1,D,rf,test,0.4021,0.3963,0.2016
+Premier League,2025,2025-12-14,Crystal Palace,Man City,0,3,A,rf,test,0.2525,0.3292,0.4183
+Premier League,2025,2025-12-14,Nott'm Forest,Tottenham,3,0,H,rf,test,0.3365,0.3228,0.3407
+Premier League,2025,2025-12-14,Sunderland,Newcastle,1,0,H,rf,test,0.1841,0.3548,0.4611
+Premier League,2025,2025-12-14,West Ham,Aston Villa,2,3,A,rf,test,0.1603,0.3806,0.4590
+Premier League,2025,2025-12-15,Man United,Bournemouth,4,4,D,rf,test,0.3830,0.3459,0.2712
+Premier League,2025,2025-12-20,Bournemouth,Burnley,1,1,D,rf,test,0.4738,0.3475,0.1787
+Premier League,2025,2025-12-20,Brighton,Sunderland,0,0,D,rf,test,0.4339,0.3612,0.2049
+Premier League,2025,2025-12-20,Everton,Arsenal,0,1,A,rf,test,0.1702,0.3527,0.4772
+Premier League,2025,2025-12-20,Leeds,Crystal Palace,4,1,H,rf,test,0.2228,0.3432,0.4340
+Premier League,2025,2025-12-20,Man City,West Ham,3,0,H,rf,test,0.6655,0.2039,0.1306
+Premier League,2025,2025-12-20,Newcastle,Chelsea,2,2,D,rf,test,0.3699,0.3410,0.2892
+Premier League,2025,2025-12-20,Tottenham,Liverpool,1,2,A,rf,test,0.1820,0.3004,0.5176
+Premier League,2025,2025-12-20,Wolves,Brentford,0,2,A,rf,test,0.2046,0.2785,0.5169
+Premier League,2025,2025-12-21,Aston Villa,Man United,2,1,H,rf,test,0.4103,0.3459,0.2438
+Premier League,2025,2025-12-22,Fulham,Nott'm Forest,1,0,H,rf,test,0.3499,0.3602,0.2900
+Premier League,2025,2025-12-26,Man United,Newcastle,1,0,H,rf,test,0.2691,0.3157,0.4152
+Premier League,2025,2025-12-27,Arsenal,Brighton,2,1,H,rf,test,0.5211,0.2796,0.1993
+Premier League,2025,2025-12-27,Brentford,Bournemouth,4,1,H,rf,test,0.3514,0.3990,0.2496
+Premier League,2025,2025-12-27,Burnley,Everton,0,0,D,rf,test,0.1950,0.3261,0.4789
+Premier League,2025,2025-12-27,Chelsea,Aston Villa,1,2,A,rf,test,0.2710,0.3778,0.3512
+Premier League,2025,2025-12-27,Liverpool,Wolves,2,1,H,rf,test,0.6620,0.2202,0.1177
+Premier League,2025,2025-12-27,Nott'm Forest,Man City,1,2,A,rf,test,0.1294,0.3504,0.5201
+Premier League,2025,2025-12-27,West Ham,Fulham,0,1,A,rf,test,0.2179,0.3276,0.4545
+Premier League,2025,2025-12-28,Crystal Palace,Tottenham,0,1,A,rf,test,0.3964,0.3806,0.2231
+Premier League,2025,2025-12-28,Sunderland,Leeds,1,1,D,rf,test,0.3841,0.3285,0.2874
+Premier League,2025,2025-12-30,Arsenal,Aston Villa,4,1,H,rf,test,0.4183,0.3498,0.2319
+Premier League,2025,2025-12-30,Burnley,Newcastle,1,3,A,rf,test,0.1538,0.2534,0.5928
+Premier League,2025,2025-12-30,Chelsea,Bournemouth,2,2,D,rf,test,0.3924,0.3766,0.2310
+Premier League,2025,2025-12-30,Man United,Wolves,1,1,D,rf,test,0.5961,0.2565,0.1474
+Premier League,2025,2025-12-30,Nott'm Forest,Everton,0,2,A,rf,test,0.2660,0.3427,0.3913
+Premier League,2025,2025-12-30,West Ham,Brighton,2,2,D,rf,test,0.2373,0.3340,0.4287
+Premier League,2025,2026-01-01,Brentford,Tottenham,0,0,D,rf,test,0.3648,0.3432,0.2920
+Premier League,2025,2026-01-01,Crystal Palace,Fulham,1,1,D,rf,test,0.3810,0.2958,0.3231
+Premier League,2025,2026-01-01,Liverpool,Leeds,0,0,D,rf,test,0.4792,0.3143,0.2065
+Premier League,2025,2026-01-01,Sunderland,Man City,0,0,D,rf,test,0.1118,0.3358,0.5524
+Premier League,2025,2026-01-03,Aston Villa,Nott'm Forest,3,1,H,rf,test,0.4395,0.3566,0.2039
+Premier League,2025,2026-01-03,Bournemouth,Arsenal,2,3,A,rf,test,0.1405,0.3926,0.4669
+Premier League,2025,2026-01-03,Brighton,Burnley,2,0,H,rf,test,0.4206,0.3869,0.1925
+Premier League,2025,2026-01-03,Wolves,West Ham,3,0,H,rf,test,0.2752,0.3771,0.3477
+Premier League,2025,2026-01-04,Everton,Brentford,2,4,A,rf,test,0.4038,0.3426,0.2536
+Premier League,2025,2026-01-04,Fulham,Liverpool,2,2,D,rf,test,0.1938,0.3114,0.4949
+Premier League,2025,2026-01-04,Leeds,Man United,1,1,D,rf,test,0.2815,0.3259,0.3926
+Premier League,2025,2026-01-04,Man City,Chelsea,1,1,D,rf,test,0.5678,0.2498,0.1823
+Premier League,2025,2026-01-04,Newcastle,Crystal Palace,2,0,H,rf,test,0.3879,0.3546,0.2575
+Premier League,2025,2026-01-04,Tottenham,Sunderland,1,1,D,rf,test,0.3821,0.3543,0.2636
+Premier League,2025,2026-01-06,West Ham,Nott'm Forest,1,2,A,rf,test,0.2304,0.3575,0.4121
+Premier League,2025,2026-01-07,Bournemouth,Tottenham,3,2,H,rf,test,0.3048,0.3903,0.3049
+Premier League,2025,2026-01-07,Brentford,Sunderland,3,0,H,rf,test,0.4331,0.3513,0.2156
+Premier League,2025,2026-01-07,Burnley,Man United,2,2,D,rf,test,0.1710,0.2003,0.6288
+Premier League,2025,2026-01-07,Crystal Palace,Aston Villa,0,0,D,rf,test,0.1737,0.3224,0.5039
+Premier League,2025,2026-01-07,Everton,Wolves,1,1,D,rf,test,0.4298,0.3115,0.2587
+Premier League,2025,2026-01-07,Fulham,Chelsea,2,1,H,rf,test,0.2778,0.3091,0.4131
+Premier League,2025,2026-01-07,Man City,Brighton,1,1,D,rf,test,0.5283,0.2891,0.1826
+Premier League,2025,2026-01-07,Newcastle,Leeds,4,3,H,rf,test,0.4149,0.3428,0.2423
+Premier League,2025,2026-01-08,Arsenal,Liverpool,0,0,D,rf,test,0.4367,0.3202,0.2430
+Premier League,2025,2026-01-17,Chelsea,Brentford,2,0,H,rf,test,0.2569,0.3559,0.3872
+Premier League,2025,2026-01-17,Leeds,Fulham,1,0,H,rf,test,0.2306,0.3448,0.4246
+Premier League,2025,2026-01-17,Liverpool,Burnley,1,1,D,rf,test,0.5494,0.2928,0.1579
+Premier League,2025,2026-01-17,Man United,Man City,2,0,H,rf,test,0.1753,0.3801,0.4446
+Premier League,2025,2026-01-17,Nott'm Forest,Arsenal,0,0,D,rf,test,0.1106,0.2749,0.6145
+Premier League,2025,2026-01-17,Sunderland,Crystal Palace,2,1,H,rf,test,0.2842,0.3457,0.3701
+Premier League,2025,2026-01-17,Tottenham,West Ham,1,2,A,rf,test,0.4339,0.3542,0.2119
+Premier League,2025,2026-01-18,Aston Villa,Everton,0,1,A,rf,test,0.4788,0.3364,0.1847
+Premier League,2025,2026-01-18,Wolves,Newcastle,0,0,D,rf,test,0.1723,0.3264,0.5014
+Premier League,2025,2026-01-19,Brighton,Bournemouth,1,1,D,rf,test,0.3879,0.3906,0.2215
+Premier League,2025,2026-01-24,Bournemouth,Liverpool,3,2,H,rf,test,0.1737,0.3441,0.4822
+Premier League,2025,2026-01-24,Burnley,Tottenham,2,2,D,rf,test,0.1716,0.3186,0.5098
+Premier League,2025,2026-01-24,Fulham,Brighton,2,1,H,rf,test,0.3069,0.3338,0.3593
+Premier League,2025,2026-01-24,Man City,Wolves,2,0,H,rf,test,0.4600,0.3090,0.2310
+Premier League,2025,2026-01-24,West Ham,Sunderland,3,1,H,rf,test,0.2511,0.3742,0.3746
+Premier League,2025,2026-01-25,Arsenal,Man United,2,3,A,rf,test,0.4926,0.3192,0.1883
+Premier League,2025,2026-01-25,Brentford,Nott'm Forest,0,2,A,rf,test,0.3852,0.3565,0.2583
+Premier League,2025,2026-01-25,Crystal Palace,Chelsea,1,3,A,rf,test,0.2469,0.3160,0.4371
+Premier League,2025,2026-01-25,Newcastle,Aston Villa,0,2,A,rf,test,0.3400,0.3113,0.3487
+Premier League,2025,2026-01-26,Everton,Leeds,1,1,D,rf,test,0.4057,0.3320,0.2622
+Premier League,2025,2026-01-31,Brighton,Everton,1,1,D,rf,test,0.3771,0.3336,0.2893
+Premier League,2025,2026-01-31,Chelsea,West Ham,3,2,H,rf,test,0.5305,0.3007,0.1688
+Premier League,2025,2026-01-31,Leeds,Arsenal,0,4,A,rf,test,0.1517,0.3112,0.5371
+Premier League,2025,2026-01-31,Liverpool,Newcastle,4,1,H,rf,test,0.4227,0.3071,0.2703
+Premier League,2025,2026-01-31,Wolves,Bournemouth,0,2,A,rf,test,0.2282,0.3345,0.4374
+Premier League,2025,2026-02-01,Aston Villa,Brentford,0,1,A,rf,test,0.4384,0.3165,0.2451
+Premier League,2025,2026-02-01,Man United,Fulham,3,2,H,rf,test,0.4803,0.3142,0.2055
+Premier League,2025,2026-02-01,Nott'm Forest,Crystal Palace,1,1,D,rf,test,0.3513,0.3643,0.2844
+Premier League,2025,2026-02-01,Tottenham,Man City,2,2,D,rf,test,0.2343,0.3942,0.3715
+Premier League,2025,2026-02-02,Sunderland,Burnley,3,0,H,rf,test,0.4414,0.3531,0.2055
+Premier League,2025,2026-02-06,Leeds,Nott'm Forest,3,1,H,rf,test,0.2370,0.3663,0.3966
+Premier League,2025,2026-02-07,Arsenal,Sunderland,3,0,H,rf,test,0.5330,0.2790,0.1879
+Premier League,2025,2026-02-07,Bournemouth,Aston Villa,1,1,D,rf,test,0.2486,0.3151,0.4363
+Premier League,2025,2026-02-07,Burnley,West Ham,0,2,A,rf,test,0.2352,0.3526,0.4121
+Premier League,2025,2026-02-07,Fulham,Everton,1,2,A,rf,test,0.3340,0.3672,0.2988
+Premier League,2025,2026-02-07,Man United,Tottenham,2,0,H,rf,test,0.4086,0.3619,0.2296
+Premier League,2025,2026-02-07,Newcastle,Brentford,2,3,A,rf,test,0.3729,0.3437,0.2834
+Premier League,2025,2026-02-07,Wolves,Chelsea,1,3,A,rf,test,0.2154,0.3025,0.4821
+Premier League,2025,2026-02-08,Brighton,Crystal Palace,0,1,A,rf,test,0.3305,0.3974,0.2721
+Premier League,2025,2026-02-08,Liverpool,Man City,1,2,A,rf,test,0.3364,0.3418,0.3218
+Premier League,2025,2026-02-10,Chelsea,Leeds,2,2,D,rf,test,0.4820,0.3348,0.1832
+Premier League,2025,2026-02-10,Everton,Bournemouth,1,2,A,rf,test,0.3928,0.3227,0.2845
+Premier League,2025,2026-02-10,Tottenham,Newcastle,1,2,A,rf,test,0.3044,0.3520,0.3435
+Premier League,2025,2026-02-10,West Ham,Man United,1,1,D,rf,test,0.2235,0.3448,0.4317
+Premier League,2025,2026-02-11,Aston Villa,Brighton,1,0,H,rf,test,0.4567,0.3257,0.2176
+Premier League,2025,2026-02-11,Crystal Palace,Burnley,2,3,A,rf,test,0.4938,0.3500,0.1561
+Premier League,2025,2026-02-11,Man City,Fulham,3,0,H,rf,test,0.5588,0.2835,0.1578
+Premier League,2025,2026-02-11,Nott'm Forest,Wolves,0,0,D,rf,test,0.4440,0.3206,0.2354
+Premier League,2025,2026-02-11,Sunderland,Liverpool,0,1,A,rf,test,0.1870,0.3517,0.4613
+Premier League,2025,2026-02-12,Brentford,Arsenal,1,1,D,rf,test,0.1656,0.3136,0.5208
+Premier League,2025,2026-02-18,Wolves,Arsenal,2,2,D,rf,test,0.1025,0.2693,0.6282
+Premier League,2025,2026-02-21,Aston Villa,Leeds,1,1,D,rf,test,0.5588,0.2545,0.1867
+Premier League,2025,2026-02-21,Brentford,Brighton,0,2,A,rf,test,0.3340,0.3906,0.2754
+Premier League,2025,2026-02-21,Chelsea,Burnley,1,1,D,rf,test,0.6416,0.2197,0.1387
+Premier League,2025,2026-02-21,Man City,Newcastle,2,1,H,rf,test,0.4354,0.3648,0.1997
+Premier League,2025,2026-02-21,West Ham,Bournemouth,0,0,D,rf,test,0.2608,0.2927,0.4465
+Premier League,2025,2026-02-22,Crystal Palace,Wolves,1,0,H,rf,test,0.4232,0.3898,0.1870
+Premier League,2025,2026-02-22,Nott'm Forest,Liverpool,0,1,A,rf,test,0.2158,0.3304,0.4538
+Premier League,2025,2026-02-22,Sunderland,Fulham,1,3,A,rf,test,0.2917,0.3790,0.3294
+Premier League,2025,2026-02-22,Tottenham,Arsenal,1,4,A,rf,test,0.1301,0.3029,0.5670
+Premier League,2025,2026-02-23,Everton,Man United,0,1,A,rf,test,0.2369,0.3744,0.3886
+Premier League,2025,2026-02-27,Wolves,Aston Villa,2,0,H,rf,test,0.1478,0.2728,0.5795
+Premier League,2025,2026-02-28,Bournemouth,Sunderland,1,1,D,rf,test,0.4620,0.3285,0.2096
+Premier League,2025,2026-02-28,Burnley,Brentford,3,4,A,rf,test,0.2114,0.3674,0.4212
+Premier League,2025,2026-02-28,Leeds,Man City,0,1,A,rf,test,0.1697,0.4008,0.4295
+Premier League,2025,2026-02-28,Liverpool,West Ham,5,2,H,rf,test,0.5734,0.2587,0.1679
+Premier League,2025,2026-02-28,Newcastle,Everton,2,3,A,rf,test,0.2888,0.3698,0.3414
+Premier League,2025,2026-03-01,Arsenal,Chelsea,2,1,H,rf,test,0.5280,0.2906,0.1814
+Premier League,2025,2026-03-01,Brighton,Nott'm Forest,2,1,H,rf,test,0.3552,0.3508,0.2940
+Premier League,2025,2026-03-01,Fulham,Tottenham,2,1,H,rf,test,0.3723,0.4060,0.2217
+Premier League,2025,2026-03-01,Man United,Crystal Palace,2,1,H,rf,test,0.3997,0.3313,0.2690
+Premier League,2025,2026-03-03,Bournemouth,Brentford,0,0,D,rf,test,0.3798,0.3085,0.3118
+Premier League,2025,2026-03-03,Everton,Burnley,2,0,H,rf,test,0.5031,0.3097,0.1871
+Premier League,2025,2026-03-03,Leeds,Sunderland,0,1,A,rf,test,0.3122,0.4004,0.2874
+Premier League,2025,2026-03-03,Wolves,Liverpool,2,1,H,rf,test,0.1204,0.2886,0.5911
+Premier League,2025,2026-03-04,Aston Villa,Chelsea,1,4,A,rf,test,0.3367,0.3080,0.3553
+Premier League,2025,2026-03-04,Brighton,Arsenal,0,1,A,rf,test,0.1824,0.4023,0.4153
+Premier League,2025,2026-03-04,Fulham,West Ham,0,1,A,rf,test,0.4324,0.3407,0.2269
+Premier League,2025,2026-03-04,Man City,Nott'm Forest,2,2,D,rf,test,0.6052,0.2568,0.1380
+Premier League,2025,2026-03-04,Newcastle,Man United,2,1,H,rf,test,0.1900,0.4011,0.4089
+Premier League,2025,2026-03-05,Tottenham,Crystal Palace,1,3,A,rf,test,0.2269,0.3635,0.4096
+Premier League,2025,2026-03-14,Arsenal,Everton,2,0,H,rf,test,0.5615,0.2691,0.1694
+Premier League,2025,2026-03-14,Burnley,Bournemouth,0,0,D,rf,test,0.1702,0.3083,0.5215
+Premier League,2025,2026-03-14,Chelsea,Newcastle,0,1,A,rf,test,0.3953,0.3606,0.2442
+Premier League,2025,2026-03-14,Sunderland,Brighton,0,1,A,rf,test,0.1958,0.3337,0.4706
+Premier League,2025,2026-03-14,West Ham,Man City,1,1,D,rf,test,0.1759,0.3499,0.4742
+Premier League,2025,2026-03-15,Crystal Palace,Leeds,0,0,D,rf,test,0.3569,0.3665,0.2766
+Premier League,2025,2026-03-15,Liverpool,Tottenham,1,1,D,rf,test,0.6156,0.2489,0.1354
+Premier League,2025,2026-03-15,Man United,Aston Villa,3,1,H,rf,test,0.4292,0.3277,0.2430
+Premier League,2025,2026-03-15,Nott'm Forest,Fulham,0,0,D,rf,test,0.2694,0.3327,0.3980
+Premier League,2025,2026-03-16,Brentford,Wolves,2,2,D,rf,test,0.4946,0.3059,0.1995
+Premier League,2025,2026-03-20,Bournemouth,Man United,2,2,D,rf,test,0.2567,0.3362,0.4071
+Premier League,2025,2026-03-21,Brighton,Liverpool,2,1,H,rf,test,0.2558,0.2999,0.4442
+Premier League,2025,2026-03-21,Everton,Chelsea,3,0,H,rf,test,0.2590,0.3454,0.3955
+Premier League,2025,2026-03-21,Fulham,Burnley,3,1,H,rf,test,0.4882,0.3070,0.2048
+Premier League,2025,2026-03-21,Leeds,Brentford,0,0,D,rf,test,0.2494,0.2926,0.4580
+Premier League,2025,2026-03-22,Aston Villa,West Ham,2,0,H,rf,test,0.4225,0.3454,0.2322
+Premier League,2025,2026-03-22,Newcastle,Sunderland,1,2,A,rf,test,0.4697,0.3088,0.2215
+Premier League,2025,2026-03-22,Tottenham,Nott'm Forest,0,3,A,rf,test,0.2855,0.3467,0.3678
+Premier League,2025,2026-04-10,West Ham,Wolves,4,0,H,rf,test,0.3753,0.3157,0.3091
+Premier League,2025,2026-04-11,Arsenal,Bournemouth,1,2,A,rf,test,0.4962,0.3196,0.1842
+Premier League,2025,2026-04-11,Brentford,Everton,2,2,D,rf,test,0.3357,0.3314,0.3328
+Premier League,2025,2026-04-11,Burnley,Brighton,0,2,A,rf,test,0.1429,0.3242,0.5329
+Premier League,2025,2026-04-11,Liverpool,Fulham,2,0,H,rf,test,0.4088,0.3405,0.2506
+Premier League,2025,2026-04-12,Chelsea,Man City,0,3,A,rf,test,0.1800,0.3645,0.4554
+Premier League,2025,2026-04-12,Crystal Palace,Newcastle,2,1,H,rf,test,0.3061,0.3726,0.3213
+Premier League,2025,2026-04-12,Nott'm Forest,Aston Villa,1,1,D,rf,test,0.2660,0.3643,0.3697
+Premier League,2025,2026-04-12,Sunderland,Tottenham,1,0,H,rf,test,0.3225,0.4217,0.2557
+Premier League,2025,2026-04-13,Man United,Leeds,1,2,A,rf,test,0.4314,0.3444,0.2242
+Premier League,2025,2026-04-18,Brentford,Fulham,0,0,D,rf,test,0.3176,0.3676,0.3148
+Premier League,2025,2026-04-18,Chelsea,Man United,0,1,A,rf,test,0.2893,0.3240,0.3866
+Premier League,2025,2026-04-18,Leeds,Wolves,3,0,H,rf,test,0.4904,0.2778,0.2319
+Premier League,2025,2026-04-18,Newcastle,Bournemouth,1,2,A,rf,test,0.2770,0.3571,0.3659
+Premier League,2025,2026-04-18,Tottenham,Brighton,2,2,D,rf,test,0.1852,0.2941,0.5207
+Premier League,2025,2026-04-19,Aston Villa,Sunderland,4,3,H,rf,test,0.3528,0.3623,0.2849
+Premier League,2025,2026-04-19,Everton,Liverpool,1,2,A,rf,test,0.3051,0.2812,0.4137
+Premier League,2025,2026-04-19,Man City,Arsenal,2,1,H,rf,test,0.3471,0.3678,0.2851
+Premier League,2025,2026-04-19,Nott'm Forest,Burnley,4,1,H,rf,test,0.4200,0.3773,0.2027
+Premier League,2025,2026-04-20,Crystal Palace,West Ham,0,0,D,rf,test,0.3964,0.3779,0.2258
+Premier League,2025,2026-04-21,Brighton,Chelsea,3,0,H,rf,test,0.3231,0.3585,0.3184
+Premier League,2025,2026-04-22,Bournemouth,Leeds,2,2,D,rf,test,0.3640,0.3729,0.2631
+Premier League,2025,2026-04-22,Burnley,Man City,0,1,A,rf,test,0.0879,0.2416,0.6705
+Premier League,2025,2026-04-24,Sunderland,Nott'm Forest,0,5,A,rf,test,0.3257,0.3508,0.3234
+Premier League,2025,2026-04-25,Arsenal,Newcastle,1,0,H,rf,test,0.5174,0.3093,0.1733
+Premier League,2025,2026-04-25,Fulham,Aston Villa,1,0,H,rf,test,0.2554,0.3050,0.4395
+Premier League,2025,2026-04-25,Liverpool,Crystal Palace,3,1,H,rf,test,0.5190,0.2839,0.1971
+Premier League,2025,2026-04-25,West Ham,Everton,2,1,H,rf,test,0.2645,0.3336,0.4019
+Premier League,2025,2026-04-25,Wolves,Tottenham,0,1,A,rf,test,0.2724,0.4235,0.3041
+Premier League,2025,2026-04-27,Man United,Brentford,2,1,H,rf,test,0.3537,0.3936,0.2527
+Premier League,2025,2026-05-01,Leeds,Burnley,3,1,H,rf,test,0.4587,0.3375,0.2038
+Premier League,2025,2026-05-02,Arsenal,Fulham,3,0,H,rf,test,0.4333,0.3540,0.2127
+Premier League,2025,2026-05-02,Brentford,West Ham,3,0,H,rf,test,0.3919,0.3242,0.2839
+Premier League,2025,2026-05-02,Newcastle,Brighton,3,1,H,rf,test,0.2106,0.3465,0.4429
+Premier League,2025,2026-05-02,Wolves,Sunderland,1,1,D,rf,test,0.2486,0.3306,0.4209
+Premier League,2025,2026-05-03,Aston Villa,Tottenham,1,2,A,rf,test,0.4474,0.3615,0.1911
+Premier League,2025,2026-05-03,Bournemouth,Crystal Palace,3,0,H,rf,test,0.3652,0.3441,0.2907
+Premier League,2025,2026-05-03,Man United,Liverpool,3,2,H,rf,test,0.3260,0.2780,0.3960
+Premier League,2025,2026-05-04,Chelsea,Nott'm Forest,1,3,A,rf,test,0.2352,0.3299,0.4350
+Premier League,2025,2026-05-04,Everton,Man City,3,3,D,rf,test,0.1539,0.3107,0.5354
+Premier League,2025,2026-05-09,Brighton,Wolves,3,0,H,rf,test,0.5263,0.3168,0.1569
+Premier League,2025,2026-05-09,Fulham,Bournemouth,0,1,A,rf,test,0.2142,0.3467,0.4390
+Premier League,2025,2026-05-09,Liverpool,Chelsea,1,1,D,rf,test,0.4711,0.3405,0.1885
+Premier League,2025,2026-05-09,Man City,Brentford,3,0,H,rf,test,0.5587,0.2923,0.1490
+Premier League,2025,2026-05-09,Sunderland,Man United,0,0,D,rf,test,0.2030,0.3647,0.4323
+Premier League,2025,2026-05-10,Burnley,Aston Villa,2,2,D,rf,test,0.1330,0.2491,0.6179
+Premier League,2025,2026-05-10,Crystal Palace,Everton,2,2,D,rf,test,0.2897,0.3305,0.3798
+Premier League,2025,2026-05-10,Nott'm Forest,Newcastle,1,1,D,rf,test,0.4215,0.2880,0.2905
+Premier League,2025,2026-05-10,West Ham,Arsenal,0,1,A,rf,test,0.1647,0.3429,0.4925
+Premier League,2025,2026-05-11,Tottenham,Leeds,1,1,D,rf,test,0.3310,0.3626,0.3064
+Premier League,2025,2026-05-13,Man City,Crystal Palace,3,0,H,rf,test,0.6562,0.2294,0.1144
+Premier League,2025,2026-05-15,Aston Villa,Liverpool,4,2,H,rf,test,0.2525,0.3507,0.3967
+Premier League,2025,2026-05-17,Brentford,Crystal Palace,2,2,D,rf,test,0.3252,0.4265,0.2484
+Premier League,2025,2026-05-17,Everton,Sunderland,1,3,A,rf,test,0.4508,0.3518,0.1974
+Premier League,2025,2026-05-17,Leeds,Brighton,1,0,H,rf,test,0.2846,0.3112,0.4042
+Premier League,2025,2026-05-17,Man United,Nott'm Forest,3,2,H,rf,test,0.3832,0.3304,0.2864
+Premier League,2025,2026-05-17,Newcastle,West Ham,3,1,H,rf,test,0.3491,0.3326,0.3183
+Premier League,2025,2026-05-17,Wolves,Fulham,1,1,D,rf,test,0.1918,0.2725,0.5357
+Premier League,2025,2026-05-18,Arsenal,Burnley,1,0,H,rf,test,0.6090,0.2613,0.1297
+Premier League,2025,2026-05-19,Bournemouth,Man City,1,1,D,rf,test,0.2251,0.3172,0.4577
+Premier League,2025,2026-05-19,Chelsea,Tottenham,2,1,H,rf,test,0.3227,0.3145,0.3628
+Premier League,2025,2026-05-24,Brighton,Man United,0,3,A,rf,test,0.3614,0.3371,0.3015
+Premier League,2025,2026-05-24,Burnley,Wolves,1,1,D,rf,test,0.2833,0.3574,0.3593
+Premier League,2025,2026-05-24,Crystal Palace,Arsenal,1,2,A,rf,test,0.1160,0.2983,0.5857
+Premier League,2025,2026-05-24,Fulham,Newcastle,2,0,H,rf,test,0.2951,0.3084,0.3965
+Premier League,2025,2026-05-24,Liverpool,Brentford,1,1,D,rf,test,0.4313,0.3487,0.2200
+Premier League,2025,2026-05-24,Man City,Aston Villa,1,2,A,rf,test,0.5465,0.2792,0.1743
+Premier League,2025,2026-05-24,Nott'm Forest,Bournemouth,1,1,D,rf,test,0.3010,0.2769,0.4220
+Premier League,2025,2026-05-24,Sunderland,Chelsea,2,1,H,rf,test,0.2598,0.4370,0.3032
+Premier League,2025,2026-05-24,Tottenham,Everton,1,0,H,rf,test,0.3390,0.3274,0.3336
+Premier League,2025,2026-05-24,West Ham,Leeds,3,0,H,rf,test,0.2260,0.3151,0.4589
+Premier League,2026,2026-08-21,Arsenal,Coventry,3,0,H,rf,live,0.6410,0.2120,0.1470
+Premier League,2026,2026-08-22,Brentford,Tottenham,3,0,H,rf,live,0.3240,0.3517,0.3243
+Premier League,2026,2026-08-22,Everton,Crystal Palace,2,0,H,rf,live,0.3374,0.3950,0.2677
+Premier League,2026,2026-08-22,Hull,Man United,2,0,H,rf,live,0.1285,0.3542,0.5172
+Premier League,2026,2026-08-22,Ipswich,Sunderland,2,1,H,rf,live,0.2457,0.3422,0.4120
+Premier League,2026,2026-08-22,Nott'm Forest,Leeds,0,1,A,rf,live,0.4487,0.3032,0.2481
+Premier League,2026,2026-08-23,Brighton,Aston Villa,4,0,H,rf,live,0.3395,0.3336,0.3269
+Premier League,2026,2026-08-23,Man City,Bournemouth,2,1,H,rf,live,0.4787,0.3475,0.1738
+Premier League,2026,2026-08-23,Newcastle,Liverpool,2,2,D,rf,live,0.2682,0.3247,0.4071
+Premier League,2026,2026-08-24,Fulham,Chelsea,2,3,A,rf,live,0.3305,0.3404,0.3291
+Premier League,2026,2026-08-28,Crystal Palace,Man City,1,4,A,rf,live,0.1225,0.3098,0.5677
+Premier League,2026,2026-08-29,Bournemouth,Everton,1,1,D,rf,live,0.4045,0.3658,0.2296
+Premier League,2026,2026-08-29,Coventry,Hull,0,1,A,rf,live,0.2976,0.3194,0.3831
+Premier League,2026,2026-08-29,Liverpool,Nott'm Forest,2,2,D,rf,live,0.4857,0.3010,0.2133
+Premier League,2026,2026-08-29,Tottenham,Newcastle,0,2,A,rf,live,0.2758,0.3135,0.4107
+Premier League,2026,2026-08-30,Chelsea,Brighton,4,3,H,rf,live,0.2838,0.3635,0.3527
+Premier League,2026,2026-08-30,Leeds,Brentford,1,1,D,rf,live,0.3055,0.3108,0.3838
+Premier League,2026,2026-08-30,Man United,Ipswich,5,2,H,rf,live,0.5732,0.2632,0.1636
+Premier League,2026,2026-08-30,Sunderland,Fulham,1,0,H,rf,live,0.2896,0.3544,0.3560
+Premier League,2026,2026-08-31,Aston Villa,Arsenal,0,1,A,rf,live,0.1488,0.3605,0.4907
+Premier League,2026,2026-09-04,Ipswich,Liverpool,0,2,A,rf,live,0.1989,0.3071,0.4940
+Premier League,2026,2026-09-05,Brentford,Sunderland,1,1,D,rf,live,0.3399,0.3591,0.3010
+Premier League,2026,2026-09-05,Brighton,Leeds,1,1,D,rf,live,0.4778,0.3101,0.2121
+Premier League,2026,2026-09-05,Fulham,Crystal Palace,2,3,A,rf,live,0.3234,0.4194,0.2572
+Premier League,2026,2026-09-05,Hull,Aston Villa,0,0,D,rf,live,0.2448,0.3222,0.4329
+Premier League,2026,2026-09-05,Man City,Coventry,1,0,H,rf,live,0.6056,0.2533,0.1411
+Premier League,2026,2026-09-05,Newcastle,Bournemouth,2,2,D,rf,live,0.2747,0.3771,0.3482
+Premier League,2026,2026-09-05,Nott'm Forest,Tottenham,0,0,D,rf,live,0.4329,0.3633,0.2039
+Premier League,2026,2026-09-06,Arsenal,Chelsea,2,1,H,rf,live,0.5380,0.2788,0.1833
+Premier League,2026,2026-09-06,Everton,Man United,2,2,D,rf,live,0.2281,0.3471,0.4248
+Premier League,2026,2026-09-12,Aston Villa,Nott'm Forest,1,2,A,rf,live,0.3579,0.3879,0.2542
+Premier League,2026,2026-09-12,Bournemouth,Brentford,2,2,D,rf,live,0.3298,0.3393,0.3309
+Premier League,2026,2026-09-12,Chelsea,Hull,2,2,D,rf,live,0.4320,0.3670,0.2010
+Premier League,2026,2026-09-12,Crystal Palace,Ipswich,2,3,A,rf,live,0.4767,0.3461,0.1773
+Premier League,2026,2026-09-12,Liverpool,Fulham,0,0,D,rf,live,0.4665,0.3298,0.2037
+Premier League,2026,2026-09-12,Sunderland,Arsenal,0,2,A,rf,live,0.1750,0.3289,0.4961
+Premier League,2026,2026-09-12,Tottenham,Everton,0,0,D,rf,live,0.2912,0.3337,0.3752
+Premier League,2026,2026-09-13,Coventry,Brighton,0,5,A,rf,live,0.1884,0.2718,0.5398
+Premier League,2026,2026-09-13,Man United,Man City,0,1,A,rf,live,0.2549,0.3550,0.3902
+Premier League,2026,2026-09-14,Leeds,Newcastle,4,1,H,rf,live,0.2909,0.3382,0.3709
+Premier League,2026,2026-09-18,Brentford,Chelsea,3,0,H,rf,live,0.3444,0.3517,0.3038
+Premier League,2026,2026-09-19,Brighton,Arsenal,3,0,H,rf,live,0.1792,0.3369,0.4839
+Premier League,2026,2026-09-19,Everton,Ipswich,1,0,H,rf,live,0.5051,0.2939,0.2010
+Premier League,2026,2026-09-19,Newcastle,Hull,2,1,H,rf,live,0.3776,0.3483,0.2741
+Premier League,2026,2026-09-19,Nott'm Forest,Coventry,0,1,A,rf,live,0.4303,0.3534,0.2163
+Premier League,2026,2026-09-19,Tottenham,Aston Villa,2,3,A,rf,live,0.2596,0.3779,0.3625
+Premier League,2026,2026-09-20,Bournemouth,Liverpool,0,1,A,rf,live,0.2650,0.3498,0.3851
+Premier League,2026,2026-09-20,Fulham,Man United,1,1,D,rf,live,0.2180,0.3557,0.4264
+Premier League,2026,2026-09-20,Leeds,Crystal Palace,0,0,D,rf,live,0.3800,0.3978,0.2223
+Premier League,2026,2026-09-20,Man City,Sunderland,5,3,H,rf,live,0.4715,0.3136,0.2149
+Premier League,2025,2025-08-15,Liverpool,Bournemouth,4,2,H,xgb,test,0.5481,0.2527,0.1992
+Premier League,2025,2025-08-16,Aston Villa,Newcastle,0,0,D,xgb,test,0.2786,0.4010,0.3204
+Premier League,2025,2025-08-16,Brighton,Fulham,1,1,D,xgb,test,0.3976,0.2274,0.3750
+Premier League,2025,2025-08-16,Sunderland,West Ham,3,0,H,xgb,test,0.2133,0.3111,0.4756
+Premier League,2025,2025-08-16,Tottenham,Burnley,3,0,H,xgb,test,0.3257,0.3586,0.3158
+Premier League,2025,2025-08-16,Wolves,Man City,0,4,A,xgb,test,0.0552,0.3508,0.5941
+Premier League,2025,2025-08-17,Chelsea,Crystal Palace,0,0,D,xgb,test,0.2374,0.5248,0.2378
+Premier League,2025,2025-08-17,Man United,Arsenal,0,1,A,xgb,test,0.1374,0.3576,0.5050
+Premier League,2025,2025-08-17,Nott'm Forest,Brentford,3,1,H,xgb,test,0.3789,0.3472,0.2739
+Premier League,2025,2025-08-18,Leeds,Everton,1,0,H,xgb,test,0.1925,0.3329,0.4746
+Premier League,2025,2025-08-22,West Ham,Chelsea,1,5,A,xgb,test,0.1585,0.4584,0.3831
+Premier League,2025,2025-08-23,Arsenal,Leeds,5,0,H,xgb,test,0.6801,0.2232,0.0968
+Premier League,2025,2025-08-23,Bournemouth,Wolves,1,0,H,xgb,test,0.3467,0.4244,0.2289
+Premier League,2025,2025-08-23,Brentford,Aston Villa,1,0,H,xgb,test,0.2871,0.3574,0.3555
+Premier League,2025,2025-08-23,Burnley,Sunderland,2,0,H,xgb,test,0.3231,0.2876,0.3893
+Premier League,2025,2025-08-23,Man City,Tottenham,0,2,A,xgb,test,0.5547,0.2752,0.1700
+Premier League,2025,2025-08-24,Crystal Palace,Nott'm Forest,1,1,D,xgb,test,0.3732,0.3601,0.2667
+Premier League,2025,2025-08-24,Everton,Brighton,2,0,H,xgb,test,0.2221,0.3572,0.4207
+Premier League,2025,2025-08-24,Fulham,Man United,1,1,D,xgb,test,0.2136,0.5016,0.2848
+Premier League,2025,2025-08-25,Newcastle,Liverpool,2,3,A,xgb,test,0.2173,0.2677,0.5149
+Premier League,2025,2025-08-30,Chelsea,Fulham,2,0,H,xgb,test,0.4155,0.3464,0.2381
+Premier League,2025,2025-08-30,Leeds,Newcastle,0,0,D,xgb,test,0.1100,0.2876,0.6024
+Premier League,2025,2025-08-30,Man United,Burnley,3,2,H,xgb,test,0.5386,0.2916,0.1698
+Premier League,2025,2025-08-30,Sunderland,Brentford,2,1,H,xgb,test,0.1854,0.2924,0.5222
+Premier League,2025,2025-08-30,Tottenham,Bournemouth,0,1,A,xgb,test,0.3044,0.3348,0.3607
+Premier League,2025,2025-08-30,Wolves,Everton,2,3,A,xgb,test,0.2525,0.4394,0.3081
+Premier League,2025,2025-08-31,Aston Villa,Crystal Palace,0,3,A,xgb,test,0.2400,0.3258,0.4342
+Premier League,2025,2025-08-31,Brighton,Man City,2,1,H,xgb,test,0.1832,0.3252,0.4917
+Premier League,2025,2025-08-31,Liverpool,Arsenal,1,0,H,xgb,test,0.3622,0.3527,0.2851
+Premier League,2025,2025-08-31,Nott'm Forest,West Ham,0,3,A,xgb,test,0.4303,0.3711,0.1986
+Premier League,2025,2025-09-13,Arsenal,Nott'm Forest,3,0,H,xgb,test,0.4684,0.3259,0.2057
+Premier League,2025,2025-09-13,Bournemouth,Brighton,2,1,H,xgb,test,0.2619,0.3831,0.3551
+Premier League,2025,2025-09-13,Brentford,Chelsea,2,2,D,xgb,test,0.1371,0.4529,0.4100
+Premier League,2025,2025-09-13,Crystal Palace,Sunderland,0,0,D,xgb,test,0.7055,0.1848,0.1098
+Premier League,2025,2025-09-13,Everton,Aston Villa,0,0,D,xgb,test,0.2383,0.2566,0.5050
+Premier League,2025,2025-09-13,Fulham,Leeds,1,0,H,xgb,test,0.4347,0.3853,0.1799
+Premier League,2025,2025-09-13,Newcastle,Wolves,1,0,H,xgb,test,0.4517,0.3816,0.1667
+Premier League,2025,2025-09-13,West Ham,Tottenham,0,3,A,xgb,test,0.3649,0.3293,0.3058
+Premier League,2025,2025-09-14,Burnley,Liverpool,0,1,A,xgb,test,0.1565,0.2340,0.6095
+Premier League,2025,2025-09-14,Man City,Man United,3,0,H,xgb,test,0.4419,0.3461,0.2120
+Premier League,2025,2025-09-20,Brighton,Tottenham,2,2,D,xgb,test,0.4975,0.2996,0.2028
+Premier League,2025,2025-09-20,Burnley,Nott'm Forest,1,1,D,xgb,test,0.1515,0.3853,0.4632
+Premier League,2025,2025-09-20,Fulham,Brentford,3,1,H,xgb,test,0.3818,0.2578,0.3604
+Premier League,2025,2025-09-20,Liverpool,Everton,2,1,H,xgb,test,0.5868,0.2930,0.1202
+Premier League,2025,2025-09-20,Man United,Chelsea,2,1,H,xgb,test,0.1801,0.4191,0.4008
+Premier League,2025,2025-09-20,West Ham,Crystal Palace,1,2,A,xgb,test,0.1091,0.4411,0.4499
+Premier League,2025,2025-09-20,Wolves,Leeds,1,3,A,xgb,test,0.3302,0.2391,0.4306
+Premier League,2025,2025-09-21,Arsenal,Man City,1,1,D,xgb,test,0.3269,0.3835,0.2897
+Premier League,2025,2025-09-21,Bournemouth,Newcastle,0,0,D,xgb,test,0.2390,0.2483,0.5127
+Premier League,2025,2025-09-21,Sunderland,Aston Villa,1,1,D,xgb,test,0.1748,0.2198,0.6054
+Premier League,2025,2025-09-27,Brentford,Man United,3,1,H,xgb,test,0.2868,0.3428,0.3704
+Premier League,2025,2025-09-27,Chelsea,Brighton,1,3,A,xgb,test,0.2626,0.4021,0.3353
+Premier League,2025,2025-09-27,Crystal Palace,Liverpool,2,1,H,xgb,test,0.1752,0.2857,0.5391
+Premier League,2025,2025-09-27,Leeds,Bournemouth,2,2,D,xgb,test,0.1652,0.3285,0.5064
+Premier League,2025,2025-09-27,Man City,Burnley,5,1,H,xgb,test,0.6165,0.2806,0.1029
+Premier League,2025,2025-09-27,Nott'm Forest,Sunderland,0,1,A,xgb,test,0.4589,0.3161,0.2250
+Premier League,2025,2025-09-27,Tottenham,Wolves,1,1,D,xgb,test,0.2834,0.4897,0.2269
+Premier League,2025,2025-09-28,Aston Villa,Fulham,3,1,H,xgb,test,0.4264,0.2807,0.2929
+Premier League,2025,2025-09-28,Newcastle,Arsenal,1,2,A,xgb,test,0.1964,0.3520,0.4516
+Premier League,2025,2025-09-29,Everton,West Ham,1,1,D,xgb,test,0.2600,0.6086,0.1314
+Premier League,2025,2025-10-03,Bournemouth,Fulham,3,1,H,xgb,test,0.3766,0.3636,0.2598
+Premier League,2025,2025-10-04,Arsenal,West Ham,2,0,H,xgb,test,0.6126,0.1733,0.2141
+Premier League,2025,2025-10-04,Chelsea,Liverpool,2,1,H,xgb,test,0.2090,0.3162,0.4748
+Premier League,2025,2025-10-04,Leeds,Tottenham,1,2,A,xgb,test,0.2572,0.3161,0.4266
+Premier League,2025,2025-10-04,Man United,Sunderland,2,0,H,xgb,test,0.3596,0.3961,0.2443
+Premier League,2025,2025-10-05,Aston Villa,Burnley,2,1,H,xgb,test,0.5485,0.2969,0.1546
+Premier League,2025,2025-10-05,Brentford,Man City,0,1,A,xgb,test,0.1746,0.3350,0.4904
+Premier League,2025,2025-10-05,Everton,Crystal Palace,2,1,H,xgb,test,0.2881,0.3343,0.3777
+Premier League,2025,2025-10-05,Newcastle,Nott'm Forest,2,0,H,xgb,test,0.3649,0.3885,0.2465
+Premier League,2025,2025-10-05,Wolves,Brighton,1,1,D,xgb,test,0.1816,0.2411,0.5774
+Premier League,2025,2025-10-18,Brighton,Newcastle,2,1,H,xgb,test,0.2326,0.4234,0.3440
+Premier League,2025,2025-10-18,Burnley,Leeds,2,0,H,xgb,test,0.1711,0.3150,0.5139
+Premier League,2025,2025-10-18,Crystal Palace,Bournemouth,3,3,D,xgb,test,0.3521,0.3829,0.2650
+Premier League,2025,2025-10-18,Fulham,Arsenal,0,1,A,xgb,test,0.0918,0.3616,0.5466
+Premier League,2025,2025-10-18,Man City,Everton,2,0,H,xgb,test,0.5206,0.3289,0.1505
+Premier League,2025,2025-10-18,Nott'm Forest,Chelsea,0,3,A,xgb,test,0.1449,0.2215,0.6337
+Premier League,2025,2025-10-18,Sunderland,Wolves,2,0,H,xgb,test,0.1984,0.3837,0.4180
+Premier League,2025,2025-10-19,Liverpool,Man United,1,2,A,xgb,test,0.6582,0.2014,0.1404
+Premier League,2025,2025-10-19,Tottenham,Aston Villa,1,2,A,xgb,test,0.3006,0.3270,0.3725
+Premier League,2025,2025-10-20,West Ham,Brentford,0,2,A,xgb,test,0.2768,0.3402,0.3830
+Premier League,2025,2025-10-24,Leeds,West Ham,2,1,H,xgb,test,0.2775,0.3316,0.3909
+Premier League,2025,2025-10-25,Brentford,Liverpool,3,2,H,xgb,test,0.1597,0.3347,0.5056
+Premier League,2025,2025-10-25,Chelsea,Sunderland,1,2,A,xgb,test,0.5221,0.3578,0.1202
+Premier League,2025,2025-10-25,Man United,Brighton,4,2,H,xgb,test,0.2549,0.3918,0.3532
+Premier League,2025,2025-10-25,Newcastle,Fulham,2,1,H,xgb,test,0.5026,0.3171,0.1804
+Premier League,2025,2025-10-26,Arsenal,Crystal Palace,1,0,H,xgb,test,0.4500,0.3239,0.2261
+Premier League,2025,2025-10-26,Aston Villa,Man City,1,0,H,xgb,test,0.1061,0.3855,0.5084
+Premier League,2025,2025-10-26,Bournemouth,Nott'm Forest,2,0,H,xgb,test,0.4084,0.2986,0.2930
+Premier League,2025,2025-10-26,Everton,Tottenham,0,3,A,xgb,test,0.3292,0.2876,0.3833
+Premier League,2025,2025-10-26,Wolves,Burnley,2,3,A,xgb,test,0.4076,0.3414,0.2510
+Premier League,2025,2025-11-01,Brighton,Leeds,3,0,H,xgb,test,0.4647,0.3139,0.2214
+Premier League,2025,2025-11-01,Burnley,Arsenal,0,2,A,xgb,test,0.0398,0.1926,0.7676
+Premier League,2025,2025-11-01,Crystal Palace,Brentford,2,0,H,xgb,test,0.5393,0.2162,0.2445
+Premier League,2025,2025-11-01,Fulham,Wolves,3,0,H,xgb,test,0.3797,0.4470,0.1733
+Premier League,2025,2025-11-01,Liverpool,Aston Villa,2,0,H,xgb,test,0.3800,0.4031,0.2170
+Premier League,2025,2025-11-01,Nott'm Forest,Man United,2,2,D,xgb,test,0.2541,0.3012,0.4446
+Premier League,2025,2025-11-01,Tottenham,Chelsea,0,1,A,xgb,test,0.3352,0.2896,0.3752
+Premier League,2025,2025-11-02,Man City,Bournemouth,3,1,H,xgb,test,0.6031,0.2652,0.1317
+Premier League,2025,2025-11-02,West Ham,Newcastle,3,1,H,xgb,test,0.1913,0.2772,0.5315
+Premier League,2025,2025-11-03,Sunderland,Everton,1,1,D,xgb,test,0.2288,0.3757,0.3955
+Premier League,2025,2025-11-08,Chelsea,Wolves,3,0,H,xgb,test,0.5506,0.3029,0.1465
+Premier League,2025,2025-11-08,Everton,Fulham,2,0,H,xgb,test,0.3349,0.3628,0.3023
+Premier League,2025,2025-11-08,Sunderland,Arsenal,2,2,D,xgb,test,0.0578,0.2420,0.7002
+Premier League,2025,2025-11-08,Tottenham,Man United,2,2,D,xgb,test,0.4325,0.3590,0.2085
+Premier League,2025,2025-11-08,West Ham,Burnley,3,2,H,xgb,test,0.5234,0.2892,0.1873
+Premier League,2025,2025-11-09,Aston Villa,Bournemouth,4,0,H,xgb,test,0.3638,0.4349,0.2013
+Premier League,2025,2025-11-09,Brentford,Newcastle,3,1,H,xgb,test,0.3232,0.3204,0.3564
+Premier League,2025,2025-11-09,Crystal Palace,Brighton,0,0,D,xgb,test,0.4196,0.3091,0.2713
+Premier League,2025,2025-11-09,Man City,Liverpool,3,0,H,xgb,test,0.4033,0.2674,0.3294
+Premier League,2025,2025-11-09,Nott'm Forest,Leeds,3,1,H,xgb,test,0.4265,0.2386,0.3350
+Premier League,2025,2025-11-22,Bournemouth,West Ham,2,2,D,xgb,test,0.4898,0.3386,0.1716
+Premier League,2025,2025-11-22,Brighton,Brentford,2,1,H,xgb,test,0.3402,0.3715,0.2884
+Premier League,2025,2025-11-22,Burnley,Chelsea,0,2,A,xgb,test,0.0488,0.2465,0.7047
+Premier League,2025,2025-11-22,Fulham,Sunderland,1,0,H,xgb,test,0.4240,0.3230,0.2530
+Premier League,2025,2025-11-22,Liverpool,Nott'm Forest,0,3,A,xgb,test,0.4773,0.4058,0.1170
+Premier League,2025,2025-11-22,Newcastle,Man City,2,1,H,xgb,test,0.1397,0.3169,0.5435
+Premier League,2025,2025-11-22,Wolves,Crystal Palace,0,2,A,xgb,test,0.0965,0.1838,0.7197
+Premier League,2025,2025-11-23,Arsenal,Tottenham,4,1,H,xgb,test,0.6594,0.1882,0.1523
+Premier League,2025,2025-11-23,Leeds,Aston Villa,1,2,A,xgb,test,0.1070,0.3231,0.5699
+Premier League,2025,2025-11-24,Man United,Everton,0,1,A,xgb,test,0.3581,0.4450,0.1970
+Premier League,2025,2025-11-29,Brentford,Burnley,3,1,H,xgb,test,0.5223,0.3273,0.1504
+Premier League,2025,2025-11-29,Everton,Newcastle,1,4,A,xgb,test,0.2321,0.4169,0.3510
+Premier League,2025,2025-11-29,Man City,Leeds,3,2,H,xgb,test,0.5820,0.3350,0.0830
+Premier League,2025,2025-11-29,Sunderland,Bournemouth,3,2,H,xgb,test,0.1355,0.4048,0.4597
+Premier League,2025,2025-11-29,Tottenham,Fulham,1,2,A,xgb,test,0.3935,0.3662,0.2403
+Premier League,2025,2025-11-30,Aston Villa,Wolves,1,0,H,xgb,test,0.6322,0.2893,0.0785
+Premier League,2025,2025-11-30,Chelsea,Arsenal,1,1,D,xgb,test,0.1774,0.3775,0.4451
+Premier League,2025,2025-11-30,Crystal Palace,Man United,1,2,A,xgb,test,0.5926,0.2443,0.1631
+Premier League,2025,2025-11-30,Nott'm Forest,Brighton,0,2,A,xgb,test,0.3068,0.3067,0.3865
+Premier League,2025,2025-11-30,West Ham,Liverpool,0,2,A,xgb,test,0.1604,0.4108,0.4287
+Premier League,2025,2025-12-02,Bournemouth,Everton,0,1,A,xgb,test,0.4045,0.3883,0.2072
+Premier League,2025,2025-12-02,Fulham,Man City,4,5,A,xgb,test,0.1379,0.3787,0.4834
+Premier League,2025,2025-12-02,Newcastle,Tottenham,2,2,D,xgb,test,0.5013,0.3136,0.1851
+Premier League,2025,2025-12-03,Arsenal,Brentford,2,0,H,xgb,test,0.5185,0.3083,0.1732
+Premier League,2025,2025-12-03,Brighton,Aston Villa,3,4,A,xgb,test,0.3564,0.3152,0.3284
+Premier League,2025,2025-12-03,Burnley,Crystal Palace,0,1,A,xgb,test,0.0611,0.3660,0.5729
+Premier League,2025,2025-12-03,Leeds,Chelsea,3,1,H,xgb,test,0.0680,0.2818,0.6502
+Premier League,2025,2025-12-03,Liverpool,Sunderland,1,1,D,xgb,test,0.5789,0.2781,0.1430
+Premier League,2025,2025-12-03,Wolves,Nott'm Forest,0,1,A,xgb,test,0.2159,0.2366,0.5475
+Premier League,2025,2025-12-04,Man United,West Ham,1,1,D,xgb,test,0.4740,0.3156,0.2105
+Premier League,2025,2025-12-06,Aston Villa,Arsenal,2,1,H,xgb,test,0.1068,0.4500,0.4432
+Premier League,2025,2025-12-06,Bournemouth,Chelsea,0,0,D,xgb,test,0.1846,0.3366,0.4788
+Premier League,2025,2025-12-06,Everton,Nott'm Forest,3,0,H,xgb,test,0.3575,0.3882,0.2543
+Premier League,2025,2025-12-06,Leeds,Liverpool,3,3,D,xgb,test,0.1257,0.4364,0.4379
+Premier League,2025,2025-12-06,Man City,Sunderland,3,0,H,xgb,test,0.6367,0.2163,0.1469
+Premier League,2025,2025-12-06,Newcastle,Burnley,2,1,H,xgb,test,0.4220,0.4386,0.1394
+Premier League,2025,2025-12-06,Tottenham,Brentford,2,0,H,xgb,test,0.2173,0.4169,0.3658
+Premier League,2025,2025-12-07,Brighton,West Ham,1,1,D,xgb,test,0.5014,0.3346,0.1640
+Premier League,2025,2025-12-07,Fulham,Crystal Palace,1,2,A,xgb,test,0.2197,0.3499,0.4304
+Premier League,2025,2025-12-08,Wolves,Man United,1,4,A,xgb,test,0.1199,0.3311,0.5490
+Premier League,2025,2025-12-13,Arsenal,Wolves,2,1,H,xgb,test,0.8460,0.0903,0.0637
+Premier League,2025,2025-12-13,Burnley,Fulham,2,3,A,xgb,test,0.1671,0.2283,0.6046
+Premier League,2025,2025-12-13,Chelsea,Everton,2,0,H,xgb,test,0.4688,0.3306,0.2006
+Premier League,2025,2025-12-13,Liverpool,Brighton,2,0,H,xgb,test,0.4739,0.2868,0.2393
+Premier League,2025,2025-12-14,Brentford,Leeds,1,1,D,xgb,test,0.4265,0.3931,0.1804
+Premier League,2025,2025-12-14,Crystal Palace,Man City,0,3,A,xgb,test,0.3019,0.3761,0.3220
+Premier League,2025,2025-12-14,Nott'm Forest,Tottenham,3,0,H,xgb,test,0.3393,0.3292,0.3315
+Premier League,2025,2025-12-14,Sunderland,Newcastle,1,0,H,xgb,test,0.1549,0.3815,0.4636
+Premier League,2025,2025-12-14,West Ham,Aston Villa,2,3,A,xgb,test,0.1682,0.4576,0.3742
+Premier League,2025,2025-12-15,Man United,Bournemouth,4,4,D,xgb,test,0.3281,0.3456,0.3262
+Premier League,2025,2025-12-20,Bournemouth,Burnley,1,1,D,xgb,test,0.3200,0.5604,0.1196
+Premier League,2025,2025-12-20,Brighton,Sunderland,0,0,D,xgb,test,0.4563,0.3473,0.1964
+Premier League,2025,2025-12-20,Everton,Arsenal,0,1,A,xgb,test,0.1197,0.4402,0.4401
+Premier League,2025,2025-12-20,Leeds,Crystal Palace,4,1,H,xgb,test,0.2354,0.3196,0.4450
+Premier League,2025,2025-12-20,Man City,West Ham,3,0,H,xgb,test,0.7581,0.1357,0.1062
+Premier League,2025,2025-12-20,Newcastle,Chelsea,2,2,D,xgb,test,0.3710,0.3264,0.3026
+Premier League,2025,2025-12-20,Tottenham,Liverpool,1,2,A,xgb,test,0.2679,0.2698,0.4623
+Premier League,2025,2025-12-20,Wolves,Brentford,0,2,A,xgb,test,0.1386,0.3242,0.5372
+Premier League,2025,2025-12-21,Aston Villa,Man United,2,1,H,xgb,test,0.3845,0.2718,0.3437
+Premier League,2025,2025-12-22,Fulham,Nott'm Forest,1,0,H,xgb,test,0.3397,0.3841,0.2762
+Premier League,2025,2025-12-26,Man United,Newcastle,1,0,H,xgb,test,0.2613,0.2916,0.4471
+Premier League,2025,2025-12-27,Arsenal,Brighton,2,1,H,xgb,test,0.4913,0.3129,0.1958
+Premier League,2025,2025-12-27,Brentford,Bournemouth,4,1,H,xgb,test,0.3927,0.4014,0.2059
+Premier League,2025,2025-12-27,Burnley,Everton,0,0,D,xgb,test,0.1285,0.2621,0.6093
+Premier League,2025,2025-12-27,Chelsea,Aston Villa,1,2,A,xgb,test,0.2665,0.4618,0.2717
+Premier League,2025,2025-12-27,Liverpool,Wolves,2,1,H,xgb,test,0.8202,0.1422,0.0377
+Premier League,2025,2025-12-27,Nott'm Forest,Man City,1,2,A,xgb,test,0.0939,0.3987,0.5074
+Premier League,2025,2025-12-27,West Ham,Fulham,0,1,A,xgb,test,0.3296,0.3035,0.3669
+Premier League,2025,2025-12-28,Crystal Palace,Tottenham,0,1,A,xgb,test,0.3953,0.3477,0.2570
+Premier League,2025,2025-12-28,Sunderland,Leeds,1,1,D,xgb,test,0.4548,0.3236,0.2216
+Premier League,2025,2025-12-30,Arsenal,Aston Villa,4,1,H,xgb,test,0.4374,0.4311,0.1315
+Premier League,2025,2025-12-30,Burnley,Newcastle,1,3,A,xgb,test,0.1046,0.2053,0.6901
+Premier League,2025,2025-12-30,Chelsea,Bournemouth,2,2,D,xgb,test,0.4473,0.3542,0.1985
+Premier League,2025,2025-12-30,Man United,Wolves,1,1,D,xgb,test,0.5584,0.3023,0.1393
+Premier League,2025,2025-12-30,Nott'm Forest,Everton,0,2,A,xgb,test,0.2609,0.3871,0.3520
+Premier League,2025,2025-12-30,West Ham,Brighton,2,2,D,xgb,test,0.1891,0.4188,0.3921
+Premier League,2025,2026-01-01,Brentford,Tottenham,0,0,D,xgb,test,0.4119,0.2970,0.2911
+Premier League,2025,2026-01-01,Crystal Palace,Fulham,1,1,D,xgb,test,0.5262,0.2445,0.2293
+Premier League,2025,2026-01-01,Liverpool,Leeds,0,0,D,xgb,test,0.4206,0.3821,0.1973
+Premier League,2025,2026-01-01,Sunderland,Man City,0,0,D,xgb,test,0.0766,0.3829,0.5405
+Premier League,2025,2026-01-03,Aston Villa,Nott'm Forest,3,1,H,xgb,test,0.3433,0.4360,0.2207
+Premier League,2025,2026-01-03,Bournemouth,Arsenal,2,3,A,xgb,test,0.0951,0.4633,0.4417
+Premier League,2025,2026-01-03,Brighton,Burnley,2,0,H,xgb,test,0.4429,0.4037,0.1533
+Premier League,2025,2026-01-03,Wolves,West Ham,3,0,H,xgb,test,0.3426,0.2793,0.3781
+Premier League,2025,2026-01-04,Everton,Brentford,2,4,A,xgb,test,0.4064,0.3670,0.2266
+Premier League,2025,2026-01-04,Fulham,Liverpool,2,2,D,xgb,test,0.1679,0.3511,0.4811
+Premier League,2025,2026-01-04,Leeds,Man United,1,1,D,xgb,test,0.2899,0.3245,0.3856
+Premier League,2025,2026-01-04,Man City,Chelsea,1,1,D,xgb,test,0.5292,0.2877,0.1831
+Premier League,2025,2026-01-04,Newcastle,Crystal Palace,2,0,H,xgb,test,0.3681,0.4422,0.1897
+Premier League,2025,2026-01-04,Tottenham,Sunderland,1,1,D,xgb,test,0.4103,0.3307,0.2590
+Premier League,2025,2026-01-06,West Ham,Nott'm Forest,1,2,A,xgb,test,0.1275,0.4738,0.3987
+Premier League,2025,2026-01-07,Bournemouth,Tottenham,3,2,H,xgb,test,0.1996,0.5229,0.2775
+Premier League,2025,2026-01-07,Brentford,Sunderland,3,0,H,xgb,test,0.4136,0.4016,0.1848
+Premier League,2025,2026-01-07,Burnley,Man United,2,2,D,xgb,test,0.1518,0.1888,0.6594
+Premier League,2025,2026-01-07,Crystal Palace,Aston Villa,0,0,D,xgb,test,0.2588,0.3882,0.3530
+Premier League,2025,2026-01-07,Everton,Wolves,1,1,D,xgb,test,0.5197,0.2765,0.2038
+Premier League,2025,2026-01-07,Fulham,Chelsea,2,1,H,xgb,test,0.2483,0.3171,0.4346
+Premier League,2025,2026-01-07,Man City,Brighton,1,1,D,xgb,test,0.4788,0.3349,0.1863
+Premier League,2025,2026-01-07,Newcastle,Leeds,4,3,H,xgb,test,0.4999,0.3295,0.1707
+Premier League,2025,2026-01-08,Arsenal,Liverpool,0,0,D,xgb,test,0.4156,0.3977,0.1867
+Premier League,2025,2026-01-17,Chelsea,Brentford,2,0,H,xgb,test,0.2777,0.4488,0.2735
+Premier League,2025,2026-01-17,Leeds,Fulham,1,0,H,xgb,test,0.2309,0.3988,0.3703
+Premier League,2025,2026-01-17,Liverpool,Burnley,1,1,D,xgb,test,0.5270,0.3520,0.1210
+Premier League,2025,2026-01-17,Man United,Man City,2,0,H,xgb,test,0.1339,0.4113,0.4548
+Premier League,2025,2026-01-17,Nott'm Forest,Arsenal,0,0,D,xgb,test,0.0682,0.2390,0.6927
+Premier League,2025,2026-01-17,Sunderland,Crystal Palace,2,1,H,xgb,test,0.2872,0.3526,0.3603
+Premier League,2025,2026-01-17,Tottenham,West Ham,1,2,A,xgb,test,0.5132,0.3249,0.1620
+Premier League,2025,2026-01-18,Aston Villa,Everton,0,1,A,xgb,test,0.3626,0.4548,0.1826
+Premier League,2025,2026-01-18,Wolves,Newcastle,0,0,D,xgb,test,0.1259,0.3534,0.5207
+Premier League,2025,2026-01-19,Brighton,Bournemouth,1,1,D,xgb,test,0.3807,0.3913,0.2280
+Premier League,2025,2026-01-24,Bournemouth,Liverpool,3,2,H,xgb,test,0.1141,0.3857,0.5002
+Premier League,2025,2026-01-24,Burnley,Tottenham,2,2,D,xgb,test,0.1235,0.3417,0.5348
+Premier League,2025,2026-01-24,Fulham,Brighton,2,1,H,xgb,test,0.2862,0.3472,0.3666
+Premier League,2025,2026-01-24,Man City,Wolves,2,0,H,xgb,test,0.6852,0.1806,0.1342
+Premier League,2025,2026-01-24,West Ham,Sunderland,3,1,H,xgb,test,0.2487,0.4105,0.3408
+Premier League,2025,2026-01-25,Arsenal,Man United,2,3,A,xgb,test,0.4710,0.3568,0.1722
+Premier League,2025,2026-01-25,Brentford,Nott'm Forest,0,2,A,xgb,test,0.2881,0.3522,0.3596
+Premier League,2025,2026-01-25,Crystal Palace,Chelsea,1,3,A,xgb,test,0.2437,0.3723,0.3840
+Premier League,2025,2026-01-25,Newcastle,Aston Villa,0,2,A,xgb,test,0.3454,0.2995,0.3551
+Premier League,2025,2026-01-26,Everton,Leeds,1,1,D,xgb,test,0.4940,0.2711,0.2349
+Premier League,2025,2026-01-31,Brighton,Everton,1,1,D,xgb,test,0.4738,0.2988,0.2273
+Premier League,2025,2026-01-31,Chelsea,West Ham,3,2,H,xgb,test,0.5555,0.3078,0.1367
+Premier League,2025,2026-01-31,Leeds,Arsenal,0,4,A,xgb,test,0.0723,0.2230,0.7047
+Premier League,2025,2026-01-31,Liverpool,Newcastle,4,1,H,xgb,test,0.5139,0.2871,0.1990
+Premier League,2025,2026-01-31,Wolves,Bournemouth,0,2,A,xgb,test,0.2087,0.3244,0.4668
+Premier League,2025,2026-02-01,Aston Villa,Brentford,0,1,A,xgb,test,0.4789,0.3089,0.2122
+Premier League,2025,2026-02-01,Man United,Fulham,3,2,H,xgb,test,0.4775,0.3315,0.1910
+Premier League,2025,2026-02-01,Nott'm Forest,Crystal Palace,1,1,D,xgb,test,0.3155,0.3757,0.3089
+Premier League,2025,2026-02-01,Tottenham,Man City,2,2,D,xgb,test,0.1752,0.3607,0.4641
+Premier League,2025,2026-02-02,Sunderland,Burnley,3,0,H,xgb,test,0.5046,0.2868,0.2086
+Premier League,2025,2026-02-06,Leeds,Nott'm Forest,3,1,H,xgb,test,0.2621,0.3628,0.3751
+Premier League,2025,2026-02-07,Arsenal,Sunderland,3,0,H,xgb,test,0.6592,0.1849,0.1559
+Premier League,2025,2026-02-07,Bournemouth,Aston Villa,1,1,D,xgb,test,0.1722,0.4109,0.4169
+Premier League,2025,2026-02-07,Burnley,West Ham,0,2,A,xgb,test,0.2344,0.3351,0.4305
+Premier League,2025,2026-02-07,Fulham,Everton,1,2,A,xgb,test,0.3663,0.3661,0.2676
+Premier League,2025,2026-02-07,Man United,Tottenham,2,0,H,xgb,test,0.3993,0.3202,0.2805
+Premier League,2025,2026-02-07,Newcastle,Brentford,2,3,A,xgb,test,0.3339,0.3647,0.3013
+Premier League,2025,2026-02-07,Wolves,Chelsea,1,3,A,xgb,test,0.1517,0.2574,0.5910
+Premier League,2025,2026-02-08,Brighton,Crystal Palace,0,1,A,xgb,test,0.3642,0.4139,0.2218
+Premier League,2025,2026-02-08,Liverpool,Man City,1,2,A,xgb,test,0.3889,0.2605,0.3506
+Premier League,2025,2026-02-10,Chelsea,Leeds,2,2,D,xgb,test,0.4649,0.3691,0.1659
+Premier League,2025,2026-02-10,Everton,Bournemouth,1,2,A,xgb,test,0.4834,0.2922,0.2244
+Premier League,2025,2026-02-10,Tottenham,Newcastle,1,2,A,xgb,test,0.4369,0.2496,0.3135
+Premier League,2025,2026-02-10,West Ham,Man United,1,1,D,xgb,test,0.2753,0.2887,0.4360
+Premier League,2025,2026-02-11,Aston Villa,Brighton,1,0,H,xgb,test,0.4229,0.3878,0.1893
+Premier League,2025,2026-02-11,Crystal Palace,Burnley,2,3,A,xgb,test,0.5760,0.3091,0.1149
+Premier League,2025,2026-02-11,Man City,Fulham,3,0,H,xgb,test,0.6040,0.2953,0.1007
+Premier League,2025,2026-02-11,Nott'm Forest,Wolves,0,0,D,xgb,test,0.4569,0.2911,0.2520
+Premier League,2025,2026-02-11,Sunderland,Liverpool,0,1,A,xgb,test,0.1425,0.3323,0.5252
+Premier League,2025,2026-02-12,Brentford,Arsenal,1,1,D,xgb,test,0.0968,0.2998,0.6034
+Premier League,2025,2026-02-18,Wolves,Arsenal,2,2,D,xgb,test,0.0720,0.1580,0.7699
+Premier League,2025,2026-02-21,Aston Villa,Leeds,1,1,D,xgb,test,0.6249,0.2262,0.1488
+Premier League,2025,2026-02-21,Brentford,Brighton,0,2,A,xgb,test,0.3016,0.4101,0.2883
+Premier League,2025,2026-02-21,Chelsea,Burnley,1,1,D,xgb,test,0.7243,0.1642,0.1115
+Premier League,2025,2026-02-21,Man City,Newcastle,2,1,H,xgb,test,0.4172,0.4287,0.1540
+Premier League,2025,2026-02-21,West Ham,Bournemouth,0,0,D,xgb,test,0.2141,0.3480,0.4380
+Premier League,2025,2026-02-22,Crystal Palace,Wolves,1,0,H,xgb,test,0.4235,0.4260,0.1505
+Premier League,2025,2026-02-22,Nott'm Forest,Liverpool,0,1,A,xgb,test,0.2527,0.2567,0.4906
+Premier League,2025,2026-02-22,Sunderland,Fulham,1,3,A,xgb,test,0.2615,0.4215,0.3170
+Premier League,2025,2026-02-22,Tottenham,Arsenal,1,4,A,xgb,test,0.1965,0.2680,0.5355
+Premier League,2025,2026-02-23,Everton,Man United,0,1,A,xgb,test,0.3117,0.4116,0.2767
+Premier League,2025,2026-02-27,Wolves,Aston Villa,2,0,H,xgb,test,0.0678,0.2421,0.6901
+Premier League,2025,2026-02-28,Bournemouth,Sunderland,1,1,D,xgb,test,0.3960,0.3456,0.2584
+Premier League,2025,2026-02-28,Burnley,Brentford,3,4,A,xgb,test,0.1728,0.4030,0.4242
+Premier League,2025,2026-02-28,Leeds,Man City,0,1,A,xgb,test,0.1745,0.4525,0.3730
+Premier League,2025,2026-02-28,Liverpool,West Ham,5,2,H,xgb,test,0.6435,0.2619,0.0946
+Premier League,2025,2026-02-28,Newcastle,Everton,2,3,A,xgb,test,0.2226,0.4258,0.3516
+Premier League,2025,2026-03-01,Arsenal,Chelsea,2,1,H,xgb,test,0.5601,0.3005,0.1394
+Premier League,2025,2026-03-01,Brighton,Nott'm Forest,2,1,H,xgb,test,0.3324,0.3649,0.3026
+Premier League,2025,2026-03-01,Fulham,Tottenham,2,1,H,xgb,test,0.3828,0.3960,0.2211
+Premier League,2025,2026-03-01,Man United,Crystal Palace,2,1,H,xgb,test,0.3002,0.2814,0.4183
+Premier League,2025,2026-03-03,Bournemouth,Brentford,0,0,D,xgb,test,0.3988,0.3034,0.2978
+Premier League,2025,2026-03-03,Everton,Burnley,2,0,H,xgb,test,0.6301,0.2280,0.1419
+Premier League,2025,2026-03-03,Leeds,Sunderland,0,1,A,xgb,test,0.2584,0.5157,0.2259
+Premier League,2025,2026-03-03,Wolves,Liverpool,2,1,H,xgb,test,0.0815,0.2123,0.7062
+Premier League,2025,2026-03-04,Aston Villa,Chelsea,1,4,A,xgb,test,0.3747,0.3016,0.3237
+Premier League,2025,2026-03-04,Brighton,Arsenal,0,1,A,xgb,test,0.2053,0.3952,0.3995
+Premier League,2025,2026-03-04,Fulham,West Ham,0,1,A,xgb,test,0.4607,0.3578,0.1815
+Premier League,2025,2026-03-04,Man City,Nott'm Forest,2,2,D,xgb,test,0.7672,0.1629,0.0699
+Premier League,2025,2026-03-04,Newcastle,Man United,2,1,H,xgb,test,0.1584,0.4989,0.3427
+Premier League,2025,2026-03-05,Tottenham,Crystal Palace,1,3,A,xgb,test,0.3330,0.2789,0.3880
+Premier League,2025,2026-03-14,Arsenal,Everton,2,0,H,xgb,test,0.5396,0.3388,0.1216
+Premier League,2025,2026-03-14,Burnley,Bournemouth,0,0,D,xgb,test,0.0927,0.3719,0.5355
+Premier League,2025,2026-03-14,Chelsea,Newcastle,0,1,A,xgb,test,0.3633,0.3711,0.2656
+Premier League,2025,2026-03-14,Sunderland,Brighton,0,1,A,xgb,test,0.1493,0.4220,0.4287
+Premier League,2025,2026-03-14,West Ham,Man City,1,1,D,xgb,test,0.1901,0.4382,0.3718
+Premier League,2025,2026-03-15,Crystal Palace,Leeds,0,0,D,xgb,test,0.3543,0.3729,0.2728
+Premier League,2025,2026-03-15,Liverpool,Tottenham,1,1,D,xgb,test,0.5336,0.3795,0.0869
+Premier League,2025,2026-03-15,Man United,Aston Villa,3,1,H,xgb,test,0.3551,0.4346,0.2103
+Premier League,2025,2026-03-15,Nott'm Forest,Fulham,0,0,D,xgb,test,0.3442,0.2675,0.3883
+Premier League,2025,2026-03-16,Brentford,Wolves,2,2,D,xgb,test,0.5540,0.2752,0.1709
+Premier League,2025,2026-03-20,Bournemouth,Man United,2,2,D,xgb,test,0.2331,0.3330,0.4339
+Premier League,2025,2026-03-21,Brighton,Liverpool,2,1,H,xgb,test,0.3338,0.3097,0.3565
+Premier League,2025,2026-03-21,Everton,Chelsea,3,0,H,xgb,test,0.3459,0.2948,0.3593
+Premier League,2025,2026-03-21,Fulham,Burnley,3,1,H,xgb,test,0.5033,0.3136,0.1831
+Premier League,2025,2026-03-21,Leeds,Brentford,0,0,D,xgb,test,0.3153,0.2498,0.4349
+Premier League,2025,2026-03-22,Aston Villa,West Ham,2,0,H,xgb,test,0.5157,0.3185,0.1658
+Premier League,2025,2026-03-22,Newcastle,Sunderland,1,2,A,xgb,test,0.4083,0.3700,0.2217
+Premier League,2025,2026-03-22,Tottenham,Nott'm Forest,0,3,A,xgb,test,0.3140,0.3198,0.3661
+Premier League,2025,2026-04-10,West Ham,Wolves,4,0,H,xgb,test,0.4154,0.3278,0.2567
+Premier League,2025,2026-04-11,Arsenal,Bournemouth,1,2,A,xgb,test,0.4572,0.3762,0.1667
+Premier League,2025,2026-04-11,Brentford,Everton,2,2,D,xgb,test,0.3853,0.3416,0.2730
+Premier League,2025,2026-04-11,Burnley,Brighton,0,2,A,xgb,test,0.1085,0.4094,0.4821
+Premier League,2025,2026-04-11,Liverpool,Fulham,2,0,H,xgb,test,0.4457,0.3433,0.2110
+Premier League,2025,2026-04-12,Chelsea,Man City,0,3,A,xgb,test,0.1584,0.4025,0.4391
+Premier League,2025,2026-04-12,Crystal Palace,Newcastle,2,1,H,xgb,test,0.2606,0.3682,0.3712
+Premier League,2025,2026-04-12,Nott'm Forest,Aston Villa,1,1,D,xgb,test,0.2825,0.3803,0.3372
+Premier League,2025,2026-04-12,Sunderland,Tottenham,1,0,H,xgb,test,0.2586,0.4501,0.2913
+Premier League,2025,2026-04-13,Man United,Leeds,1,2,A,xgb,test,0.4082,0.2689,0.3229
+Premier League,2025,2026-04-18,Brentford,Fulham,0,0,D,xgb,test,0.2736,0.4217,0.3047
+Premier League,2025,2026-04-18,Chelsea,Man United,0,1,A,xgb,test,0.2660,0.2996,0.4344
+Premier League,2025,2026-04-18,Leeds,Wolves,3,0,H,xgb,test,0.5514,0.2377,0.2109
+Premier League,2025,2026-04-18,Newcastle,Bournemouth,1,2,A,xgb,test,0.2448,0.4765,0.2786
+Premier League,2025,2026-04-18,Tottenham,Brighton,2,2,D,xgb,test,0.3404,0.2692,0.3904
+Premier League,2025,2026-04-19,Aston Villa,Sunderland,4,3,H,xgb,test,0.4009,0.3807,0.2184
+Premier League,2025,2026-04-19,Everton,Liverpool,1,2,A,xgb,test,0.3512,0.2667,0.3820
+Premier League,2025,2026-04-19,Man City,Arsenal,2,1,H,xgb,test,0.3635,0.3695,0.2670
+Premier League,2025,2026-04-19,Nott'm Forest,Burnley,4,1,H,xgb,test,0.4522,0.3846,0.1632
+Premier League,2025,2026-04-20,Crystal Palace,West Ham,0,0,D,xgb,test,0.4002,0.3721,0.2278
+Premier League,2025,2026-04-21,Brighton,Chelsea,3,0,H,xgb,test,0.2440,0.4091,0.3469
+Premier League,2025,2026-04-22,Bournemouth,Leeds,2,2,D,xgb,test,0.3296,0.4484,0.2220
+Premier League,2025,2026-04-22,Burnley,Man City,0,1,A,xgb,test,0.0501,0.1519,0.7980
+Premier League,2025,2026-04-24,Sunderland,Nott'm Forest,0,5,A,xgb,test,0.3137,0.3725,0.3138
+Premier League,2025,2026-04-25,Arsenal,Newcastle,1,0,H,xgb,test,0.5171,0.3459,0.1370
+Premier League,2025,2026-04-25,Fulham,Aston Villa,1,0,H,xgb,test,0.3304,0.2430,0.4266
+Premier League,2025,2026-04-25,Liverpool,Crystal Palace,3,1,H,xgb,test,0.6031,0.2557,0.1412
+Premier League,2025,2026-04-25,West Ham,Everton,2,1,H,xgb,test,0.2413,0.3850,0.3738
+Premier League,2025,2026-04-25,Wolves,Tottenham,0,1,A,xgb,test,0.2734,0.4106,0.3160
+Premier League,2025,2026-04-27,Man United,Brentford,2,1,H,xgb,test,0.2494,0.4943,0.2563
+Premier League,2025,2026-05-01,Leeds,Burnley,3,1,H,xgb,test,0.4408,0.3365,0.2226
+Premier League,2025,2026-05-02,Arsenal,Fulham,3,0,H,xgb,test,0.3842,0.4479,0.1679
+Premier League,2025,2026-05-02,Brentford,West Ham,3,0,H,xgb,test,0.4176,0.3276,0.2548
+Premier League,2025,2026-05-02,Newcastle,Brighton,3,1,H,xgb,test,0.2299,0.4061,0.3640
+Premier League,2025,2026-05-02,Wolves,Sunderland,1,1,D,xgb,test,0.2974,0.2405,0.4621
+Premier League,2025,2026-05-03,Aston Villa,Tottenham,1,2,A,xgb,test,0.3600,0.4584,0.1817
+Premier League,2025,2026-05-03,Bournemouth,Crystal Palace,3,0,H,xgb,test,0.3306,0.3899,0.2794
+Premier League,2025,2026-05-03,Man United,Liverpool,3,2,H,xgb,test,0.3573,0.3110,0.3317
+Premier League,2025,2026-05-04,Chelsea,Nott'm Forest,1,3,A,xgb,test,0.2304,0.3993,0.3703
+Premier League,2025,2026-05-04,Everton,Man City,3,3,D,xgb,test,0.1517,0.2509,0.5974
+Premier League,2025,2026-05-09,Brighton,Wolves,3,0,H,xgb,test,0.4971,0.3488,0.1541
+Premier League,2025,2026-05-09,Fulham,Bournemouth,0,1,A,xgb,test,0.2634,0.3245,0.4121
+Premier League,2025,2026-05-09,Liverpool,Chelsea,1,1,D,xgb,test,0.3876,0.3448,0.2676
+Premier League,2025,2026-05-09,Man City,Brentford,3,0,H,xgb,test,0.5348,0.3188,0.1464
+Premier League,2025,2026-05-09,Sunderland,Man United,0,0,D,xgb,test,0.2242,0.3288,0.4470
+Premier League,2025,2026-05-10,Burnley,Aston Villa,2,2,D,xgb,test,0.1039,0.2154,0.6807
+Premier League,2025,2026-05-10,Crystal Palace,Everton,2,2,D,xgb,test,0.3032,0.2989,0.3979
+Premier League,2025,2026-05-10,Nott'm Forest,Newcastle,1,1,D,xgb,test,0.4043,0.2212,0.3745
+Premier League,2025,2026-05-10,West Ham,Arsenal,0,1,A,xgb,test,0.1149,0.3530,0.5320
+Premier League,2025,2026-05-11,Tottenham,Leeds,1,1,D,xgb,test,0.4603,0.3037,0.2360
+Premier League,2025,2026-05-13,Man City,Crystal Palace,3,0,H,xgb,test,0.6606,0.2453,0.0941
+Premier League,2025,2026-05-15,Aston Villa,Liverpool,4,2,H,xgb,test,0.3033,0.3152,0.3815
+Premier League,2025,2026-05-17,Brentford,Crystal Palace,2,2,D,xgb,test,0.3022,0.4881,0.2097
+Premier League,2025,2026-05-17,Everton,Sunderland,1,3,A,xgb,test,0.4270,0.4072,0.1658
+Premier League,2025,2026-05-17,Leeds,Brighton,1,0,H,xgb,test,0.2577,0.4128,0.3295
+Premier League,2025,2026-05-17,Man United,Nott'm Forest,3,2,H,xgb,test,0.4253,0.3657,0.2090
+Premier League,2025,2026-05-17,Newcastle,West Ham,3,1,H,xgb,test,0.3747,0.3359,0.2894
+Premier League,2025,2026-05-17,Wolves,Fulham,1,1,D,xgb,test,0.1598,0.1605,0.6797
+Premier League,2025,2026-05-18,Arsenal,Burnley,1,0,H,xgb,test,0.6726,0.2539,0.0736
+Premier League,2025,2026-05-19,Bournemouth,Man City,1,1,D,xgb,test,0.1516,0.4504,0.3979
+Premier League,2025,2026-05-19,Chelsea,Tottenham,2,1,H,xgb,test,0.5321,0.2565,0.2114
+Premier League,2025,2026-05-24,Brighton,Man United,0,3,A,xgb,test,0.4203,0.3600,0.2197
+Premier League,2025,2026-05-24,Burnley,Wolves,1,1,D,xgb,test,0.2292,0.3105,0.4602
+Premier League,2025,2026-05-24,Crystal Palace,Arsenal,1,2,A,xgb,test,0.0947,0.3200,0.5853
+Premier League,2025,2026-05-24,Fulham,Newcastle,2,0,H,xgb,test,0.3468,0.2413,0.4119
+Premier League,2025,2026-05-24,Liverpool,Brentford,1,1,D,xgb,test,0.4332,0.3502,0.2166
+Premier League,2025,2026-05-24,Man City,Aston Villa,1,2,A,xgb,test,0.5465,0.3287,0.1247
+Premier League,2025,2026-05-24,Nott'm Forest,Bournemouth,1,1,D,xgb,test,0.4010,0.2446,0.3544
+Premier League,2025,2026-05-24,Sunderland,Chelsea,2,1,H,xgb,test,0.2620,0.4756,0.2624
+Premier League,2025,2026-05-24,Tottenham,Everton,1,0,H,xgb,test,0.3728,0.2229,0.4042
+Premier League,2025,2026-05-24,West Ham,Leeds,3,0,H,xgb,test,0.3004,0.3000,0.3996
+Premier League,2026,2026-08-21,Arsenal,Coventry,3,0,H,xgb,live,0.6842,0.1763,0.1395
+Premier League,2026,2026-08-22,Brentford,Tottenham,3,0,H,xgb,live,0.4489,0.3660,0.1851
+Premier League,2026,2026-08-22,Everton,Crystal Palace,2,0,H,xgb,live,0.3240,0.4525,0.2234
+Premier League,2026,2026-08-22,Hull,Man United,2,0,H,xgb,live,0.0989,0.4390,0.4620
+Premier League,2026,2026-08-22,Ipswich,Sunderland,2,1,H,xgb,live,0.3008,0.2974,0.4018
+Premier League,2026,2026-08-22,Nott'm Forest,Leeds,0,1,A,xgb,live,0.4794,0.3125,0.2081
+Premier League,2026,2026-08-23,Brighton,Aston Villa,4,0,H,xgb,live,0.3966,0.3030,0.3004
+Premier League,2026,2026-08-23,Man City,Bournemouth,2,1,H,xgb,live,0.5180,0.3355,0.1465
+Premier League,2026,2026-08-23,Newcastle,Liverpool,2,2,D,xgb,live,0.3022,0.3116,0.3862
+Premier League,2026,2026-08-24,Fulham,Chelsea,2,3,A,xgb,live,0.3197,0.3097,0.3706
+Premier League,2026,2026-08-28,Crystal Palace,Man City,1,4,A,xgb,live,0.1000,0.3466,0.5535
+Premier League,2026,2026-08-29,Bournemouth,Everton,1,1,D,xgb,live,0.3801,0.3857,0.2343
+Premier League,2026,2026-08-29,Coventry,Hull,0,1,A,xgb,live,0.3530,0.3777,0.2693
+Premier League,2026,2026-08-29,Liverpool,Nott'm Forest,2,2,D,xgb,live,0.5543,0.2807,0.1650
+Premier League,2026,2026-08-29,Tottenham,Newcastle,0,2,A,xgb,live,0.3513,0.2712,0.3774
+Premier League,2026,2026-08-30,Chelsea,Brighton,4,3,H,xgb,live,0.2496,0.3876,0.3628
+Premier League,2026,2026-08-30,Leeds,Brentford,1,1,D,xgb,live,0.2854,0.3993,0.3154
+Premier League,2026,2026-08-30,Man United,Ipswich,5,2,H,xgb,live,0.5012,0.3988,0.0999
+Premier League,2026,2026-08-30,Sunderland,Fulham,1,0,H,xgb,live,0.2821,0.4605,0.2574
+Premier League,2026,2026-08-31,Aston Villa,Arsenal,0,1,A,xgb,live,0.0717,0.3116,0.6167
+Premier League,2026,2026-09-04,Ipswich,Liverpool,0,2,A,xgb,live,0.1965,0.2221,0.5815
+Premier League,2026,2026-09-05,Brentford,Sunderland,1,1,D,xgb,live,0.2829,0.3495,0.3675
+Premier League,2026,2026-09-05,Brighton,Leeds,1,1,D,xgb,live,0.4798,0.3527,0.1674
+Premier League,2026,2026-09-05,Fulham,Crystal Palace,2,3,A,xgb,live,0.2953,0.4659,0.2388
+Premier League,2026,2026-09-05,Hull,Aston Villa,0,0,D,xgb,live,0.2001,0.3441,0.4558
+Premier League,2026,2026-09-05,Man City,Coventry,1,0,H,xgb,live,0.7088,0.1982,0.0930
+Premier League,2026,2026-09-05,Newcastle,Bournemouth,2,2,D,xgb,live,0.2699,0.4382,0.2919
+Premier League,2026,2026-09-05,Nott'm Forest,Tottenham,0,0,D,xgb,live,0.5601,0.2933,0.1466
+Premier League,2026,2026-09-06,Arsenal,Chelsea,2,1,H,xgb,live,0.4714,0.3624,0.1662
+Premier League,2026,2026-09-06,Everton,Man United,2,2,D,xgb,live,0.2429,0.3817,0.3754
+Premier League,2026,2026-09-12,Aston Villa,Nott'm Forest,1,2,A,xgb,live,0.3230,0.4421,0.2348
+Premier League,2026,2026-09-12,Bournemouth,Brentford,2,2,D,xgb,live,0.3970,0.3192,0.2839
+Premier League,2026,2026-09-12,Chelsea,Hull,2,2,D,xgb,live,0.4230,0.4185,0.1585
+Premier League,2026,2026-09-12,Crystal Palace,Ipswich,2,3,A,xgb,live,0.5076,0.3485,0.1439
+Premier League,2026,2026-09-12,Liverpool,Fulham,0,0,D,xgb,live,0.4221,0.3545,0.2234
+Premier League,2026,2026-09-12,Sunderland,Arsenal,0,2,A,xgb,live,0.0886,0.3169,0.5946
+Premier League,2026,2026-09-12,Tottenham,Everton,0,0,D,xgb,live,0.3538,0.2593,0.3869
+Premier League,2026,2026-09-13,Coventry,Brighton,0,5,A,xgb,live,0.1831,0.2191,0.5977
+Premier League,2026,2026-09-13,Man United,Man City,0,1,A,xgb,live,0.2701,0.3764,0.3536
+Premier League,2026,2026-09-14,Leeds,Newcastle,4,1,H,xgb,live,0.3546,0.2462,0.3992
+Premier League,2026,2026-09-18,Brentford,Chelsea,3,0,H,xgb,live,0.3433,0.3134,0.3434
+Premier League,2026,2026-09-19,Brighton,Arsenal,3,0,H,xgb,live,0.1263,0.4185,0.4551
+Premier League,2026,2026-09-19,Everton,Ipswich,1,0,H,xgb,live,0.5941,0.2623,0.1436
+Premier League,2026,2026-09-19,Newcastle,Hull,2,1,H,xgb,live,0.5057,0.2856,0.2087
+Premier League,2026,2026-09-19,Nott'm Forest,Coventry,0,1,A,xgb,live,0.4594,0.3403,0.2003
+Premier League,2026,2026-09-19,Tottenham,Aston Villa,2,3,A,xgb,live,0.2602,0.3260,0.4138
+Premier League,2026,2026-09-20,Bournemouth,Liverpool,0,1,A,xgb,live,0.2404,0.3638,0.3958
+Premier League,2026,2026-09-20,Fulham,Man United,1,1,D,xgb,live,0.1855,0.3910,0.4235
+Premier League,2026,2026-09-20,Leeds,Crystal Palace,0,0,D,xgb,live,0.3694,0.3838,0.2468
+Premier League,2026,2026-09-20,Man City,Sunderland,5,3,H,xgb,live,0.4471,0.3885,0.1645
+La Liga,2025,2025-08-15,Girona,Vallecano,1,3,A,rf,test,0.2789,0.3655,0.3557
+La Liga,2025,2025-08-15,Villarreal,Oviedo,2,0,H,rf,test,0.5883,0.2730,0.1387
+La Liga,2025,2025-08-16,Alaves,Levante,2,1,H,rf,test,0.3566,0.3755,0.2679
+La Liga,2025,2025-08-16,Mallorca,Barcelona,0,3,A,rf,test,0.1363,0.2377,0.6260
+La Liga,2025,2025-08-16,Valencia,Sociedad,1,1,D,rf,test,0.4185,0.3697,0.2118
+La Liga,2025,2025-08-17,Ath Bilbao,Sevilla,3,2,H,rf,test,0.4994,0.3124,0.1882
+La Liga,2025,2025-08-17,Celta,Getafe,0,2,A,rf,test,0.4823,0.3392,0.1785
+La Liga,2025,2025-08-17,Espanol,Ath Madrid,2,1,H,rf,test,0.1127,0.2763,0.6110
+La Liga,2025,2025-08-18,Elche,Betis,1,1,D,rf,test,0.1599,0.3124,0.5277
+La Liga,2025,2025-08-19,Real Madrid,Osasuna,1,0,H,rf,test,0.5981,0.2366,0.1653
+La Liga,2025,2025-08-22,Betis,Alaves,1,0,H,rf,test,0.2857,0.4077,0.3066
+La Liga,2025,2025-08-23,Ath Madrid,Elche,1,1,D,rf,test,0.6255,0.2525,0.1220
+La Liga,2025,2025-08-23,Levante,Barcelona,2,3,A,rf,test,0.1339,0.2820,0.5842
+La Liga,2025,2025-08-23,Mallorca,Celta,1,1,D,rf,test,0.2910,0.3607,0.3483
+La Liga,2025,2025-08-24,Osasuna,Valencia,1,0,H,rf,test,0.3639,0.3780,0.2581
+La Liga,2025,2025-08-24,Oviedo,Real Madrid,0,3,A,rf,test,0.1311,0.2566,0.6123
+La Liga,2025,2025-08-24,Sociedad,Espanol,2,2,D,rf,test,0.4047,0.3354,0.2599
+La Liga,2025,2025-08-24,Villarreal,Girona,5,0,H,rf,test,0.6556,0.2230,0.1214
+La Liga,2025,2025-08-25,Ath Bilbao,Vallecano,1,0,H,rf,test,0.4228,0.3223,0.2549
+La Liga,2025,2025-08-25,Sevilla,Getafe,1,2,A,rf,test,0.3831,0.3708,0.2461
+La Liga,2025,2025-08-27,Celta,Betis,1,1,D,rf,test,0.3222,0.3424,0.3355
+La Liga,2025,2025-08-29,Elche,Levante,2,0,H,rf,test,0.3466,0.3853,0.2682
+La Liga,2025,2025-08-29,Valencia,Getafe,3,0,H,rf,test,0.3330,0.4201,0.2469
+La Liga,2025,2025-08-30,Alaves,Ath Madrid,1,1,D,rf,test,0.1654,0.2565,0.5781
+La Liga,2025,2025-08-30,Girona,Sevilla,0,2,A,rf,test,0.3767,0.3600,0.2633
+La Liga,2025,2025-08-30,Oviedo,Sociedad,1,0,H,rf,test,0.2257,0.3240,0.4503
+La Liga,2025,2025-08-30,Real Madrid,Mallorca,2,1,H,rf,test,0.7089,0.1871,0.1040
+La Liga,2025,2025-08-31,Betis,Ath Bilbao,1,2,A,rf,test,0.2361,0.3596,0.4044
+La Liga,2025,2025-08-31,Celta,Villarreal,1,1,D,rf,test,0.1641,0.3028,0.5330
+La Liga,2025,2025-08-31,Espanol,Osasuna,1,0,H,rf,test,0.3151,0.3653,0.3195
+La Liga,2025,2025-08-31,Vallecano,Barcelona,1,1,D,rf,test,0.1270,0.2708,0.6021
+La Liga,2025,2025-09-12,Sevilla,Elche,2,2,D,rf,test,0.3306,0.3885,0.2809
+La Liga,2025,2025-09-13,Ath Bilbao,Alaves,0,1,A,rf,test,0.5530,0.2674,0.1795
+La Liga,2025,2025-09-13,Ath Madrid,Villarreal,2,0,H,rf,test,0.3044,0.3558,0.3398
+La Liga,2025,2025-09-13,Getafe,Oviedo,2,0,H,rf,test,0.4014,0.3628,0.2358
+La Liga,2025,2025-09-13,Sociedad,Real Madrid,1,2,A,rf,test,0.1196,0.2346,0.6457
+La Liga,2025,2025-09-14,Barcelona,Valencia,6,0,H,rf,test,0.7096,0.1832,0.1071
+La Liga,2025,2025-09-14,Celta,Girona,1,1,D,rf,test,0.4557,0.3496,0.1947
+La Liga,2025,2025-09-14,Levante,Betis,2,2,D,rf,test,0.2111,0.3204,0.4685
+La Liga,2025,2025-09-14,Osasuna,Vallecano,2,0,H,rf,test,0.3580,0.3509,0.2912
+La Liga,2025,2025-09-15,Espanol,Mallorca,3,2,H,rf,test,0.4636,0.3647,0.1717
+La Liga,2025,2025-09-19,Betis,Sociedad,3,1,H,rf,test,0.3836,0.3768,0.2396
+La Liga,2025,2025-09-20,Alaves,Sevilla,1,2,A,rf,test,0.3919,0.3507,0.2575
+La Liga,2025,2025-09-20,Girona,Levante,0,4,A,rf,test,0.2792,0.4572,0.2636
+La Liga,2025,2025-09-20,Real Madrid,Espanol,2,0,H,rf,test,0.5816,0.2509,0.1674
+La Liga,2025,2025-09-20,Valencia,Ath Bilbao,2,0,H,rf,test,0.1716,0.3375,0.4909
+La Liga,2025,2025-09-20,Villarreal,Osasuna,2,1,H,rf,test,0.4897,0.2703,0.2400
+La Liga,2025,2025-09-21,Barcelona,Getafe,3,0,H,rf,test,0.6379,0.2338,0.1283
+La Liga,2025,2025-09-21,Elche,Oviedo,1,0,H,rf,test,0.4779,0.3298,0.1923
+La Liga,2025,2025-09-21,Mallorca,Ath Madrid,1,1,D,rf,test,0.1297,0.3123,0.5580
+La Liga,2025,2025-09-21,Vallecano,Celta,1,1,D,rf,test,0.3835,0.3534,0.2631
+La Liga,2025,2025-09-23,Ath Bilbao,Girona,1,1,D,rf,test,0.5887,0.2812,0.1301
+La Liga,2025,2025-09-23,Espanol,Valencia,2,2,D,rf,test,0.3656,0.3586,0.2758
+La Liga,2025,2025-09-23,Levante,Real Madrid,1,4,A,rf,test,0.1304,0.2448,0.6248
+La Liga,2025,2025-09-23,Sevilla,Villarreal,1,2,A,rf,test,0.1436,0.2726,0.5838
+La Liga,2025,2025-09-24,Ath Madrid,Vallecano,3,2,H,rf,test,0.5458,0.2715,0.1827
+La Liga,2025,2025-09-24,Getafe,Alaves,1,1,D,rf,test,0.4467,0.2985,0.2549
+La Liga,2025,2025-09-24,Sociedad,Mallorca,1,0,H,rf,test,0.3939,0.3990,0.2071
+La Liga,2025,2025-09-25,Osasuna,Elche,1,1,D,rf,test,0.3897,0.3405,0.2699
+La Liga,2025,2025-09-25,Oviedo,Barcelona,1,3,A,rf,test,0.1413,0.2409,0.6178
+La Liga,2025,2025-09-26,Girona,Espanol,0,0,D,rf,test,0.1973,0.3919,0.4108
+La Liga,2025,2025-09-27,Ath Madrid,Real Madrid,5,2,H,rf,test,0.1568,0.2400,0.6032
+La Liga,2025,2025-09-27,Getafe,Levante,1,1,D,rf,test,0.3306,0.3962,0.2732
+La Liga,2025,2025-09-27,Mallorca,Alaves,1,0,H,rf,test,0.2988,0.3975,0.3038
+La Liga,2025,2025-09-27,Villarreal,Ath Bilbao,1,0,H,rf,test,0.3601,0.3619,0.2779
+La Liga,2025,2025-09-28,Barcelona,Sociedad,2,1,H,rf,test,0.6539,0.2214,0.1247
+La Liga,2025,2025-09-28,Betis,Osasuna,2,0,H,rf,test,0.4495,0.2921,0.2584
+La Liga,2025,2025-09-28,Elche,Celta,2,1,H,rf,test,0.3219,0.3584,0.3197
+La Liga,2025,2025-09-28,Vallecano,Sevilla,0,1,A,rf,test,0.3019,0.4428,0.2553
+La Liga,2025,2025-09-30,Valencia,Oviedo,1,2,A,rf,test,0.4371,0.3751,0.1877
+La Liga,2025,2025-10-03,Osasuna,Getafe,2,1,H,rf,test,0.3684,0.3865,0.2451
+La Liga,2025,2025-10-04,Ath Bilbao,Mallorca,2,1,H,rf,test,0.4516,0.3313,0.2170
+La Liga,2025,2025-10-04,Girona,Valencia,2,1,H,rf,test,0.2316,0.3490,0.4195
+La Liga,2025,2025-10-04,Oviedo,Levante,0,2,A,rf,test,0.2977,0.4171,0.2851
+La Liga,2025,2025-10-04,Real Madrid,Villarreal,3,1,H,rf,test,0.5024,0.2804,0.2171
+La Liga,2025,2025-10-05,Alaves,Elche,3,1,H,rf,test,0.3180,0.3864,0.2956
+La Liga,2025,2025-10-05,Celta,Ath Madrid,1,1,D,rf,test,0.1113,0.2438,0.6448
+La Liga,2025,2025-10-05,Espanol,Betis,1,2,A,rf,test,0.1647,0.3344,0.5008
+La Liga,2025,2025-10-05,Sevilla,Barcelona,4,1,H,rf,test,0.1452,0.2536,0.6012
+La Liga,2025,2025-10-05,Sociedad,Vallecano,0,1,A,rf,test,0.3124,0.4195,0.2682
+La Liga,2025,2025-10-17,Oviedo,Espanol,0,2,A,rf,test,0.2307,0.3209,0.4483
+La Liga,2025,2025-10-18,Ath Madrid,Osasuna,1,0,H,rf,test,0.5626,0.2572,0.1803
+La Liga,2025,2025-10-18,Barcelona,Girona,2,1,H,rf,test,0.6255,0.2406,0.1338
+La Liga,2025,2025-10-18,Sevilla,Mallorca,1,3,A,rf,test,0.3888,0.3331,0.2781
+La Liga,2025,2025-10-18,Villarreal,Betis,2,2,D,rf,test,0.3333,0.3754,0.2913
+La Liga,2025,2025-10-19,Celta,Sociedad,1,1,D,rf,test,0.3483,0.3901,0.2617
+La Liga,2025,2025-10-19,Elche,Ath Bilbao,0,0,D,rf,test,0.2745,0.3308,0.3947
+La Liga,2025,2025-10-19,Getafe,Real Madrid,0,1,A,rf,test,0.1223,0.2466,0.6311
+La Liga,2025,2025-10-19,Levante,Vallecano,0,3,A,rf,test,0.3409,0.3531,0.3059
+La Liga,2025,2025-10-20,Alaves,Valencia,0,0,D,rf,test,0.4396,0.3226,0.2379
+La Liga,2025,2025-10-24,Sociedad,Sevilla,2,1,H,rf,test,0.3119,0.4540,0.2341
+La Liga,2025,2025-10-25,Ath Bilbao,Getafe,0,1,A,rf,test,0.4946,0.3326,0.1728
+La Liga,2025,2025-10-25,Espanol,Elche,1,0,H,rf,test,0.4213,0.3172,0.2615
+La Liga,2025,2025-10-25,Girona,Oviedo,3,3,D,rf,test,0.3346,0.3852,0.2802
+La Liga,2025,2025-10-25,Valencia,Villarreal,0,2,A,rf,test,0.1539,0.2655,0.5806
+La Liga,2025,2025-10-26,Mallorca,Levante,1,1,D,rf,test,0.3356,0.3826,0.2817
+La Liga,2025,2025-10-26,Osasuna,Celta,2,3,A,rf,test,0.3524,0.3760,0.2717
+La Liga,2025,2025-10-26,Real Madrid,Barcelona,2,1,H,rf,test,0.3495,0.3245,0.3260
+La Liga,2025,2025-10-26,Vallecano,Alaves,1,0,H,rf,test,0.4538,0.3016,0.2446
+La Liga,2025,2025-10-27,Betis,Ath Madrid,0,2,A,rf,test,0.1794,0.2738,0.5468
+La Liga,2025,2025-10-31,Getafe,Girona,2,1,H,rf,test,0.4529,0.2983,0.2487
+La Liga,2025,2025-11-01,Ath Madrid,Sevilla,3,0,H,rf,test,0.6567,0.2035,0.1398
+La Liga,2025,2025-11-01,Real Madrid,Valencia,4,0,H,rf,test,0.6496,0.2288,0.1215
+La Liga,2025,2025-11-01,Sociedad,Ath Bilbao,3,2,H,rf,test,0.2258,0.3372,0.4370
+La Liga,2025,2025-11-01,Villarreal,Vallecano,4,0,H,rf,test,0.4338,0.3069,0.2593
+La Liga,2025,2025-11-02,Alaves,Espanol,2,1,H,rf,test,0.3320,0.3115,0.3565
+La Liga,2025,2025-11-02,Barcelona,Elche,3,1,H,rf,test,0.6201,0.2332,0.1467
+La Liga,2025,2025-11-02,Betis,Mallorca,3,0,H,rf,test,0.4797,0.2879,0.2324
+La Liga,2025,2025-11-02,Levante,Celta,1,2,A,rf,test,0.1984,0.4100,0.3916
+La Liga,2025,2025-11-03,Oviedo,Osasuna,0,0,D,rf,test,0.2159,0.3770,0.4071
+La Liga,2025,2025-11-07,Elche,Sociedad,1,1,D,rf,test,0.2985,0.3897,0.3118
+La Liga,2025,2025-11-08,Ath Madrid,Levante,3,1,H,rf,test,0.6094,0.2493,0.1413
+La Liga,2025,2025-11-08,Espanol,Villarreal,0,2,A,rf,test,0.1665,0.2936,0.5398
+La Liga,2025,2025-11-08,Girona,Alaves,1,0,H,rf,test,0.2458,0.2998,0.4543
+La Liga,2025,2025-11-08,Sevilla,Osasuna,1,0,H,rf,test,0.2836,0.4087,0.3077
+La Liga,2025,2025-11-09,Ath Bilbao,Oviedo,1,0,H,rf,test,0.4795,0.2930,0.2275
+La Liga,2025,2025-11-09,Celta,Barcelona,2,4,A,rf,test,0.1534,0.2577,0.5889
+La Liga,2025,2025-11-09,Mallorca,Getafe,1,0,H,rf,test,0.3681,0.3432,0.2887
+La Liga,2025,2025-11-09,Valencia,Betis,1,1,D,rf,test,0.1484,0.3489,0.5027
+La Liga,2025,2025-11-09,Vallecano,Real Madrid,0,0,D,rf,test,0.1339,0.2407,0.6254
+La Liga,2025,2025-11-21,Valencia,Levante,1,0,H,rf,test,0.2867,0.4621,0.2512
+La Liga,2025,2025-11-22,Alaves,Celta,0,1,A,rf,test,0.3132,0.3819,0.3049
+La Liga,2025,2025-11-22,Barcelona,Ath Bilbao,4,0,H,rf,test,0.6267,0.2258,0.1475
+La Liga,2025,2025-11-22,Osasuna,Sociedad,1,3,A,rf,test,0.3190,0.3992,0.2818
+La Liga,2025,2025-11-22,Villarreal,Mallorca,2,1,H,rf,test,0.6096,0.2651,0.1253
+La Liga,2025,2025-11-23,Betis,Girona,1,1,D,rf,test,0.4784,0.3338,0.1878
+La Liga,2025,2025-11-23,Elche,Real Madrid,2,2,D,rf,test,0.1263,0.2722,0.6014
+La Liga,2025,2025-11-23,Getafe,Ath Madrid,0,1,A,rf,test,0.1381,0.2609,0.6010
+La Liga,2025,2025-11-23,Oviedo,Vallecano,0,0,D,rf,test,0.2240,0.3070,0.4690
+La Liga,2025,2025-11-24,Espanol,Sevilla,2,1,H,rf,test,0.3596,0.3996,0.2408
+La Liga,2025,2025-11-28,Getafe,Elche,1,0,H,rf,test,0.3495,0.3674,0.2831
+La Liga,2025,2025-11-29,Ath Madrid,Oviedo,2,0,H,rf,test,0.6198,0.2554,0.1248
+La Liga,2025,2025-11-29,Barcelona,Alaves,3,1,H,rf,test,0.7100,0.1755,0.1145
+La Liga,2025,2025-11-29,Levante,Ath Bilbao,0,2,A,rf,test,0.2173,0.3186,0.4641
+La Liga,2025,2025-11-29,Mallorca,Osasuna,2,2,D,rf,test,0.3384,0.3920,0.2696
+La Liga,2025,2025-11-30,Celta,Espanol,0,1,A,rf,test,0.3707,0.3296,0.2998
+La Liga,2025,2025-11-30,Girona,Real Madrid,1,1,D,rf,test,0.1158,0.2099,0.6744
+La Liga,2025,2025-11-30,Sevilla,Betis,0,2,A,rf,test,0.1687,0.3258,0.5054
+La Liga,2025,2025-11-30,Sociedad,Villarreal,2,3,A,rf,test,0.1752,0.2773,0.5475
+La Liga,2025,2025-12-01,Vallecano,Valencia,1,1,D,rf,test,0.4042,0.3690,0.2268
+La Liga,2025,2025-12-02,Barcelona,Ath Madrid,3,1,H,rf,test,0.4310,0.2905,0.2785
+La Liga,2025,2025-12-03,Ath Bilbao,Real Madrid,0,3,A,rf,test,0.1381,0.2271,0.6347
+La Liga,2025,2025-12-05,Oviedo,Mallorca,0,0,D,rf,test,0.2773,0.3346,0.3881
+La Liga,2025,2025-12-06,Alaves,Sociedad,1,0,H,rf,test,0.2662,0.4163,0.3175
+La Liga,2025,2025-12-06,Ath Bilbao,Ath Madrid,1,0,H,rf,test,0.1310,0.2570,0.6120
+La Liga,2025,2025-12-06,Betis,Barcelona,3,5,A,rf,test,0.1413,0.2371,0.6215
+La Liga,2025,2025-12-06,Villarreal,Getafe,2,0,H,rf,test,0.6020,0.2536,0.1444
+La Liga,2025,2025-12-07,Elche,Girona,3,0,H,rf,test,0.2493,0.4320,0.3187
+La Liga,2025,2025-12-07,Espanol,Vallecano,1,0,H,rf,test,0.4060,0.3123,0.2817
+La Liga,2025,2025-12-07,Real Madrid,Celta,0,2,A,rf,test,0.6277,0.2254,0.1469
+La Liga,2025,2025-12-07,Valencia,Sevilla,1,1,D,rf,test,0.3586,0.3946,0.2468
+La Liga,2025,2025-12-08,Osasuna,Levante,2,0,H,rf,test,0.3633,0.4552,0.1815
+La Liga,2025,2025-12-12,Sociedad,Girona,1,2,A,rf,test,0.3997,0.3594,0.2409
+La Liga,2025,2025-12-13,Ath Madrid,Valencia,2,1,H,rf,test,0.6540,0.2203,0.1257
+La Liga,2025,2025-12-13,Barcelona,Osasuna,2,0,H,rf,test,0.6701,0.2031,0.1268
+La Liga,2025,2025-12-13,Getafe,Espanol,0,1,A,rf,test,0.3693,0.3225,0.3082
+La Liga,2025,2025-12-13,Mallorca,Elche,3,1,H,rf,test,0.2935,0.4280,0.2785
+La Liga,2025,2025-12-14,Alaves,Real Madrid,1,2,A,rf,test,0.1745,0.2841,0.5415
+La Liga,2025,2025-12-14,Celta,Ath Bilbao,2,0,H,rf,test,0.3309,0.3448,0.3243
+La Liga,2025,2025-12-14,Sevilla,Oviedo,4,0,H,rf,test,0.3984,0.3565,0.2451
+La Liga,2025,2025-12-15,Vallecano,Betis,0,0,D,rf,test,0.1891,0.3287,0.4822
+La Liga,2025,2025-12-19,Valencia,Mallorca,1,1,D,rf,test,0.3250,0.3952,0.2798
+La Liga,2025,2025-12-20,Levante,Sociedad,1,1,D,rf,test,0.2113,0.3502,0.4385
+La Liga,2025,2025-12-20,Osasuna,Alaves,3,0,H,rf,test,0.3618,0.3886,0.2496
+La Liga,2025,2025-12-20,Oviedo,Celta,0,0,D,rf,test,0.2024,0.3163,0.4813
+La Liga,2025,2025-12-20,Real Madrid,Sevilla,2,0,H,rf,test,0.6156,0.2309,0.1535
+La Liga,2025,2025-12-21,Betis,Getafe,4,0,H,rf,test,0.5224,0.2886,0.1890
+La Liga,2025,2025-12-21,Elche,Vallecano,4,0,H,rf,test,0.3440,0.3345,0.3215
+La Liga,2025,2025-12-21,Girona,Ath Madrid,0,3,A,rf,test,0.1461,0.2842,0.5698
+La Liga,2025,2025-12-21,Villarreal,Barcelona,0,2,A,rf,test,0.1871,0.2642,0.5486
+La Liga,2025,2025-12-22,Ath Bilbao,Espanol,1,2,A,rf,test,0.3388,0.3766,0.2846
+La Liga,2025,2026-01-02,Vallecano,Getafe,1,1,D,rf,test,0.3985,0.3624,0.2390
+La Liga,2025,2026-01-03,Celta,Valencia,4,1,H,rf,test,0.4140,0.3333,0.2527
+La Liga,2025,2026-01-03,Elche,Villarreal,1,3,A,rf,test,0.2105,0.2559,0.5337
+La Liga,2025,2026-01-03,Espanol,Barcelona,0,2,A,rf,test,0.1356,0.2389,0.6255
+La Liga,2025,2026-01-03,Osasuna,Ath Bilbao,1,1,D,rf,test,0.2946,0.3787,0.3267
+La Liga,2025,2026-01-04,Alaves,Oviedo,1,1,D,rf,test,0.3519,0.3797,0.2684
+La Liga,2025,2026-01-04,Mallorca,Girona,1,2,A,rf,test,0.3593,0.4131,0.2276
+La Liga,2025,2026-01-04,Real Madrid,Betis,5,1,H,rf,test,0.4821,0.2796,0.2383
+La Liga,2025,2026-01-04,Sevilla,Levante,0,3,A,rf,test,0.4123,0.3815,0.2061
+La Liga,2025,2026-01-04,Sociedad,Ath Madrid,1,1,D,rf,test,0.1235,0.2838,0.5927
+La Liga,2025,2026-01-09,Getafe,Sociedad,1,2,A,rf,test,0.2879,0.3930,0.3191
+La Liga,2025,2026-01-10,Girona,Osasuna,1,0,H,rf,test,0.3707,0.3467,0.2826
+La Liga,2025,2026-01-10,Oviedo,Betis,1,1,D,rf,test,0.1507,0.3276,0.5218
+La Liga,2025,2026-01-10,Valencia,Elche,1,1,D,rf,test,0.3720,0.3967,0.2314
+La Liga,2025,2026-01-10,Villarreal,Alaves,3,1,H,rf,test,0.5931,0.2701,0.1368
+La Liga,2025,2026-01-11,Levante,Espanol,1,1,D,rf,test,0.2095,0.3210,0.4695
+La Liga,2025,2026-01-11,Vallecano,Mallorca,2,1,H,rf,test,0.3166,0.3816,0.3018
+La Liga,2025,2026-01-12,Sevilla,Celta,0,1,A,rf,test,0.1926,0.3058,0.5015
+La Liga,2025,2026-01-16,Espanol,Girona,0,2,A,rf,test,0.3848,0.3548,0.2604
+La Liga,2025,2026-01-17,Betis,Villarreal,2,0,H,rf,test,0.1710,0.3092,0.5199
+La Liga,2025,2026-01-17,Mallorca,Ath Bilbao,3,2,H,rf,test,0.2503,0.3438,0.4059
+La Liga,2025,2026-01-17,Osasuna,Oviedo,3,2,H,rf,test,0.3856,0.3944,0.2199
+La Liga,2025,2026-01-17,Real Madrid,Levante,2,0,H,rf,test,0.6599,0.2168,0.1233
+La Liga,2025,2026-01-18,Ath Madrid,Alaves,1,0,H,rf,test,0.5153,0.3280,0.1568
+La Liga,2025,2026-01-18,Celta,Vallecano,3,0,H,rf,test,0.4788,0.3143,0.2069
+La Liga,2025,2026-01-18,Getafe,Valencia,0,1,A,rf,test,0.2715,0.4210,0.3076
+La Liga,2025,2026-01-18,Sociedad,Barcelona,2,1,H,rf,test,0.1596,0.2473,0.5931
+La Liga,2025,2026-01-19,Elche,Sevilla,2,2,D,rf,test,0.3217,0.3711,0.3072
+La Liga,2025,2026-01-23,Levante,Elche,3,2,H,rf,test,0.2783,0.4124,0.3093
+La Liga,2025,2026-01-24,Sevilla,Ath Bilbao,2,1,H,rf,test,0.2309,0.3173,0.4518
+La Liga,2025,2026-01-24,Valencia,Espanol,3,2,H,rf,test,0.3243,0.3981,0.2776
+La Liga,2025,2026-01-24,Vallecano,Osasuna,1,3,A,rf,test,0.3514,0.3847,0.2639
+La Liga,2025,2026-01-24,Villarreal,Real Madrid,0,2,A,rf,test,0.1523,0.2482,0.5996
+La Liga,2025,2026-01-25,Alaves,Betis,2,1,H,rf,test,0.1516,0.3055,0.5429
+La Liga,2025,2026-01-25,Ath Madrid,Mallorca,3,0,H,rf,test,0.5524,0.2976,0.1500
+La Liga,2025,2026-01-25,Barcelona,Oviedo,3,0,H,rf,test,0.6675,0.2079,0.1246
+La Liga,2025,2026-01-25,Sociedad,Celta,3,1,H,rf,test,0.1892,0.2860,0.5248
+La Liga,2025,2026-01-26,Girona,Getafe,1,1,D,rf,test,0.4863,0.3374,0.1762
+La Liga,2025,2026-01-30,Espanol,Alaves,1,2,A,rf,test,0.4495,0.3237,0.2268
+La Liga,2025,2026-01-31,Elche,Barcelona,1,3,A,rf,test,0.1257,0.2304,0.6440
+La Liga,2025,2026-01-31,Levante,Ath Madrid,0,0,D,rf,test,0.1237,0.2729,0.6034
+La Liga,2025,2026-01-31,Osasuna,Villarreal,2,2,D,rf,test,0.3034,0.3027,0.3939
+La Liga,2025,2026-01-31,Oviedo,Girona,1,0,H,rf,test,0.1979,0.3381,0.4641
+La Liga,2025,2026-02-01,Ath Bilbao,Sociedad,1,1,D,rf,test,0.2751,0.4275,0.2974
+La Liga,2025,2026-02-01,Betis,Valencia,2,1,H,rf,test,0.4054,0.3447,0.2500
+La Liga,2025,2026-02-01,Getafe,Celta,0,0,D,rf,test,0.1842,0.3313,0.4845
+La Liga,2025,2026-02-01,Real Madrid,Vallecano,2,1,H,rf,test,0.6034,0.2643,0.1323
+La Liga,2025,2026-02-02,Mallorca,Sevilla,4,1,H,rf,test,0.2800,0.4456,0.2744
+La Liga,2025,2026-02-06,Celta,Osasuna,1,2,A,rf,test,0.4357,0.3020,0.2623
+La Liga,2025,2026-02-07,Barcelona,Mallorca,3,0,H,rf,test,0.6288,0.2248,0.1464
+La Liga,2025,2026-02-07,Sociedad,Elche,3,1,H,rf,test,0.4721,0.3468,0.1811
+La Liga,2025,2026-02-08,Alaves,Getafe,0,2,A,rf,test,0.3411,0.4093,0.2496
+La Liga,2025,2026-02-08,Ath Bilbao,Levante,4,2,H,rf,test,0.3794,0.3844,0.2362
+La Liga,2025,2026-02-08,Ath Madrid,Betis,0,1,A,rf,test,0.4847,0.3168,0.1985
+La Liga,2025,2026-02-08,Sevilla,Girona,1,1,D,rf,test,0.2952,0.4152,0.2896
+La Liga,2025,2026-02-08,Valencia,Real Madrid,0,2,A,rf,test,0.1304,0.2194,0.6502
+La Liga,2025,2026-02-09,Villarreal,Espanol,4,1,H,rf,test,0.5765,0.2891,0.1344
+La Liga,2025,2026-02-13,Elche,Osasuna,0,0,D,rf,test,0.1677,0.3647,0.4676
+La Liga,2025,2026-02-14,Espanol,Celta,2,2,D,rf,test,0.2681,0.3621,0.3698
+La Liga,2025,2026-02-14,Getafe,Villarreal,2,1,H,rf,test,0.2047,0.3129,0.4825
+La Liga,2025,2026-02-14,Real Madrid,Sociedad,4,1,H,rf,test,0.5874,0.2433,0.1693
+La Liga,2025,2026-02-14,Sevilla,Alaves,1,1,D,rf,test,0.3340,0.3796,0.2863
+La Liga,2025,2026-02-15,Levante,Valencia,0,2,A,rf,test,0.2967,0.3816,0.3217
+La Liga,2025,2026-02-15,Mallorca,Betis,1,2,A,rf,test,0.1858,0.3419,0.4723
+La Liga,2025,2026-02-15,Oviedo,Ath Bilbao,1,2,A,rf,test,0.1510,0.3258,0.5232
+La Liga,2025,2026-02-15,Vallecano,Ath Madrid,3,0,H,rf,test,0.1562,0.3020,0.5418
+La Liga,2025,2026-02-16,Girona,Barcelona,2,1,H,rf,test,0.1527,0.2626,0.5847
+La Liga,2025,2026-02-18,Levante,Villarreal,0,1,A,rf,test,0.2251,0.3494,0.4255
+La Liga,2025,2026-02-20,Ath Bilbao,Elche,2,1,H,rf,test,0.4711,0.3456,0.1832
+La Liga,2025,2026-02-21,Ath Madrid,Espanol,4,2,H,rf,test,0.5572,0.2924,0.1504
+La Liga,2025,2026-02-21,Betis,Vallecano,1,1,D,rf,test,0.4709,0.3176,0.2116
+La Liga,2025,2026-02-21,Osasuna,Real Madrid,2,1,H,rf,test,0.1248,0.2432,0.6319
+La Liga,2025,2026-02-21,Sociedad,Oviedo,3,3,D,rf,test,0.4972,0.3279,0.1750
+La Liga,2025,2026-02-22,Barcelona,Levante,3,0,H,rf,test,0.6976,0.1939,0.1086
+La Liga,2025,2026-02-22,Celta,Mallorca,2,0,H,rf,test,0.3682,0.3687,0.2631
+La Liga,2025,2026-02-22,Getafe,Sevilla,0,1,A,rf,test,0.4039,0.3375,0.2586
+La Liga,2025,2026-02-22,Villarreal,Valencia,2,1,H,rf,test,0.4894,0.2876,0.2230
+La Liga,2025,2026-02-23,Alaves,Girona,2,2,D,rf,test,0.3405,0.3569,0.3026
+La Liga,2025,2026-02-27,Levante,Alaves,2,0,H,rf,test,0.2388,0.4150,0.3462
+La Liga,2025,2026-02-28,Barcelona,Villarreal,4,1,H,rf,test,0.5271,0.2683,0.2047
+La Liga,2025,2026-02-28,Mallorca,Sociedad,0,1,A,rf,test,0.1865,0.4300,0.3835
+La Liga,2025,2026-02-28,Oviedo,Ath Madrid,0,1,A,rf,test,0.1525,0.2653,0.5822
+La Liga,2025,2026-02-28,Vallecano,Ath Bilbao,1,1,D,rf,test,0.1768,0.3256,0.4976
+La Liga,2025,2026-03-01,Betis,Sevilla,2,2,D,rf,test,0.5024,0.3119,0.1856
+La Liga,2025,2026-03-01,Elche,Espanol,2,2,D,rf,test,0.2707,0.4623,0.2670
+La Liga,2025,2026-03-01,Girona,Celta,1,2,A,rf,test,0.2367,0.3477,0.4156
+La Liga,2025,2026-03-01,Valencia,Osasuna,1,0,H,rf,test,0.2720,0.4181,0.3099
+La Liga,2025,2026-03-02,Real Madrid,Getafe,0,1,A,rf,test,0.6934,0.1846,0.1220
+La Liga,2025,2026-03-04,Vallecano,Oviedo,3,0,H,rf,test,0.4320,0.3445,0.2235
+La Liga,2025,2026-03-06,Celta,Real Madrid,1,2,A,rf,test,0.1559,0.2996,0.5445
+La Liga,2025,2026-03-07,Ath Bilbao,Barcelona,0,1,A,rf,test,0.1345,0.2148,0.6508
+La Liga,2025,2026-03-07,Ath Madrid,Sociedad,3,2,H,rf,test,0.4329,0.3230,0.2442
+La Liga,2025,2026-03-07,Levante,Girona,1,1,D,rf,test,0.3715,0.3147,0.3138
+La Liga,2025,2026-03-07,Osasuna,Mallorca,2,2,D,rf,test,0.3682,0.4160,0.2158
+La Liga,2025,2026-03-08,Getafe,Betis,2,0,H,rf,test,0.1912,0.2986,0.5102
+La Liga,2025,2026-03-08,Sevilla,Vallecano,1,1,D,rf,test,0.3637,0.3174,0.3189
+La Liga,2025,2026-03-08,Valencia,Alaves,3,2,H,rf,test,0.3379,0.3957,0.2664
+La Liga,2025,2026-03-08,Villarreal,Elche,2,1,H,rf,test,0.5894,0.2715,0.1391
+La Liga,2025,2026-03-09,Espanol,Oviedo,1,1,D,rf,test,0.4108,0.3353,0.2540
+La Liga,2025,2026-03-13,Alaves,Villarreal,1,1,D,rf,test,0.1758,0.3111,0.5131
+La Liga,2025,2026-03-14,Ath Madrid,Getafe,1,0,H,rf,test,0.4780,0.2877,0.2343
+La Liga,2025,2026-03-14,Girona,Ath Bilbao,3,0,H,rf,test,0.1858,0.3231,0.4910
+La Liga,2025,2026-03-14,Oviedo,Valencia,1,0,H,rf,test,0.2236,0.3517,0.4248
+La Liga,2025,2026-03-14,Real Madrid,Elche,4,1,H,rf,test,0.5597,0.2879,0.1525
+La Liga,2025,2026-03-15,Barcelona,Sevilla,5,2,H,rf,test,0.7097,0.1839,0.1064
+La Liga,2025,2026-03-15,Betis,Celta,1,1,D,rf,test,0.3167,0.3793,0.3040
+La Liga,2025,2026-03-15,Mallorca,Espanol,2,1,H,rf,test,0.2464,0.4649,0.2887
+La Liga,2025,2026-03-15,Sociedad,Osasuna,3,1,H,rf,test,0.3510,0.3728,0.2762
+La Liga,2025,2026-03-16,Vallecano,Levante,1,1,D,rf,test,0.5035,0.2929,0.2036
+La Liga,2025,2026-03-20,Villarreal,Sociedad,3,1,H,rf,test,0.4149,0.3484,0.2367
+La Liga,2025,2026-03-21,Elche,Mallorca,2,1,H,rf,test,0.2535,0.4440,0.3025
+La Liga,2025,2026-03-21,Espanol,Getafe,1,2,A,rf,test,0.3483,0.3973,0.2544
+La Liga,2025,2026-03-21,Levante,Oviedo,4,2,H,rf,test,0.4554,0.2870,0.2576
+La Liga,2025,2026-03-21,Osasuna,Girona,1,0,H,rf,test,0.2729,0.4171,0.3099
+La Liga,2025,2026-03-21,Sevilla,Valencia,0,2,A,rf,test,0.3054,0.3630,0.3316
+La Liga,2025,2026-03-22,Ath Bilbao,Betis,2,1,H,rf,test,0.3050,0.3647,0.3303
+La Liga,2025,2026-03-22,Barcelona,Vallecano,1,0,H,rf,test,0.6053,0.2346,0.1601
+La Liga,2025,2026-03-22,Celta,Alaves,3,4,A,rf,test,0.4561,0.3549,0.1890
+La Liga,2025,2026-03-22,Real Madrid,Ath Madrid,3,2,H,rf,test,0.3791,0.3346,0.2863
+La Liga,2025,2026-04-03,Vallecano,Elche,1,0,H,rf,test,0.3619,0.3974,0.2407
+La Liga,2025,2026-04-04,Ath Madrid,Barcelona,1,2,A,rf,test,0.1472,0.2796,0.5733
+La Liga,2025,2026-04-04,Betis,Espanol,0,0,D,rf,test,0.5167,0.2818,0.2015
+La Liga,2025,2026-04-04,Mallorca,Real Madrid,2,1,H,rf,test,0.1207,0.2791,0.6002
+La Liga,2025,2026-04-04,Sociedad,Levante,2,0,H,rf,test,0.3332,0.3942,0.2727
+La Liga,2025,2026-04-05,Alaves,Osasuna,2,2,D,rf,test,0.2173,0.3342,0.4485
+La Liga,2025,2026-04-05,Getafe,Ath Bilbao,2,0,H,rf,test,0.3325,0.3253,0.3422
+La Liga,2025,2026-04-05,Oviedo,Sevilla,1,0,H,rf,test,0.2707,0.4037,0.3256
+La Liga,2025,2026-04-05,Valencia,Celta,2,3,A,rf,test,0.3058,0.3700,0.3242
+La Liga,2025,2026-04-06,Girona,Villarreal,1,0,H,rf,test,0.1551,0.2944,0.5504
+La Liga,2025,2026-04-10,Real Madrid,Girona,1,1,D,rf,test,0.6405,0.2185,0.1411
+La Liga,2025,2026-04-11,Barcelona,Espanol,4,1,H,rf,test,0.6965,0.1838,0.1197
+La Liga,2025,2026-04-11,Elche,Valencia,1,0,H,rf,test,0.1803,0.3818,0.4379
+La Liga,2025,2026-04-11,Sevilla,Ath Madrid,2,1,H,rf,test,0.1449,0.3842,0.4710
+La Liga,2025,2026-04-11,Sociedad,Alaves,3,3,D,rf,test,0.3553,0.3919,0.2529
+La Liga,2025,2026-04-12,Ath Bilbao,Villarreal,1,2,A,rf,test,0.2049,0.3153,0.4798
+La Liga,2025,2026-04-12,Celta,Oviedo,0,3,A,rf,test,0.5226,0.3103,0.1671
+La Liga,2025,2026-04-12,Mallorca,Vallecano,3,0,H,rf,test,0.3742,0.3378,0.2880
+La Liga,2025,2026-04-12,Osasuna,Betis,1,1,D,rf,test,0.3413,0.3799,0.2788
+La Liga,2025,2026-04-13,Levante,Getafe,1,0,H,rf,test,0.2214,0.3463,0.4322
+La Liga,2025,2026-04-21,Ath Bilbao,Osasuna,1,0,H,rf,test,0.2707,0.4132,0.3162
+La Liga,2025,2026-04-21,Girona,Betis,2,3,A,rf,test,0.2632,0.3430,0.3938
+La Liga,2025,2026-04-21,Mallorca,Valencia,1,1,D,rf,test,0.3460,0.3238,0.3302
+La Liga,2025,2026-04-21,Real Madrid,Alaves,2,1,H,rf,test,0.6463,0.2090,0.1447
+La Liga,2025,2026-04-22,Barcelona,Celta,1,0,H,rf,test,0.6362,0.2271,0.1367
+La Liga,2025,2026-04-22,Elche,Ath Madrid,3,2,H,rf,test,0.1599,0.3565,0.4836
+La Liga,2025,2026-04-22,Sociedad,Getafe,0,1,A,rf,test,0.3385,0.3726,0.2889
+La Liga,2025,2026-04-23,Levante,Sevilla,2,0,H,rf,test,0.4210,0.3192,0.2598
+La Liga,2025,2026-04-23,Oviedo,Villarreal,1,1,D,rf,test,0.1534,0.2707,0.5759
+La Liga,2025,2026-04-23,Vallecano,Espanol,1,0,H,rf,test,0.3431,0.4063,0.2506
+La Liga,2025,2026-04-24,Betis,Real Madrid,1,1,D,rf,test,0.1356,0.2839,0.5805
+La Liga,2025,2026-04-25,Alaves,Mallorca,2,1,H,rf,test,0.2631,0.3768,0.3601
+La Liga,2025,2026-04-25,Ath Madrid,Ath Bilbao,3,2,H,rf,test,0.4076,0.3541,0.2383
+La Liga,2025,2026-04-25,Getafe,Barcelona,0,2,A,rf,test,0.1313,0.2649,0.6038
+La Liga,2025,2026-04-25,Valencia,Girona,2,1,H,rf,test,0.3073,0.4039,0.2888
+La Liga,2025,2026-04-26,Osasuna,Sevilla,2,1,H,rf,test,0.4202,0.3619,0.2178
+La Liga,2025,2026-04-26,Oviedo,Elche,1,2,A,rf,test,0.3541,0.3595,0.2863
+La Liga,2025,2026-04-26,Vallecano,Sociedad,3,3,D,rf,test,0.3024,0.3992,0.2985
+La Liga,2025,2026-04-26,Villarreal,Celta,2,1,H,rf,test,0.4411,0.3369,0.2220
+La Liga,2025,2026-04-27,Espanol,Levante,0,0,D,rf,test,0.2164,0.4516,0.3320
+La Liga,2025,2026-05-01,Girona,Mallorca,0,1,A,rf,test,0.3468,0.3463,0.3069
+La Liga,2025,2026-05-02,Alaves,Ath Bilbao,2,4,A,rf,test,0.3180,0.3813,0.3007
+La Liga,2025,2026-05-02,Osasuna,Barcelona,1,2,A,rf,test,0.1335,0.3070,0.5595
+La Liga,2025,2026-05-02,Valencia,Ath Madrid,0,2,A,rf,test,0.2276,0.3655,0.4069
+La Liga,2025,2026-05-02,Villarreal,Levante,5,1,H,rf,test,0.5145,0.3036,0.1819
+La Liga,2025,2026-05-03,Betis,Oviedo,3,0,H,rf,test,0.4436,0.3010,0.2555
+La Liga,2025,2026-05-03,Celta,Elche,3,1,H,rf,test,0.2840,0.4345,0.2814
+La Liga,2025,2026-05-03,Espanol,Real Madrid,0,2,A,rf,test,0.1561,0.2920,0.5519
+La Liga,2025,2026-05-03,Getafe,Vallecano,0,2,A,rf,test,0.3547,0.3448,0.3005
+La Liga,2025,2026-05-04,Sevilla,Sociedad,1,0,H,rf,test,0.1840,0.3764,0.4396
+La Liga,2025,2026-05-08,Levante,Osasuna,3,2,H,rf,test,0.2114,0.3173,0.4713
+La Liga,2025,2026-05-09,Ath Madrid,Celta,0,1,A,rf,test,0.4876,0.3011,0.2113
+La Liga,2025,2026-05-09,Elche,Alaves,1,1,D,rf,test,0.3174,0.3823,0.3003
+La Liga,2025,2026-05-09,Sevilla,Espanol,2,1,H,rf,test,0.3548,0.3750,0.2702
+La Liga,2025,2026-05-09,Sociedad,Betis,2,2,D,rf,test,0.2482,0.3427,0.4090
+La Liga,2025,2026-05-10,Ath Bilbao,Valencia,0,1,A,rf,test,0.3467,0.4060,0.2473
+La Liga,2025,2026-05-10,Barcelona,Real Madrid,2,0,H,rf,test,0.4112,0.3110,0.2778
+La Liga,2025,2026-05-10,Mallorca,Villarreal,1,1,D,rf,test,0.1651,0.2895,0.5453
+La Liga,2025,2026-05-10,Oviedo,Getafe,0,0,D,rf,test,0.2749,0.3357,0.3894
+La Liga,2025,2026-05-11,Vallecano,Girona,1,1,D,rf,test,0.4119,0.3437,0.2445
+La Liga,2025,2026-05-12,Betis,Elche,2,1,H,rf,test,0.4426,0.3146,0.2428
+La Liga,2025,2026-05-12,Celta,Levante,2,3,A,rf,test,0.4037,0.3234,0.2729
+La Liga,2025,2026-05-12,Osasuna,Ath Madrid,1,2,A,rf,test,0.1673,0.3400,0.4927
+La Liga,2025,2026-05-13,Alaves,Barcelona,1,0,H,rf,test,0.1331,0.2931,0.5738
+La Liga,2025,2026-05-13,Espanol,Ath Bilbao,2,0,H,rf,test,0.2006,0.3409,0.4585
+La Liga,2025,2026-05-13,Getafe,Mallorca,3,1,H,rf,test,0.3239,0.3505,0.3256
+La Liga,2025,2026-05-13,Villarreal,Sevilla,2,3,A,rf,test,0.6282,0.2342,0.1376
+La Liga,2025,2026-05-14,Girona,Sociedad,1,1,D,rf,test,0.2786,0.4035,0.3179
+La Liga,2025,2026-05-14,Real Madrid,Oviedo,2,0,H,rf,test,0.6508,0.2131,0.1361
+La Liga,2025,2026-05-14,Valencia,Vallecano,1,1,D,rf,test,0.2920,0.3850,0.3231
+La Liga,2025,2026-05-17,Ath Bilbao,Celta,1,1,D,rf,test,0.3602,0.3434,0.2965
+La Liga,2025,2026-05-17,Ath Madrid,Girona,1,0,H,rf,test,0.5324,0.3138,0.1538
+La Liga,2025,2026-05-17,Barcelona,Betis,3,1,H,rf,test,0.4741,0.3133,0.2126
+La Liga,2025,2026-05-17,Elche,Getafe,1,0,H,rf,test,0.3373,0.3602,0.3025
+La Liga,2025,2026-05-17,Levante,Mallorca,2,0,H,rf,test,0.3494,0.3653,0.2853
+La Liga,2025,2026-05-17,Osasuna,Espanol,1,2,A,rf,test,0.2976,0.4376,0.2647
+La Liga,2025,2026-05-17,Oviedo,Alaves,0,1,A,rf,test,0.2545,0.3789,0.3666
+La Liga,2025,2026-05-17,Sevilla,Real Madrid,0,1,A,rf,test,0.1529,0.2462,0.6009
+La Liga,2025,2026-05-17,Sociedad,Valencia,3,4,A,rf,test,0.3471,0.3974,0.2555
+La Liga,2025,2026-05-17,Vallecano,Villarreal,2,0,H,rf,test,0.2009,0.2738,0.5253
+La Liga,2025,2026-05-23,Alaves,Vallecano,1,2,A,rf,test,0.2579,0.3553,0.3868
+La Liga,2025,2026-05-23,Betis,Levante,2,1,H,rf,test,0.3723,0.3448,0.2829
+La Liga,2025,2026-05-23,Celta,Sevilla,1,0,H,rf,test,0.4493,0.2789,0.2718
+La Liga,2025,2026-05-23,Espanol,Sociedad,1,1,D,rf,test,0.2886,0.4048,0.3066
+La Liga,2025,2026-05-23,Getafe,Osasuna,1,0,H,rf,test,0.4034,0.3238,0.2727
+La Liga,2025,2026-05-23,Girona,Elche,1,1,D,rf,test,0.3123,0.4066,0.2811
+La Liga,2025,2026-05-23,Mallorca,Oviedo,3,0,H,rf,test,0.4121,0.3682,0.2197
+La Liga,2025,2026-05-23,Real Madrid,Ath Bilbao,4,2,H,rf,test,0.5510,0.2882,0.1608
+La Liga,2025,2026-05-23,Valencia,Barcelona,3,1,H,rf,test,0.1275,0.2858,0.5866
+La Liga,2025,2026-05-24,Villarreal,Ath Madrid,5,1,H,rf,test,0.2821,0.3662,0.3518
+La Liga,2026,2026-08-15,Alaves,Getafe,3,0,H,rf,live,0.3765,0.3551,0.2683
+La Liga,2026,2026-08-15,Sevilla,Vallecano,2,1,H,rf,live,0.2197,0.3469,0.4334
+La Liga,2026,2026-08-16,Espanol,Levante,3,0,H,rf,live,0.2909,0.3779,0.3312
+La Liga,2026,2026-08-16,Santander,Villarreal,2,2,D,rf,live,0.1502,0.3568,0.4930
+La Liga,2026,2026-08-17,La Coruna,Elche,1,1,D,rf,live,0.2851,0.3635,0.3514
+La Liga,2026,2026-08-19,Ath Madrid,Malaga,2,0,H,rf,live,0.5408,0.2964,0.1628
+La Liga,2026,2026-08-20,Vallecano,Alaves,1,1,D,rf,live,0.3979,0.3289,0.2732
+La Liga,2026,2026-08-21,Betis,Sociedad,1,0,H,rf,live,0.4370,0.3542,0.2088
+La Liga,2026,2026-08-22,Ath Bilbao,Sevilla,1,3,A,rf,live,0.3200,0.4016,0.2784
+La Liga,2026,2026-08-22,Espanol,Real Madrid,1,2,A,rf,live,0.2056,0.2699,0.5245
+La Liga,2026,2026-08-22,Valencia,Celta,0,0,D,rf,live,0.3284,0.3762,0.2953
+La Liga,2026,2026-08-23,Ath Madrid,Villarreal,2,2,D,rf,live,0.3231,0.4045,0.2724
+La Liga,2026,2026-08-23,Elche,Barcelona,0,5,A,rf,live,0.1304,0.3124,0.5572
+La Liga,2026,2026-08-23,Getafe,Santander,1,0,H,rf,live,0.3769,0.3622,0.2608
+La Liga,2026,2026-08-24,Malaga,La Coruna,1,1,D,rf,live,0.2983,0.4005,0.3013
+La Liga,2026,2026-08-24,Osasuna,Levante,0,0,D,rf,live,0.2248,0.4901,0.2851
+La Liga,2026,2026-08-25,Valencia,Betis,0,1,A,rf,live,0.2735,0.3792,0.3473
+La Liga,2026,2026-08-26,Real Madrid,Sociedad,4,1,H,rf,live,0.6461,0.2222,0.1317
+La Liga,2026,2026-08-27,Barcelona,Ath Bilbao,2,0,H,rf,live,0.6650,0.2074,0.1276
+La Liga,2026,2026-08-27,Celta,Osasuna,1,2,A,rf,live,0.4382,0.3088,0.2530
+La Liga,2026,2026-08-28,Alaves,Villarreal,1,0,H,rf,live,0.2164,0.3491,0.4345
+La Liga,2026,2026-08-28,Santander,Elche,3,2,H,rf,live,0.3679,0.3671,0.2649
+La Liga,2026,2026-08-29,Levante,Betis,5,2,H,rf,live,0.1357,0.3221,0.5422
+La Liga,2026,2026-08-29,Sevilla,Ath Madrid,1,3,A,rf,live,0.2018,0.3162,0.4820
+La Liga,2026,2026-08-29,Sociedad,Espanol,2,1,H,rf,live,0.2396,0.4565,0.3039
+La Liga,2026,2026-08-30,Celta,Ath Bilbao,0,2,A,rf,live,0.4276,0.3409,0.2314
+La Liga,2026,2026-08-30,La Coruna,Valencia,3,1,H,rf,live,0.1528,0.3242,0.5229
+La Liga,2026,2026-08-30,Real Madrid,Malaga,4,0,H,rf,live,0.6581,0.2279,0.1139
+La Liga,2026,2026-08-31,Barcelona,Vallecano,5,2,H,rf,live,0.6261,0.2248,0.1491
+La Liga,2026,2026-08-31,Osasuna,Getafe,1,0,H,rf,live,0.3580,0.3788,0.2632
+La Liga,2026,2026-09-03,Sociedad,Celta,0,0,D,rf,live,0.3131,0.4222,0.2647
+La Liga,2026,2026-09-04,Betis,Real Madrid,1,0,H,rf,live,0.1264,0.2670,0.6066
+La Liga,2026,2026-09-05,Ath Bilbao,Ath Madrid,3,0,H,rf,live,0.1486,0.3570,0.4944
+La Liga,2026,2026-09-05,Vallecano,Santander,3,2,H,rf,live,0.3584,0.3918,0.2498
+La Liga,2026,2026-09-05,Villarreal,La Coruna,2,3,A,rf,live,0.5380,0.2641,0.1978
+La Liga,2026,2026-09-06,Alaves,Osasuna,5,2,H,rf,live,0.3324,0.3678,0.2998
+La Liga,2026,2026-09-06,Espanol,Sevilla,1,1,D,rf,live,0.3535,0.3474,0.2991
+La Liga,2026,2026-09-06,Malaga,Levante,0,0,D,rf,live,0.1858,0.3773,0.4370
+La Liga,2026,2026-09-06,Valencia,Barcelona,0,5,A,rf,live,0.1235,0.2669,0.6095
+La Liga,2026,2026-09-07,Elche,Sociedad,2,3,A,rf,live,0.2497,0.4427,0.3076
+La Liga,2026,2026-09-07,Getafe,Celta,1,1,D,rf,live,0.3474,0.3743,0.2784
+La Liga,2026,2026-09-11,Sevilla,Valencia,1,0,H,rf,live,0.3223,0.3892,0.2885
+La Liga,2026,2026-09-12,Ath Bilbao,Elche,1,1,D,rf,live,0.3541,0.4126,0.2333
+La Liga,2026,2026-09-12,Osasuna,Espanol,0,2,A,rf,live,0.3317,0.3871,0.2812
+La Liga,2026,2026-09-12,Real Madrid,Vallecano,4,1,H,rf,live,0.5587,0.2764,0.1649
+La Liga,2026,2026-09-12,Santander,Alaves,2,1,H,rf,live,0.1499,0.3485,0.5016
+La Liga,2026,2026-09-13,Celta,Malaga,1,1,D,rf,live,0.4720,0.3152,0.2128
+La Liga,2026,2026-09-13,Getafe,La Coruna,1,1,D,rf,live,0.3303,0.3928,0.2769
+La Liga,2026,2026-09-13,Levante,Barcelona,2,4,A,rf,live,0.1171,0.2826,0.6003
+La Liga,2026,2026-09-13,Sociedad,Ath Madrid,0,3,A,rf,live,0.1975,0.2800,0.5225
+La Liga,2026,2026-09-14,Villarreal,Betis,1,2,A,rf,live,0.3236,0.3810,0.2955
+La Liga,2026,2026-09-15,Alaves,Valencia,0,1,A,rf,live,0.4837,0.3328,0.1835
+La Liga,2026,2026-09-15,Elche,Real Madrid,2,3,A,rf,live,0.1360,0.3306,0.5334
+La Liga,2026,2026-09-15,Vallecano,Espanol,2,1,H,rf,live,0.2716,0.4380,0.2903
+La Liga,2026,2026-09-16,Ath Madrid,Osasuna,4,0,H,rf,live,0.6340,0.2322,0.1338
+La Liga,2026,2026-09-16,Barcelona,Santander,7,2,H,rf,live,0.5778,0.2741,0.1481
+La Liga,2026,2026-09-16,La Coruna,Sevilla,0,1,A,rf,live,0.3327,0.3139,0.3535
+La Liga,2026,2026-09-17,Betis,Getafe,1,0,H,rf,live,0.5687,0.2430,0.1883
+La Liga,2026,2026-09-17,Malaga,Villarreal,1,3,A,rf,live,0.2001,0.3429,0.4570
+La Liga,2026,2026-09-18,Espanol,Elche,1,3,A,rf,live,0.4214,0.3381,0.2404
+La Liga,2026,2026-09-19,Ath Bilbao,Alaves,0,0,D,rf,live,0.3616,0.3466,0.2918
+La Liga,2026,2026-09-19,Celta,Santander,5,0,H,rf,live,0.3593,0.3582,0.2825
+La Liga,2026,2026-09-19,Osasuna,Vallecano,1,1,D,rf,live,0.2161,0.3940,0.3898
+La Liga,2026,2026-09-19,Sevilla,Barcelona,1,3,A,rf,live,0.1309,0.2578,0.6113
+La Liga,2026,2026-09-20,Ath Madrid,Real Madrid,2,1,H,rf,live,0.1615,0.2852,0.5534
+La Liga,2026,2026-09-20,Getafe,Malaga,1,0,H,rf,live,0.4224,0.3395,0.2380
+La Liga,2026,2026-09-20,La Coruna,Betis,1,1,D,rf,live,0.1637,0.3117,0.5246
+La Liga,2026,2026-09-20,Valencia,Sociedad,2,3,A,rf,live,0.2790,0.4331,0.2878
+La Liga,2026,2026-09-20,Villarreal,Levante,3,1,H,rf,live,0.5283,0.2896,0.1821
+La Liga,2025,2025-08-15,Girona,Vallecano,1,3,A,xgb,test,0.2506,0.3131,0.4363
+La Liga,2025,2025-08-15,Villarreal,Oviedo,2,0,H,xgb,test,0.5843,0.3120,0.1037
+La Liga,2025,2025-08-16,Alaves,Levante,2,1,H,xgb,test,0.2921,0.3993,0.3086
+La Liga,2025,2025-08-16,Mallorca,Barcelona,0,3,A,xgb,test,0.0849,0.1257,0.7894
+La Liga,2025,2025-08-16,Valencia,Sociedad,1,1,D,xgb,test,0.4258,0.3752,0.1990
+La Liga,2025,2025-08-17,Ath Bilbao,Sevilla,3,2,H,xgb,test,0.4797,0.2879,0.2324
+La Liga,2025,2025-08-17,Celta,Getafe,0,2,A,xgb,test,0.5198,0.3295,0.1507
+La Liga,2025,2025-08-17,Espanol,Ath Madrid,2,1,H,xgb,test,0.0869,0.3527,0.5604
+La Liga,2025,2025-08-18,Elche,Betis,1,1,D,xgb,test,0.1434,0.3286,0.5280
+La Liga,2025,2025-08-19,Real Madrid,Osasuna,1,0,H,xgb,test,0.7208,0.1623,0.1168
+La Liga,2025,2025-08-22,Betis,Alaves,1,0,H,xgb,test,0.2999,0.3929,0.3072
+La Liga,2025,2025-08-23,Ath Madrid,Elche,1,1,D,xgb,test,0.6481,0.2583,0.0936
+La Liga,2025,2025-08-23,Levante,Barcelona,2,3,A,xgb,test,0.1234,0.3184,0.5582
+La Liga,2025,2025-08-23,Mallorca,Celta,1,1,D,xgb,test,0.2644,0.2432,0.4925
+La Liga,2025,2025-08-24,Osasuna,Valencia,1,0,H,xgb,test,0.3657,0.3808,0.2535
+La Liga,2025,2025-08-24,Oviedo,Real Madrid,0,3,A,xgb,test,0.1052,0.1514,0.7434
+La Liga,2025,2025-08-24,Sociedad,Espanol,2,2,D,xgb,test,0.4354,0.2888,0.2758
+La Liga,2025,2025-08-24,Villarreal,Girona,5,0,H,xgb,test,0.6220,0.2779,0.1000
+La Liga,2025,2025-08-25,Ath Bilbao,Vallecano,1,0,H,xgb,test,0.4792,0.2908,0.2301
+La Liga,2025,2025-08-25,Sevilla,Getafe,1,2,A,xgb,test,0.3682,0.3733,0.2585
+La Liga,2025,2025-08-27,Celta,Betis,1,1,D,xgb,test,0.2901,0.3508,0.3591
+La Liga,2025,2025-08-29,Elche,Levante,2,0,H,xgb,test,0.3133,0.5080,0.1787
+La Liga,2025,2025-08-29,Valencia,Getafe,3,0,H,xgb,test,0.2955,0.5131,0.1915
+La Liga,2025,2025-08-30,Alaves,Ath Madrid,1,1,D,xgb,test,0.1069,0.2278,0.6653
+La Liga,2025,2025-08-30,Girona,Sevilla,0,2,A,xgb,test,0.3144,0.3205,0.3651
+La Liga,2025,2025-08-30,Oviedo,Sociedad,1,0,H,xgb,test,0.2890,0.1943,0.5167
+La Liga,2025,2025-08-30,Real Madrid,Mallorca,2,1,H,xgb,test,0.7148,0.2194,0.0658
+La Liga,2025,2025-08-31,Betis,Ath Bilbao,1,2,A,xgb,test,0.2150,0.3898,0.3952
+La Liga,2025,2025-08-31,Celta,Villarreal,1,1,D,xgb,test,0.1905,0.2777,0.5318
+La Liga,2025,2025-08-31,Espanol,Osasuna,1,0,H,xgb,test,0.3752,0.3918,0.2330
+La Liga,2025,2025-08-31,Vallecano,Barcelona,1,1,D,xgb,test,0.0970,0.3186,0.5844
+La Liga,2025,2025-09-12,Sevilla,Elche,2,2,D,xgb,test,0.3391,0.3993,0.2616
+La Liga,2025,2025-09-13,Ath Bilbao,Alaves,0,1,A,xgb,test,0.6573,0.2251,0.1175
+La Liga,2025,2025-09-13,Ath Madrid,Villarreal,2,0,H,xgb,test,0.2215,0.4052,0.3733
+La Liga,2025,2025-09-13,Getafe,Oviedo,2,0,H,xgb,test,0.3667,0.4463,0.1870
+La Liga,2025,2025-09-13,Sociedad,Real Madrid,1,2,A,xgb,test,0.1364,0.1775,0.6861
+La Liga,2025,2025-09-14,Barcelona,Valencia,6,0,H,xgb,test,0.8074,0.1238,0.0688
+La Liga,2025,2025-09-14,Celta,Girona,1,1,D,xgb,test,0.4722,0.3868,0.1410
+La Liga,2025,2025-09-14,Levante,Betis,2,2,D,xgb,test,0.1529,0.3268,0.5204
+La Liga,2025,2025-09-14,Osasuna,Vallecano,2,0,H,xgb,test,0.3648,0.3494,0.2857
+La Liga,2025,2025-09-15,Espanol,Mallorca,3,2,H,xgb,test,0.4105,0.4404,0.1492
+La Liga,2025,2025-09-19,Betis,Sociedad,3,1,H,xgb,test,0.3964,0.3984,0.2052
+La Liga,2025,2025-09-20,Alaves,Sevilla,1,2,A,xgb,test,0.4011,0.3409,0.2580
+La Liga,2025,2025-09-20,Girona,Levante,0,4,A,xgb,test,0.3643,0.3856,0.2501
+La Liga,2025,2025-09-20,Real Madrid,Espanol,2,0,H,xgb,test,0.6240,0.2385,0.1375
+La Liga,2025,2025-09-20,Valencia,Ath Bilbao,2,0,H,xgb,test,0.1727,0.3926,0.4347
+La Liga,2025,2025-09-20,Villarreal,Osasuna,2,1,H,xgb,test,0.4462,0.2595,0.2943
+La Liga,2025,2025-09-21,Barcelona,Getafe,3,0,H,xgb,test,0.6602,0.2375,0.1022
+La Liga,2025,2025-09-21,Elche,Oviedo,1,0,H,xgb,test,0.4742,0.3508,0.1749
+La Liga,2025,2025-09-21,Mallorca,Ath Madrid,1,1,D,xgb,test,0.0857,0.4661,0.4482
+La Liga,2025,2025-09-21,Vallecano,Celta,1,1,D,xgb,test,0.3955,0.3267,0.2779
+La Liga,2025,2025-09-23,Ath Bilbao,Girona,1,1,D,xgb,test,0.5646,0.3475,0.0879
+La Liga,2025,2025-09-23,Espanol,Valencia,2,2,D,xgb,test,0.3261,0.3699,0.3041
+La Liga,2025,2025-09-23,Levante,Real Madrid,1,4,A,xgb,test,0.1278,0.1873,0.6849
+La Liga,2025,2025-09-23,Sevilla,Villarreal,1,2,A,xgb,test,0.1085,0.2275,0.6640
+La Liga,2025,2025-09-24,Ath Madrid,Vallecano,3,2,H,xgb,test,0.5835,0.2618,0.1547
+La Liga,2025,2025-09-24,Getafe,Alaves,1,1,D,xgb,test,0.4450,0.3600,0.1950
+La Liga,2025,2025-09-24,Sociedad,Mallorca,1,0,H,xgb,test,0.3455,0.5025,0.1520
+La Liga,2025,2025-09-25,Osasuna,Elche,1,1,D,xgb,test,0.4199,0.3727,0.2074
+La Liga,2025,2025-09-25,Oviedo,Barcelona,1,3,A,xgb,test,0.1956,0.1364,0.6679
+La Liga,2025,2025-09-26,Girona,Espanol,0,0,D,xgb,test,0.1780,0.3997,0.4224
+La Liga,2025,2025-09-27,Ath Madrid,Real Madrid,5,2,H,xgb,test,0.1692,0.2144,0.6165
+La Liga,2025,2025-09-27,Getafe,Levante,1,1,D,xgb,test,0.3226,0.4586,0.2188
+La Liga,2025,2025-09-27,Mallorca,Alaves,1,0,H,xgb,test,0.2881,0.3881,0.3238
+La Liga,2025,2025-09-27,Villarreal,Ath Bilbao,1,0,H,xgb,test,0.3176,0.4003,0.2821
+La Liga,2025,2025-09-28,Barcelona,Sociedad,2,1,H,xgb,test,0.6253,0.2546,0.1201
+La Liga,2025,2025-09-28,Betis,Osasuna,2,0,H,xgb,test,0.4801,0.2557,0.2642
+La Liga,2025,2025-09-28,Elche,Celta,2,1,H,xgb,test,0.2846,0.3661,0.3493
+La Liga,2025,2025-09-28,Vallecano,Sevilla,0,1,A,xgb,test,0.3350,0.4204,0.2446
+La Liga,2025,2025-09-30,Valencia,Oviedo,1,2,A,xgb,test,0.4224,0.4226,0.1550
+La Liga,2025,2025-10-03,Osasuna,Getafe,2,1,H,xgb,test,0.4411,0.3635,0.1954
+La Liga,2025,2025-10-04,Ath Bilbao,Mallorca,2,1,H,xgb,test,0.5024,0.2981,0.1995
+La Liga,2025,2025-10-04,Girona,Valencia,2,1,H,xgb,test,0.2339,0.3441,0.4219
+La Liga,2025,2025-10-04,Oviedo,Levante,0,2,A,xgb,test,0.2766,0.4781,0.2452
+La Liga,2025,2025-10-04,Real Madrid,Villarreal,3,1,H,xgb,test,0.4385,0.2962,0.2653
+La Liga,2025,2025-10-05,Alaves,Elche,3,1,H,xgb,test,0.3048,0.5017,0.1934
+La Liga,2025,2025-10-05,Celta,Ath Madrid,1,1,D,xgb,test,0.0750,0.2945,0.6305
+La Liga,2025,2025-10-05,Espanol,Betis,1,2,A,xgb,test,0.1582,0.3498,0.4921
+La Liga,2025,2025-10-05,Sevilla,Barcelona,4,1,H,xgb,test,0.1397,0.1850,0.6753
+La Liga,2025,2025-10-05,Sociedad,Vallecano,0,1,A,xgb,test,0.2986,0.4609,0.2405
+La Liga,2025,2025-10-17,Oviedo,Espanol,0,2,A,xgb,test,0.2066,0.3490,0.4444
+La Liga,2025,2025-10-18,Ath Madrid,Osasuna,1,0,H,xgb,test,0.4880,0.3167,0.1953
+La Liga,2025,2025-10-18,Barcelona,Girona,2,1,H,xgb,test,0.5557,0.3141,0.1302
+La Liga,2025,2025-10-18,Sevilla,Mallorca,1,3,A,xgb,test,0.3552,0.3795,0.2653
+La Liga,2025,2025-10-18,Villarreal,Betis,2,2,D,xgb,test,0.3140,0.3500,0.3360
+La Liga,2025,2025-10-19,Celta,Sociedad,1,1,D,xgb,test,0.3129,0.4292,0.2580
+La Liga,2025,2025-10-19,Elche,Ath Bilbao,0,0,D,xgb,test,0.1634,0.2783,0.5583
+La Liga,2025,2025-10-19,Getafe,Real Madrid,0,1,A,xgb,test,0.0893,0.3033,0.6074
+La Liga,2025,2025-10-19,Levante,Vallecano,0,3,A,xgb,test,0.2717,0.4270,0.3013
+La Liga,2025,2025-10-20,Alaves,Valencia,0,0,D,xgb,test,0.4287,0.3356,0.2357
+La Liga,2025,2025-10-24,Sociedad,Sevilla,2,1,H,xgb,test,0.3274,0.4734,0.1991
+La Liga,2025,2025-10-25,Ath Bilbao,Getafe,0,1,A,xgb,test,0.6255,0.2818,0.0927
+La Liga,2025,2025-10-25,Espanol,Elche,1,0,H,xgb,test,0.3882,0.3401,0.2718
+La Liga,2025,2025-10-25,Girona,Oviedo,3,3,D,xgb,test,0.3442,0.3594,0.2964
+La Liga,2025,2025-10-25,Valencia,Villarreal,0,2,A,xgb,test,0.1423,0.2997,0.5579
+La Liga,2025,2025-10-26,Mallorca,Levante,1,1,D,xgb,test,0.3611,0.3463,0.2926
+La Liga,2025,2025-10-26,Osasuna,Celta,2,3,A,xgb,test,0.2654,0.4129,0.3217
+La Liga,2025,2025-10-26,Real Madrid,Barcelona,2,1,H,xgb,test,0.2957,0.2918,0.4124
+La Liga,2025,2025-10-26,Vallecano,Alaves,1,0,H,xgb,test,0.5570,0.3026,0.1404
+La Liga,2025,2025-10-27,Betis,Ath Madrid,0,2,A,xgb,test,0.1342,0.2372,0.6286
+La Liga,2025,2025-10-31,Getafe,Girona,2,1,H,xgb,test,0.4694,0.3343,0.1963
+La Liga,2025,2025-11-01,Ath Madrid,Sevilla,3,0,H,xgb,test,0.6704,0.2120,0.1175
+La Liga,2025,2025-11-01,Real Madrid,Valencia,4,0,H,xgb,test,0.7085,0.2145,0.0770
+La Liga,2025,2025-11-01,Sociedad,Ath Bilbao,3,2,H,xgb,test,0.1993,0.3001,0.5006
+La Liga,2025,2025-11-01,Villarreal,Vallecano,4,0,H,xgb,test,0.4766,0.2890,0.2345
+La Liga,2025,2025-11-02,Alaves,Espanol,2,1,H,xgb,test,0.3459,0.2919,0.3622
+La Liga,2025,2025-11-02,Barcelona,Elche,3,1,H,xgb,test,0.6392,0.1969,0.1640
+La Liga,2025,2025-11-02,Betis,Mallorca,3,0,H,xgb,test,0.4831,0.2787,0.2382
+La Liga,2025,2025-11-02,Levante,Celta,1,2,A,xgb,test,0.1756,0.4563,0.3681
+La Liga,2025,2025-11-03,Oviedo,Osasuna,0,0,D,xgb,test,0.2703,0.3403,0.3895
+La Liga,2025,2025-11-07,Elche,Sociedad,1,1,D,xgb,test,0.3331,0.3862,0.2808
+La Liga,2025,2025-11-08,Ath Madrid,Levante,3,1,H,xgb,test,0.6176,0.2539,0.1285
+La Liga,2025,2025-11-08,Espanol,Villarreal,0,2,A,xgb,test,0.1479,0.2883,0.5639
+La Liga,2025,2025-11-08,Girona,Alaves,1,0,H,xgb,test,0.1998,0.2408,0.5594
+La Liga,2025,2025-11-08,Sevilla,Osasuna,1,0,H,xgb,test,0.2588,0.4480,0.2932
+La Liga,2025,2025-11-09,Ath Bilbao,Oviedo,1,0,H,xgb,test,0.6239,0.2457,0.1304
+La Liga,2025,2025-11-09,Celta,Barcelona,2,4,A,xgb,test,0.0970,0.2408,0.6622
+La Liga,2025,2025-11-09,Mallorca,Getafe,1,0,H,xgb,test,0.3437,0.3666,0.2896
+La Liga,2025,2025-11-09,Valencia,Betis,1,1,D,xgb,test,0.1152,0.4508,0.4339
+La Liga,2025,2025-11-09,Vallecano,Real Madrid,0,0,D,xgb,test,0.0897,0.2255,0.6848
+La Liga,2025,2025-11-21,Valencia,Levante,1,0,H,xgb,test,0.3049,0.4982,0.1969
+La Liga,2025,2025-11-22,Alaves,Celta,0,1,A,xgb,test,0.2667,0.4530,0.2804
+La Liga,2025,2025-11-22,Barcelona,Ath Bilbao,4,0,H,xgb,test,0.7312,0.1616,0.1072
+La Liga,2025,2025-11-22,Osasuna,Sociedad,1,3,A,xgb,test,0.2477,0.5616,0.1907
+La Liga,2025,2025-11-22,Villarreal,Mallorca,2,1,H,xgb,test,0.6627,0.2082,0.1290
+La Liga,2025,2025-11-23,Betis,Girona,1,1,D,xgb,test,0.5149,0.3193,0.1657
+La Liga,2025,2025-11-23,Elche,Real Madrid,2,2,D,xgb,test,0.1085,0.3485,0.5430
+La Liga,2025,2025-11-23,Getafe,Ath Madrid,0,1,A,xgb,test,0.1098,0.3089,0.5813
+La Liga,2025,2025-11-23,Oviedo,Vallecano,0,0,D,xgb,test,0.2522,0.1930,0.5548
+La Liga,2025,2025-11-24,Espanol,Sevilla,2,1,H,xgb,test,0.3274,0.4510,0.2216
+La Liga,2025,2025-11-28,Getafe,Elche,1,0,H,xgb,test,0.3428,0.4310,0.2262
+La Liga,2025,2025-11-29,Ath Madrid,Oviedo,2,0,H,xgb,test,0.6197,0.2815,0.0987
+La Liga,2025,2025-11-29,Barcelona,Alaves,3,1,H,xgb,test,0.7710,0.1292,0.0998
+La Liga,2025,2025-11-29,Levante,Ath Bilbao,0,2,A,xgb,test,0.1622,0.3248,0.5130
+La Liga,2025,2025-11-29,Mallorca,Osasuna,2,2,D,xgb,test,0.2831,0.5019,0.2150
+La Liga,2025,2025-11-30,Celta,Espanol,0,1,A,xgb,test,0.3853,0.3172,0.2975
+La Liga,2025,2025-11-30,Girona,Real Madrid,1,1,D,xgb,test,0.0964,0.1300,0.7736
+La Liga,2025,2025-11-30,Sevilla,Betis,0,2,A,xgb,test,0.1446,0.3279,0.5275
+La Liga,2025,2025-11-30,Sociedad,Villarreal,2,3,A,xgb,test,0.1260,0.2893,0.5847
+La Liga,2025,2025-12-01,Vallecano,Valencia,1,1,D,xgb,test,0.4159,0.3748,0.2093
+La Liga,2025,2025-12-02,Barcelona,Ath Madrid,3,1,H,xgb,test,0.5557,0.2312,0.2131
+La Liga,2025,2025-12-03,Ath Bilbao,Real Madrid,0,3,A,xgb,test,0.1424,0.1953,0.6623
+La Liga,2025,2025-12-05,Oviedo,Mallorca,0,0,D,xgb,test,0.3015,0.3933,0.3052
+La Liga,2025,2025-12-06,Alaves,Sociedad,1,0,H,xgb,test,0.2437,0.3924,0.3639
+La Liga,2025,2025-12-06,Ath Bilbao,Ath Madrid,1,0,H,xgb,test,0.1198,0.2493,0.6309
+La Liga,2025,2025-12-06,Betis,Barcelona,3,5,A,xgb,test,0.1100,0.2276,0.6624
+La Liga,2025,2025-12-06,Villarreal,Getafe,2,0,H,xgb,test,0.6944,0.1802,0.1253
+La Liga,2025,2025-12-07,Elche,Girona,3,0,H,xgb,test,0.2452,0.4684,0.2864
+La Liga,2025,2025-12-07,Espanol,Vallecano,1,0,H,xgb,test,0.4191,0.3245,0.2564
+La Liga,2025,2025-12-07,Real Madrid,Celta,0,2,A,xgb,test,0.6085,0.2087,0.1827
+La Liga,2025,2025-12-07,Valencia,Sevilla,1,1,D,xgb,test,0.4103,0.3659,0.2238
+La Liga,2025,2025-12-08,Osasuna,Levante,2,0,H,xgb,test,0.3397,0.5474,0.1130
+La Liga,2025,2025-12-12,Sociedad,Girona,1,2,A,xgb,test,0.3763,0.3798,0.2438
+La Liga,2025,2025-12-13,Ath Madrid,Valencia,2,1,H,xgb,test,0.6633,0.2150,0.1218
+La Liga,2025,2025-12-13,Barcelona,Osasuna,2,0,H,xgb,test,0.7400,0.1624,0.0976
+La Liga,2025,2025-12-13,Getafe,Espanol,0,1,A,xgb,test,0.3907,0.3735,0.2358
+La Liga,2025,2025-12-13,Mallorca,Elche,3,1,H,xgb,test,0.3082,0.4450,0.2468
+La Liga,2025,2025-12-14,Alaves,Real Madrid,1,2,A,xgb,test,0.1495,0.2219,0.6286
+La Liga,2025,2025-12-14,Celta,Ath Bilbao,2,0,H,xgb,test,0.2761,0.4152,0.3087
+La Liga,2025,2025-12-14,Sevilla,Oviedo,4,0,H,xgb,test,0.4696,0.2591,0.2713
+La Liga,2025,2025-12-15,Vallecano,Betis,0,0,D,xgb,test,0.3040,0.2723,0.4237
+La Liga,2025,2025-12-19,Valencia,Mallorca,1,1,D,xgb,test,0.2912,0.4463,0.2625
+La Liga,2025,2025-12-20,Levante,Sociedad,1,1,D,xgb,test,0.2167,0.3728,0.4106
+La Liga,2025,2025-12-20,Osasuna,Alaves,3,0,H,xgb,test,0.3686,0.3445,0.2869
+La Liga,2025,2025-12-20,Oviedo,Celta,0,0,D,xgb,test,0.2865,0.2536,0.4600
+La Liga,2025,2025-12-20,Real Madrid,Sevilla,2,0,H,xgb,test,0.7554,0.1523,0.0922
+La Liga,2025,2025-12-21,Betis,Getafe,4,0,H,xgb,test,0.5422,0.2142,0.2435
+La Liga,2025,2025-12-21,Elche,Vallecano,4,0,H,xgb,test,0.3462,0.2878,0.3659
+La Liga,2025,2025-12-21,Girona,Ath Madrid,0,3,A,xgb,test,0.1075,0.2531,0.6393
+La Liga,2025,2025-12-21,Villarreal,Barcelona,0,2,A,xgb,test,0.1341,0.1791,0.6868
+La Liga,2025,2025-12-22,Ath Bilbao,Espanol,1,2,A,xgb,test,0.3955,0.3571,0.2474
+La Liga,2025,2026-01-02,Vallecano,Getafe,1,1,D,xgb,test,0.4593,0.2993,0.2414
+La Liga,2025,2026-01-03,Celta,Valencia,4,1,H,xgb,test,0.4617,0.3124,0.2259
+La Liga,2025,2026-01-03,Elche,Villarreal,1,3,A,xgb,test,0.1081,0.1911,0.7008
+La Liga,2025,2026-01-03,Espanol,Barcelona,0,2,A,xgb,test,0.1107,0.1811,0.7082
+La Liga,2025,2026-01-03,Osasuna,Ath Bilbao,1,1,D,xgb,test,0.2703,0.3484,0.3813
+La Liga,2025,2026-01-04,Alaves,Oviedo,1,1,D,xgb,test,0.3279,0.3310,0.3411
+La Liga,2025,2026-01-04,Mallorca,Girona,1,2,A,xgb,test,0.3154,0.4627,0.2219
+La Liga,2025,2026-01-04,Real Madrid,Betis,5,1,H,xgb,test,0.5580,0.2625,0.1796
+La Liga,2025,2026-01-04,Sevilla,Levante,0,3,A,xgb,test,0.4299,0.4294,0.1407
+La Liga,2025,2026-01-04,Sociedad,Ath Madrid,1,1,D,xgb,test,0.1057,0.2817,0.6126
+La Liga,2025,2026-01-09,Getafe,Sociedad,1,2,A,xgb,test,0.3068,0.4368,0.2564
+La Liga,2025,2026-01-10,Girona,Osasuna,1,0,H,xgb,test,0.3496,0.3627,0.2877
+La Liga,2025,2026-01-10,Oviedo,Betis,1,1,D,xgb,test,0.1775,0.3114,0.5111
+La Liga,2025,2026-01-10,Valencia,Elche,1,1,D,xgb,test,0.3293,0.5105,0.1602
+La Liga,2025,2026-01-10,Villarreal,Alaves,3,1,H,xgb,test,0.6383,0.2386,0.1231
+La Liga,2025,2026-01-11,Levante,Espanol,1,1,D,xgb,test,0.2090,0.3029,0.4881
+La Liga,2025,2026-01-11,Vallecano,Mallorca,2,1,H,xgb,test,0.3984,0.3597,0.2419
+La Liga,2025,2026-01-12,Sevilla,Celta,0,1,A,xgb,test,0.2128,0.2993,0.4879
+La Liga,2025,2026-01-16,Espanol,Girona,0,2,A,xgb,test,0.3827,0.3223,0.2950
+La Liga,2025,2026-01-17,Betis,Villarreal,2,0,H,xgb,test,0.1402,0.3167,0.5431
+La Liga,2025,2026-01-17,Mallorca,Ath Bilbao,3,2,H,xgb,test,0.2009,0.3454,0.4537
+La Liga,2025,2026-01-17,Osasuna,Oviedo,3,2,H,xgb,test,0.3234,0.4425,0.2342
+La Liga,2025,2026-01-17,Real Madrid,Levante,2,0,H,xgb,test,0.7191,0.1664,0.1145
+La Liga,2025,2026-01-18,Ath Madrid,Alaves,1,0,H,xgb,test,0.5089,0.3513,0.1398
+La Liga,2025,2026-01-18,Celta,Vallecano,3,0,H,xgb,test,0.4070,0.3805,0.2125
+La Liga,2025,2026-01-18,Getafe,Valencia,0,1,A,xgb,test,0.2833,0.4469,0.2699
+La Liga,2025,2026-01-18,Sociedad,Barcelona,2,1,H,xgb,test,0.2254,0.1754,0.5992
+La Liga,2025,2026-01-19,Elche,Sevilla,2,2,D,xgb,test,0.3159,0.3965,0.2876
+La Liga,2025,2026-01-23,Levante,Elche,3,2,H,xgb,test,0.2825,0.4864,0.2310
+La Liga,2025,2026-01-24,Sevilla,Ath Bilbao,2,1,H,xgb,test,0.1956,0.2775,0.5269
+La Liga,2025,2026-01-24,Valencia,Espanol,3,2,H,xgb,test,0.3350,0.3657,0.2993
+La Liga,2025,2026-01-24,Vallecano,Osasuna,1,3,A,xgb,test,0.2639,0.4270,0.3091
+La Liga,2025,2026-01-24,Villarreal,Real Madrid,0,2,A,xgb,test,0.1238,0.2345,0.6418
+La Liga,2025,2026-01-25,Alaves,Betis,2,1,H,xgb,test,0.0965,0.2984,0.6052
+La Liga,2025,2026-01-25,Ath Madrid,Mallorca,3,0,H,xgb,test,0.5685,0.3174,0.1141
+La Liga,2025,2026-01-25,Barcelona,Oviedo,3,0,H,xgb,test,0.6784,0.2217,0.0998
+La Liga,2025,2026-01-25,Sociedad,Celta,3,1,H,xgb,test,0.1974,0.2477,0.5548
+La Liga,2025,2026-01-26,Girona,Getafe,1,1,D,xgb,test,0.4804,0.3871,0.1325
+La Liga,2025,2026-01-30,Espanol,Alaves,1,2,A,xgb,test,0.4469,0.3267,0.2264
+La Liga,2025,2026-01-31,Elche,Barcelona,1,3,A,xgb,test,0.1121,0.1625,0.7255
+La Liga,2025,2026-01-31,Levante,Ath Madrid,0,0,D,xgb,test,0.0995,0.3116,0.5888
+La Liga,2025,2026-01-31,Osasuna,Villarreal,2,2,D,xgb,test,0.1515,0.1855,0.6630
+La Liga,2025,2026-01-31,Oviedo,Girona,1,0,H,xgb,test,0.1519,0.3296,0.5185
+La Liga,2025,2026-02-01,Ath Bilbao,Sociedad,1,1,D,xgb,test,0.2132,0.4816,0.3052
+La Liga,2025,2026-02-01,Betis,Valencia,2,1,H,xgb,test,0.4083,0.3023,0.2894
+La Liga,2025,2026-02-01,Getafe,Celta,0,0,D,xgb,test,0.1420,0.3281,0.5299
+La Liga,2025,2026-02-01,Real Madrid,Vallecano,2,1,H,xgb,test,0.5638,0.2966,0.1396
+La Liga,2025,2026-02-02,Mallorca,Sevilla,4,1,H,xgb,test,0.2680,0.4728,0.2591
+La Liga,2025,2026-02-06,Celta,Osasuna,1,2,A,xgb,test,0.4313,0.3401,0.2286
+La Liga,2025,2026-02-07,Barcelona,Mallorca,3,0,H,xgb,test,0.6663,0.1967,0.1371
+La Liga,2025,2026-02-07,Sociedad,Elche,3,1,H,xgb,test,0.4858,0.3965,0.1176
+La Liga,2025,2026-02-08,Alaves,Getafe,0,2,A,xgb,test,0.3758,0.3620,0.2622
+La Liga,2025,2026-02-08,Ath Bilbao,Levante,4,2,H,xgb,test,0.3980,0.3579,0.2441
+La Liga,2025,2026-02-08,Ath Madrid,Betis,0,1,A,xgb,test,0.3941,0.3874,0.2185
+La Liga,2025,2026-02-08,Sevilla,Girona,1,1,D,xgb,test,0.2397,0.5515,0.2088
+La Liga,2025,2026-02-08,Valencia,Real Madrid,0,2,A,xgb,test,0.1148,0.2926,0.5925
+La Liga,2025,2026-02-09,Villarreal,Espanol,4,1,H,xgb,test,0.6692,0.2315,0.0993
+La Liga,2025,2026-02-13,Elche,Osasuna,0,0,D,xgb,test,0.1163,0.3971,0.4867
+La Liga,2025,2026-02-14,Espanol,Celta,2,2,D,xgb,test,0.2432,0.3691,0.3877
+La Liga,2025,2026-02-14,Getafe,Villarreal,2,1,H,xgb,test,0.1997,0.3459,0.4544
+La Liga,2025,2026-02-14,Real Madrid,Sociedad,4,1,H,xgb,test,0.5889,0.2468,0.1643
+La Liga,2025,2026-02-14,Sevilla,Alaves,1,1,D,xgb,test,0.3205,0.3783,0.3012
+La Liga,2025,2026-02-15,Levante,Valencia,0,2,A,xgb,test,0.2794,0.4699,0.2508
+La Liga,2025,2026-02-15,Mallorca,Betis,1,2,A,xgb,test,0.1917,0.1785,0.6297
+La Liga,2025,2026-02-15,Oviedo,Ath Bilbao,1,2,A,xgb,test,0.0964,0.3049,0.5986
+La Liga,2025,2026-02-15,Vallecano,Ath Madrid,3,0,H,xgb,test,0.1233,0.2928,0.5839
+La Liga,2025,2026-02-16,Girona,Barcelona,2,1,H,xgb,test,0.1523,0.1716,0.6761
+La Liga,2025,2026-02-18,Levante,Villarreal,0,1,A,xgb,test,0.2008,0.3762,0.4230
+La Liga,2025,2026-02-20,Ath Bilbao,Elche,2,1,H,xgb,test,0.4658,0.3956,0.1386
+La Liga,2025,2026-02-21,Ath Madrid,Espanol,4,2,H,xgb,test,0.6123,0.2767,0.1110
+La Liga,2025,2026-02-21,Betis,Vallecano,1,1,D,xgb,test,0.4414,0.3164,0.2423
+La Liga,2025,2026-02-21,Osasuna,Real Madrid,2,1,H,xgb,test,0.0885,0.2179,0.6936
+La Liga,2025,2026-02-21,Sociedad,Oviedo,3,3,D,xgb,test,0.5032,0.3094,0.1874
+La Liga,2025,2026-02-22,Barcelona,Levante,3,0,H,xgb,test,0.7503,0.1451,0.1046
+La Liga,2025,2026-02-22,Celta,Mallorca,2,0,H,xgb,test,0.3707,0.3903,0.2390
+La Liga,2025,2026-02-22,Getafe,Sevilla,0,1,A,xgb,test,0.3575,0.3964,0.2462
+La Liga,2025,2026-02-22,Villarreal,Valencia,2,1,H,xgb,test,0.5801,0.2397,0.1802
+La Liga,2025,2026-02-23,Alaves,Girona,2,2,D,xgb,test,0.3165,0.3430,0.3406
+La Liga,2025,2026-02-27,Levante,Alaves,2,0,H,xgb,test,0.2426,0.4683,0.2891
+La Liga,2025,2026-02-28,Barcelona,Villarreal,4,1,H,xgb,test,0.5218,0.2481,0.2302
+La Liga,2025,2026-02-28,Mallorca,Sociedad,0,1,A,xgb,test,0.2206,0.3642,0.4152
+La Liga,2025,2026-02-28,Oviedo,Ath Madrid,0,1,A,xgb,test,0.1082,0.2786,0.6132
+La Liga,2025,2026-02-28,Vallecano,Ath Bilbao,1,1,D,xgb,test,0.1473,0.3250,0.5278
+La Liga,2025,2026-03-01,Betis,Sevilla,2,2,D,xgb,test,0.5638,0.2644,0.1718
+La Liga,2025,2026-03-01,Elche,Espanol,2,2,D,xgb,test,0.2477,0.5478,0.2045
+La Liga,2025,2026-03-01,Girona,Celta,1,2,A,xgb,test,0.2359,0.3293,0.4348
+La Liga,2025,2026-03-01,Valencia,Osasuna,1,0,H,xgb,test,0.2663,0.4340,0.2998
+La Liga,2025,2026-03-02,Real Madrid,Getafe,0,1,A,xgb,test,0.6493,0.1780,0.1727
+La Liga,2025,2026-03-04,Vallecano,Oviedo,3,0,H,xgb,test,0.4719,0.2963,0.2318
+La Liga,2025,2026-03-06,Celta,Real Madrid,1,2,A,xgb,test,0.1017,0.4149,0.4834
+La Liga,2025,2026-03-07,Ath Bilbao,Barcelona,0,1,A,xgb,test,0.1366,0.1755,0.6878
+La Liga,2025,2026-03-07,Ath Madrid,Sociedad,3,2,H,xgb,test,0.4791,0.2967,0.2242
+La Liga,2025,2026-03-07,Levante,Girona,1,1,D,xgb,test,0.3572,0.2753,0.3675
+La Liga,2025,2026-03-07,Osasuna,Mallorca,2,2,D,xgb,test,0.2829,0.4698,0.2473
+La Liga,2025,2026-03-08,Getafe,Betis,2,0,H,xgb,test,0.1540,0.2743,0.5717
+La Liga,2025,2026-03-08,Sevilla,Vallecano,1,1,D,xgb,test,0.3868,0.2726,0.3406
+La Liga,2025,2026-03-08,Valencia,Alaves,3,2,H,xgb,test,0.3364,0.3614,0.3022
+La Liga,2025,2026-03-08,Villarreal,Elche,2,1,H,xgb,test,0.6747,0.2328,0.0925
+La Liga,2025,2026-03-09,Espanol,Oviedo,1,1,D,xgb,test,0.4001,0.2770,0.3228
+La Liga,2025,2026-03-13,Alaves,Villarreal,1,1,D,xgb,test,0.1350,0.3038,0.5612
+La Liga,2025,2026-03-14,Ath Madrid,Getafe,1,0,H,xgb,test,0.6201,0.1731,0.2068
+La Liga,2025,2026-03-14,Girona,Ath Bilbao,3,0,H,xgb,test,0.1532,0.3264,0.5204
+La Liga,2025,2026-03-14,Oviedo,Valencia,1,0,H,xgb,test,0.1822,0.3149,0.5029
+La Liga,2025,2026-03-14,Real Madrid,Elche,4,1,H,xgb,test,0.5963,0.2976,0.1061
+La Liga,2025,2026-03-15,Barcelona,Sevilla,5,2,H,xgb,test,0.7603,0.1441,0.0957
+La Liga,2025,2026-03-15,Betis,Celta,1,1,D,xgb,test,0.2912,0.3527,0.3561
+La Liga,2025,2026-03-15,Mallorca,Espanol,2,1,H,xgb,test,0.2186,0.4734,0.3080
+La Liga,2025,2026-03-15,Sociedad,Osasuna,3,1,H,xgb,test,0.3495,0.4080,0.2425
+La Liga,2025,2026-03-16,Vallecano,Levante,1,1,D,xgb,test,0.4347,0.3198,0.2456
+La Liga,2025,2026-03-20,Villarreal,Sociedad,3,1,H,xgb,test,0.4214,0.3462,0.2323
+La Liga,2025,2026-03-21,Elche,Mallorca,2,1,H,xgb,test,0.2195,0.5056,0.2749
+La Liga,2025,2026-03-21,Espanol,Getafe,1,2,A,xgb,test,0.4972,0.2297,0.2731
+La Liga,2025,2026-03-21,Levante,Oviedo,4,2,H,xgb,test,0.4736,0.2950,0.2314
+La Liga,2025,2026-03-21,Osasuna,Girona,1,0,H,xgb,test,0.2507,0.4781,0.2712
+La Liga,2025,2026-03-21,Sevilla,Valencia,0,2,A,xgb,test,0.2773,0.4215,0.3011
+La Liga,2025,2026-03-22,Ath Bilbao,Betis,2,1,H,xgb,test,0.3366,0.3223,0.3412
+La Liga,2025,2026-03-22,Barcelona,Vallecano,1,0,H,xgb,test,0.6406,0.2115,0.1480
+La Liga,2025,2026-03-22,Celta,Alaves,3,4,A,xgb,test,0.4430,0.3813,0.1757
+La Liga,2025,2026-03-22,Real Madrid,Ath Madrid,3,2,H,xgb,test,0.2956,0.3661,0.3383
+La Liga,2025,2026-04-03,Vallecano,Elche,1,0,H,xgb,test,0.3429,0.3757,0.2813
+La Liga,2025,2026-04-04,Ath Madrid,Barcelona,1,2,A,xgb,test,0.1239,0.1383,0.7378
+La Liga,2025,2026-04-04,Betis,Espanol,0,0,D,xgb,test,0.6441,0.2242,0.1317
+La Liga,2025,2026-04-04,Mallorca,Real Madrid,2,1,H,xgb,test,0.1094,0.2223,0.6682
+La Liga,2025,2026-04-04,Sociedad,Levante,2,0,H,xgb,test,0.3484,0.3557,0.2959
+La Liga,2025,2026-04-05,Alaves,Osasuna,2,2,D,xgb,test,0.1765,0.3064,0.5171
+La Liga,2025,2026-04-05,Getafe,Ath Bilbao,2,0,H,xgb,test,0.3214,0.3452,0.3334
+La Liga,2025,2026-04-05,Oviedo,Sevilla,1,0,H,xgb,test,0.3330,0.3674,0.2996
+La Liga,2025,2026-04-05,Valencia,Celta,2,3,A,xgb,test,0.3173,0.3510,0.3317
+La Liga,2025,2026-04-06,Girona,Villarreal,1,0,H,xgb,test,0.1519,0.1767,0.6713
+La Liga,2025,2026-04-10,Real Madrid,Girona,1,1,D,xgb,test,0.7898,0.1354,0.0748
+La Liga,2025,2026-04-11,Barcelona,Espanol,4,1,H,xgb,test,0.7500,0.1761,0.0740
+La Liga,2025,2026-04-11,Elche,Valencia,1,0,H,xgb,test,0.1453,0.4143,0.4404
+La Liga,2025,2026-04-11,Sevilla,Ath Madrid,2,1,H,xgb,test,0.1145,0.5034,0.3820
+La Liga,2025,2026-04-11,Sociedad,Alaves,3,3,D,xgb,test,0.3379,0.4127,0.2494
+La Liga,2025,2026-04-12,Ath Bilbao,Villarreal,1,2,A,xgb,test,0.2234,0.3613,0.4152
+La Liga,2025,2026-04-12,Celta,Oviedo,0,3,A,xgb,test,0.5431,0.3479,0.1090
+La Liga,2025,2026-04-12,Mallorca,Vallecano,3,0,H,xgb,test,0.3296,0.4178,0.2526
+La Liga,2025,2026-04-12,Osasuna,Betis,1,1,D,xgb,test,0.3331,0.3761,0.2908
+La Liga,2025,2026-04-13,Levante,Getafe,1,0,H,xgb,test,0.2699,0.3303,0.3998
+La Liga,2025,2026-04-21,Ath Bilbao,Osasuna,1,0,H,xgb,test,0.2986,0.4551,0.2463
+La Liga,2025,2026-04-21,Girona,Betis,2,3,A,xgb,test,0.2768,0.3161,0.4071
+La Liga,2025,2026-04-21,Mallorca,Valencia,1,1,D,xgb,test,0.2999,0.3585,0.3416
+La Liga,2025,2026-04-21,Real Madrid,Alaves,2,1,H,xgb,test,0.5824,0.2100,0.2076
+La Liga,2025,2026-04-22,Barcelona,Celta,1,0,H,xgb,test,0.6241,0.2568,0.1191
+La Liga,2025,2026-04-22,Elche,Ath Madrid,3,2,H,xgb,test,0.0908,0.3372,0.5720
+La Liga,2025,2026-04-22,Sociedad,Getafe,0,1,A,xgb,test,0.3266,0.4630,0.2104
+La Liga,2025,2026-04-23,Levante,Sevilla,2,0,H,xgb,test,0.4419,0.3283,0.2298
+La Liga,2025,2026-04-23,Oviedo,Villarreal,1,1,D,xgb,test,0.1163,0.3016,0.5821
+La Liga,2025,2026-04-23,Vallecano,Espanol,1,0,H,xgb,test,0.3490,0.5096,0.1414
+La Liga,2025,2026-04-24,Betis,Real Madrid,1,1,D,xgb,test,0.0950,0.3066,0.5985
+La Liga,2025,2026-04-25,Alaves,Mallorca,2,1,H,xgb,test,0.2102,0.5045,0.2852
+La Liga,2025,2026-04-25,Ath Madrid,Ath Bilbao,3,2,H,xgb,test,0.4228,0.3640,0.2132
+La Liga,2025,2026-04-25,Getafe,Barcelona,0,2,A,xgb,test,0.1607,0.2506,0.5888
+La Liga,2025,2026-04-25,Valencia,Girona,2,1,H,xgb,test,0.3594,0.4498,0.1907
+La Liga,2025,2026-04-26,Osasuna,Sevilla,2,1,H,xgb,test,0.5350,0.3014,0.1636
+La Liga,2025,2026-04-26,Oviedo,Elche,1,2,A,xgb,test,0.3198,0.4380,0.2422
+La Liga,2025,2026-04-26,Vallecano,Sociedad,3,3,D,xgb,test,0.3397,0.3909,0.2694
+La Liga,2025,2026-04-26,Villarreal,Celta,2,1,H,xgb,test,0.4437,0.3656,0.1907
+La Liga,2025,2026-04-27,Espanol,Levante,0,0,D,xgb,test,0.1562,0.5750,0.2688
+La Liga,2025,2026-05-01,Girona,Mallorca,0,1,A,xgb,test,0.3582,0.3123,0.3295
+La Liga,2025,2026-05-02,Alaves,Ath Bilbao,2,4,A,xgb,test,0.2946,0.4615,0.2440
+La Liga,2025,2026-05-02,Osasuna,Barcelona,1,2,A,xgb,test,0.1122,0.2582,0.6297
+La Liga,2025,2026-05-02,Valencia,Ath Madrid,0,2,A,xgb,test,0.1578,0.3561,0.4860
+La Liga,2025,2026-05-02,Villarreal,Levante,5,1,H,xgb,test,0.5644,0.3663,0.0693
+La Liga,2025,2026-05-03,Betis,Oviedo,3,0,H,xgb,test,0.5851,0.2563,0.1586
+La Liga,2025,2026-05-03,Celta,Elche,3,1,H,xgb,test,0.2919,0.4923,0.2159
+La Liga,2025,2026-05-03,Espanol,Real Madrid,0,2,A,xgb,test,0.1279,0.2460,0.6261
+La Liga,2025,2026-05-03,Getafe,Vallecano,0,2,A,xgb,test,0.3618,0.4120,0.2262
+La Liga,2025,2026-05-04,Sevilla,Sociedad,1,0,H,xgb,test,0.1718,0.4329,0.3954
+La Liga,2025,2026-05-08,Levante,Osasuna,3,2,H,xgb,test,0.2109,0.3196,0.4695
+La Liga,2025,2026-05-09,Ath Madrid,Celta,0,1,A,xgb,test,0.4800,0.3449,0.1751
+La Liga,2025,2026-05-09,Elche,Alaves,1,1,D,xgb,test,0.2566,0.3970,0.3464
+La Liga,2025,2026-05-09,Sevilla,Espanol,2,1,H,xgb,test,0.2593,0.3895,0.3512
+La Liga,2025,2026-05-09,Sociedad,Betis,2,2,D,xgb,test,0.2574,0.3666,0.3761
+La Liga,2025,2026-05-10,Ath Bilbao,Valencia,0,1,A,xgb,test,0.3449,0.4584,0.1966
+La Liga,2025,2026-05-10,Barcelona,Real Madrid,2,0,H,xgb,test,0.3933,0.3125,0.2941
+La Liga,2025,2026-05-10,Mallorca,Villarreal,1,1,D,xgb,test,0.0959,0.3378,0.5663
+La Liga,2025,2026-05-10,Oviedo,Getafe,0,0,D,xgb,test,0.3423,0.3273,0.3305
+La Liga,2025,2026-05-11,Vallecano,Girona,1,1,D,xgb,test,0.4400,0.3208,0.2392
+La Liga,2025,2026-05-12,Betis,Elche,2,1,H,xgb,test,0.4852,0.2913,0.2236
+La Liga,2025,2026-05-12,Celta,Levante,2,3,A,xgb,test,0.4631,0.2949,0.2420
+La Liga,2025,2026-05-12,Osasuna,Ath Madrid,1,2,A,xgb,test,0.1008,0.2390,0.6602
+La Liga,2025,2026-05-13,Alaves,Barcelona,1,0,H,xgb,test,0.1431,0.2456,0.6114
+La Liga,2025,2026-05-13,Espanol,Ath Bilbao,2,0,H,xgb,test,0.1908,0.2609,0.5483
+La Liga,2025,2026-05-13,Getafe,Mallorca,3,1,H,xgb,test,0.4421,0.2998,0.2581
+La Liga,2025,2026-05-13,Villarreal,Sevilla,2,3,A,xgb,test,0.6661,0.2176,0.1163
+La Liga,2025,2026-05-14,Girona,Sociedad,1,1,D,xgb,test,0.2807,0.3743,0.3450
+La Liga,2025,2026-05-14,Real Madrid,Oviedo,2,0,H,xgb,test,0.7525,0.1412,0.1063
+La Liga,2025,2026-05-14,Valencia,Vallecano,1,1,D,xgb,test,0.2965,0.3648,0.3387
+La Liga,2025,2026-05-17,Ath Bilbao,Celta,1,1,D,xgb,test,0.3907,0.2840,0.3253
+La Liga,2025,2026-05-17,Ath Madrid,Girona,1,0,H,xgb,test,0.5773,0.3129,0.1098
+La Liga,2025,2026-05-17,Barcelona,Betis,3,1,H,xgb,test,0.5361,0.2700,0.1940
+La Liga,2025,2026-05-17,Elche,Getafe,1,0,H,xgb,test,0.3066,0.3679,0.3255
+La Liga,2025,2026-05-17,Levante,Mallorca,2,0,H,xgb,test,0.2985,0.3796,0.3220
+La Liga,2025,2026-05-17,Osasuna,Espanol,1,2,A,xgb,test,0.2923,0.4379,0.2698
+La Liga,2025,2026-05-17,Oviedo,Alaves,0,1,A,xgb,test,0.3194,0.3515,0.3290
+La Liga,2025,2026-05-17,Sevilla,Real Madrid,0,1,A,xgb,test,0.1491,0.1925,0.6584
+La Liga,2025,2026-05-17,Sociedad,Valencia,3,4,A,xgb,test,0.3967,0.3657,0.2376
+La Liga,2025,2026-05-17,Vallecano,Villarreal,2,0,H,xgb,test,0.1397,0.2293,0.6310
+La Liga,2025,2026-05-23,Alaves,Vallecano,1,2,A,xgb,test,0.2734,0.3756,0.3510
+La Liga,2025,2026-05-23,Betis,Levante,2,1,H,xgb,test,0.3857,0.3861,0.2283
+La Liga,2025,2026-05-23,Celta,Sevilla,1,0,H,xgb,test,0.4967,0.3116,0.1917
+La Liga,2025,2026-05-23,Espanol,Sociedad,1,1,D,xgb,test,0.2176,0.4444,0.3380
+La Liga,2025,2026-05-23,Getafe,Osasuna,1,0,H,xgb,test,0.3508,0.4259,0.2234
+La Liga,2025,2026-05-23,Girona,Elche,1,1,D,xgb,test,0.2728,0.4924,0.2348
+La Liga,2025,2026-05-23,Mallorca,Oviedo,3,0,H,xgb,test,0.4023,0.3800,0.2177
+La Liga,2025,2026-05-23,Real Madrid,Ath Bilbao,4,2,H,xgb,test,0.6480,0.2489,0.1031
+La Liga,2025,2026-05-23,Valencia,Barcelona,3,1,H,xgb,test,0.1175,0.2689,0.6136
+La Liga,2025,2026-05-24,Villarreal,Ath Madrid,5,1,H,xgb,test,0.2929,0.4466,0.2605
+La Liga,2026,2026-08-15,Alaves,Getafe,3,0,H,xgb,live,0.4285,0.3364,0.2350
+La Liga,2026,2026-08-15,Sevilla,Vallecano,2,1,H,xgb,live,0.1784,0.3748,0.4468
+La Liga,2026,2026-08-16,Espanol,Levante,3,0,H,xgb,live,0.2416,0.4115,0.3469
+La Liga,2026,2026-08-16,Santander,Villarreal,2,2,D,xgb,live,0.1292,0.4423,0.4285
+La Liga,2026,2026-08-17,La Coruna,Elche,1,1,D,xgb,live,0.2895,0.2096,0.5009
+La Liga,2026,2026-08-19,Ath Madrid,Malaga,2,0,H,xgb,live,0.5498,0.2460,0.2041
+La Liga,2026,2026-08-20,Vallecano,Alaves,1,1,D,xgb,live,0.3888,0.2548,0.3564
+La Liga,2026,2026-08-21,Betis,Sociedad,1,0,H,xgb,live,0.3632,0.2838,0.3530
+La Liga,2026,2026-08-22,Ath Bilbao,Sevilla,1,3,A,xgb,live,0.3377,0.3160,0.3463
+La Liga,2026,2026-08-22,Espanol,Real Madrid,1,2,A,xgb,live,0.1084,0.1161,0.7756
+La Liga,2026,2026-08-22,Valencia,Celta,0,0,D,xgb,live,0.2192,0.2569,0.5239
+La Liga,2026,2026-08-23,Ath Madrid,Villarreal,2,2,D,xgb,live,0.2092,0.5777,0.2132
+La Liga,2026,2026-08-23,Elche,Barcelona,0,5,A,xgb,live,0.1014,0.1938,0.7047
+La Liga,2026,2026-08-23,Getafe,Santander,1,0,H,xgb,live,0.3828,0.4192,0.1980
+La Liga,2026,2026-08-24,Malaga,La Coruna,1,1,D,xgb,live,0.3083,0.4594,0.2323
+La Liga,2026,2026-08-24,Osasuna,Levante,0,0,D,xgb,live,0.1564,0.6756,0.1680
+La Liga,2026,2026-08-25,Valencia,Betis,0,1,A,xgb,live,0.2278,0.5125,0.2597
+La Liga,2026,2026-08-26,Real Madrid,Sociedad,4,1,H,xgb,live,0.6408,0.2346,0.1246
+La Liga,2026,2026-08-27,Barcelona,Ath Bilbao,2,0,H,xgb,live,0.6331,0.2824,0.0845
+La Liga,2026,2026-08-27,Celta,Osasuna,1,2,A,xgb,live,0.4930,0.3661,0.1409
+La Liga,2026,2026-08-28,Alaves,Villarreal,1,0,H,xgb,live,0.1539,0.3357,0.5104
+La Liga,2026,2026-08-28,Santander,Elche,3,2,H,xgb,live,0.3801,0.4340,0.1860
+La Liga,2026,2026-08-29,Levante,Betis,5,2,H,xgb,live,0.1273,0.3031,0.5696
+La Liga,2026,2026-08-29,Sevilla,Ath Madrid,1,3,A,xgb,live,0.1264,0.3887,0.4848
+La Liga,2026,2026-08-29,Sociedad,Espanol,2,1,H,xgb,live,0.2720,0.3747,0.3532
+La Liga,2026,2026-08-30,Celta,Ath Bilbao,0,2,A,xgb,live,0.4549,0.4112,0.1339
+La Liga,2026,2026-08-30,La Coruna,Valencia,3,1,H,xgb,live,0.1457,0.3167,0.5376
+La Liga,2026,2026-08-30,Real Madrid,Malaga,4,0,H,xgb,live,0.7432,0.1902,0.0666
+La Liga,2026,2026-08-31,Barcelona,Vallecano,5,2,H,xgb,live,0.6568,0.2345,0.1087
+La Liga,2026,2026-08-31,Osasuna,Getafe,1,0,H,xgb,live,0.4249,0.3745,0.2007
+La Liga,2026,2026-09-03,Sociedad,Celta,0,0,D,xgb,live,0.2639,0.1950,0.5412
+La Liga,2026,2026-09-04,Betis,Real Madrid,1,0,H,xgb,live,0.0882,0.1004,0.8114
+La Liga,2026,2026-09-05,Ath Bilbao,Ath Madrid,3,0,H,xgb,live,0.0833,0.2325,0.6842
+La Liga,2026,2026-09-05,Vallecano,Santander,3,2,H,xgb,live,0.2772,0.3333,0.3896
+La Liga,2026,2026-09-05,Villarreal,La Coruna,2,3,A,xgb,live,0.6603,0.1704,0.1693
+La Liga,2026,2026-09-06,Alaves,Osasuna,5,2,H,xgb,live,0.3047,0.3051,0.3902
+La Liga,2026,2026-09-06,Espanol,Sevilla,1,1,D,xgb,live,0.2779,0.2163,0.5059
+La Liga,2026,2026-09-06,Malaga,Levante,0,0,D,xgb,live,0.1371,0.2305,0.6324
+La Liga,2026,2026-09-06,Valencia,Barcelona,0,5,A,xgb,live,0.0730,0.1431,0.7839
+La Liga,2026,2026-09-07,Elche,Sociedad,2,3,A,xgb,live,0.1917,0.3268,0.4815
+La Liga,2026,2026-09-07,Getafe,Celta,1,1,D,xgb,live,0.3252,0.1582,0.5166
+La Liga,2026,2026-09-11,Sevilla,Valencia,1,0,H,xgb,live,0.3006,0.4503,0.2492
+La Liga,2026,2026-09-12,Ath Bilbao,Elche,1,1,D,xgb,live,0.3803,0.4558,0.1640
+La Liga,2026,2026-09-12,Osasuna,Espanol,0,2,A,xgb,live,0.2934,0.4886,0.2180
+La Liga,2026,2026-09-12,Real Madrid,Vallecano,4,1,H,xgb,live,0.5541,0.3095,0.1364
+La Liga,2026,2026-09-12,Santander,Alaves,2,1,H,xgb,live,0.1202,0.3967,0.4832
+La Liga,2026,2026-09-13,Celta,Malaga,1,1,D,xgb,live,0.6222,0.2778,0.0999
+La Liga,2026,2026-09-13,Getafe,La Coruna,1,1,D,xgb,live,0.3359,0.3709,0.2932
+La Liga,2026,2026-09-13,Levante,Barcelona,2,4,A,xgb,live,0.1030,0.2788,0.6182
+La Liga,2026,2026-09-13,Sociedad,Ath Madrid,0,3,A,xgb,live,0.1316,0.2038,0.6647
+La Liga,2026,2026-09-14,Villarreal,Betis,1,2,A,xgb,live,0.2243,0.5548,0.2209
+La Liga,2026,2026-09-15,Alaves,Valencia,0,1,A,xgb,live,0.3561,0.4676,0.1763
+La Liga,2026,2026-09-15,Elche,Real Madrid,2,3,A,xgb,live,0.1214,0.4045,0.4741
+La Liga,2026,2026-09-15,Vallecano,Espanol,2,1,H,xgb,live,0.2264,0.5287,0.2449
+La Liga,2026,2026-09-16,Ath Madrid,Osasuna,4,0,H,xgb,live,0.6659,0.2300,0.1041
+La Liga,2026,2026-09-16,Barcelona,Santander,7,2,H,xgb,live,0.5023,0.3890,0.1086
+La Liga,2026,2026-09-16,La Coruna,Sevilla,0,1,A,xgb,live,0.2871,0.3793,0.3336
+La Liga,2026,2026-09-17,Betis,Getafe,1,0,H,xgb,live,0.6945,0.1566,0.1489
+La Liga,2026,2026-09-17,Malaga,Villarreal,1,3,A,xgb,live,0.2145,0.3444,0.4411
+La Liga,2026,2026-09-18,Espanol,Elche,1,3,A,xgb,live,0.4890,0.3571,0.1539
+La Liga,2026,2026-09-19,Ath Bilbao,Alaves,0,0,D,xgb,live,0.3939,0.3426,0.2635
+La Liga,2026,2026-09-19,Celta,Santander,5,0,H,xgb,live,0.4165,0.4067,0.1768
+La Liga,2026,2026-09-19,Osasuna,Vallecano,1,1,D,xgb,live,0.1622,0.5057,0.3320
+La Liga,2026,2026-09-19,Sevilla,Barcelona,1,3,A,xgb,live,0.1306,0.2433,0.6260
+La Liga,2026,2026-09-20,Ath Madrid,Real Madrid,2,1,H,xgb,live,0.1504,0.2630,0.5866
+La Liga,2026,2026-09-20,Getafe,Malaga,1,0,H,xgb,live,0.5176,0.3350,0.1475
+La Liga,2026,2026-09-20,La Coruna,Betis,1,1,D,xgb,live,0.1454,0.3747,0.4799
+La Liga,2026,2026-09-20,Valencia,Sociedad,2,3,A,xgb,live,0.2953,0.5269,0.1778
+La Liga,2026,2026-09-20,Villarreal,Levante,3,1,H,xgb,live,0.5590,0.3264,0.1146

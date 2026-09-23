@@ -1,0 +1,9166 @@
+{
+ "Premier League": {
+  "teams": {
+   "Arsenal": {
+    "display": "Arsenal",
+    "n": 5.0,
+    "gf": 1.6,
+    "ga": 0.8,
+    "sotf": 4.8,
+    "sota": 2.8,
+    "poss": 43.4,
+    "form": 12.0,
+    "elo": 1802.1,
+    "home_adv": 0.3312,
+    "last": [
+     {
+      "date": "2026-08-21",
+      "opp": "Coventry",
+      "venue": "H",
+      "gf": 3,
+      "ga": 0
+     },
+     {
+      "date": "2026-08-31",
+      "opp": "Aston Villa",
+      "venue": "A",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Chelsea",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Sunderland",
+      "venue": "A",
+      "gf": 2,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Brighton",
+      "venue": "A",
+      "gf": 0,
+      "ga": 3
+     }
+    ]
+   },
+   "Aston Villa": {
+    "display": "Aston Villa",
+    "n": 5.0,
+    "gf": 0.8,
+    "ga": 1.8,
+    "sotf": 2.4,
+    "sota": 5.2,
+    "poss": 43.4,
+    "form": 4.0,
+    "elo": 1601.3,
+    "home_adv": 0.2759,
+    "last": [
+     {
+      "date": "2026-08-23",
+      "opp": "Brighton",
+      "venue": "A",
+      "gf": 0,
+      "ga": 4
+     },
+     {
+      "date": "2026-08-31",
+      "opp": "Arsenal",
+      "venue": "H",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Hull",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Nott'm Forest",
+      "venue": "H",
+      "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Tottenham",
+      "venue": "A",
+      "gf": 3,
+      "ga": 2
+     }
+    ]
+   },
+   "Bournemouth": {
+    "display": "Bournemouth",
+    "n": 5.0,
+    "gf": 1.2,
+    "ga": 1.6,
+    "sotf": 5.2,
+    "sota": 4.0,
+    "poss": 43.4,
+    "form": 3.0,
+    "elo": 1616.4,
+    "home_adv": 0.069,
+    "last": [
+     {
+      "date": "2026-08-23",
+      "opp": "Man City",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Everton",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Newcastle",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Brentford",
+      "venue": "H",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Liverpool",
+      "venue": "H",
+      "gf": 0,
+      "ga": 1
+     }
+    ]
+   },
+   "Brentford": {
+    "display": "Brentford",
+    "n": 5.0,
+    "gf": 2.0,
+    "ga": 0.8,
+    "sotf": 4.6,
+    "sota": 4.6,
+    "poss": 43.4,
+    "form": 9.0,
+    "elo": 1613.3,
+    "home_adv": 0.3094,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Tottenham",
+      "venue": "H",
+      "gf": 3,
+      "ga": 0
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Leeds",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Sunderland",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Bournemouth",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-18",
+      "opp": "Chelsea",
+      "venue": "H",
+      "gf": 3,
+      "ga": 0
+     }
+    ]
+   },
+   "Brighton": {
+    "display": "Brighton & Hove Albion",
+    "n": 5.0,
+    "gf": 3.2,
+    "ga": 1.0,
+    "sotf": 5.8,
+    "sota": 3.8,
+    "poss": 43.4,
+    "form": 10.0,
+    "elo": 1642.3,
+    "home_adv": 0.4138,
+    "last": [
+     {
+      "date": "2026-08-23",
+      "opp": "Aston Villa",
+      "venue": "H",
+      "gf": 4,
+      "ga": 0
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Chelsea",
+      "venue": "A",
+      "gf": 3,
+      "ga": 4
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Leeds",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Coventry",
+      "venue": "A",
+      "gf": 5,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Arsenal",
+      "venue": "H",
+      "gf": 3,
+      "ga": 0
+     }
+    ]
+   },
+   "Chelsea": {
+    "display": "Chelsea",
+    "n": 5.0,
+    "gf": 2.0,
+    "ga": 2.4,
+    "sotf": 5.2,
+    "sota": 6.4,
+    "poss": 43.4,
+    "form": 7.0,
+    "elo": 1576.4,
+    "home_adv": 0.0345,
+    "last": [
+     {
+      "date": "2026-08-24",
+      "opp": "Fulham",
+      "venue": "A",
+      "gf": 3,
+      "ga": 2
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Brighton",
+      "venue": "H",
+      "gf": 4,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Arsenal",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Hull",
+      "venue": "H",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-18",
+      "opp": "Brentford",
+      "venue": "A",
+      "gf": 0,
+      "ga": 3
+     }
+    ]
+   },
+   "Coventry": {
+    "display": "Coventry City",
+    "n": 5.0,
+    "gf": 0.2,
+    "ga": 2.0,
+    "sotf": 3.2,
+    "sota": 4.4,
+    "poss": 43.4,
+    "form": 3.0,
+    "elo": 1416.3,
+    "home_adv": -0.2,
+    "last": [
+     {
+      "date": "2026-08-21",
+      "opp": "Arsenal",
+      "venue": "A",
+      "gf": 0,
+      "ga": 3
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Hull",
+      "venue": "H",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Man City",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Brighton",
+      "venue": "H",
+      "gf": 0,
+      "ga": 5
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Nott'm Forest",
+      "venue": "A",
+      "gf": 1,
+      "ga": 0
+     }
+    ]
+   },
+   "Crystal Palace": {
+    "display": "Crystal Palace",
+    "n": 5.0,
+    "gf": 1.2,
+    "ga": 2.2,
+    "sotf": 3.6,
+    "sota": 5.6,
+    "poss": 43.4,
+    "form": 4.0,
+    "elo": 1516.7,
+    "home_adv": -0.069,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Everton",
+      "venue": "A",
+      "gf": 0,
+      "ga": 2
+     },
+     {
+      "date": "2026-08-28",
+      "opp": "Man City",
+      "venue": "H",
+      "gf": 1,
+      "ga": 4
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Fulham",
+      "venue": "A",
+      "gf": 3,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Ipswich",
+      "venue": "H",
+      "gf": 2,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Leeds",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     }
+    ]
+   },
+   "Everton": {
+    "display": "Everton",
+    "n": 5.0,
+    "gf": 1.2,
+    "ga": 0.6,
+    "sotf": 4.6,
+    "sota": 3.6,
+    "poss": 43.4,
+    "form": 9.0,
+    "elo": 1568.7,
+    "home_adv": -0.0582,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Crystal Palace",
+      "venue": "H",
+      "gf": 2,
+      "ga": 0
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Bournemouth",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Man United",
+      "venue": "H",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Tottenham",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Ipswich",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     }
+    ]
+   },
+   "Fulham": {
+    "display": "Fulham",
+    "n": 5.0,
+    "gf": 1.0,
+    "ga": 1.6,
+    "sotf": 4.4,
+    "sota": 4.8,
+    "poss": 43.4,
+    "form": 2.0,
+    "elo": 1534.7,
+    "home_adv": 0.4138,
+    "last": [
+     {
+      "date": "2026-08-24",
+      "opp": "Chelsea",
+      "venue": "H",
+      "gf": 2,
+      "ga": 3
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Sunderland",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Crystal Palace",
+      "venue": "H",
+      "gf": 2,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Liverpool",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Man United",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     }
+    ]
+   },
+   "Hull": {
+    "display": "Hull City",
+    "n": 5.0,
+    "gf": 1.2,
+    "ga": 0.8,
+    "sotf": 3.8,
+    "sota": 4.2,
+    "poss": 43.4,
+    "form": 8.0,
+    "elo": 1445.4,
+    "home_adv": 0.1333,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Man United",
+      "venue": "H",
+      "gf": 2,
+      "ga": 0
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Coventry",
+      "venue": "A",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Aston Villa",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Chelsea",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Newcastle",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
+     }
+    ]
+   },
+   "Ipswich": {
+    "display": "Ipswich Town",
+    "n": 5.0,
+    "gf": 1.4,
+    "ga": 2.2,
+    "sotf": 4.6,
+    "sota": 5.6,
+    "poss": 43.4,
+    "form": 6.0,
+    "elo": 1398.5,
+    "home_adv": -0.2414,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Sunderland",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Man United",
+      "venue": "A",
+      "gf": 2,
+      "ga": 5
+     },
+     {
+      "date": "2026-09-04",
+      "opp": "Liverpool",
+      "venue": "H",
+      "gf": 0,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Crystal Palace",
+      "venue": "A",
+      "gf": 3,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Everton",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     }
+    ]
+   },
+   "Leeds": {
+    "display": "Leeds United",
+    "n": 5.0,
+    "gf": 1.4,
+    "ga": 0.6,
+    "sotf": 3.6,
+    "sota": 4.2,
+    "poss": 43.4,
+    "form": 9.0,
+    "elo": 1563.5,
+    "home_adv": 0.4987,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Nott'm Forest",
+      "venue": "A",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Brentford",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Brighton",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-14",
+      "opp": "Newcastle",
+      "venue": "H",
+      "gf": 4,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Crystal Palace",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
+     }
+    ]
+   },
+   "Liverpool": {
+    "display": "Liverpool FC",
+    "n": 5.0,
+    "gf": 1.4,
+    "ga": 0.8,
+    "sotf": 4.8,
+    "sota": 3.6,
+    "poss": 43.4,
+    "form": 9.0,
+    "elo": 1677.7,
+    "home_adv": 0.2366,
+    "last": [
+     {
+      "date": "2026-08-23",
+      "opp": "Newcastle",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Nott'm Forest",
+      "venue": "H",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-04",
+      "opp": "Ipswich",
+      "venue": "A",
+      "gf": 2,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Fulham",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Bournemouth",
+      "venue": "A",
+      "gf": 1,
+      "ga": 0
+     }
+    ]
+   },
+   "Man City": {
+    "display": "Manchester City",
+    "n": 5.0,
+    "gf": 2.6,
+    "ga": 1.0,
+    "sotf": 5.4,
+    "sota": 4.0,
+    "poss": 43.4,
+    "form": 15.0,
+    "elo": 1813.3,
+    "home_adv": 0.3967,
+    "last": [
+     {
+      "date": "2026-08-23",
+      "opp": "Bournemouth",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
+     },
+     {
+      "date": "2026-08-28",
+      "opp": "Crystal Palace",
+      "venue": "A",
+      "gf": 4,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Coventry",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Man United",
+      "venue": "A",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Sunderland",
+      "venue": "H",
+      "gf": 5,
+      "ga": 3
+     }
+    ]
+   },
+   "Man United": {
+    "display": "Manchester United",
+    "n": 5.0,
+    "gf": 1.6,
+    "ga": 1.6,
+    "sotf": 5.6,
+    "sota": 4.6,
+    "poss": 43.4,
+    "form": 5.0,
+    "elo": 1647.7,
+    "home_adv": 0.4368,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Hull",
+      "venue": "A",
+      "gf": 0,
+      "ga": 2
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Ipswich",
+      "venue": "H",
+      "gf": 5,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Everton",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Man City",
+      "venue": "H",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Fulham",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     }
+    ]
+   },
+   "Newcastle": {
+    "display": "Newcastle United",
+    "n": 5.0,
+    "gf": 1.8,
+    "ga": 1.8,
+    "sotf": 3.6,
+    "sota": 5.6,
+    "poss": 43.4,
+    "form": 8.0,
+    "elo": 1580.2,
+    "home_adv": 0.495,
+    "last": [
+     {
+      "date": "2026-08-23",
+      "opp": "Liverpool",
+      "venue": "H",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Tottenham",
+      "venue": "A",
+      "gf": 2,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Bournemouth",
+      "venue": "H",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-14",
+      "opp": "Leeds",
+      "venue": "A",
+      "gf": 1,
+      "ga": 4
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Hull",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
+     }
+    ]
+   },
+   "Nott'm Forest": {
+    "display": "Nottingham Forest",
+    "n": 5.0,
+    "gf": 0.8,
+    "ga": 1.0,
+    "sotf": 3.4,
+    "sota": 3.0,
+    "poss": 43.4,
+    "form": 5.0,
+    "elo": 1561.3,
+    "home_adv": -0.3567,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Leeds",
+      "venue": "H",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Liverpool",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Tottenham",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Aston Villa",
+      "venue": "A",
+      "gf": 2,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Coventry",
+      "venue": "H",
+      "gf": 0,
+      "ga": 1
+     }
+    ]
+   },
+   "Sunderland": {
+    "display": "Sunderland",
+    "n": 5.0,
+    "gf": 1.2,
+    "ga": 2.0,
+    "sotf": 5.0,
+    "sota": 3.2,
+    "poss": 43.4,
+    "form": 4.0,
+    "elo": 1506.4,
+    "home_adv": 0.3676,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Ipswich",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Fulham",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Brentford",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Arsenal",
+      "venue": "H",
+      "gf": 0,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Man City",
+      "venue": "A",
+      "gf": 3,
+      "ga": 5
+     }
+    ]
+   },
+   "Tottenham": {
+    "display": "Tottenham Hotspur",
+    "n": 5.0,
+    "gf": 0.4,
+    "ga": 1.6,
+    "sotf": 3.8,
+    "sota": 4.2,
+    "poss": 43.4,
+    "form": 2.0,
+    "elo": 1459.0,
+    "home_adv": -0.3021,
+    "last": [
+     {
+      "date": "2026-08-22",
+      "opp": "Brentford",
+      "venue": "A",
+      "gf": 0,
+      "ga": 3
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Newcastle",
+      "venue": "H",
+      "gf": 0,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Nott'm Forest",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Everton",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Aston Villa",
+      "venue": "H",
+      "gf": 2,
+      "ga": 3
+     }
+    ]
+   }
+  },
+  "h2h": {
+   "Arsenal|Aston Villa": 0.4,
+   "Arsenal|Bournemouth": 0.4444,
+   "Arsenal|Brentford": 0.5556,
+   "Arsenal|Brighton": 0.5,
+   "Arsenal|Chelsea": 0.5,
+   "Arsenal|Coventry": 0.5,
+   "Arsenal|Crystal Palace": 0.625,
+   "Arsenal|Everton": 0.5,
+   "Arsenal|Fulham": 0.5,
+   "Arsenal|Hull": 0.3333,
+   "Arsenal|Ipswich": 0.6,
+   "Arsenal|Leeds": 0.6,
+   "Arsenal|Liverpool": 0.2222,
+   "Arsenal|Man City": 0.3333,
+   "Arsenal|Man United": 0.5,
+   "Arsenal|Newcastle": 0.5556,
+   "Arsenal|Nott'm Forest": 0.5,
+   "Arsenal|Sunderland": 0.5,
+   "Arsenal|Tottenham": 0.6667,
+   "Aston Villa|Arsenal": 0.4,
+   "Aston Villa|Bournemouth": 0.4444,
+   "Aston Villa|Brentford": 0.4444,
+   "Aston Villa|Brighton": 0.5,
+   "Aston Villa|Chelsea": 0.4444,
+   "Aston Villa|Coventry": 0.3333,
+   "Aston Villa|Crystal Palace": 0.125,
+   "Aston Villa|Everton": 0.375,
+   "Aston Villa|Fulham": 0.6667,
+   "Aston Villa|Hull": 0.25,
+   "Aston Villa|Ipswich": 0.2,
+   "Aston Villa|Leeds": 0.4,
+   "Aston Villa|Liverpool": 0.25,
+   "Aston Villa|Man City": 0.5556,
+   "Aston Villa|Man United": 0.2222,
+   "Aston Villa|Newcastle": 0.375,
+   "Aston Villa|Nott'm Forest": 0.4,
+   "Aston Villa|Sunderland": 0.4,
+   "Aston Villa|Tottenham": 0.5,
+   "Bournemouth|Arsenal": 0.4444,
+   "Bournemouth|Aston Villa": 0.1111,
+   "Bournemouth|Brentford": 0.1111,
+   "Bournemouth|Brighton": 0.3333,
+   "Bournemouth|Chelsea": 0.125,
+   "Bournemouth|Coventry": 0.3333,
+   "Bournemouth|Crystal Palace": 0.4444,
+   "Bournemouth|Everton": 0.5,
+   "Bournemouth|Fulham": 0.5556,
+   "Bournemouth|Hull": 0.3333,
+   "Bournemouth|Ipswich": 0.4,
+   "Bournemouth|Leeds": 0.2,
+   "Bournemouth|Liverpool": 0.2222,
+   "Bournemouth|Man City": 0.2,
+   "Bournemouth|Man United": 0.3333,
+   "Bournemouth|Newcastle": 0.4,
+   "Bournemouth|Nott'm Forest": 0.4444,
+   "Bournemouth|Sunderland": 0.2,
+   "Bournemouth|Tottenham": 0.5,
+   "Brentford|Arsenal": 0.1111,
+   "Brentford|Aston Villa": 0.3333,
+   "Brentford|Bournemouth": 0.5556,
+   "Brentford|Brighton": 0.2222,
+   "Brentford|Chelsea": 0.3,
+   "Brentford|Coventry": 0.3333,
+   "Brentford|Crystal Palace": 0.375,
+   "Brentford|Everton": 0.25,
+   "Brentford|Fulham": 0.125,
+   "Brentford|Hull": 0.3333,
+   "Brentford|Ipswich": 0.6,
+   "Brentford|Leeds": 0.1667,
+   "Brentford|Liverpool": 0.2222,
+   "Brentford|Man City": 0.1111,
+   "Brentford|Man United": 0.3333,
+   "Brentford|Newcastle": 0.5,
+   "Brentford|Nott'm Forest": 0.3333,
+   "Brentford|Sunderland": 0.3333,
+   "Brentford|Tottenham": 0.2222,
+   "Brighton|Arsenal": 0.2,
+   "Brighton|Aston Villa": 0.3,
+   "Brighton|Bournemouth": 0.4444,
+   "Brighton|Brentford": 0.4444,
+   "Brighton|Chelsea": 0.4,
+   "Brighton|Coventry": 0.5,
+   "Brighton|Crystal Palace": 0.2222,
+   "Brighton|Everton": 0.2222,
+   "Brighton|Fulham": 0.2222,
+   "Brighton|Hull": 0.3333,
+   "Brighton|Ipswich": 0.4,
+   "Brighton|Leeds": 0.3333,
+   "Brighton|Liverpool": 0.3333,
+   "Brighton|Man City": 0.3333,
+   "Brighton|Man United": 0.375,
+   "Brighton|Newcastle": 0.375,
+   "Brighton|Nott'm Forest": 0.5556,
+   "Brighton|Sunderland": 0.4,
+   "Brighton|Tottenham": 0.4444,
+   "Chelsea|Arsenal": 0.1,
+   "Chelsea|Aston Villa": 0.3333,
+   "Chelsea|Bournemouth": 0.375,
+   "Chelsea|Brentford": 0.3,
+   "Chelsea|Brighton": 0.5,
+   "Chelsea|Coventry": 0.3333,
+   "Chelsea|Crystal Palace": 0.4444,
+   "Chelsea|Everton": 0.4444,
+   "Chelsea|Fulham": 0.6,
+   "Chelsea|Hull": 0.25,
+   "Chelsea|Ipswich": 0.2,
+   "Chelsea|Leeds": 0.2,
+   "Chelsea|Liverpool": 0.375,
+   "Chelsea|Man City": 0.1111,
+   "Chelsea|Man United": 0.3333,
+   "Chelsea|Newcastle": 0.3333,
+   "Chelsea|Nott'm Forest": 0.5,
+   "Chelsea|Sunderland": 0.2,
+   "Chelsea|Tottenham": 0.7778,
+   "Coventry|Arsenal": 0.25,
+   "Coventry|Aston Villa": 0.3333,
+   "Coventry|Bournemouth": 0.3333,
+   "Coventry|Brentford": 0.3333,
+   "Coventry|Brighton": 0.25,
+   "Coventry|Chelsea": 0.3333,
+   "Coventry|Crystal Palace": 0.3333,
+   "Coventry|Everton": 0.3333,
+   "Coventry|Fulham": 0.3333,
+   "Coventry|Hull": 0.25,
+   "Coventry|Ipswich": 0.3333,
+   "Coventry|Leeds": 0.3333,
+   "Coventry|Liverpool": 0.3333,
+   "Coventry|Man City": 0.25,
+   "Coventry|Man United": 0.3333,
+   "Coventry|Newcastle": 0.3333,
+   "Coventry|Nott'm Forest": 0.5,
+   "Coventry|Sunderland": 0.3333,
+   "Coventry|Tottenham": 0.3333,
+   "Crystal Palace|Arsenal": 0.125,
+   "Crystal Palace|Aston Villa": 0.5,
+   "Crystal Palace|Bournemouth": 0.1111,
+   "Crystal Palace|Brentford": 0.375,
+   "Crystal Palace|Brighton": 0.4444,
+   "Crystal Palace|Chelsea": 0.1111,
+   "Crystal Palace|Coventry": 0.3333,
+   "Crystal Palace|Everton": 0.1,
+   "Crystal Palace|Fulham": 0.4444,
+   "Crystal Palace|Hull": 0.3333,
+   "Crystal Palace|Ipswich": 0.5,
+   "Crystal Palace|Leeds": 0.1667,
+   "Crystal Palace|Liverpool": 0.3333,
+   "Crystal Palace|Man City": 0.1,
+   "Crystal Palace|Man United": 0.4444,
+   "Crystal Palace|Newcastle": 0.3333,
+   "Crystal Palace|Nott'm Forest": 0.1111,
+   "Crystal Palace|Sunderland": 0.2,
+   "Crystal Palace|Tottenham": 0.4444,
+   "Everton|Arsenal": 0.125,
+   "Everton|Aston Villa": 0.25,
+   "Everton|Bournemouth": 0.3,
+   "Everton|Brentford": 0.25,
+   "Everton|Brighton": 0.3333,
+   "Everton|Chelsea": 0.3333,
+   "Everton|Coventry": 0.3333,
+   "Everton|Crystal Palace": 0.6,
+   "Everton|Fulham": 0.5,
+   "Everton|Hull": 0.3333,
+   "Everton|Ipswich": 0.5,
+   "Everton|Leeds": 0.2,
+   "Everton|Liverpool": 0.2222,
+   "Everton|Man City": 0.1111,
+   "Everton|Man United": 0.2,
+   "Everton|Newcastle": 0.4444,
+   "Everton|Nott'm Forest": 0.6667,
+   "Everton|Sunderland": 0.2,
+   "Everton|Tottenham": 0.2,
+   "Fulham|Arsenal": 0.25,
+   "Fulham|Aston Villa": 0.2222,
+   "Fulham|Bournemouth": 0.2222,
+   "Fulham|Brentford": 0.5,
+   "Fulham|Brighton": 0.4444,
+   "Fulham|Chelsea": 0.3,
+   "Fulham|Coventry": 0.3333,
+   "Fulham|Crystal Palace": 0.2222,
+   "Fulham|Everton": 0.125,
+   "Fulham|Hull": 0.3333,
+   "Fulham|Ipswich": 0.2,
+   "Fulham|Leeds": 0.4,
+   "Fulham|Liverpool": 0.2,
+   "Fulham|Man City": 0.125,
+   "Fulham|Man United": 0.2,
+   "Fulham|Newcastle": 0.4444,
+   "Fulham|Nott'm Forest": 0.5556,
+   "Fulham|Sunderland": 0.5,
+   "Fulham|Tottenham": 0.5556,
+   "Hull|Arsenal": 0.3333,
+   "Hull|Aston Villa": 0.25,
+   "Hull|Bournemouth": 0.3333,
+   "Hull|Brentford": 0.3333,
+   "Hull|Brighton": 0.3333,
+   "Hull|Chelsea": 0.25,
+   "Hull|Coventry": 0.5,
+   "Hull|Crystal Palace": 0.3333,
+   "Hull|Everton": 0.3333,
+   "Hull|Fulham": 0.3333,
+   "Hull|Ipswich": 0.3333,
+   "Hull|Leeds": 0.3333,
+   "Hull|Liverpool": 0.3333,
+   "Hull|Man City": 0.3333,
+   "Hull|Man United": 0.5,
+   "Hull|Newcastle": 0.25,
+   "Hull|Nott'm Forest": 0.3333,
+   "Hull|Sunderland": 0.3333,
+   "Hull|Tottenham": 0.3333,
+   "Ipswich|Arsenal": 0.2,
+   "Ipswich|Aston Villa": 0.2,
+   "Ipswich|Bournemouth": 0.4,
+   "Ipswich|Brentford": 0.2,
+   "Ipswich|Brighton": 0.2,
+   "Ipswich|Chelsea": 0.4,
+   "Ipswich|Coventry": 0.3333,
+   "Ipswich|Crystal Palace": 0.3333,
+   "Ipswich|Everton": 0.1667,
+   "Ipswich|Fulham": 0.2,
+   "Ipswich|Hull": 0.3333,
+   "Ipswich|Leeds": 0.3333,
+   "Ipswich|Liverpool": 0.1667,
+   "Ipswich|Man City": 0.2,
+   "Ipswich|Man United": 0.1667,
+   "Ipswich|Newcastle": 0.2,
+   "Ipswich|Nott'm Forest": 0.2,
+   "Ipswich|Sunderland": 0.5,
+   "Ipswich|Tottenham": 0.4,
+   "Leeds|Arsenal": 0.2,
+   "Leeds|Aston Villa": 0.2,
+   "Leeds|Bournemouth": 0.2,
+   "Leeds|Brentford": 0.1667,
+   "Leeds|Brighton": 0.3333,
+   "Leeds|Chelsea": 0.4,
+   "Leeds|Coventry": 0.3333,
+   "Leeds|Crystal Palace": 0.3333,
+   "Leeds|Everton": 0.4,
+   "Leeds|Fulham": 0.4,
+   "Leeds|Hull": 0.3333,
+   "Leeds|Ipswich": 0.3333,
+   "Leeds|Liverpool": 0.2,
+   "Leeds|Man City": 0.2,
+   "Leeds|Man United": 0.4,
+   "Leeds|Newcastle": 0.3333,
+   "Leeds|Nott'm Forest": 0.5,
+   "Leeds|Sunderland": 0.2,
+   "Leeds|Tottenham": 0.2,
+   "Liverpool|Arsenal": 0.2222,
+   "Liverpool|Aston Villa": 0.375,
+   "Liverpool|Bournemouth": 0.6667,
+   "Liverpool|Brentford": 0.5556,
+   "Liverpool|Brighton": 0.4444,
+   "Liverpool|Chelsea": 0.375,
+   "Liverpool|Coventry": 0.3333,
+   "Liverpool|Crystal Palace": 0.4444,
+   "Liverpool|Everton": 0.5556,
+   "Liverpool|Fulham": 0.4,
+   "Liverpool|Hull": 0.3333,
+   "Liverpool|Ipswich": 0.6667,
+   "Liverpool|Leeds": 0.2,
+   "Liverpool|Man City": 0.3333,
+   "Liverpool|Man United": 0.2222,
+   "Liverpool|Newcastle": 0.5556,
+   "Liverpool|Nott'm Forest": 0.4,
+   "Liverpool|Sunderland": 0.4,
+   "Liverpool|Tottenham": 0.5556,
+   "Man City|Arsenal": 0.2222,
+   "Man City|Aston Villa": 0.3333,
+   "Man City|Bournemouth": 0.6,
+   "Man City|Brentford": 0.6667,
+   "Man City|Brighton": 0.3333,
+   "Man City|Chelsea": 0.4444,
+   "Man City|Coventry": 0.5,
+   "Man City|Crystal Palace": 0.6,
+   "Man City|Everton": 0.5556,
+   "Man City|Fulham": 0.75,
+   "Man City|Hull": 0.3333,
+   "Man City|Ipswich": 0.6,
+   "Man City|Leeds": 0.6,
+   "Man City|Liverpool": 0.3333,
+   "Man City|Man United": 0.5,
+   "Man City|Newcastle": 0.5,
+   "Man City|Nott'm Forest": 0.5,
+   "Man City|Sunderland": 0.5,
+   "Man City|Tottenham": 0.3333,
+   "Man United|Arsenal": 0.25,
+   "Man United|Aston Villa": 0.5556,
+   "Man United|Bournemouth": 0.1111,
+   "Man United|Brentford": 0.4444,
+   "Man United|Brighton": 0.5,
+   "Man United|Chelsea": 0.4444,
+   "Man United|Coventry": 0.3333,
+   "Man United|Crystal Palace": 0.3333,
+   "Man United|Everton": 0.5,
+   "Man United|Fulham": 0.5,
+   "Man United|Hull": 0.25,
+   "Man United|Ipswich": 0.5,
+   "Man United|Leeds": 0.2,
+   "Man United|Liverpool": 0.3333,
+   "Man United|Man City": 0.3,
+   "Man United|Newcastle": 0.3333,
+   "Man United|Nott'm Forest": 0.25,
+   "Man United|Sunderland": 0.4,
+   "Man United|Tottenham": 0.25,
+   "Newcastle|Arsenal": 0.3333,
+   "Newcastle|Aston Villa": 0.375,
+   "Newcastle|Bournemouth": 0.1,
+   "Newcastle|Brentford": 0.375,
+   "Newcastle|Brighton": 0.25,
+   "Newcastle|Chelsea": 0.4444,
+   "Newcastle|Coventry": 0.3333,
+   "Newcastle|Crystal Palace": 0.4444,
+   "Newcastle|Everton": 0.2222,
+   "Newcastle|Fulham": 0.4444,
+   "Newcastle|Hull": 0.5,
+   "Newcastle|Ipswich": 0.6,
+   "Newcastle|Leeds": 0.3333,
+   "Newcastle|Liverpool": 0.1111,
+   "Newcastle|Man City": 0.25,
+   "Newcastle|Man United": 0.5556,
+   "Newcastle|Nott'm Forest": 0.5556,
+   "Newcastle|Sunderland": 0.2,
+   "Newcastle|Tottenham": 0.6,
+   "Nott'm Forest|Arsenal": 0.125,
+   "Nott'm Forest|Aston Villa": 0.4,
+   "Nott'm Forest|Bournemouth": 0.1111,
+   "Nott'm Forest|Brentford": 0.4444,
+   "Nott'm Forest|Brighton": 0.2222,
+   "Nott'm Forest|Chelsea": 0.25,
+   "Nott'm Forest|Coventry": 0.25,
+   "Nott'm Forest|Crystal Palace": 0.2222,
+   "Nott'm Forest|Everton": 0.2222,
+   "Nott'm Forest|Fulham": 0.2222,
+   "Nott'm Forest|Hull": 0.3333,
+   "Nott'm Forest|Ipswich": 0.6,
+   "Nott'm Forest|Leeds": 0.3333,
+   "Nott'm Forest|Liverpool": 0.3,
+   "Nott'm Forest|Man City": 0.25,
+   "Nott'm Forest|Man United": 0.5,
+   "Nott'm Forest|Newcastle": 0.2222,
+   "Nott'm Forest|Sunderland": 0.4,
+   "Nott'm Forest|Tottenham": 0.5,
+   "Sunderland|Arsenal": 0.1667,
+   "Sunderland|Aston Villa": 0.2,
+   "Sunderland|Bournemouth": 0.4,
+   "Sunderland|Brentford": 0.3333,
+   "Sunderland|Brighton": 0.2,
+   "Sunderland|Chelsea": 0.6,
+   "Sunderland|Coventry": 0.3333,
+   "Sunderland|Crystal Palace": 0.4,
+   "Sunderland|Everton": 0.4,
+   "Sunderland|Fulham": 0.3333,
+   "Sunderland|Hull": 0.3333,
+   "Sunderland|Ipswich": 0.25,
+   "Sunderland|Leeds": 0.4,
+   "Sunderland|Liverpool": 0.2,
+   "Sunderland|Man City": 0.1667,
+   "Sunderland|Man United": 0.2,
+   "Sunderland|Newcastle": 0.6,
+   "Sunderland|Nott'm Forest": 0.4,
+   "Sunderland|Tottenham": 0.4,
+   "Tottenham|Arsenal": 0.1111,
+   "Tottenham|Aston Villa": 0.4,
+   "Tottenham|Bournemouth": 0.25,
+   "Tottenham|Brentford": 0.5556,
+   "Tottenham|Brighton": 0.2222,
+   "Tottenham|Chelsea": 0.1111,
+   "Tottenham|Coventry": 0.3333,
+   "Tottenham|Crystal Palace": 0.4444,
+   "Tottenham|Everton": 0.5,
+   "Tottenham|Fulham": 0.2222,
+   "Tottenham|Hull": 0.3333,
+   "Tottenham|Ipswich": 0.4,
+   "Tottenham|Leeds": 0.4,
+   "Tottenham|Liverpool": 0.2222,
+   "Tottenham|Man City": 0.3333,
+   "Tottenham|Man United": 0.375,
+   "Tottenham|Newcastle": 0.2,
+   "Tottenham|Nott'm Forest": 0.3,
+   "Tottenham|Sunderland": 0.2
+  },
+  "meetings": {
+   "Arsenal|Aston Villa": [
+    {
+     "date": "2023-12-09",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-04-14",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-08-24",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-01-18",
+     "winner": null
+    },
+    {
+     "date": "2025-12-06",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-12-30",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-08-31",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Bournemouth": [
+    {
+     "date": "2023-09-30",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-05-04",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-10-19",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-05-03",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2026-01-03",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-04-11",
+     "winner": "Bournemouth"
+    }
+   ],
+   "Arsenal|Brentford": [
+    {
+     "date": "2023-11-25",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-03-09",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-01-01",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-04-12",
+     "winner": null
+    },
+    {
+     "date": "2025-12-03",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-02-12",
+     "winner": null
+    }
+   ],
+   "Arsenal|Brighton": [
+    {
+     "date": "2023-12-17",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-04-06",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-08-31",
+     "winner": null
+    },
+    {
+     "date": "2025-01-04",
+     "winner": null
+    },
+    {
+     "date": "2025-12-27",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-03-04",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-09-19",
+     "winner": "Brighton"
+    }
+   ],
+   "Arsenal|Chelsea": [
+    {
+     "date": "2023-10-21",
+     "winner": null
+    },
+    {
+     "date": "2024-04-23",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-11-10",
+     "winner": null
+    },
+    {
+     "date": "2025-03-16",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-11-30",
+     "winner": null
+    },
+    {
+     "date": "2026-03-01",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-09-06",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Coventry": [
+    {
+     "date": "2026-08-21",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Crystal Palace": [
+    {
+     "date": "2024-01-20",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-12-21",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-04-23",
+     "winner": null
+    },
+    {
+     "date": "2025-10-26",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Everton": [
+    {
+     "date": "2024-05-19",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-12-14",
+     "winner": null
+    },
+    {
+     "date": "2025-04-05",
+     "winner": null
+    },
+    {
+     "date": "2025-12-20",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-03-14",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Fulham": [
+    {
+     "date": "2023-12-31",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2024-12-08",
+     "winner": null
+    },
+    {
+     "date": "2025-04-01",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-10-18",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-05-02",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Ipswich": [
+    {
+     "date": "2024-12-27",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-04-20",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Leeds": [
+    {
+     "date": "2025-08-23",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-01-31",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Liverpool": [
+    {
+     "date": "2023-12-23",
+     "winner": null
+    },
+    {
+     "date": "2024-02-04",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-10-27",
+     "winner": null
+    },
+    {
+     "date": "2025-05-11",
+     "winner": null
+    },
+    {
+     "date": "2025-08-31",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-01-08",
+     "winner": null
+    }
+   ],
+   "Arsenal|Man City": [
+    {
+     "date": "2023-10-08",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-03-31",
+     "winner": null
+    },
+    {
+     "date": "2024-09-22",
+     "winner": null
+    },
+    {
+     "date": "2025-02-02",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-09-21",
+     "winner": null
+    },
+    {
+     "date": "2026-04-19",
+     "winner": "Man City"
+    }
+   ],
+   "Arsenal|Man United": [
+    {
+     "date": "2024-05-12",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-12-04",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-03-09",
+     "winner": null
+    },
+    {
+     "date": "2025-08-17",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-01-25",
+     "winner": "Man United"
+    }
+   ],
+   "Arsenal|Newcastle": [
+    {
+     "date": "2023-11-04",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-02-24",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-11-02",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-05-18",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-09-28",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-04-25",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Nott'm Forest": [
+    {
+     "date": "2024-01-30",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-11-23",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-02-26",
+     "winner": null
+    },
+    {
+     "date": "2025-09-13",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-01-17",
+     "winner": null
+    }
+   ],
+   "Arsenal|Sunderland": [
+    {
+     "date": "2025-11-08",
+     "winner": null
+    },
+    {
+     "date": "2026-02-07",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-09-12",
+     "winner": "Arsenal"
+    }
+   ],
+   "Arsenal|Tottenham": [
+    {
+     "date": "2023-09-24",
+     "winner": null
+    },
+    {
+     "date": "2024-04-28",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2024-09-15",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-01-15",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2025-11-23",
+     "winner": "Arsenal"
+    },
+    {
+     "date": "2026-02-22",
+     "winner": "Arsenal"
+    }
+   ],
+   "Aston Villa|Bournemouth": [
+    {
+     "date": "2023-12-03",
+     "winner": null
+    },
+    {
+     "date": "2024-04-21",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-10-26",
+     "winner": null
+    },
+    {
+     "date": "2025-05-10",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-11-09",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-02-07",
+     "winner": null
+    }
+   ],
+   "Aston Villa|Brentford": [
+    {
+     "date": "2023-12-17",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-04-06",
+     "winner": null
+    },
+    {
+     "date": "2024-12-04",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-03-08",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-08-23",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2026-02-01",
+     "winner": "Brentford"
+    }
+   ],
+   "Aston Villa|Brighton": [
+    {
+     "date": "2023-09-30",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-05-05",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2024-12-30",
+     "winner": null
+    },
+    {
+     "date": "2025-04-02",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-12-03",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-02-11",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-08-23",
+     "winner": "Brighton"
+    }
+   ],
+   "Aston Villa|Chelsea": [
+    {
+     "date": "2023-09-24",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-04-27",
+     "winner": null
+    },
+    {
+     "date": "2024-12-01",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-02-22",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-12-27",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-03-04",
+     "winner": "Chelsea"
+    }
+   ],
+   "Aston Villa|Crystal Palace": [
+    {
+     "date": "2024-05-19",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2024-11-23",
+     "winner": null
+    },
+    {
+     "date": "2025-02-25",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2025-08-31",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2026-01-07",
+     "winner": null
+    }
+   ],
+   "Aston Villa|Everton": [
+    {
+     "date": "2024-01-14",
+     "winner": null
+    },
+    {
+     "date": "2024-09-14",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-01-15",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-09-13",
+     "winner": null
+    },
+    {
+     "date": "2026-01-18",
+     "winner": "Everton"
+    }
+   ],
+   "Aston Villa|Fulham": [
+    {
+     "date": "2023-11-12",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-02-17",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-10-19",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-05-03",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-09-28",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-04-25",
+     "winner": "Fulham"
+    }
+   ],
+   "Aston Villa|Hull": [
+    {
+     "date": "2026-09-05",
+     "winner": null
+    }
+   ],
+   "Aston Villa|Ipswich": [
+    {
+     "date": "2024-09-29",
+     "winner": null
+    },
+    {
+     "date": "2025-02-15",
+     "winner": null
+    }
+   ],
+   "Aston Villa|Leeds": [
+    {
+     "date": "2025-11-23",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-02-21",
+     "winner": null
+    }
+   ],
+   "Aston Villa|Liverpool": [
+    {
+     "date": "2024-05-13",
+     "winner": null
+    },
+    {
+     "date": "2024-11-09",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-02-19",
+     "winner": null
+    },
+    {
+     "date": "2025-11-01",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-05-15",
+     "winner": "Aston Villa"
+    }
+   ],
+   "Aston Villa|Man City": [
+    {
+     "date": "2023-12-06",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-04-03",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-12-21",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-04-22",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-10-26",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": "Aston Villa"
+    }
+   ],
+   "Aston Villa|Man United": [
+    {
+     "date": "2023-12-26",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-02-11",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-10-06",
+     "winner": null
+    },
+    {
+     "date": "2025-05-25",
+     "winner": "Man United"
+    },
+    {
+     "date": "2025-12-21",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-03-15",
+     "winner": "Man United"
+    }
+   ],
+   "Aston Villa|Newcastle": [
+    {
+     "date": "2024-01-30",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-12-26",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-04-19",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-08-16",
+     "winner": null
+    },
+    {
+     "date": "2026-01-25",
+     "winner": "Aston Villa"
+    }
+   ],
+   "Aston Villa|Nott'm Forest": [
+    {
+     "date": "2023-11-05",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2024-02-24",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-12-14",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-04-05",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-01-03",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-04-12",
+     "winner": null
+    },
+    {
+     "date": "2026-09-12",
+     "winner": "Nott'm Forest"
+    }
+   ],
+   "Aston Villa|Sunderland": [
+    {
+     "date": "2025-09-21",
+     "winner": null
+    },
+    {
+     "date": "2026-04-19",
+     "winner": "Aston Villa"
+    }
+   ],
+   "Aston Villa|Tottenham": [
+    {
+     "date": "2023-11-26",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2024-03-10",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-11-03",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2025-05-16",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2025-10-19",
+     "winner": "Aston Villa"
+    },
+    {
+     "date": "2026-05-03",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2026-09-19",
+     "winner": "Aston Villa"
+    }
+   ],
+   "Bournemouth|Brentford": [
+    {
+     "date": "2024-05-11",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2024-11-09",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-03-15",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-12-27",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2026-03-03",
+     "winner": null
+    },
+    {
+     "date": "2026-09-12",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Brighton": [
+    {
+     "date": "2023-09-24",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2024-04-28",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2024-11-23",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-02-25",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-09-13",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2026-01-19",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Chelsea": [
+    {
+     "date": "2024-05-19",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-09-14",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-01-14",
+     "winner": null
+    },
+    {
+     "date": "2025-12-06",
+     "winner": null
+    },
+    {
+     "date": "2025-12-30",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Crystal Palace": [
+    {
+     "date": "2023-12-06",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2024-04-02",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2024-12-26",
+     "winner": null
+    },
+    {
+     "date": "2025-04-19",
+     "winner": null
+    },
+    {
+     "date": "2025-10-18",
+     "winner": null
+    },
+    {
+     "date": "2026-05-03",
+     "winner": "Bournemouth"
+    }
+   ],
+   "Bournemouth|Everton": [
+    {
+     "date": "2023-10-07",
+     "winner": "Everton"
+    },
+    {
+     "date": "2024-03-30",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2024-08-31",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-01-04",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-12-02",
+     "winner": "Everton"
+    },
+    {
+     "date": "2026-02-10",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2026-08-29",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Fulham": [
+    {
+     "date": "2023-12-26",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2024-02-10",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2024-12-29",
+     "winner": null
+    },
+    {
+     "date": "2025-04-14",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-10-03",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2026-05-09",
+     "winner": "Bournemouth"
+    }
+   ],
+   "Bournemouth|Ipswich": [
+    {
+     "date": "2024-12-08",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-04-02",
+     "winner": "Ipswich"
+    }
+   ],
+   "Bournemouth|Leeds": [
+    {
+     "date": "2025-09-27",
+     "winner": null
+    },
+    {
+     "date": "2026-04-22",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Liverpool": [
+    {
+     "date": "2024-01-21",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-09-21",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-02-01",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-08-15",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-01-24",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2026-09-20",
+     "winner": "Liverpool"
+    }
+   ],
+   "Bournemouth|Man City": [
+    {
+     "date": "2023-11-04",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-02-24",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-11-02",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-05-20",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-11-02",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-05-19",
+     "winner": null
+    },
+    {
+     "date": "2026-08-23",
+     "winner": "Man City"
+    }
+   ],
+   "Bournemouth|Man United": [
+    {
+     "date": "2023-12-09",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2024-04-13",
+     "winner": null
+    },
+    {
+     "date": "2024-12-22",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-04-27",
+     "winner": null
+    },
+    {
+     "date": "2025-12-15",
+     "winner": null
+    },
+    {
+     "date": "2026-03-20",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Newcastle": [
+    {
+     "date": "2023-11-11",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2024-02-17",
+     "winner": null
+    },
+    {
+     "date": "2024-08-25",
+     "winner": null
+    },
+    {
+     "date": "2025-01-18",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-09-21",
+     "winner": null
+    },
+    {
+     "date": "2026-04-18",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2026-09-05",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Nott'm Forest": [
+    {
+     "date": "2023-12-23",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2024-02-04",
+     "winner": null
+    },
+    {
+     "date": "2024-08-17",
+     "winner": null
+    },
+    {
+     "date": "2025-01-25",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-10-26",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Sunderland": [
+    {
+     "date": "2025-11-29",
+     "winner": "Sunderland"
+    },
+    {
+     "date": "2026-02-28",
+     "winner": null
+    }
+   ],
+   "Bournemouth|Tottenham": [
+    {
+     "date": "2023-12-31",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-12-05",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2025-03-09",
+     "winner": null
+    },
+    {
+     "date": "2025-08-30",
+     "winner": "Bournemouth"
+    },
+    {
+     "date": "2026-01-07",
+     "winner": "Bournemouth"
+    }
+   ],
+   "Brentford|Brighton": [
+    {
+     "date": "2023-12-06",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2024-04-03",
+     "winner": null
+    },
+    {
+     "date": "2024-12-27",
+     "winner": null
+    },
+    {
+     "date": "2025-04-19",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-11-22",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2026-02-21",
+     "winner": "Brighton"
+    }
+   ],
+   "Brentford|Chelsea": [
+    {
+     "date": "2023-10-28",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2024-03-02",
+     "winner": null
+    },
+    {
+     "date": "2024-12-15",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-04-06",
+     "winner": null
+    },
+    {
+     "date": "2025-09-13",
+     "winner": null
+    },
+    {
+     "date": "2026-01-17",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2026-09-18",
+     "winner": "Brentford"
+    }
+   ],
+   "Brentford|Crystal Palace": [
+    {
+     "date": "2023-12-30",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2024-08-18",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-01-26",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-11-01",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2026-05-17",
+     "winner": null
+    }
+   ],
+   "Brentford|Everton": [
+    {
+     "date": "2024-04-27",
+     "winner": "Everton"
+    },
+    {
+     "date": "2024-11-23",
+     "winner": null
+    },
+    {
+     "date": "2025-02-26",
+     "winner": null
+    },
+    {
+     "date": "2026-01-04",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2026-04-11",
+     "winner": null
+    }
+   ],
+   "Brentford|Fulham": [
+    {
+     "date": "2024-05-04",
+     "winner": null
+    },
+    {
+     "date": "2024-11-04",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-05-18",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-09-20",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2026-04-18",
+     "winner": null
+    }
+   ],
+   "Brentford|Ipswich": [
+    {
+     "date": "2024-10-26",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-05-10",
+     "winner": "Brentford"
+    }
+   ],
+   "Brentford|Leeds": [
+    {
+     "date": "2025-12-14",
+     "winner": null
+    },
+    {
+     "date": "2026-03-21",
+     "winner": null
+    },
+    {
+     "date": "2026-08-30",
+     "winner": null
+    }
+   ],
+   "Brentford|Liverpool": [
+    {
+     "date": "2023-11-12",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-02-17",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-08-25",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-01-18",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-10-25",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": null
+    }
+   ],
+   "Brentford|Man City": [
+    {
+     "date": "2024-02-05",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-02-20",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-09-14",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-01-14",
+     "winner": null
+    },
+    {
+     "date": "2025-10-05",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-05-09",
+     "winner": "Man City"
+    }
+   ],
+   "Brentford|Man United": [
+    {
+     "date": "2023-10-07",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-03-30",
+     "winner": null
+    },
+    {
+     "date": "2024-10-19",
+     "winner": "Man United"
+    },
+    {
+     "date": "2025-05-04",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-09-27",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2026-04-27",
+     "winner": "Man United"
+    }
+   ],
+   "Brentford|Newcastle": [
+    {
+     "date": "2024-05-19",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-12-07",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-04-02",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-11-09",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2026-02-07",
+     "winner": "Brentford"
+    }
+   ],
+   "Brentford|Nott'm Forest": [
+    {
+     "date": "2023-10-01",
+     "winner": null
+    },
+    {
+     "date": "2024-01-20",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2024-12-21",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-05-01",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2025-08-17",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2026-01-25",
+     "winner": "Nott'm Forest"
+    }
+   ],
+   "Brentford|Sunderland": [
+    {
+     "date": "2025-08-30",
+     "winner": "Sunderland"
+    },
+    {
+     "date": "2026-01-07",
+     "winner": "Brentford"
+    },
+    {
+     "date": "2026-09-05",
+     "winner": null
+    }
+   ],
+   "Brentford|Tottenham": [
+    {
+     "date": "2024-01-31",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-09-21",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2025-02-02",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2025-12-06",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2026-01-01",
+     "winner": null
+    },
+    {
+     "date": "2026-08-22",
+     "winner": "Brentford"
+    }
+   ],
+   "Brighton|Chelsea": [
+    {
+     "date": "2023-12-03",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-05-15",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-09-28",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-02-14",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-09-27",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2026-04-21",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2026-08-30",
+     "winner": "Chelsea"
+    }
+   ],
+   "Brighton|Coventry": [
+    {
+     "date": "2026-09-13",
+     "winner": "Brighton"
+    }
+   ],
+   "Brighton|Crystal Palace": [
+    {
+     "date": "2023-12-21",
+     "winner": null
+    },
+    {
+     "date": "2024-02-03",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2024-12-15",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2025-04-05",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2025-11-09",
+     "winner": null
+    },
+    {
+     "date": "2026-02-08",
+     "winner": "Crystal Palace"
+    }
+   ],
+   "Brighton|Everton": [
+    {
+     "date": "2023-11-04",
+     "winner": null
+    },
+    {
+     "date": "2024-02-24",
+     "winner": null
+    },
+    {
+     "date": "2024-08-17",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-01-25",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-08-24",
+     "winner": "Everton"
+    },
+    {
+     "date": "2026-01-31",
+     "winner": null
+    }
+   ],
+   "Brighton|Fulham": [
+    {
+     "date": "2023-10-29",
+     "winner": null
+    },
+    {
+     "date": "2024-03-02",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2024-12-05",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-03-08",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-08-16",
+     "winner": null
+    },
+    {
+     "date": "2026-01-24",
+     "winner": "Fulham"
+    }
+   ],
+   "Brighton|Ipswich": [
+    {
+     "date": "2024-09-14",
+     "winner": null
+    },
+    {
+     "date": "2025-01-16",
+     "winner": "Brighton"
+    }
+   ],
+   "Brighton|Leeds": [
+    {
+     "date": "2025-11-01",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Leeds"
+    },
+    {
+     "date": "2026-09-05",
+     "winner": null
+    }
+   ],
+   "Brighton|Liverpool": [
+    {
+     "date": "2023-10-08",
+     "winner": null
+    },
+    {
+     "date": "2024-03-31",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-11-02",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-05-19",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-12-13",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-03-21",
+     "winner": "Brighton"
+    }
+   ],
+   "Brighton|Man City": [
+    {
+     "date": "2023-10-21",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-04-25",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-11-09",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-03-15",
+     "winner": null
+    },
+    {
+     "date": "2025-08-31",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2026-01-07",
+     "winner": null
+    }
+   ],
+   "Brighton|Man United": [
+    {
+     "date": "2024-05-19",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-08-24",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-01-19",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-10-25",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": "Man United"
+    }
+   ],
+   "Brighton|Newcastle": [
+    {
+     "date": "2024-05-11",
+     "winner": null
+    },
+    {
+     "date": "2024-10-19",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-05-04",
+     "winner": null
+    },
+    {
+     "date": "2025-10-18",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2026-05-02",
+     "winner": "Newcastle"
+    }
+   ],
+   "Brighton|Nott'm Forest": [
+    {
+     "date": "2023-11-25",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2024-03-10",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2024-09-22",
+     "winner": null
+    },
+    {
+     "date": "2025-02-01",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-11-30",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2026-03-01",
+     "winner": "Brighton"
+    }
+   ],
+   "Brighton|Sunderland": [
+    {
+     "date": "2025-12-20",
+     "winner": null
+    },
+    {
+     "date": "2026-03-14",
+     "winner": "Brighton"
+    }
+   ],
+   "Brighton|Tottenham": [
+    {
+     "date": "2023-12-28",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2024-02-10",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-10-06",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-05-25",
+     "winner": "Brighton"
+    },
+    {
+     "date": "2025-09-20",
+     "winner": null
+    },
+    {
+     "date": "2026-04-18",
+     "winner": null
+    }
+   ],
+   "Chelsea|Crystal Palace": [
+    {
+     "date": "2023-12-27",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-02-12",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-09-01",
+     "winner": null
+    },
+    {
+     "date": "2025-01-04",
+     "winner": null
+    },
+    {
+     "date": "2025-08-17",
+     "winner": null
+    },
+    {
+     "date": "2026-01-25",
+     "winner": "Chelsea"
+    }
+   ],
+   "Chelsea|Everton": [
+    {
+     "date": "2023-12-10",
+     "winner": "Everton"
+    },
+    {
+     "date": "2024-04-15",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-12-22",
+     "winner": null
+    },
+    {
+     "date": "2025-04-26",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-12-13",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2026-03-21",
+     "winner": "Everton"
+    }
+   ],
+   "Chelsea|Fulham": [
+    {
+     "date": "2023-10-02",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-01-13",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-12-26",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-04-20",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-08-30",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2026-01-07",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2026-08-24",
+     "winner": "Chelsea"
+    }
+   ],
+   "Chelsea|Hull": [
+    {
+     "date": "2026-09-12",
+     "winner": null
+    }
+   ],
+   "Chelsea|Ipswich": [
+    {
+     "date": "2024-12-30",
+     "winner": "Ipswich"
+    },
+    {
+     "date": "2025-04-13",
+     "winner": null
+    }
+   ],
+   "Chelsea|Leeds": [
+    {
+     "date": "2025-12-03",
+     "winner": "Leeds"
+    },
+    {
+     "date": "2026-02-10",
+     "winner": null
+    }
+   ],
+   "Chelsea|Liverpool": [
+    {
+     "date": "2024-01-31",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-10-20",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-05-04",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-10-04",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2026-05-09",
+     "winner": null
+    }
+   ],
+   "Chelsea|Man City": [
+    {
+     "date": "2023-11-12",
+     "winner": null
+    },
+    {
+     "date": "2024-02-17",
+     "winner": null
+    },
+    {
+     "date": "2024-08-18",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-01-25",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-01-04",
+     "winner": null
+    },
+    {
+     "date": "2026-04-12",
+     "winner": "Man City"
+    }
+   ],
+   "Chelsea|Man United": [
+    {
+     "date": "2023-12-06",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-04-04",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-11-03",
+     "winner": null
+    },
+    {
+     "date": "2025-05-16",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-09-20",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-04-18",
+     "winner": "Man United"
+    }
+   ],
+   "Chelsea|Newcastle": [
+    {
+     "date": "2023-11-25",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-03-11",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-10-27",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-05-11",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-12-20",
+     "winner": null
+    },
+    {
+     "date": "2026-03-14",
+     "winner": "Newcastle"
+    }
+   ],
+   "Chelsea|Nott'm Forest": [
+    {
+     "date": "2024-05-11",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-10-06",
+     "winner": null
+    },
+    {
+     "date": "2025-05-25",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-10-18",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2026-05-04",
+     "winner": "Nott'm Forest"
+    }
+   ],
+   "Chelsea|Sunderland": [
+    {
+     "date": "2025-10-25",
+     "winner": "Sunderland"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": "Sunderland"
+    }
+   ],
+   "Chelsea|Tottenham": [
+    {
+     "date": "2023-11-06",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-05-02",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2024-12-08",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-04-03",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2025-11-01",
+     "winner": "Chelsea"
+    },
+    {
+     "date": "2026-05-19",
+     "winner": "Chelsea"
+    }
+   ],
+   "Coventry|Hull": [
+    {
+     "date": "2026-08-29",
+     "winner": "Hull"
+    }
+   ],
+   "Coventry|Man City": [
+    {
+     "date": "2026-09-05",
+     "winner": "Man City"
+    }
+   ],
+   "Coventry|Nott'm Forest": [
+    {
+     "date": "2026-09-19",
+     "winner": "Coventry"
+    }
+   ],
+   "Crystal Palace|Everton": [
+    {
+     "date": "2023-11-11",
+     "winner": "Everton"
+    },
+    {
+     "date": "2024-02-19",
+     "winner": null
+    },
+    {
+     "date": "2024-09-28",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-02-15",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-10-05",
+     "winner": "Everton"
+    },
+    {
+     "date": "2026-05-10",
+     "winner": null
+    },
+    {
+     "date": "2026-08-22",
+     "winner": "Everton"
+    }
+   ],
+   "Crystal Palace|Fulham": [
+    {
+     "date": "2024-04-27",
+     "winner": null
+    },
+    {
+     "date": "2024-11-09",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-02-22",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2025-12-07",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2026-01-01",
+     "winner": null
+    },
+    {
+     "date": "2026-09-05",
+     "winner": "Crystal Palace"
+    }
+   ],
+   "Crystal Palace|Ipswich": [
+    {
+     "date": "2024-12-03",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2025-03-08",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2026-09-12",
+     "winner": "Ipswich"
+    }
+   ],
+   "Crystal Palace|Leeds": [
+    {
+     "date": "2025-12-20",
+     "winner": "Leeds"
+    },
+    {
+     "date": "2026-03-15",
+     "winner": null
+    },
+    {
+     "date": "2026-09-20",
+     "winner": null
+    }
+   ],
+   "Crystal Palace|Liverpool": [
+    {
+     "date": "2023-12-09",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-04-14",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2024-10-05",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-05-25",
+     "winner": null
+    },
+    {
+     "date": "2025-09-27",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2026-04-25",
+     "winner": "Liverpool"
+    }
+   ],
+   "Crystal Palace|Man City": [
+    {
+     "date": "2023-12-16",
+     "winner": null
+    },
+    {
+     "date": "2024-04-06",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-12-07",
+     "winner": null
+    },
+    {
+     "date": "2025-04-12",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-12-14",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-05-13",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-08-28",
+     "winner": "Man City"
+    }
+   ],
+   "Crystal Palace|Man United": [
+    {
+     "date": "2023-09-30",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2024-05-06",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2024-09-21",
+     "winner": null
+    },
+    {
+     "date": "2025-02-02",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2025-11-30",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-03-01",
+     "winner": "Man United"
+    }
+   ],
+   "Crystal Palace|Newcastle": [
+    {
+     "date": "2023-10-21",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-04-24",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2024-11-30",
+     "winner": null
+    },
+    {
+     "date": "2025-04-16",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2026-01-04",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2026-04-12",
+     "winner": "Crystal Palace"
+    }
+   ],
+   "Crystal Palace|Nott'm Forest": [
+    {
+     "date": "2023-10-07",
+     "winner": null
+    },
+    {
+     "date": "2024-03-30",
+     "winner": null
+    },
+    {
+     "date": "2024-10-21",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-05-05",
+     "winner": null
+    },
+    {
+     "date": "2025-08-24",
+     "winner": null
+    },
+    {
+     "date": "2026-02-01",
+     "winner": null
+    }
+   ],
+   "Crystal Palace|Sunderland": [
+    {
+     "date": "2025-09-13",
+     "winner": null
+    },
+    {
+     "date": "2026-01-17",
+     "winner": "Sunderland"
+    }
+   ],
+   "Crystal Palace|Tottenham": [
+    {
+     "date": "2023-10-27",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-03-02",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-10-27",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2025-05-11",
+     "winner": "Crystal Palace"
+    },
+    {
+     "date": "2025-12-28",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2026-03-05",
+     "winner": "Crystal Palace"
+    }
+   ],
+   "Everton|Fulham": [
+    {
+     "date": "2024-01-30",
+     "winner": null
+    },
+    {
+     "date": "2024-10-26",
+     "winner": null
+    },
+    {
+     "date": "2025-05-10",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-11-08",
+     "winner": "Everton"
+    },
+    {
+     "date": "2026-02-07",
+     "winner": "Everton"
+    }
+   ],
+   "Everton|Ipswich": [
+    {
+     "date": "2024-10-19",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-05-03",
+     "winner": null
+    },
+    {
+     "date": "2026-09-19",
+     "winner": "Everton"
+    }
+   ],
+   "Everton|Leeds": [
+    {
+     "date": "2025-08-18",
+     "winner": "Leeds"
+    },
+    {
+     "date": "2026-01-26",
+     "winner": null
+    }
+   ],
+   "Everton|Liverpool": [
+    {
+     "date": "2023-10-21",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-04-24",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-02-12",
+     "winner": null
+    },
+    {
+     "date": "2025-04-02",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-09-20",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-04-19",
+     "winner": "Liverpool"
+    }
+   ],
+   "Everton|Man City": [
+    {
+     "date": "2023-12-27",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-02-10",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-12-26",
+     "winner": null
+    },
+    {
+     "date": "2025-04-19",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-10-18",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-05-04",
+     "winner": null
+    }
+   ],
+   "Everton|Man United": [
+    {
+     "date": "2023-11-26",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-03-09",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-12-01",
+     "winner": "Man United"
+    },
+    {
+     "date": "2025-02-22",
+     "winner": null
+    },
+    {
+     "date": "2025-11-24",
+     "winner": "Everton"
+    },
+    {
+     "date": "2026-02-23",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-09-06",
+     "winner": null
+    }
+   ],
+   "Everton|Newcastle": [
+    {
+     "date": "2023-12-07",
+     "winner": "Everton"
+    },
+    {
+     "date": "2024-04-02",
+     "winner": null
+    },
+    {
+     "date": "2024-10-05",
+     "winner": null
+    },
+    {
+     "date": "2025-05-25",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-11-29",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2026-02-28",
+     "winner": "Everton"
+    }
+   ],
+   "Everton|Nott'm Forest": [
+    {
+     "date": "2023-12-02",
+     "winner": "Everton"
+    },
+    {
+     "date": "2024-04-21",
+     "winner": "Everton"
+    },
+    {
+     "date": "2024-12-29",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-04-12",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-12-06",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-12-30",
+     "winner": "Everton"
+    }
+   ],
+   "Everton|Sunderland": [
+    {
+     "date": "2025-11-03",
+     "winner": null
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Sunderland"
+    }
+   ],
+   "Everton|Tottenham": [
+    {
+     "date": "2023-12-23",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-02-03",
+     "winner": null
+    },
+    {
+     "date": "2024-08-24",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2025-01-19",
+     "winner": "Everton"
+    },
+    {
+     "date": "2025-10-26",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2026-09-12",
+     "winner": null
+    }
+   ],
+   "Fulham|Ipswich": [
+    {
+     "date": "2024-08-31",
+     "winner": null
+    },
+    {
+     "date": "2025-01-05",
+     "winner": null
+    }
+   ],
+   "Fulham|Leeds": [
+    {
+     "date": "2025-09-13",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2026-01-17",
+     "winner": "Leeds"
+    }
+   ],
+   "Fulham|Liverpool": [
+    {
+     "date": "2023-12-03",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-04-21",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-12-14",
+     "winner": null
+    },
+    {
+     "date": "2025-04-06",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2026-01-04",
+     "winner": null
+    },
+    {
+     "date": "2026-04-11",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-09-12",
+     "winner": null
+    }
+   ],
+   "Fulham|Man City": [
+    {
+     "date": "2024-05-11",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-10-05",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-05-25",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-12-02",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-02-11",
+     "winner": "Man City"
+    }
+   ],
+   "Fulham|Man United": [
+    {
+     "date": "2023-11-04",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-02-24",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2024-08-16",
+     "winner": "Man United"
+    },
+    {
+     "date": "2025-01-26",
+     "winner": "Man United"
+    },
+    {
+     "date": "2025-08-24",
+     "winner": null
+    },
+    {
+     "date": "2026-02-01",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-09-20",
+     "winner": null
+    }
+   ],
+   "Fulham|Newcastle": [
+    {
+     "date": "2023-12-16",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-04-06",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-09-21",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-02-01",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-10-25",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": "Fulham"
+    }
+   ],
+   "Fulham|Nott'm Forest": [
+    {
+     "date": "2023-12-06",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2024-04-02",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2024-09-28",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-02-15",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-12-22",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2026-03-15",
+     "winner": null
+    }
+   ],
+   "Fulham|Sunderland": [
+    {
+     "date": "2025-11-22",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2026-02-22",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2026-08-30",
+     "winner": "Sunderland"
+    }
+   ],
+   "Fulham|Tottenham": [
+    {
+     "date": "2023-10-23",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-03-16",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2024-12-01",
+     "winner": null
+    },
+    {
+     "date": "2025-03-16",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2025-11-29",
+     "winner": "Fulham"
+    },
+    {
+     "date": "2026-03-01",
+     "winner": "Fulham"
+    }
+   ],
+   "Hull|Man United": [
+    {
+     "date": "2026-08-22",
+     "winner": "Hull"
+    }
+   ],
+   "Hull|Newcastle": [
+    {
+     "date": "2026-09-19",
+     "winner": "Newcastle"
+    }
+   ],
+   "Ipswich|Liverpool": [
+    {
+     "date": "2024-08-17",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-01-25",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-09-04",
+     "winner": "Liverpool"
+    }
+   ],
+   "Ipswich|Man City": [
+    {
+     "date": "2024-08-24",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-01-19",
+     "winner": "Man City"
+    }
+   ],
+   "Ipswich|Man United": [
+    {
+     "date": "2024-11-24",
+     "winner": null
+    },
+    {
+     "date": "2025-02-26",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-08-30",
+     "winner": "Man United"
+    }
+   ],
+   "Ipswich|Newcastle": [
+    {
+     "date": "2024-12-21",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-04-26",
+     "winner": "Newcastle"
+    }
+   ],
+   "Ipswich|Nott'm Forest": [
+    {
+     "date": "2024-11-30",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-03-15",
+     "winner": "Nott'm Forest"
+    }
+   ],
+   "Ipswich|Sunderland": [
+    {
+     "date": "2026-08-22",
+     "winner": "Ipswich"
+    }
+   ],
+   "Ipswich|Tottenham": [
+    {
+     "date": "2024-11-10",
+     "winner": "Ipswich"
+    },
+    {
+     "date": "2025-02-22",
+     "winner": "Tottenham"
+    }
+   ],
+   "Leeds|Liverpool": [
+    {
+     "date": "2025-12-06",
+     "winner": null
+    },
+    {
+     "date": "2026-01-01",
+     "winner": null
+    }
+   ],
+   "Leeds|Man City": [
+    {
+     "date": "2025-11-29",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-02-28",
+     "winner": "Man City"
+    }
+   ],
+   "Leeds|Man United": [
+    {
+     "date": "2026-01-04",
+     "winner": null
+    },
+    {
+     "date": "2026-04-13",
+     "winner": "Leeds"
+    }
+   ],
+   "Leeds|Newcastle": [
+    {
+     "date": "2025-08-30",
+     "winner": null
+    },
+    {
+     "date": "2026-01-07",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2026-09-14",
+     "winner": "Leeds"
+    }
+   ],
+   "Leeds|Nott'm Forest": [
+    {
+     "date": "2025-11-09",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2026-02-06",
+     "winner": "Leeds"
+    },
+    {
+     "date": "2026-08-22",
+     "winner": "Leeds"
+    }
+   ],
+   "Leeds|Sunderland": [
+    {
+     "date": "2025-12-28",
+     "winner": null
+    },
+    {
+     "date": "2026-03-03",
+     "winner": "Sunderland"
+    }
+   ],
+   "Leeds|Tottenham": [
+    {
+     "date": "2025-10-04",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2026-05-11",
+     "winner": null
+    }
+   ],
+   "Liverpool|Man City": [
+    {
+     "date": "2023-11-25",
+     "winner": null
+    },
+    {
+     "date": "2024-03-10",
+     "winner": null
+    },
+    {
+     "date": "2024-12-01",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-02-23",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-11-09",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-02-08",
+     "winner": "Man City"
+    }
+   ],
+   "Liverpool|Man United": [
+    {
+     "date": "2023-12-17",
+     "winner": null
+    },
+    {
+     "date": "2024-04-07",
+     "winner": null
+    },
+    {
+     "date": "2024-09-01",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-01-05",
+     "winner": null
+    },
+    {
+     "date": "2025-10-19",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-05-03",
+     "winner": "Man United"
+    }
+   ],
+   "Liverpool|Newcastle": [
+    {
+     "date": "2024-01-01",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-12-04",
+     "winner": null
+    },
+    {
+     "date": "2025-02-26",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-08-25",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-01-31",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-08-23",
+     "winner": null
+    }
+   ],
+   "Liverpool|Nott'm Forest": [
+    {
+     "date": "2023-10-29",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-03-02",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-09-14",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-01-14",
+     "winner": null
+    },
+    {
+     "date": "2025-11-22",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2026-02-22",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-08-29",
+     "winner": null
+    }
+   ],
+   "Liverpool|Sunderland": [
+    {
+     "date": "2025-12-03",
+     "winner": null
+    },
+    {
+     "date": "2026-02-11",
+     "winner": "Liverpool"
+    }
+   ],
+   "Liverpool|Tottenham": [
+    {
+     "date": "2023-09-30",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-05-05",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2024-12-22",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-04-27",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2025-12-20",
+     "winner": "Liverpool"
+    },
+    {
+     "date": "2026-03-15",
+     "winner": null
+    }
+   ],
+   "Man City|Man United": [
+    {
+     "date": "2023-10-29",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-03-03",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-12-15",
+     "winner": "Man United"
+    },
+    {
+     "date": "2025-04-06",
+     "winner": null
+    },
+    {
+     "date": "2025-09-14",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-01-17",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-09-13",
+     "winner": "Man City"
+    }
+   ],
+   "Man City|Newcastle": [
+    {
+     "date": "2024-01-13",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-09-28",
+     "winner": null
+    },
+    {
+     "date": "2025-02-15",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-11-22",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2026-02-21",
+     "winner": "Man City"
+    }
+   ],
+   "Man City|Nott'm Forest": [
+    {
+     "date": "2024-04-28",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-12-04",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-03-08",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-12-27",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-03-04",
+     "winner": null
+    }
+   ],
+   "Man City|Sunderland": [
+    {
+     "date": "2025-12-06",
+     "winner": "Man City"
+    },
+    {
+     "date": "2026-01-01",
+     "winner": null
+    },
+    {
+     "date": "2026-09-20",
+     "winner": "Man City"
+    }
+   ],
+   "Man City|Tottenham": [
+    {
+     "date": "2023-12-03",
+     "winner": null
+    },
+    {
+     "date": "2024-05-14",
+     "winner": "Man City"
+    },
+    {
+     "date": "2024-11-23",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2025-02-26",
+     "winner": "Man City"
+    },
+    {
+     "date": "2025-08-23",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2026-02-01",
+     "winner": null
+    }
+   ],
+   "Man United|Newcastle": [
+    {
+     "date": "2023-12-02",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-05-15",
+     "winner": "Man United"
+    },
+    {
+     "date": "2024-12-30",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-04-13",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-12-26",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-03-04",
+     "winner": "Newcastle"
+    }
+   ],
+   "Man United|Nott'm Forest": [
+    {
+     "date": "2023-12-30",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2024-12-07",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-04-01",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-11-01",
+     "winner": null
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Man United"
+    }
+   ],
+   "Man United|Sunderland": [
+    {
+     "date": "2025-10-04",
+     "winner": "Man United"
+    },
+    {
+     "date": "2026-05-09",
+     "winner": null
+    }
+   ],
+   "Man United|Tottenham": [
+    {
+     "date": "2024-01-14",
+     "winner": null
+    },
+    {
+     "date": "2024-09-29",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2025-02-16",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2025-11-08",
+     "winner": null
+    },
+    {
+     "date": "2026-02-07",
+     "winner": "Man United"
+    }
+   ],
+   "Newcastle|Nott'm Forest": [
+    {
+     "date": "2023-12-26",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2024-02-10",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-11-10",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-02-23",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-10-05",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2026-05-10",
+     "winner": null
+    }
+   ],
+   "Newcastle|Sunderland": [
+    {
+     "date": "2025-12-14",
+     "winner": "Sunderland"
+    },
+    {
+     "date": "2026-03-22",
+     "winner": "Sunderland"
+    }
+   ],
+   "Newcastle|Tottenham": [
+    {
+     "date": "2023-12-10",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-04-13",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2024-09-01",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-01-04",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2025-12-02",
+     "winner": null
+    },
+    {
+     "date": "2026-02-10",
+     "winner": "Newcastle"
+    },
+    {
+     "date": "2026-08-29",
+     "winner": "Newcastle"
+    }
+   ],
+   "Nott'm Forest|Sunderland": [
+    {
+     "date": "2025-09-27",
+     "winner": "Sunderland"
+    },
+    {
+     "date": "2026-04-24",
+     "winner": "Nott'm Forest"
+    }
+   ],
+   "Nott'm Forest|Tottenham": [
+    {
+     "date": "2023-12-15",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-04-07",
+     "winner": "Tottenham"
+    },
+    {
+     "date": "2024-12-26",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-04-21",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2025-12-14",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2026-03-22",
+     "winner": "Nott'm Forest"
+    },
+    {
+     "date": "2026-09-05",
+     "winner": null
+    }
+   ],
+   "Sunderland|Tottenham": [
+    {
+     "date": "2026-01-04",
+     "winner": null
+    },
+    {
+     "date": "2026-04-12",
+     "winner": "Sunderland"
+    }
+   ]
+  },
+  "home_adv_league": 0.3158
+ },
+ "La Liga": {
+  "teams": {
+   "Alaves": {
+    "display": "Deportivo Alavés",
+    "n": 5.0,
+    "gf": 1.4,
+    "ga": 1.0,
+    "sotf": 4.0,
+    "sota": 4.8,
+    "poss": 43.4,
+    "form": 7.0,
+    "elo": 1503.8,
+    "home_adv": 0.5387,
+    "last": [
+     {
+      "date": "2026-08-28",
+      "opp": "Villarreal",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Osasuna",
+      "venue": "H",
+      "gf": 5,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Santander",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-15",
+      "opp": "Valencia",
+      "venue": "H",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Ath Bilbao",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     }
+    ]
+   },
+   "Ath Bilbao": {
+    "display": "Athletic Club",
+    "n": 5.0,
+    "gf": 1.2,
+    "ga": 0.6,
+    "sotf": 4.0,
+    "sota": 3.6,
+    "poss": 43.4,
+    "form": 8.0,
+    "elo": 1527.1,
+    "home_adv": 0.4483,
+    "last": [
+     {
+      "date": "2026-08-27",
+      "opp": "Barcelona",
+      "venue": "A",
+      "gf": 0,
+      "ga": 2
+     },
+     {
+      "date": "2026-08-30",
+      "opp": "Celta",
+      "venue": "A",
+      "gf": 2,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Ath Madrid",
+      "venue": "H",
+      "gf": 3,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Elche",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Alaves",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
+     }
+    ]
+   },
+   "Ath Madrid": {
+    "display": "Atlético Madrid",
+    "n": 5.0,
+    "gf": 2.4,
+    "ga": 1.0,
+    "sotf": 7.0,
+    "sota": 3.2,
+    "poss": 43.4,
+    "form": 12.0,
+    "elo": 1676.4,
+    "home_adv": 0.6552,
+    "last": [
+     {
+      "date": "2026-08-29",
+      "opp": "Sevilla",
+      "venue": "A",
+      "gf": 3,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Ath Bilbao",
+      "venue": "A",
+      "gf": 0,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Sociedad",
+      "venue": "A",
+      "gf": 3,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-16",
+      "opp": "Osasuna",
+      "venue": "H",
+      "gf": 4,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Real Madrid",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
+     }
+    ]
+   },
+   "Barcelona": {
+    "display": "FC Barcelona",
+    "n": 5.0,
+    "gf": 4.8,
+    "ga": 1.4,
+    "sotf": 8.2,
+    "sota": 4.0,
+    "poss": 43.4,
+    "form": 15.0,
+    "elo": 1872.2,
+    "home_adv": 0.6207,
+    "last": [
+     {
+      "date": "2026-08-31",
+      "opp": "Vallecano",
+      "venue": "H",
+      "gf": 5,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Valencia",
+      "venue": "A",
+      "gf": 5,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Levante",
+      "venue": "A",
+      "gf": 4,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-16",
+      "opp": "Santander",
+      "venue": "H",
+      "gf": 7,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Sevilla",
+      "venue": "A",
+      "gf": 3,
+      "ga": 1
+     }
+    ]
+   },
+   "Betis": {
+    "display": "Real Betis",
+    "n": 5.0,
+    "gf": 1.4,
+    "ga": 1.4,
+    "sotf": 7.0,
+    "sota": 7.0,
+    "poss": 43.4,
+    "form": 10.0,
+    "elo": 1633.2,
+    "home_adv": 0.3931,
+    "last": [
+     {
+      "date": "2026-08-29",
+      "opp": "Levante",
+      "venue": "A",
+      "gf": 2,
+      "ga": 5
+     },
+     {
+      "date": "2026-09-04",
+      "opp": "Real Madrid",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-14",
+      "opp": "Villarreal",
+      "venue": "A",
+      "gf": 2,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-17",
+      "opp": "Getafe",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "La Coruna",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     }
+    ]
+   },
+   "Celta": {
+    "display": "Celta Vigo",
+    "n": 5.0,
+    "gf": 1.4,
+    "ga": 0.8,
+    "sotf": 4.2,
+    "sota": 4.2,
+    "poss": 43.4,
+    "form": 6.0,
+    "elo": 1529.5,
+    "home_adv": -0.2759,
+    "last": [
+     {
+      "date": "2026-08-30",
+      "opp": "Ath Bilbao",
+      "venue": "H",
+      "gf": 0,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-03",
+      "opp": "Sociedad",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-07",
+      "opp": "Getafe",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Malaga",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Santander",
+      "venue": "H",
+      "gf": 5,
+      "ga": 0
+     }
+    ]
+   },
+   "Elche": {
+    "display": "Elche",
+    "n": 5.0,
+    "gf": 2.0,
+    "ga": 2.2,
+    "sotf": 5.4,
+    "sota": 4.6,
+    "poss": 43.4,
+    "form": 4.0,
+    "elo": 1458.5,
+    "home_adv": 0.5824,
+    "last": [
+     {
+      "date": "2026-08-28",
+      "opp": "Santander",
+      "venue": "A",
+      "gf": 2,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-07",
+      "opp": "Sociedad",
+      "venue": "H",
+      "gf": 2,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Ath Bilbao",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-15",
+      "opp": "Real Madrid",
+      "venue": "H",
+      "gf": 2,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-18",
+      "opp": "Espanol",
+      "venue": "A",
+      "gf": 3,
+      "ga": 1
+     }
+    ]
+   },
+   "Espanol": {
+    "display": "Espanyol",
+    "n": 5.0,
+    "gf": 1.2,
+    "ga": 1.6,
+    "sotf": 3.6,
+    "sota": 5.0,
+    "poss": 43.4,
+    "form": 4.0,
+    "elo": 1462.0,
+    "home_adv": -0.0345,
+    "last": [
+     {
+      "date": "2026-08-29",
+      "opp": "Sociedad",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Sevilla",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Osasuna",
+      "venue": "A",
+      "gf": 2,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-15",
+      "opp": "Vallecano",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-18",
+      "opp": "Elche",
+      "venue": "H",
+      "gf": 1,
+      "ga": 3
+     }
+    ]
+   },
+   "Getafe": {
+    "display": "Getafe",
+    "n": 5.0,
+    "gf": 0.6,
+    "ga": 0.8,
+    "sotf": 3.2,
+    "sota": 4.0,
+    "poss": 43.4,
+    "form": 5.0,
+    "elo": 1490.2,
+    "home_adv": 0.3276,
+    "last": [
+     {
+      "date": "2026-08-31",
+      "opp": "Osasuna",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-07",
+      "opp": "Celta",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "La Coruna",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-17",
+      "opp": "Betis",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Malaga",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     }
+    ]
+   },
+   "La Coruna": {
+    "display": "Deportivo de A Coruña",
+    "n": 5.0,
+    "gf": 1.6,
+    "ga": 1.2,
+    "sotf": 4.0,
+    "sota": 4.6,
+    "poss": 43.4,
+    "form": 8.0,
+    "elo": 1432.9,
+    "home_adv": -0.108,
+    "last": [
+     {
+      "date": "2026-08-30",
+      "opp": "Valencia",
+      "venue": "H",
+      "gf": 3,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Villarreal",
+      "venue": "A",
+      "gf": 3,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Getafe",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-16",
+      "opp": "Sevilla",
+      "venue": "H",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Betis",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     }
+    ]
+   },
+   "Levante": {
+    "display": "Levante UD",
+    "n": 5.0,
+    "gf": 1.6,
+    "ga": 1.8,
+    "sotf": 4.4,
+    "sota": 5.8,
+    "poss": 43.4,
+    "form": 5.0,
+    "elo": 1483.3,
+    "home_adv": 0.5278,
+    "last": [
+     {
+      "date": "2026-08-24",
+      "opp": "Osasuna",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-08-29",
+      "opp": "Betis",
+      "venue": "H",
+      "gf": 5,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Malaga",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Barcelona",
+      "venue": "H",
+      "gf": 2,
+      "ga": 4
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Villarreal",
+      "venue": "A",
+      "gf": 1,
+      "ga": 3
+     }
+    ]
+   },
+   "Malaga": {
+    "display": "Málaga CF",
+    "n": 5.0,
+    "gf": 0.4,
+    "ga": 1.8,
+    "sotf": 2.2,
+    "sota": 6.0,
+    "poss": 43.4,
+    "form": 2.0,
+    "elo": 1365.5,
+    "home_adv": 0.108,
+    "last": [
+     {
+      "date": "2026-08-30",
+      "opp": "Real Madrid",
+      "venue": "A",
+      "gf": 0,
+      "ga": 4
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Levante",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Celta",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-17",
+      "opp": "Villarreal",
+      "venue": "H",
+      "gf": 1,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Getafe",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     }
+    ]
+   },
+   "Osasuna": {
+    "display": "Osasuna",
+    "n": 5.0,
+    "gf": 0.8,
+    "ga": 2.4,
+    "sotf": 3.0,
+    "sota": 4.8,
+    "poss": 43.4,
+    "form": 4.0,
+    "elo": 1464.0,
+    "home_adv": 0.5096,
+    "last": [
+     {
+      "date": "2026-08-31",
+      "opp": "Getafe",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Alaves",
+      "venue": "A",
+      "gf": 2,
+      "ga": 5
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Espanol",
+      "venue": "H",
+      "gf": 0,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-16",
+      "opp": "Ath Madrid",
+      "venue": "A",
+      "gf": 0,
+      "ga": 4
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Vallecano",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
+     }
+    ]
+   },
+   "Real Madrid": {
+    "display": "Real Madrid",
+    "n": 5.0,
+    "gf": 2.4,
+    "ga": 1.2,
+    "sotf": 6.8,
+    "sota": 5.0,
+    "poss": 43.4,
+    "form": 9.0,
+    "elo": 1777.2,
+    "home_adv": 0.5172,
+    "last": [
+     {
+      "date": "2026-08-30",
+      "opp": "Malaga",
+      "venue": "H",
+      "gf": 4,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-04",
+      "opp": "Betis",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Vallecano",
+      "venue": "H",
+      "gf": 4,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-15",
+      "opp": "Elche",
+      "venue": "A",
+      "gf": 3,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Ath Madrid",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
+     }
+    ]
+   },
+   "Santander": {
+    "display": "Real Racing Club",
+    "n": 5.0,
+    "gf": 1.8,
+    "ga": 3.6,
+    "sotf": 4.4,
+    "sota": 8.6,
+    "poss": 43.4,
+    "form": 6.0,
+    "elo": 1426.6,
+    "home_adv": 0.6049,
+    "last": [
+     {
+      "date": "2026-08-28",
+      "opp": "Elche",
+      "venue": "H",
+      "gf": 3,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Vallecano",
+      "venue": "A",
+      "gf": 2,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Alaves",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-16",
+      "opp": "Barcelona",
+      "venue": "A",
+      "gf": 2,
+      "ga": 7
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Celta",
+      "venue": "A",
+      "gf": 0,
+      "ga": 5
+     }
+    ]
+   },
+   "Sevilla": {
+    "display": "Sevilla",
+    "n": 5.0,
+    "gf": 1.0,
+    "ga": 1.4,
+    "sotf": 4.2,
+    "sota": 3.6,
+    "poss": 43.4,
+    "form": 7.0,
+    "elo": 1496.0,
+    "home_adv": 0.4004,
+    "last": [
+     {
+      "date": "2026-08-29",
+      "opp": "Ath Madrid",
+      "venue": "H",
+      "gf": 1,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Espanol",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-11",
+      "opp": "Valencia",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-16",
+      "opp": "La Coruna",
+      "venue": "A",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Barcelona",
+      "venue": "H",
+      "gf": 1,
+      "ga": 3
+     }
+    ]
+   },
+   "Sociedad": {
+    "display": "Real Sociedad",
+    "n": 5.0,
+    "gf": 1.6,
+    "ga": 1.6,
+    "sotf": 6.0,
+    "sota": 5.0,
+    "poss": 43.4,
+    "form": 10.0,
+    "elo": 1517.2,
+    "home_adv": 0.2414,
+    "last": [
+     {
+      "date": "2026-08-29",
+      "opp": "Espanol",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-03",
+      "opp": "Celta",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-07",
+      "opp": "Elche",
+      "venue": "A",
+      "gf": 3,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-13",
+      "opp": "Ath Madrid",
+      "venue": "H",
+      "gf": 0,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Valencia",
+      "venue": "A",
+      "gf": 3,
+      "ga": 2
+     }
+    ]
+   },
+   "Valencia": {
+    "display": "Valencia",
+    "n": 5.0,
+    "gf": 0.8,
+    "ga": 2.4,
+    "sotf": 2.8,
+    "sota": 5.4,
+    "poss": 43.4,
+    "form": 3.0,
+    "elo": 1503.5,
+    "home_adv": 0.1034,
+    "last": [
+     {
+      "date": "2026-08-30",
+      "opp": "La Coruna",
+      "venue": "A",
+      "gf": 1,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-06",
+      "opp": "Barcelona",
+      "venue": "H",
+      "gf": 0,
+      "ga": 5
+     },
+     {
+      "date": "2026-09-11",
+      "opp": "Sevilla",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-15",
+      "opp": "Alaves",
+      "venue": "A",
+      "gf": 1,
+      "ga": 0
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Sociedad",
+      "venue": "H",
+      "gf": 2,
+      "ga": 3
+     }
+    ]
+   },
+   "Vallecano": {
+    "display": "Rayo Vallecano",
+    "n": 5.0,
+    "gf": 1.8,
+    "ga": 2.6,
+    "sotf": 5.2,
+    "sota": 6.4,
+    "poss": 43.4,
+    "form": 7.0,
+    "elo": 1540.2,
+    "home_adv": 0.6552,
+    "last": [
+     {
+      "date": "2026-08-31",
+      "opp": "Barcelona",
+      "venue": "A",
+      "gf": 2,
+      "ga": 5
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "Santander",
+      "venue": "H",
+      "gf": 3,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-12",
+      "opp": "Real Madrid",
+      "venue": "A",
+      "gf": 1,
+      "ga": 4
+     },
+     {
+      "date": "2026-09-15",
+      "opp": "Espanol",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-19",
+      "opp": "Osasuna",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
+     }
+    ]
+   },
+   "Villarreal": {
+    "display": "Villarreal",
+    "n": 5.0,
+    "gf": 1.8,
+    "ga": 1.6,
+    "sotf": 6.6,
+    "sota": 3.8,
+    "poss": 43.4,
+    "form": 6.0,
+    "elo": 1624.2,
+    "home_adv": 0.4623,
+    "last": [
+     {
+      "date": "2026-08-28",
+      "opp": "Alaves",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-05",
+      "opp": "La Coruna",
+      "venue": "H",
+      "gf": 2,
+      "ga": 3
+     },
+     {
+      "date": "2026-09-14",
+      "opp": "Betis",
+      "venue": "H",
+      "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-09-17",
+      "opp": "Malaga",
+      "venue": "A",
+      "gf": 3,
+      "ga": 1
+     },
+     {
+      "date": "2026-09-20",
+      "opp": "Levante",
+      "venue": "H",
+      "gf": 3,
+      "ga": 1
+     }
+    ]
+   }
+  },
+  "h2h": {
+   "Alaves|Ath Bilbao": 0.2222,
+   "Alaves|Ath Madrid": 0.2222,
+   "Alaves|Barcelona": 0.2222,
+   "Alaves|Betis": 0.3333,
+   "Alaves|Celta": 0.3333,
+   "Alaves|Elche": 0.4,
+   "Alaves|Espanol": 0.4286,
+   "Alaves|Getafe": 0.3333,
+   "Alaves|La Coruna": 0.3333,
+   "Alaves|Levante": 0.4,
+   "Alaves|Malaga": 0.3333,
+   "Alaves|Osasuna": 0.2,
+   "Alaves|Real Madrid": 0.1111,
+   "Alaves|Santander": 0.25,
+   "Alaves|Sevilla": 0.375,
+   "Alaves|Sociedad": 0.4444,
+   "Alaves|Valencia": 0.3333,
+   "Alaves|Vallecano": 0.2222,
+   "Alaves|Villarreal": 0.3,
+   "Ath Bilbao|Alaves": 0.4444,
+   "Ath Bilbao|Ath Madrid": 0.4,
+   "Ath Bilbao|Barcelona": 0.1,
+   "Ath Bilbao|Betis": 0.375,
+   "Ath Bilbao|Celta": 0.5,
+   "Ath Bilbao|Elche": 0.3333,
+   "Ath Bilbao|Espanol": 0.2857,
+   "Ath Bilbao|Getafe": 0.3333,
+   "Ath Bilbao|La Coruna": 0.3333,
+   "Ath Bilbao|Levante": 0.6,
+   "Ath Bilbao|Malaga": 0.3333,
+   "Ath Bilbao|Osasuna": 0.375,
+   "Ath Bilbao|Real Madrid": 0.25,
+   "Ath Bilbao|Santander": 0.3333,
+   "Ath Bilbao|Sevilla": 0.5,
+   "Ath Bilbao|Sociedad": 0.3333,
+   "Ath Bilbao|Valencia": 0.3333,
+   "Ath Bilbao|Vallecano": 0.6667,
+   "Ath Bilbao|Villarreal": 0.3333,
+   "Ath Madrid|Alaves": 0.4444,
+   "Ath Madrid|Ath Bilbao": 0.5,
+   "Ath Madrid|Barcelona": 0.2222,
+   "Ath Madrid|Betis": 0.5,
+   "Ath Madrid|Celta": 0.4444,
+   "Ath Madrid|Elche": 0.2,
+   "Ath Madrid|Espanol": 0.2857,
+   "Ath Madrid|Getafe": 0.5556,
+   "Ath Madrid|La Coruna": 0.3333,
+   "Ath Madrid|Levante": 0.4,
+   "Ath Madrid|Malaga": 0.5,
+   "Ath Madrid|Osasuna": 0.6,
+   "Ath Madrid|Real Madrid": 0.4,
+   "Ath Madrid|Santander": 0.3333,
+   "Ath Madrid|Sevilla": 0.6,
+   "Ath Madrid|Sociedad": 0.6,
+   "Ath Madrid|Valencia": 0.75,
+   "Ath Madrid|Vallecano": 0.5,
+   "Ath Madrid|Villarreal": 0.4,
+   "Barcelona|Alaves": 0.6667,
+   "Barcelona|Ath Bilbao": 0.7,
+   "Barcelona|Ath Madrid": 0.6667,
+   "Barcelona|Betis": 0.5,
+   "Barcelona|Celta": 0.625,
+   "Barcelona|Elche": 0.6667,
+   "Barcelona|Espanol": 0.7143,
+   "Barcelona|Getafe": 0.625,
+   "Barcelona|La Coruna": 0.3333,
+   "Barcelona|Levante": 0.6667,
+   "Barcelona|Malaga": 0.3333,
+   "Barcelona|Osasuna": 0.625,
+   "Barcelona|Real Madrid": 0.4444,
+   "Barcelona|Santander": 0.5,
+   "Barcelona|Sevilla": 0.7,
+   "Barcelona|Sociedad": 0.5556,
+   "Barcelona|Valencia": 0.6,
+   "Barcelona|Vallecano": 0.6,
+   "Barcelona|Villarreal": 0.5,
+   "Betis|Alaves": 0.2222,
+   "Betis|Ath Bilbao": 0.25,
+   "Betis|Ath Madrid": 0.375,
+   "Betis|Barcelona": 0.125,
+   "Betis|Celta": 0.2222,
+   "Betis|Elche": 0.4,
+   "Betis|Espanol": 0.5714,
+   "Betis|Getafe": 0.5,
+   "Betis|La Coruna": 0.25,
+   "Betis|Levante": 0.3333,
+   "Betis|Malaga": 0.3333,
+   "Betis|Osasuna": 0.5556,
+   "Betis|Real Madrid": 0.3,
+   "Betis|Santander": 0.3333,
+   "Betis|Sevilla": 0.3333,
+   "Betis|Sociedad": 0.4,
+   "Betis|Valencia": 0.5,
+   "Betis|Vallecano": 0.125,
+   "Betis|Villarreal": 0.4444,
+   "Celta|Alaves": 0.3333,
+   "Celta|Ath Bilbao": 0.3,
+   "Celta|Ath Madrid": 0.2222,
+   "Celta|Barcelona": 0.125,
+   "Celta|Betis": 0.3333,
+   "Celta|Elche": 0.4,
+   "Celta|Espanol": 0.1429,
+   "Celta|Getafe": 0.3,
+   "Celta|La Coruna": 0.3333,
+   "Celta|Levante": 0.4,
+   "Celta|Malaga": 0.25,
+   "Celta|Osasuna": 0.4444,
+   "Celta|Real Madrid": 0.25,
+   "Celta|Santander": 0.5,
+   "Celta|Sevilla": 0.5556,
+   "Celta|Sociedad": 0.3333,
+   "Celta|Valencia": 0.4,
+   "Celta|Vallecano": 0.2222,
+   "Celta|Villarreal": 0.3333,
+   "Elche|Alaves": 0.2,
+   "Elche|Ath Bilbao": 0.1667,
+   "Elche|Ath Madrid": 0.4,
+   "Elche|Barcelona": 0.1667,
+   "Elche|Betis": 0.2,
+   "Elche|Celta": 0.4,
+   "Elche|Espanol": 0.3333,
+   "Elche|Getafe": 0.4,
+   "Elche|La Coruna": 0.25,
+   "Elche|Levante": 0.4,
+   "Elche|Malaga": 0.3333,
+   "Elche|Osasuna": 0.2,
+   "Elche|Real Madrid": 0.1667,
+   "Elche|Santander": 0.25,
+   "Elche|Sevilla": 0.2,
+   "Elche|Sociedad": 0.1667,
+   "Elche|Valencia": 0.4,
+   "Elche|Vallecano": 0.4,
+   "Elche|Villarreal": 0.2,
+   "Espanol|Alaves": 0.4286,
+   "Espanol|Ath Bilbao": 0.4286,
+   "Espanol|Ath Madrid": 0.2857,
+   "Espanol|Barcelona": 0.1429,
+   "Espanol|Betis": 0.1429,
+   "Espanol|Celta": 0.5714,
+   "Espanol|Elche": 0.3333,
+   "Espanol|Getafe": 0.4286,
+   "Espanol|La Coruna": 0.3333,
+   "Espanol|Levante": 0.3333,
+   "Espanol|Malaga": 0.3333,
+   "Espanol|Osasuna": 0.5,
+   "Espanol|Real Madrid": 0.25,
+   "Espanol|Santander": 0.3333,
+   "Espanol|Sevilla": 0.25,
+   "Espanol|Sociedad": 0.125,
+   "Espanol|Valencia": 0.1429,
+   "Espanol|Vallecano": 0.5,
+   "Espanol|Villarreal": 0.1429,
+   "Getafe|Alaves": 0.4444,
+   "Getafe|Ath Bilbao": 0.3333,
+   "Getafe|Ath Madrid": 0.2222,
+   "Getafe|Barcelona": 0.125,
+   "Getafe|Betis": 0.2,
+   "Getafe|Celta": 0.3,
+   "Getafe|Elche": 0.4,
+   "Getafe|Espanol": 0.4286,
+   "Getafe|La Coruna": 0.25,
+   "Getafe|Levante": 0.2,
+   "Getafe|Malaga": 0.5,
+   "Getafe|Osasuna": 0.3333,
+   "Getafe|Real Madrid": 0.25,
+   "Getafe|Santander": 0.5,
+   "Getafe|Sevilla": 0.3333,
+   "Getafe|Sociedad": 0.3333,
+   "Getafe|Valencia": 0.2222,
+   "Getafe|Vallecano": 0.1111,
+   "Getafe|Villarreal": 0.2222,
+   "La Coruna|Alaves": 0.3333,
+   "La Coruna|Ath Bilbao": 0.3333,
+   "La Coruna|Ath Madrid": 0.3333,
+   "La Coruna|Barcelona": 0.3333,
+   "La Coruna|Betis": 0.25,
+   "La Coruna|Celta": 0.3333,
+   "La Coruna|Elche": 0.25,
+   "La Coruna|Espanol": 0.3333,
+   "La Coruna|Getafe": 0.25,
+   "La Coruna|Levante": 0.3333,
+   "La Coruna|Malaga": 0.25,
+   "La Coruna|Osasuna": 0.3333,
+   "La Coruna|Real Madrid": 0.3333,
+   "La Coruna|Santander": 0.3333,
+   "La Coruna|Sevilla": 0.25,
+   "La Coruna|Sociedad": 0.3333,
+   "La Coruna|Valencia": 0.5,
+   "La Coruna|Vallecano": 0.3333,
+   "La Coruna|Villarreal": 0.5,
+   "Levante|Alaves": 0.4,
+   "Levante|Ath Bilbao": 0.2,
+   "Levante|Ath Madrid": 0.2,
+   "Levante|Barcelona": 0.1667,
+   "Levante|Betis": 0.3333,
+   "Levante|Celta": 0.4,
+   "Levante|Elche": 0.4,
+   "Levante|Espanol": 0.1667,
+   "Levante|Getafe": 0.4,
+   "Levante|La Coruna": 0.3333,
+   "Levante|Malaga": 0.25,
+   "Levante|Osasuna": 0.3333,
+   "Levante|Real Madrid": 0.2,
+   "Levante|Santander": 0.3333,
+   "Levante|Sevilla": 0.6,
+   "Levante|Sociedad": 0.2,
+   "Levante|Valencia": 0.2,
+   "Levante|Vallecano": 0.2,
+   "Levante|Villarreal": 0.1667,
+   "Malaga|Alaves": 0.3333,
+   "Malaga|Ath Bilbao": 0.3333,
+   "Malaga|Ath Madrid": 0.25,
+   "Malaga|Barcelona": 0.3333,
+   "Malaga|Betis": 0.3333,
+   "Malaga|Celta": 0.25,
+   "Malaga|Elche": 0.3333,
+   "Malaga|Espanol": 0.3333,
+   "Malaga|Getafe": 0.25,
+   "Malaga|La Coruna": 0.25,
+   "Malaga|Levante": 0.25,
+   "Malaga|Osasuna": 0.3333,
+   "Malaga|Real Madrid": 0.25,
+   "Malaga|Santander": 0.3333,
+   "Malaga|Sevilla": 0.3333,
+   "Malaga|Sociedad": 0.3333,
+   "Malaga|Valencia": 0.3333,
+   "Malaga|Vallecano": 0.3333,
+   "Malaga|Villarreal": 0.25,
+   "Osasuna|Alaves": 0.4,
+   "Osasuna|Ath Bilbao": 0.125,
+   "Osasuna|Ath Madrid": 0.3,
+   "Osasuna|Barcelona": 0.25,
+   "Osasuna|Betis": 0.1111,
+   "Osasuna|Celta": 0.4444,
+   "Osasuna|Elche": 0.2,
+   "Osasuna|Espanol": 0.25,
+   "Osasuna|Getafe": 0.4444,
+   "Osasuna|La Coruna": 0.3333,
+   "Osasuna|Levante": 0.3333,
+   "Osasuna|Malaga": 0.3333,
+   "Osasuna|Real Madrid": 0.2222,
+   "Osasuna|Santander": 0.3333,
+   "Osasuna|Sevilla": 0.375,
+   "Osasuna|Sociedad": 0.4444,
+   "Osasuna|Valencia": 0.25,
+   "Osasuna|Vallecano": 0.4,
+   "Osasuna|Villarreal": 0.1111,
+   "Real Madrid|Alaves": 0.7778,
+   "Real Madrid|Ath Bilbao": 0.625,
+   "Real Madrid|Ath Madrid": 0.2,
+   "Real Madrid|Barcelona": 0.4444,
+   "Real Madrid|Betis": 0.3,
+   "Real Madrid|Celta": 0.625,
+   "Real Madrid|Elche": 0.5,
+   "Real Madrid|Espanol": 0.625,
+   "Real Madrid|Getafe": 0.625,
+   "Real Madrid|La Coruna": 0.3333,
+   "Real Madrid|Levante": 0.6,
+   "Real Madrid|Malaga": 0.5,
+   "Real Madrid|Osasuna": 0.5556,
+   "Real Madrid|Santander": 0.3333,
+   "Real Madrid|Sevilla": 0.6667,
+   "Real Madrid|Sociedad": 0.7778,
+   "Real Madrid|Valencia": 0.5556,
+   "Real Madrid|Vallecano": 0.4,
+   "Real Madrid|Villarreal": 0.6667,
+   "Santander|Alaves": 0.5,
+   "Santander|Ath Bilbao": 0.3333,
+   "Santander|Ath Madrid": 0.3333,
+   "Santander|Barcelona": 0.25,
+   "Santander|Betis": 0.3333,
+   "Santander|Celta": 0.25,
+   "Santander|Elche": 0.5,
+   "Santander|Espanol": 0.3333,
+   "Santander|Getafe": 0.25,
+   "Santander|La Coruna": 0.3333,
+   "Santander|Levante": 0.3333,
+   "Santander|Malaga": 0.3333,
+   "Santander|Osasuna": 0.3333,
+   "Santander|Real Madrid": 0.3333,
+   "Santander|Sevilla": 0.3333,
+   "Santander|Sociedad": 0.3333,
+   "Santander|Valencia": 0.3333,
+   "Santander|Vallecano": 0.25,
+   "Santander|Villarreal": 0.25,
+   "Sevilla|Alaves": 0.25,
+   "Sevilla|Ath Bilbao": 0.3,
+   "Sevilla|Ath Madrid": 0.3,
+   "Sevilla|Barcelona": 0.2,
+   "Sevilla|Betis": 0.2222,
+   "Sevilla|Celta": 0.2222,
+   "Sevilla|Elche": 0.2,
+   "Sevilla|Espanol": 0.375,
+   "Sevilla|Getafe": 0.4444,
+   "Sevilla|La Coruna": 0.5,
+   "Sevilla|Levante": 0.2,
+   "Sevilla|Malaga": 0.3333,
+   "Sevilla|Osasuna": 0.25,
+   "Sevilla|Real Madrid": 0.1111,
+   "Sevilla|Santander": 0.3333,
+   "Sevilla|Sociedad": 0.4444,
+   "Sevilla|Valencia": 0.2222,
+   "Sevilla|Vallecano": 0.5,
+   "Sevilla|Villarreal": 0.2222,
+   "Sociedad|Alaves": 0.2222,
+   "Sociedad|Ath Bilbao": 0.3333,
+   "Sociedad|Ath Madrid": 0.1,
+   "Sociedad|Barcelona": 0.3333,
+   "Sociedad|Betis": 0.3,
+   "Sociedad|Celta": 0.3333,
+   "Sociedad|Elche": 0.5,
+   "Sociedad|Espanol": 0.5,
+   "Sociedad|Getafe": 0.3333,
+   "Sociedad|La Coruna": 0.3333,
+   "Sociedad|Levante": 0.4,
+   "Sociedad|Malaga": 0.3333,
+   "Sociedad|Osasuna": 0.3333,
+   "Sociedad|Real Madrid": 0.1111,
+   "Sociedad|Santander": 0.3333,
+   "Sociedad|Sevilla": 0.4444,
+   "Sociedad|Valencia": 0.5,
+   "Sociedad|Vallecano": 0.1111,
+   "Sociedad|Villarreal": 0.3333,
+   "Valencia|Alaves": 0.3333,
+   "Valencia|Ath Bilbao": 0.4444,
+   "Valencia|Ath Madrid": 0.125,
+   "Valencia|Barcelona": 0.2,
+   "Valencia|Betis": 0.2,
+   "Valencia|Celta": 0.2,
+   "Valencia|Elche": 0.2,
+   "Valencia|Espanol": 0.2857,
+   "Valencia|Getafe": 0.5556,
+   "Valencia|La Coruna": 0.25,
+   "Valencia|Levante": 0.6,
+   "Valencia|Malaga": 0.3333,
+   "Valencia|Osasuna": 0.375,
+   "Valencia|Real Madrid": 0.2222,
+   "Valencia|Santander": 0.3333,
+   "Valencia|Sevilla": 0.3333,
+   "Valencia|Sociedad": 0.3,
+   "Valencia|Vallecano": 0.2222,
+   "Valencia|Villarreal": 0.2222,
+   "Vallecano|Alaves": 0.5556,
+   "Vallecano|Ath Bilbao": 0.1111,
+   "Vallecano|Ath Madrid": 0.25,
+   "Vallecano|Barcelona": 0.1,
+   "Vallecano|Betis": 0.25,
+   "Vallecano|Celta": 0.3333,
+   "Vallecano|Elche": 0.4,
+   "Vallecano|Espanol": 0.375,
+   "Vallecano|Getafe": 0.4444,
+   "Vallecano|La Coruna": 0.3333,
+   "Vallecano|Levante": 0.4,
+   "Vallecano|Malaga": 0.3333,
+   "Vallecano|Osasuna": 0.3,
+   "Vallecano|Real Madrid": 0.1,
+   "Vallecano|Santander": 0.5,
+   "Vallecano|Sevilla": 0.1,
+   "Vallecano|Sociedad": 0.3333,
+   "Vallecano|Valencia": 0.2222,
+   "Vallecano|Villarreal": 0.2222,
+   "Villarreal|Alaves": 0.3,
+   "Villarreal|Ath Bilbao": 0.3333,
+   "Villarreal|Ath Madrid": 0.2,
+   "Villarreal|Barcelona": 0.375,
+   "Villarreal|Betis": 0.3333,
+   "Villarreal|Celta": 0.4444,
+   "Villarreal|Elche": 0.6,
+   "Villarreal|Espanol": 0.7143,
+   "Villarreal|Getafe": 0.3333,
+   "Villarreal|La Coruna": 0.25,
+   "Villarreal|Levante": 0.6667,
+   "Villarreal|Malaga": 0.5,
+   "Villarreal|Osasuna": 0.4444,
+   "Villarreal|Real Madrid": 0.1111,
+   "Villarreal|Santander": 0.25,
+   "Villarreal|Sevilla": 0.5556,
+   "Villarreal|Sociedad": 0.4444,
+   "Villarreal|Valencia": 0.4444,
+   "Villarreal|Vallecano": 0.4444
+  },
+  "meetings": {
+   "Alaves|Ath Bilbao": [
+    {
+     "date": "2024-03-16",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-12-15",
+     "winner": null
+    },
+    {
+     "date": "2025-05-11",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-09-13",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2026-05-02",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2026-09-19",
+     "winner": null
+    }
+   ],
+   "Alaves|Ath Madrid": [
+    {
+     "date": "2023-10-29",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-04-21",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2024-11-23",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-05-03",
+     "winner": null
+    },
+    {
+     "date": "2025-08-30",
+     "winner": null
+    },
+    {
+     "date": "2026-01-18",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Alaves|Barcelona": [
+    {
+     "date": "2023-11-12",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-02-03",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-10-06",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-02-02",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-11-29",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-05-13",
+     "winner": "Alaves"
+    }
+   ],
+   "Alaves|Betis": [
+    {
+     "date": "2023-10-08",
+     "winner": null
+    },
+    {
+     "date": "2024-02-18",
+     "winner": null
+    },
+    {
+     "date": "2024-08-25",
+     "winner": null
+    },
+    {
+     "date": "2025-01-18",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2025-08-22",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-01-25",
+     "winner": "Alaves"
+    }
+   ],
+   "Alaves|Celta": [
+    {
+     "date": "2023-09-28",
+     "winner": null
+    },
+    {
+     "date": "2024-04-27",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2024-08-16",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-01-27",
+     "winner": null
+    },
+    {
+     "date": "2025-11-22",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-03-22",
+     "winner": "Alaves"
+    }
+   ],
+   "Alaves|Elche": [
+    {
+     "date": "2025-10-05",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2026-05-09",
+     "winner": null
+    }
+   ],
+   "Alaves|Espanol": [
+    {
+     "date": "2024-09-14",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2025-02-22",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2025-11-02",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2026-01-30",
+     "winner": "Alaves"
+    }
+   ],
+   "Alaves|Getafe": [
+    {
+     "date": "2024-05-18",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2024-09-28",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2025-02-09",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2025-09-24",
+     "winner": null
+    },
+    {
+     "date": "2026-02-08",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2026-08-15",
+     "winner": "Alaves"
+    }
+   ],
+   "Alaves|Levante": [
+    {
+     "date": "2025-08-16",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2026-02-27",
+     "winner": "Levante"
+    }
+   ],
+   "Alaves|Osasuna": [
+    {
+     "date": "2023-10-01",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2024-03-04",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2024-12-08",
+     "winner": null
+    },
+    {
+     "date": "2025-05-24",
+     "winner": null
+    },
+    {
+     "date": "2025-12-20",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2026-04-05",
+     "winner": null
+    },
+    {
+     "date": "2026-09-06",
+     "winner": "Alaves"
+    }
+   ],
+   "Alaves|Real Madrid": [
+    {
+     "date": "2023-12-21",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-05-14",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-09-24",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-04-13",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-12-14",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-04-21",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Alaves|Santander": [
+    {
+     "date": "2026-09-12",
+     "winner": "Santander"
+    }
+   ],
+   "Alaves|Sevilla": [
+    {
+     "date": "2024-01-12",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2024-09-20",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2025-04-20",
+     "winner": null
+    },
+    {
+     "date": "2025-09-20",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2026-02-14",
+     "winner": null
+    }
+   ],
+   "Alaves|Sociedad": [
+    {
+     "date": "2024-01-02",
+     "winner": null
+    },
+    {
+     "date": "2024-03-31",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-08-28",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2025-04-23",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2025-12-06",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2026-04-11",
+     "winner": null
+    }
+   ],
+   "Alaves|Valencia": [
+    {
+     "date": "2024-05-05",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2024-12-22",
+     "winner": null
+    },
+    {
+     "date": "2025-05-14",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2025-10-20",
+     "winner": null
+    },
+    {
+     "date": "2026-03-08",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2026-09-15",
+     "winner": "Valencia"
+    }
+   ],
+   "Alaves|Vallecano": [
+    {
+     "date": "2024-03-10",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2024-10-26",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2025-03-29",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2025-10-26",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2026-05-23",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2026-08-20",
+     "winner": null
+    }
+   ],
+   "Alaves|Villarreal": [
+    {
+     "date": "2023-10-22",
+     "winner": null
+    },
+    {
+     "date": "2024-02-10",
+     "winner": null
+    },
+    {
+     "date": "2024-11-09",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-03-08",
+     "winner": "Alaves"
+    },
+    {
+     "date": "2026-01-10",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-03-13",
+     "winner": null
+    },
+    {
+     "date": "2026-08-28",
+     "winner": "Alaves"
+    }
+   ],
+   "Ath Bilbao|Ath Madrid": [
+    {
+     "date": "2023-12-16",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-04-27",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-08-31",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-03-01",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-12-06",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2026-04-25",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-09-05",
+     "winner": "Ath Bilbao"
+    }
+   ],
+   "Ath Bilbao|Barcelona": [
+    {
+     "date": "2023-10-22",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-03-03",
+     "winner": null
+    },
+    {
+     "date": "2024-08-24",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-05-25",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-11-22",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-03-07",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-08-27",
+     "winner": "Barcelona"
+    }
+   ],
+   "Ath Bilbao|Betis": [
+    {
+     "date": "2024-02-25",
+     "winner": "Betis"
+    },
+    {
+     "date": "2024-11-03",
+     "winner": null
+    },
+    {
+     "date": "2025-02-02",
+     "winner": null
+    },
+    {
+     "date": "2025-08-31",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2026-03-22",
+     "winner": "Ath Bilbao"
+    }
+   ],
+   "Ath Bilbao|Celta": [
+    {
+     "date": "2023-11-10",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-05-15",
+     "winner": "Celta"
+    },
+    {
+     "date": "2024-09-22",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-01-19",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-12-14",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-05-17",
+     "winner": null
+    },
+    {
+     "date": "2026-08-30",
+     "winner": "Ath Bilbao"
+    }
+   ],
+   "Ath Bilbao|Elche": [
+    {
+     "date": "2025-10-19",
+     "winner": null
+    },
+    {
+     "date": "2026-02-20",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2026-09-12",
+     "winner": null
+    }
+   ],
+   "Ath Bilbao|Espanol": [
+    {
+     "date": "2024-10-19",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-02-16",
+     "winner": null
+    },
+    {
+     "date": "2025-12-22",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-05-13",
+     "winner": "Espanol"
+    }
+   ],
+   "Ath Bilbao|Getafe": [
+    {
+     "date": "2023-09-27",
+     "winner": null
+    },
+    {
+     "date": "2024-05-03",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-08-15",
+     "winner": null
+    },
+    {
+     "date": "2025-05-15",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-10-25",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2026-04-05",
+     "winner": "Getafe"
+    }
+   ],
+   "Ath Bilbao|Levante": [
+    {
+     "date": "2025-11-29",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2026-02-08",
+     "winner": "Ath Bilbao"
+    }
+   ],
+   "Ath Bilbao|Osasuna": [
+    {
+     "date": "2024-05-11",
+     "winner": null
+    },
+    {
+     "date": "2024-12-21",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-03-30",
+     "winner": null
+    },
+    {
+     "date": "2026-01-03",
+     "winner": null
+    },
+    {
+     "date": "2026-04-21",
+     "winner": "Ath Bilbao"
+    }
+   ],
+   "Ath Bilbao|Real Madrid": [
+    {
+     "date": "2024-03-31",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-12-04",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-04-20",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-12-03",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-05-23",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Ath Bilbao|Sevilla": [
+    {
+     "date": "2024-01-04",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-05-19",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-09-29",
+     "winner": null
+    },
+    {
+     "date": "2025-03-16",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-08-17",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2026-01-24",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2026-08-22",
+     "winner": "Sevilla"
+    }
+   ],
+   "Ath Bilbao|Sociedad": [
+    {
+     "date": "2023-09-30",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-01-13",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-11-24",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-05-04",
+     "winner": null
+    },
+    {
+     "date": "2025-11-01",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2026-02-01",
+     "winner": null
+    }
+   ],
+   "Ath Bilbao|Valencia": [
+    {
+     "date": "2023-10-29",
+     "winner": null
+    },
+    {
+     "date": "2024-01-20",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2024-08-28",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-05-18",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-09-20",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2026-05-10",
+     "winner": "Valencia"
+    }
+   ],
+   "Ath Bilbao|Vallecano": [
+    {
+     "date": "2023-12-02",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-05-25",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-12-01",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-04-13",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-08-25",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2026-02-28",
+     "winner": null
+    }
+   ],
+   "Ath Bilbao|Villarreal": [
+    {
+     "date": "2023-11-05",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2024-04-14",
+     "winner": null
+    },
+    {
+     "date": "2024-12-08",
+     "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2025-04-06",
+     "winner": null
+    },
+    {
+     "date": "2025-09-27",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-04-12",
+     "winner": "Villarreal"
+    }
+   ],
+   "Ath Madrid|Barcelona": [
+    {
+     "date": "2023-12-03",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-03-17",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-12-21",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-03-16",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-12-02",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-04-04",
+     "winner": "Barcelona"
+    }
+   ],
+   "Ath Madrid|Betis": [
+    {
+     "date": "2024-03-03",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-10-27",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-05-18",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-10-27",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-02-08",
+     "winner": "Betis"
+    }
+   ],
+   "Ath Madrid|Celta": [
+    {
+     "date": "2023-10-21",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-05-12",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-09-26",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-02-15",
+     "winner": null
+    },
+    {
+     "date": "2025-10-05",
+     "winner": null
+    },
+    {
+     "date": "2026-05-09",
+     "winner": "Celta"
+    }
+   ],
+   "Ath Madrid|Elche": [
+    {
+     "date": "2025-08-23",
+     "winner": null
+    },
+    {
+     "date": "2026-04-22",
+     "winner": "Elche"
+    }
+   ],
+   "Ath Madrid|Espanol": [
+    {
+     "date": "2024-08-28",
+     "winner": null
+    },
+    {
+     "date": "2025-03-29",
+     "winner": null
+    },
+    {
+     "date": "2025-08-17",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-02-21",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Ath Madrid|Getafe": [
+    {
+     "date": "2023-12-19",
+     "winner": null
+    },
+    {
+     "date": "2024-05-15",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-12-15",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-03-09",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2025-11-23",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-03-14",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Ath Madrid|Levante": [
+    {
+     "date": "2025-11-08",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-01-31",
+     "winner": null
+    }
+   ],
+   "Ath Madrid|Malaga": [
+    {
+     "date": "2026-08-19",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Ath Madrid|Osasuna": [
+    {
+     "date": "2023-09-28",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-05-19",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2025-01-12",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-05-15",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2025-10-18",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-05-12",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-09-16",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Ath Madrid|Real Madrid": [
+    {
+     "date": "2023-09-24",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-02-04",
+     "winner": null
+    },
+    {
+     "date": "2024-09-29",
+     "winner": null
+    },
+    {
+     "date": "2025-02-08",
+     "winner": null
+    },
+    {
+     "date": "2025-09-27",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-03-22",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-09-20",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Ath Madrid|Sevilla": [
+    {
+     "date": "2023-12-23",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-02-11",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2024-12-08",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-04-06",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-11-01",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-04-11",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2026-08-29",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Ath Madrid|Sociedad": [
+    {
+     "date": "2023-10-08",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-05-25",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-10-06",
+     "winner": null
+    },
+    {
+     "date": "2025-05-10",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-01-04",
+     "winner": null
+    },
+    {
+     "date": "2026-03-07",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-09-13",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Ath Madrid|Valencia": [
+    {
+     "date": "2024-01-28",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-09-15",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-02-22",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-12-13",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-05-02",
+     "winner": "Ath Madrid"
+    }
+   ],
+   "Ath Madrid|Vallecano": [
+    {
+     "date": "2024-01-31",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-09-22",
+     "winner": null
+    },
+    {
+     "date": "2025-04-24",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2025-09-24",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-02-15",
+     "winner": "Vallecano"
+    }
+   ],
+   "Ath Madrid|Villarreal": [
+    {
+     "date": "2023-11-12",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-04-01",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2024-08-19",
+     "winner": null
+    },
+    {
+     "date": "2025-01-25",
+     "winner": null
+    },
+    {
+     "date": "2025-09-13",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-05-24",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-08-23",
+     "winner": null
+    }
+   ],
+   "Barcelona|Betis": [
+    {
+     "date": "2024-01-21",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-12-07",
+     "winner": null
+    },
+    {
+     "date": "2025-04-05",
+     "winner": null
+    },
+    {
+     "date": "2025-12-06",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Celta": [
+    {
+     "date": "2024-02-17",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-11-23",
+     "winner": null
+    },
+    {
+     "date": "2025-04-19",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-11-09",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-04-22",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Elche": [
+    {
+     "date": "2025-11-02",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-01-31",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-08-23",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Espanol": [
+    {
+     "date": "2024-11-03",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-05-15",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-01-03",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-04-11",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Getafe": [
+    {
+     "date": "2024-02-24",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-09-25",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-01-18",
+     "winner": null
+    },
+    {
+     "date": "2025-09-21",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-04-25",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Levante": [
+    {
+     "date": "2025-08-23",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-02-22",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-09-13",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Osasuna": [
+    {
+     "date": "2024-01-31",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-09-28",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2025-03-27",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-12-13",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-05-02",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Real Madrid": [
+    {
+     "date": "2023-10-28",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-04-21",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-10-26",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-05-11",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-10-26",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-05-10",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Santander": [
+    {
+     "date": "2026-09-16",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Sevilla": [
+    {
+     "date": "2023-09-29",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-05-26",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-10-20",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-02-09",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-10-05",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2026-03-15",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-09-19",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Sociedad": [
+    {
+     "date": "2023-11-04",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-05-13",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-11-10",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2025-03-02",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-09-28",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-01-18",
+     "winner": "Sociedad"
+    }
+   ],
+   "Barcelona|Valencia": [
+    {
+     "date": "2023-12-16",
+     "winner": null
+    },
+    {
+     "date": "2024-04-29",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-08-17",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-01-26",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-09-14",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-05-23",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2026-09-06",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Vallecano": [
+    {
+     "date": "2023-11-25",
+     "winner": null
+    },
+    {
+     "date": "2024-05-19",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2024-08-27",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-02-17",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-08-31",
+     "winner": null
+    },
+    {
+     "date": "2026-03-22",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-08-31",
+     "winner": "Barcelona"
+    }
+   ],
+   "Barcelona|Villarreal": [
+    {
+     "date": "2024-01-27",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2024-09-22",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2025-05-18",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-12-21",
+     "winner": "Barcelona"
+    },
+    {
+     "date": "2026-02-28",
+     "winner": "Barcelona"
+    }
+   ],
+   "Betis|Celta": [
+    {
+     "date": "2024-01-03",
+     "winner": "Celta"
+    },
+    {
+     "date": "2024-04-12",
+     "winner": "Betis"
+    },
+    {
+     "date": "2024-11-10",
+     "winner": null
+    },
+    {
+     "date": "2025-02-08",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-08-27",
+     "winner": null
+    },
+    {
+     "date": "2026-03-15",
+     "winner": null
+    }
+   ],
+   "Betis|Elche": [
+    {
+     "date": "2025-08-18",
+     "winner": null
+    },
+    {
+     "date": "2026-05-12",
+     "winner": "Betis"
+    }
+   ],
+   "Betis|Espanol": [
+    {
+     "date": "2024-09-29",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-05-04",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-10-05",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-04-04",
+     "winner": null
+    }
+   ],
+   "Betis|Getafe": [
+    {
+     "date": "2023-10-21",
+     "winner": null
+    },
+    {
+     "date": "2024-02-04",
+     "winner": null
+    },
+    {
+     "date": "2024-09-18",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-02-23",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-12-21",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-03-08",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2026-09-17",
+     "winner": "Betis"
+    }
+   ],
+   "Betis|La Coruna": [
+    {
+     "date": "2026-09-20",
+     "winner": null
+    }
+   ],
+   "Betis|Levante": [
+    {
+     "date": "2025-09-14",
+     "winner": null
+    },
+    {
+     "date": "2026-05-23",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-08-29",
+     "winner": "Levante"
+    }
+   ],
+   "Betis|Osasuna": [
+    {
+     "date": "2023-10-29",
+     "winner": "Betis"
+    },
+    {
+     "date": "2024-05-05",
+     "winner": "Betis"
+    },
+    {
+     "date": "2024-10-19",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-05-11",
+     "winner": null
+    },
+    {
+     "date": "2025-09-28",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-04-12",
+     "winner": null
+    }
+   ],
+   "Betis|Real Madrid": [
+    {
+     "date": "2023-12-09",
+     "winner": null
+    },
+    {
+     "date": "2024-05-25",
+     "winner": null
+    },
+    {
+     "date": "2024-09-01",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-03-01",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-01-04",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-04-24",
+     "winner": null
+    },
+    {
+     "date": "2026-09-04",
+     "winner": "Betis"
+    }
+   ],
+   "Betis|Sevilla": [
+    {
+     "date": "2023-11-12",
+     "winner": null
+    },
+    {
+     "date": "2024-04-28",
+     "winner": null
+    },
+    {
+     "date": "2024-10-06",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2025-03-30",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-11-30",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-03-01",
+     "winner": null
+    }
+   ],
+   "Betis|Sociedad": [
+    {
+     "date": "2023-12-17",
+     "winner": null
+    },
+    {
+     "date": "2024-05-19",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-12-01",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2025-02-16",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-09-19",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-05-09",
+     "winner": null
+    },
+    {
+     "date": "2026-08-21",
+     "winner": "Betis"
+    }
+   ],
+   "Betis|Valencia": [
+    {
+     "date": "2023-10-01",
+     "winner": "Betis"
+    },
+    {
+     "date": "2024-04-20",
+     "winner": "Betis"
+    },
+    {
+     "date": "2024-11-23",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2025-05-23",
+     "winner": null
+    },
+    {
+     "date": "2025-11-09",
+     "winner": null
+    },
+    {
+     "date": "2026-02-01",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-08-25",
+     "winner": "Betis"
+    }
+   ],
+   "Betis|Vallecano": [
+    {
+     "date": "2024-03-17",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2024-12-22",
+     "winner": null
+    },
+    {
+     "date": "2025-05-15",
+     "winner": null
+    },
+    {
+     "date": "2025-12-15",
+     "winner": null
+    },
+    {
+     "date": "2026-02-21",
+     "winner": null
+    }
+   ],
+   "Betis|Villarreal": [
+    {
+     "date": "2024-03-10",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2024-12-15",
+     "winner": "Betis"
+    },
+    {
+     "date": "2025-04-13",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-10-18",
+     "winner": null
+    },
+    {
+     "date": "2026-01-17",
+     "winner": "Betis"
+    },
+    {
+     "date": "2026-09-14",
+     "winner": "Betis"
+    }
+   ],
+   "Celta|Elche": [
+    {
+     "date": "2025-09-28",
+     "winner": "Elche"
+    },
+    {
+     "date": "2026-05-03",
+     "winner": "Celta"
+    }
+   ],
+   "Celta|Espanol": [
+    {
+     "date": "2024-11-30",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2025-04-12",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2025-11-30",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-02-14",
+     "winner": null
+    }
+   ],
+   "Celta|Getafe": [
+    {
+     "date": "2023-10-08",
+     "winner": null
+    },
+    {
+     "date": "2024-02-11",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2024-11-04",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-05-24",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-08-17",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2026-02-01",
+     "winner": null
+    },
+    {
+     "date": "2026-09-07",
+     "winner": null
+    }
+   ],
+   "Celta|Levante": [
+    {
+     "date": "2025-11-02",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-05-12",
+     "winner": "Levante"
+    }
+   ],
+   "Celta|Malaga": [
+    {
+     "date": "2026-09-13",
+     "winner": null
+    }
+   ],
+   "Celta|Osasuna": [
+    {
+     "date": "2024-02-04",
+     "winner": "Celta"
+    },
+    {
+     "date": "2024-09-01",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2025-02-21",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-10-26",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-02-06",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2026-08-27",
+     "winner": "Osasuna"
+    }
+   ],
+   "Celta|Real Madrid": [
+    {
+     "date": "2024-03-10",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-10-19",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-05-04",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-12-07",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-03-06",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Celta|Santander": [
+    {
+     "date": "2026-09-19",
+     "winner": "Celta"
+    }
+   ],
+   "Celta|Sevilla": [
+    {
+     "date": "2023-11-04",
+     "winner": null
+    },
+    {
+     "date": "2024-03-17",
+     "winner": "Celta"
+    },
+    {
+     "date": "2024-12-14",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2025-05-10",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-01-12",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-05-23",
+     "winner": "Celta"
+    }
+   ],
+   "Celta|Sociedad": [
+    {
+     "date": "2024-01-20",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-12-21",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-05-13",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-10-19",
+     "winner": null
+    },
+    {
+     "date": "2026-01-25",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2026-09-03",
+     "winner": null
+    }
+   ],
+   "Celta|Valencia": [
+    {
+     "date": "2023-11-25",
+     "winner": null
+    },
+    {
+     "date": "2024-05-26",
+     "winner": null
+    },
+    {
+     "date": "2024-08-23",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-02-02",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2026-01-03",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-04-05",
+     "winner": "Celta"
+    },
+    {
+     "date": "2026-08-22",
+     "winner": null
+    }
+   ],
+   "Celta|Vallecano": [
+    {
+     "date": "2023-12-11",
+     "winner": null
+    },
+    {
+     "date": "2024-03-31",
+     "winner": null
+    },
+    {
+     "date": "2025-01-10",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2025-05-18",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2025-09-21",
+     "winner": null
+    },
+    {
+     "date": "2026-01-18",
+     "winner": "Celta"
+    }
+   ],
+   "Celta|Villarreal": [
+    {
+     "date": "2023-12-20",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2024-05-05",
+     "winner": "Celta"
+    },
+    {
+     "date": "2024-08-26",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-04-23",
+     "winner": "Celta"
+    },
+    {
+     "date": "2025-08-31",
+     "winner": null
+    },
+    {
+     "date": "2026-04-26",
+     "winner": "Villarreal"
+    }
+   ],
+   "Elche|Espanol": [
+    {
+     "date": "2025-10-25",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-03-01",
+     "winner": null
+    },
+    {
+     "date": "2026-09-18",
+     "winner": "Elche"
+    }
+   ],
+   "Elche|Getafe": [
+    {
+     "date": "2025-11-28",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Elche"
+    }
+   ],
+   "Elche|La Coruna": [
+    {
+     "date": "2026-08-17",
+     "winner": null
+    }
+   ],
+   "Elche|Levante": [
+    {
+     "date": "2025-08-29",
+     "winner": "Elche"
+    },
+    {
+     "date": "2026-01-23",
+     "winner": "Levante"
+    }
+   ],
+   "Elche|Osasuna": [
+    {
+     "date": "2025-09-25",
+     "winner": null
+    },
+    {
+     "date": "2026-02-13",
+     "winner": null
+    }
+   ],
+   "Elche|Real Madrid": [
+    {
+     "date": "2025-11-23",
+     "winner": null
+    },
+    {
+     "date": "2026-03-14",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-09-15",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Elche|Santander": [
+    {
+     "date": "2026-08-28",
+     "winner": "Santander"
+    }
+   ],
+   "Elche|Sevilla": [
+    {
+     "date": "2025-09-12",
+     "winner": null
+    },
+    {
+     "date": "2026-01-19",
+     "winner": null
+    }
+   ],
+   "Elche|Sociedad": [
+    {
+     "date": "2025-11-07",
+     "winner": null
+    },
+    {
+     "date": "2026-02-07",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2026-09-07",
+     "winner": "Sociedad"
+    }
+   ],
+   "Elche|Valencia": [
+    {
+     "date": "2026-01-10",
+     "winner": null
+    },
+    {
+     "date": "2026-04-11",
+     "winner": "Elche"
+    }
+   ],
+   "Elche|Vallecano": [
+    {
+     "date": "2025-12-21",
+     "winner": "Elche"
+    },
+    {
+     "date": "2026-04-03",
+     "winner": "Vallecano"
+    }
+   ],
+   "Elche|Villarreal": [
+    {
+     "date": "2026-01-03",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-03-08",
+     "winner": "Villarreal"
+    }
+   ],
+   "Espanol|Getafe": [
+    {
+     "date": "2024-12-09",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2025-04-18",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2025-12-13",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-03-21",
+     "winner": "Getafe"
+    }
+   ],
+   "Espanol|Levante": [
+    {
+     "date": "2026-01-11",
+     "winner": null
+    },
+    {
+     "date": "2026-04-27",
+     "winner": null
+    },
+    {
+     "date": "2026-08-16",
+     "winner": "Espanol"
+    }
+   ],
+   "Espanol|Osasuna": [
+    {
+     "date": "2024-12-14",
+     "winner": null
+    },
+    {
+     "date": "2025-05-18",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2025-08-31",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-09-12",
+     "winner": "Espanol"
+    }
+   ],
+   "Espanol|Real Madrid": [
+    {
+     "date": "2024-09-21",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-02-01",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2025-09-20",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-05-03",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-08-22",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Espanol|Sevilla": [
+    {
+     "date": "2024-10-25",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2025-01-25",
+     "winner": null
+    },
+    {
+     "date": "2025-11-24",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-05-09",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2026-09-06",
+     "winner": null
+    }
+   ],
+   "Espanol|Sociedad": [
+    {
+     "date": "2024-08-24",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2025-02-09",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2025-08-24",
+     "winner": null
+    },
+    {
+     "date": "2026-05-23",
+     "winner": null
+    },
+    {
+     "date": "2026-08-29",
+     "winner": "Sociedad"
+    }
+   ],
+   "Espanol|Valencia": [
+    {
+     "date": "2024-12-18",
+     "winner": null
+    },
+    {
+     "date": "2025-04-22",
+     "winner": null
+    },
+    {
+     "date": "2025-09-23",
+     "winner": null
+    },
+    {
+     "date": "2026-01-24",
+     "winner": "Valencia"
+    }
+   ],
+   "Espanol|Vallecano": [
+    {
+     "date": "2024-08-31",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2025-04-04",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2025-12-07",
+     "winner": "Espanol"
+    },
+    {
+     "date": "2026-04-23",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2026-09-15",
+     "winner": "Vallecano"
+    }
+   ],
+   "Espanol|Villarreal": [
+    {
+     "date": "2024-09-26",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-04-27",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-11-08",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-02-09",
+     "winner": "Villarreal"
+    }
+   ],
+   "Getafe|La Coruna": [
+    {
+     "date": "2026-09-13",
+     "winner": null
+    }
+   ],
+   "Getafe|Levante": [
+    {
+     "date": "2025-09-27",
+     "winner": null
+    },
+    {
+     "date": "2026-04-13",
+     "winner": "Levante"
+    }
+   ],
+   "Getafe|Malaga": [
+    {
+     "date": "2026-09-20",
+     "winner": "Getafe"
+    }
+   ],
+   "Getafe|Osasuna": [
+    {
+     "date": "2024-01-21",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2024-10-05",
+     "winner": null
+    },
+    {
+     "date": "2025-03-16",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2025-10-03",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2026-05-23",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2026-08-31",
+     "winner": "Osasuna"
+    }
+   ],
+   "Getafe|Real Madrid": [
+    {
+     "date": "2024-02-01",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-12-01",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-04-23",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-10-19",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-03-02",
+     "winner": "Getafe"
+    }
+   ],
+   "Getafe|Santander": [
+    {
+     "date": "2026-08-23",
+     "winner": "Getafe"
+    }
+   ],
+   "Getafe|Sevilla": [
+    {
+     "date": "2023-12-16",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2024-03-30",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2024-09-14",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2025-02-01",
+     "winner": null
+    },
+    {
+     "date": "2025-08-25",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2026-02-22",
+     "winner": "Sevilla"
+    }
+   ],
+   "Getafe|Sociedad": [
+    {
+     "date": "2023-09-24",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-04-21",
+     "winner": null
+    },
+    {
+     "date": "2024-09-01",
+     "winner": null
+    },
+    {
+     "date": "2025-01-26",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2026-01-09",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2026-04-22",
+     "winner": "Getafe"
+    }
+   ],
+   "Getafe|Valencia": [
+    {
+     "date": "2023-12-08",
+     "winner": "Getafe"
+    },
+    {
+     "date": "2024-03-09",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2024-10-27",
+     "winner": null
+    },
+    {
+     "date": "2025-05-10",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2025-08-29",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2026-01-18",
+     "winner": "Valencia"
+    }
+   ],
+   "Getafe|Vallecano": [
+    {
+     "date": "2024-01-02",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2024-04-13",
+     "winner": null
+    },
+    {
+     "date": "2024-08-24",
+     "winner": null
+    },
+    {
+     "date": "2025-05-02",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2026-01-02",
+     "winner": null
+    },
+    {
+     "date": "2026-05-03",
+     "winner": "Vallecano"
+    }
+   ],
+   "Getafe|Villarreal": [
+    {
+     "date": "2023-09-30",
+     "winner": null
+    },
+    {
+     "date": "2024-02-16",
+     "winner": null
+    },
+    {
+     "date": "2024-10-20",
+     "winner": null
+    },
+    {
+     "date": "2025-03-30",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-12-06",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-02-14",
+     "winner": "Getafe"
+    }
+   ],
+   "La Coruna|Malaga": [
+    {
+     "date": "2026-08-24",
+     "winner": null
+    }
+   ],
+   "La Coruna|Sevilla": [
+    {
+     "date": "2026-09-16",
+     "winner": "Sevilla"
+    }
+   ],
+   "La Coruna|Valencia": [
+    {
+     "date": "2026-08-30",
+     "winner": "La Coruna"
+    }
+   ],
+   "La Coruna|Villarreal": [
+    {
+     "date": "2026-09-05",
+     "winner": "La Coruna"
+    }
+   ],
+   "Levante|Malaga": [
+    {
+     "date": "2026-09-06",
+     "winner": null
+    }
+   ],
+   "Levante|Osasuna": [
+    {
+     "date": "2025-12-08",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2026-05-08",
+     "winner": "Levante"
+    },
+    {
+     "date": "2026-08-24",
+     "winner": null
+    }
+   ],
+   "Levante|Real Madrid": [
+    {
+     "date": "2025-09-23",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-01-17",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Levante|Sevilla": [
+    {
+     "date": "2026-01-04",
+     "winner": "Levante"
+    },
+    {
+     "date": "2026-04-23",
+     "winner": "Levante"
+    }
+   ],
+   "Levante|Sociedad": [
+    {
+     "date": "2025-12-20",
+     "winner": null
+    },
+    {
+     "date": "2026-04-04",
+     "winner": "Sociedad"
+    }
+   ],
+   "Levante|Valencia": [
+    {
+     "date": "2025-11-21",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2026-02-15",
+     "winner": "Valencia"
+    }
+   ],
+   "Levante|Vallecano": [
+    {
+     "date": "2025-10-19",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2026-03-16",
+     "winner": null
+    }
+   ],
+   "Levante|Villarreal": [
+    {
+     "date": "2026-02-18",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-05-02",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-09-20",
+     "winner": "Villarreal"
+    }
+   ],
+   "Malaga|Real Madrid": [
+    {
+     "date": "2026-08-30",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Malaga|Villarreal": [
+    {
+     "date": "2026-09-17",
+     "winner": "Villarreal"
+    }
+   ],
+   "Osasuna|Real Madrid": [
+    {
+     "date": "2023-10-07",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-03-16",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-11-09",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-02-15",
+     "winner": null
+    },
+    {
+     "date": "2025-08-19",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-02-21",
+     "winner": "Osasuna"
+    }
+   ],
+   "Osasuna|Sevilla": [
+    {
+     "date": "2024-01-28",
+     "winner": null
+    },
+    {
+     "date": "2024-12-02",
+     "winner": null
+    },
+    {
+     "date": "2025-04-24",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2025-11-08",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2026-04-26",
+     "winner": "Osasuna"
+    }
+   ],
+   "Osasuna|Sociedad": [
+    {
+     "date": "2023-12-02",
+     "winner": null
+    },
+    {
+     "date": "2024-02-10",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2024-10-27",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2025-02-02",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2025-11-22",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2026-03-15",
+     "winner": "Sociedad"
+    }
+   ],
+   "Osasuna|Valencia": [
+    {
+     "date": "2024-04-15",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2024-09-24",
+     "winner": null
+    },
+    {
+     "date": "2025-03-02",
+     "winner": null
+    },
+    {
+     "date": "2025-08-24",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2026-03-01",
+     "winner": "Valencia"
+    }
+   ],
+   "Osasuna|Vallecano": [
+    {
+     "date": "2023-12-15",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2024-04-20",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2024-09-16",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2025-01-19",
+     "winner": null
+    },
+    {
+     "date": "2025-09-14",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2026-01-24",
+     "winner": "Osasuna"
+    },
+    {
+     "date": "2026-09-19",
+     "winner": null
+    }
+   ],
+   "Osasuna|Villarreal": [
+    {
+     "date": "2023-11-26",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2024-05-25",
+     "winner": null
+    },
+    {
+     "date": "2024-11-24",
+     "winner": null
+    },
+    {
+     "date": "2025-05-03",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-09-20",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-01-31",
+     "winner": null
+    }
+   ],
+   "Real Madrid|Sevilla": [
+    {
+     "date": "2023-10-21",
+     "winner": null
+    },
+    {
+     "date": "2024-02-25",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-12-22",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-05-18",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-12-20",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Real Madrid|Sociedad": [
+    {
+     "date": "2024-04-26",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-09-14",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-05-24",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-09-13",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-02-14",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-08-26",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Real Madrid|Valencia": [
+    {
+     "date": "2023-11-11",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-03-02",
+     "winner": null
+    },
+    {
+     "date": "2025-01-03",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-04-05",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2025-11-01",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-02-08",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Real Madrid|Vallecano": [
+    {
+     "date": "2023-11-05",
+     "winner": null
+    },
+    {
+     "date": "2024-02-18",
+     "winner": null
+    },
+    {
+     "date": "2024-12-14",
+     "winner": null
+    },
+    {
+     "date": "2025-03-09",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-11-09",
+     "winner": null
+    },
+    {
+     "date": "2026-02-01",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-09-12",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Real Madrid|Villarreal": [
+    {
+     "date": "2023-12-17",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2024-05-19",
+     "winner": null
+    },
+    {
+     "date": "2024-10-05",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-03-15",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2025-10-04",
+     "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-01-24",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Santander|Vallecano": [
+    {
+     "date": "2026-09-05",
+     "winner": "Vallecano"
+    }
+   ],
+   "Santander|Villarreal": [
+    {
+     "date": "2026-08-16",
+     "winner": null
+    }
+   ],
+   "Sevilla|Sociedad": [
+    {
+     "date": "2023-11-26",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-03-02",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2024-11-03",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2025-03-09",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2025-10-24",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2026-05-04",
+     "winner": "Sevilla"
+    }
+   ],
+   "Sevilla|Valencia": [
+    {
+     "date": "2024-02-17",
+     "winner": null
+    },
+    {
+     "date": "2025-01-11",
+     "winner": null
+    },
+    {
+     "date": "2025-04-11",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2025-12-07",
+     "winner": null
+    },
+    {
+     "date": "2026-03-21",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2026-09-11",
+     "winner": "Sevilla"
+    }
+   ],
+   "Sevilla|Vallecano": [
+    {
+     "date": "2023-10-07",
+     "winner": null
+    },
+    {
+     "date": "2024-02-05",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2024-11-24",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2025-03-01",
+     "winner": null
+    },
+    {
+     "date": "2025-09-28",
+     "winner": "Sevilla"
+    },
+    {
+     "date": "2026-03-08",
+     "winner": null
+    },
+    {
+     "date": "2026-08-15",
+     "winner": "Sevilla"
+    }
+   ],
+   "Sevilla|Villarreal": [
+    {
+     "date": "2023-12-03",
+     "winner": null
+    },
+    {
+     "date": "2024-05-11",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2024-08-23",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-05-25",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-09-23",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-05-13",
+     "winner": "Sevilla"
+    }
+   ],
+   "Sociedad|Valencia": [
+    {
+     "date": "2023-09-27",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-05-16",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-09-28",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2025-01-19",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2025-08-16",
+     "winner": null
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2026-09-20",
+     "winner": "Sociedad"
+    }
+   ],
+   "Sociedad|Vallecano": [
+    {
+     "date": "2023-10-29",
+     "winner": null
+    },
+    {
+     "date": "2024-01-27",
+     "winner": null
+    },
+    {
+     "date": "2024-08-18",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2025-03-16",
+     "winner": null
+    },
+    {
+     "date": "2025-10-05",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2026-04-26",
+     "winner": null
+    }
+   ],
+   "Sociedad|Villarreal": [
+    {
+     "date": "2023-12-09",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2024-02-23",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-01-13",
+     "winner": "Sociedad"
+    },
+    {
+     "date": "2025-04-20",
+     "winner": null
+    },
+    {
+     "date": "2025-11-30",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-03-20",
+     "winner": "Villarreal"
+    }
+   ],
+   "Valencia|Vallecano": [
+    {
+     "date": "2023-12-19",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2024-05-12",
+     "winner": null
+    },
+    {
+     "date": "2024-12-07",
+     "winner": "Vallecano"
+    },
+    {
+     "date": "2025-04-19",
+     "winner": null
+    },
+    {
+     "date": "2025-12-01",
+     "winner": null
+    },
+    {
+     "date": "2026-05-14",
+     "winner": null
+    }
+   ],
+   "Valencia|Villarreal": [
+    {
+     "date": "2024-01-02",
+     "winner": "Valencia"
+    },
+    {
+     "date": "2024-03-17",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2024-08-31",
+     "winner": null
+    },
+    {
+     "date": "2025-02-15",
+     "winner": null
+    },
+    {
+     "date": "2025-10-25",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-02-22",
+     "winner": "Villarreal"
+    }
+   ],
+   "Vallecano|Villarreal": [
+    {
+     "date": "2023-09-24",
+     "winner": null
+    },
+    {
+     "date": "2024-04-28",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2024-12-18",
+     "winner": null
+    },
+    {
+     "date": "2025-02-22",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2025-11-01",
+     "winner": "Villarreal"
+    },
+    {
+     "date": "2026-05-17",
+     "winner": "Vallecano"
+    }
+   ]
+  },
+  "home_adv_league": 0.6158
+ }
+}
