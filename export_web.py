@@ -110,7 +110,9 @@ def fixtures_payload(fixtures: pd.DataFrame, league: str) -> list[dict]:
                 "round": int(r.round),
                 "home": r.home,
                 "away": r.away,
-                "features": {f: round(float(getattr(r, f)), 4) for f in FEATURES},
+                # h_elo and a_elo aren't model inputs (elo_diff is) but the
+                # sliders need them to rebuild elo_diff
+                "features": {f: round(float(getattr(r, f)), 4) for f in [*FEATURES, "h_elo", "a_elo"]},
             }
         )
     return out
