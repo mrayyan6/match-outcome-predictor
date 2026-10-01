@@ -1,6 +1,7 @@
 import { predict } from "./model.js";
 import { percents, fairOdds, kickoff, longDate, shortDate, tween } from "./format.js";
 import { miniBar, withTip, renderBaselines, renderConfusion, renderReliability, renderBars, untip } from "./charts.js";
+import { clubDot } from "./clubs.js";
 
 const $ = (s) => document.querySelector(s);
 const el = (tag, cls, text) => {
@@ -146,7 +147,9 @@ function renderFixtures() {
     card.appendChild(el("span", "when", kickoff(fx.kickoff)));
     for (const [name, v] of [[fx.home, pc[0]], [fx.away, pc[2]]]) {
       const row = el("div", "side");
-      row.append(el("span", null, display(name)), el("span", null, `${v}%`));
+      const who = el("span");
+      who.append(clubDot(name), display(name));
+      row.append(who, el("span", null, `${v}%`));
       card.appendChild(row);
     }
     card.appendChild(miniBar(p, [`${display(fx.home)} v ${display(fx.away)}`, `Home ${pc[0]}%, draw ${pc[1]}%, away ${pc[2]}%`]));
@@ -224,6 +227,8 @@ function renderMatch() {
   $("#bar").setAttribute("aria-label", `${names[0]} ${pc[0]}%, draw ${pc[1]}%, ${names[2]} ${pc[2]}%`);
 
   $("#verdict").replaceChildren(...verdict(p, names));
+  $("#home-label").replaceChildren(clubDot(state.home), "Home");
+  $("#away-label").replaceChildren("Away", clubDot(state.away));
   const odds = $("#fair-odds");
   odds.replaceChildren("As betting odds ");
   p.forEach((v, i) => {
@@ -262,7 +267,9 @@ function renderKnobs(f) {
     // rebuild only when the team changes, so a slider being dragged keeps focus
     if (col.dataset.team !== name) {
       col.dataset.team = name;
-      col.replaceChildren(el("h3", null, display(name)));
+      const head = el("h3");
+      head.append(clubDot(name), display(name));
+      col.replaceChildren(head);
       for (const k of KNOBS) {
         const id = `knob-${side}-${k.key}`;
         const row = el("div", "knob");
@@ -352,7 +359,9 @@ function renderForm() {
   wrap.replaceChildren();
   for (const name of [state.home, state.away]) {
     const box = el("div", "form-team");
-    box.appendChild(el("h3", null, display(name)));
+    const head = el("h3");
+    head.append(clubDot(name), display(name));
+    box.appendChild(head);
     const row = el("div", "form-row");
     const last = team(name).last;
     if (!last.length) row.appendChild(el("span", "chip none", "No league games in the last year"));

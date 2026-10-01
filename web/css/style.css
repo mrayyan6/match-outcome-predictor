@@ -290,6 +290,23 @@ h2 {
   letter-spacing: 0.08em;
 }
 
+/* team colours as a halves shirt: one side each */
+.kit {
+  display: inline-block;
+  flex: none;
+  width: 10px;
+  height: 10px;
+  margin-right: 6px;
+  border-radius: 50%;
+  vertical-align: -0.05em;
+  background: linear-gradient(90deg, var(--kit-a, transparent) 50%, var(--kit-b, transparent) 50%);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--ink) 30%, transparent);
+}
+
+.pick-label .kit:last-child {
+  margin: 0 0 0 6px;
+}
+
 .info {
   display: inline-grid;
   place-items: center;
