@@ -2,6 +2,8 @@
 
 Home win, draw or away win? **Home, Draw, Away** gives the chances for every upcoming Premier League and La Liga game, based on each team's recent form and how strong they are.
 
+**Try it: [match-outcome-predictor.vercel.app](https://match-outcome-predictor.vercel.app)**
+
 ![Match centre, light theme](docs/screenshot-match.png)
 
 ## Using it
