@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Home, Draw, Away</title>
-  <meta name="description" content="Premier League and La Liga match predictions from recent form, with a head to head simulator and an honest look at how often the model gets it right.">
+  <meta name="description" content="Who's likely to win? Chances for every Premier League and La Liga game from recent form and team strength, and an honest look at how often it gets them right.">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <script>
     try {
@@ -32,30 +32,6 @@
   </header>
 
   <div class="page">
-    <aside class="settings" aria-label="Model settings">
-      <p class="intro">Predictions for every game from each side's last five matches, their Elo rating, home advantage and head to head record. Nothing the model uses was known after kickoff.</p>
-
-      <div class="setting">
-        <span class="setting-label" id="model-label">Model</span>
-        <div class="toggle" role="radiogroup" aria-labelledby="model-label" id="model-toggle">
-          <button type="button" role="radio" data-value="xgb">XGBoost</button>
-          <button type="button" role="radio" data-value="rf">Random forest</button>
-        </div>
-      </div>
-
-      <div class="setting">
-        <span class="setting-label" id="cal-label">Calibration</span>
-        <div class="toggle" role="radiogroup" aria-labelledby="cal-label" id="cal-toggle">
-          <button type="button" role="radio" data-value="raw">Raw</button>
-          <button type="button" role="radio" data-value="platt">Platt</button>
-          <button type="button" role="radio" data-value="isotonic">Isotonic</button>
-        </div>
-        <p class="setting-note" id="cal-note"></p>
-      </div>
-
-      <dl class="facts" id="facts"></dl>
-    </aside>
-
     <main>
       <nav class="tabs" role="tablist" aria-label="Sections">
         <button type="button" role="tab" id="tab-centre" aria-controls="panel-centre" aria-selected="true">Match centre</button>
@@ -63,27 +39,30 @@
       </nav>
 
       <section id="panel-centre" class="panel" role="tabpanel" aria-labelledby="tab-centre">
+        <p class="lede">Who's likely to win? Chances for every game, worked out from recent form and how strong each team is.</p>
+
         <div class="section-head">
           <h2>Next up</h2>
-          <span class="muted" id="fixtures-note"></span>
+          <p class="start"><span class="start-tag">Start here</span> Tap a game to see the chances, or pick any two teams below.</p>
         </div>
         <div class="rail" id="fixtures" role="list"></div>
 
         <article class="matchup" id="matchup" aria-live="polite">
           <div class="teams">
             <label class="team-pick home">
-              <span class="pick-label">Home</span>
+              <span class="pick-label" id="home-label">Home</span>
               <select id="home-select"></select>
             </label>
             <button type="button" class="swap" id="swap" aria-label="Swap home and away">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h11l-3-3M17 17H6l3 3"/></svg>
             </button>
             <label class="team-pick away">
-              <span class="pick-label">Away</span>
+              <span class="pick-label" id="away-label">Away</span>
               <select id="away-select"></select>
             </label>
           </div>
           <p class="kickoff" id="kickoff"></p>
+          <p class="verdict" id="verdict"></p>
 
           <div class="odds-row">
             <div class="outcome home"><span class="pct" id="pct-home">0%</span><span class="who" id="who-home"></span></div>
@@ -93,20 +72,16 @@
           <div class="bar" id="bar" role="img">
             <span class="seg home"></span><span class="seg draw"></span><span class="seg away"></span>
           </div>
-
-          <div class="verdict-row">
-            <div class="confidence" id="confidence"></div>
-            <div class="fair-odds" id="fair-odds" title="Decimal odds with no bookmaker margin, 1 divided by the probability"></div>
-          </div>
+          <p class="fair-odds" id="fair-odds" title="These chances as decimal betting odds, with no bookmaker cut taken off"></p>
           <p class="tweak-note" id="tweak-note" hidden></p>
         </article>
 
         <section class="tweaks" aria-labelledby="tweak-title">
           <div class="section-head">
-            <h2 id="tweak-title">Tweak the form</h2>
+            <h2 id="tweak-title">What if?</h2>
             <button type="button" class="text-button" id="reset-all" hidden>Back to the real numbers</button>
           </div>
-          <p class="muted">What if they'd won their last three? Drag and the prediction follows, the small tick marks where each team really is. Fair warning: the model leans on Elo far more than anything else, so that's the slider that really moves it. Form and goals only nudge, and not always in the direction you'd expect.</p>
+          <p class="muted">Drag a slider and watch the chances change. Team strength moves them most, form only nudges.</p>
           <div class="tweak-grid">
             <div class="tweak-col" id="tweak-home"></div>
             <div class="tweak-col" id="tweak-away"></div>
@@ -119,7 +94,7 @@
             <div class="form-guide" id="form-guide"></div>
           </section>
           <section aria-labelledby="tape-title">
-            <h2 id="tape-title">What the model sees</h2>
+            <h2 id="tape-title">Side by side</h2>
             <div class="tape" id="tape"></div>
           </section>
         </div>
@@ -132,32 +107,12 @@
 
       <section id="panel-report" class="panel" role="tabpanel" aria-labelledby="tab-report" hidden>
         <p class="report-lede" id="report-lede"></p>
-        <div class="tiles" id="tiles"></div>
 
-        <section class="chart-card" aria-labelledby="baseline-title">
-          <h2 id="baseline-title">Against the obvious alternatives</h2>
-          <p class="muted">Log loss punishes confident wrong calls, lower is better. Always home means guessing a home win every time with the usual frequencies as probabilities. The bookmakers are the average closing odds with their margin stripped out.</p>
-          <div id="baselines"></div>
-        </section>
-
-        <div class="split">
-          <section class="chart-card" aria-labelledby="cm-title">
-            <h2 id="cm-title">What it predicted, what happened</h2>
-            <p class="muted">Rows are the real result, columns the model's pick. The diagonal is where it got it right.</p>
-            <div id="confusion"></div>
-          </section>
-          <section class="chart-card" aria-labelledby="rel-title">
-            <h2 id="rel-title">When it says 40%, is it 40%?</h2>
-            <p class="muted">Every predicted probability, bucketed, against how often that outcome actually happened. On the dotted line the probabilities can be taken at face value.</p>
-            <div id="reliability"></div>
-          </section>
-        </div>
-
-        <section class="chart-card" aria-labelledby="imp-title">
-          <h2 id="imp-title">What it leans on</h2>
-          <p class="muted">Shuffle one input across the test season and see how much worse the log loss gets.</p>
-          <div id="importance"></div>
-          <p class="muted" id="importance-rest"></p>
+        <section class="chart-card scorecard" aria-labelledby="score-title">
+          <h2 id="score-title">How often it calls the result</h2>
+          <p class="score-big" id="score-big"></p>
+          <div id="scoreline"></div>
+          <p class="score-note" id="score-note"></p>
         </section>
 
         <div class="split">
@@ -168,15 +123,71 @@
           </section>
           <section class="chart-card" aria-labelledby="upset-title">
             <h2 id="upset-title">Biggest shocks last season</h2>
-            <p class="muted">The results the model gave the lowest chance of happening.</p>
+            <p class="muted">The results it saw coming least.</p>
             <ol class="results" id="upsets"></ol>
           </section>
         </div>
 
-        <section class="draw-note">
-          <h2>About draws</h2>
-          <p>Around a quarter of games end level, but a draw is almost never the single most likely result, so a model that only picks the favourite never calls one. Training with balanced class weights (the Raw setting) makes it call draws, and it catches a fair few, but it's wrong more often overall and its percentages run too high on draws. Calibration pulls the percentages back to reality, and in doing so it stops calling draws altogether. Flip between them above and watch the draw column in the table and the tiles.</p>
-        </section>
+        <details class="nerd" id="nerd">
+          <summary>For the stats nerds</summary>
+          <div class="nerd-body">
+            <div class="nerd-settings">
+              <div class="setting">
+                <span class="setting-label" id="model-label">Model</span>
+                <div class="toggle" role="radiogroup" aria-labelledby="model-label" id="model-toggle">
+                  <button type="button" role="radio" data-value="xgb">XGBoost</button>
+                  <button type="button" role="radio" data-value="rf">Random forest</button>
+                </div>
+              </div>
+              <div class="setting">
+                <span class="setting-label" id="cal-label">Calibration</span>
+                <div class="toggle" role="radiogroup" aria-labelledby="cal-label" id="cal-toggle">
+                  <button type="button" role="radio" data-value="raw">Raw</button>
+                  <button type="button" role="radio" data-value="platt">Platt</button>
+                  <button type="button" role="radio" data-value="isotonic">Isotonic</button>
+                </div>
+                <p class="setting-note" id="cal-note"></p>
+              </div>
+              <dl class="facts" id="facts"></dl>
+            </div>
+            <p class="muted">These two settings change every number on the site, the match centre included. Features: rolling goals, shots on target, possession and form over the last five games, head to head, home advantage and an Elo rating, all from before kickoff.</p>
+
+            <div class="tiles" id="tiles"></div>
+
+            <section class="chart-card" aria-labelledby="baseline-title">
+              <h2 id="baseline-title">Log loss against the obvious alternatives</h2>
+              <p class="muted">Log loss punishes confident wrong calls, lower is better. Always home means guessing a home win every time with the usual frequencies as probabilities. The bookmakers are the average closing odds with their margin stripped out.</p>
+              <div id="baselines"></div>
+            </section>
+
+            <div class="split">
+              <section class="chart-card" aria-labelledby="cm-title">
+                <h2 id="cm-title">What it predicted, what happened</h2>
+                <p class="muted">Rows are the real result, columns the model's pick. The diagonal is where it got it right.</p>
+                <div id="confusion"></div>
+              </section>
+              <section class="chart-card" aria-labelledby="rel-title">
+                <h2 id="rel-title">When it says 40%, is it 40%?</h2>
+                <p class="muted">Every predicted probability, bucketed, against how often that outcome actually happened. On the dotted line the probabilities can be taken at face value.</p>
+                <div id="reliability"></div>
+              </section>
+            </div>
+
+            <section class="chart-card" aria-labelledby="imp-title">
+              <h2 id="imp-title">What it leans on</h2>
+              <p class="muted">Permutation importance: shuffle one input across the test season and see how much worse the log loss gets.</p>
+              <div id="importance"></div>
+              <p class="muted" id="importance-rest"></p>
+            </section>
+
+            <section class="draw-note">
+              <h2>About draws</h2>
+              <p>Around a quarter of games end level, but a draw is almost never the single most likely result, so a model that only picks the favourite never calls one. Training with balanced class weights (the Raw setting) makes it call draws, and it catches a fair few, but it's wrong more often overall and its percentages run too high on draws. Calibration pulls the percentages back to reality, and in doing so it stops calling draws altogether. Flip between them above and watch the tiles.</p>
+            </section>
+
+            <p class="muted">The leakage tests, the Elo details and the full results table are in the <a href="https://github.com/mrayyan6/match-outcome-predictor" rel="noopener">README on GitHub</a>.</p>
+          </div>
+        </details>
       </section>
     </main>
   </div>

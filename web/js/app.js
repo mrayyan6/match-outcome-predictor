@@ -16,7 +16,15 @@ const KNOBS = [
   { key: "ga", label: "Goals conceded per game", min: 0, max: 4, step: 0.1, fmt: (v) => v.toFixed(1) },
   { key: "sotf", label: "Shots on target per game", min: 0, max: 10, step: 0.1, fmt: (v) => v.toFixed(1) },
   { key: "poss", label: "Possession", min: 30, max: 72, step: 1, fmt: (v) => `${Math.round(v)}%` },
-  { key: "elo", label: "Elo rating", min: 1300, max: 1850, step: 5, fmt: (v) => `${Math.round(v)}` },
+  {
+    key: "elo",
+    label: "Team strength",
+    info: ["Team strength", "An Elo rating, like chess rankings. It goes up when a team wins, more for beating a strong side."],
+    min: 1300,
+    max: 1850,
+    step: 5,
+    fmt: (v) => `${Math.round(v)}`,
+  },
 ];
 
 const CAL_NOTE = {
@@ -111,7 +119,6 @@ function renderSettings() {
   facts.replaceChildren();
   const r = meta.report[state.league];
   const rows = [
-    ["Form as of", longDate(meta.exported)],
     ["Trained on", `${meta.seasons.train[0]} to ${meta.seasons.train.at(-1)}`],
     ["Tested on", `${meta.seasons.test}, ${r[state.model][state.cal].n} games`],
     ["This season", `${meta.seasons.live}, ${r[state.model][state.cal].live?.n ?? 0} played`],
@@ -125,7 +132,6 @@ function renderFixtures() {
   const rail = $("#fixtures");
   rail.replaceChildren();
   const fixtures = L().fixtures;
-  $("#fixtures-note").textContent = fixtures.length ? "Click one to load it below" : "";
   if (!fixtures.length) {
     rail.appendChild(el("p", "muted", "No fixtures coming up. Pick any two teams below."));
     return;
@@ -170,7 +176,8 @@ function fillSelects() {
   }
 }
 
-function confidence(p, names) {
+// the answer in words, with one to three pips for how sure it is
+function verdict(p, names) {
   const order = [0, 1, 2].sort((a, b) => p[b] - p[a]);
   const [top, second] = order;
   const gap = p[top] - p[second];
@@ -181,10 +188,10 @@ function confidence(p, names) {
     text = "Leaning towards a draw";
     pips = gap > 0.08 ? 2 : 1;
   } else if (p[top] >= 0.6) {
-    text = `${names[top]}, strong favourites`;
+    text = `${names[top]} are big favourites`;
     pips = 3;
   } else if (gap >= 0.12) {
-    text = `${names[top]}, favourites`;
+    text = `${names[top]} are favourites`;
     pips = 2;
   } else {
     text = "Too close to call";
@@ -216,9 +223,9 @@ function renderMatch() {
   p.forEach((v, i) => (segs[i].style.flexGrow = String(v)));
   $("#bar").setAttribute("aria-label", `${names[0]} ${pc[0]}%, draw ${pc[1]}%, ${names[2]} ${pc[2]}%`);
 
-  $("#confidence").replaceChildren(...confidence(p, names));
+  $("#verdict").replaceChildren(...verdict(p, names));
   const odds = $("#fair-odds");
-  odds.replaceChildren("Fair odds ");
+  odds.replaceChildren("As betting odds ");
   p.forEach((v, i) => {
     odds.append(el("b", null, fairOdds(v)));
     if (i < 2) odds.append(" / ");
@@ -228,7 +235,7 @@ function renderMatch() {
   $("#kickoff").textContent =
     fx && fx.home === state.home && fx.away === state.away
       ? `${kickoff(fx.kickoff)} your time, matchweek ${fx.round}`
-      : `Made-up fixture: played today, with form as of ${longDate(meta.exported)}`;
+      : `Your own matchup, using each team's form as of ${longDate(meta.exported)}`;
 
   const note = $("#tweak-note");
   if (tweaked()) {
@@ -262,6 +269,12 @@ function renderKnobs(f) {
         row.dataset.key = k.key;
         const label = el("label", null, k.label);
         label.htmlFor = id;
+        if (k.info) {
+          const info = el("span", "info", "i");
+          info.tabIndex = 0;
+          info.setAttribute("aria-label", k.info[1]);
+          label.appendChild(withTip(info, k.info));
+        }
         const out = el("output");
         const track = el("div", "track");
         const real = el("span", "real");
@@ -304,7 +317,7 @@ function renderTape(f) {
     ["On target", "h_sotf", "a_sotf", true, (v) => v.toFixed(1)],
     ["Faced", "h_sota", "a_sota", false, (v) => v.toFixed(1)],
     ["Possession", "h_poss", "a_poss", true, (v) => `${v.toFixed(0)}%`],
-    ["Elo", "h_elo", "a_elo", true, (v) => v.toFixed(0)],
+    ["Strength", "h_elo", "a_elo", true, (v) => v.toFixed(0)],
   ];
   const tape = $("#tape");
   tape.replaceChildren();
@@ -329,7 +342,8 @@ function renderTape(f) {
   }
   const extra = el("p", "muted");
   extra.style.marginTop = "8px";
-  extra.textContent = `Averages over the last five league games. ${display(state.home)}'s home advantage: ${f.home_adv_team >= 0 ? "+" : ""}${f.home_adv_team.toFixed(2)} points a game better at home than away.`;
+  const adv = f.home_adv_team;
+  extra.textContent = `Per game, over the last five league games. At home, ${display(state.home)} pick up ${Math.abs(adv).toFixed(2)} ${adv >= 0 ? "more" : "fewer"} points a game than away.`;
   tape.appendChild(extra);
 }
 
@@ -360,7 +374,7 @@ function renderH2H() {
   const [a, b] = [state.home, state.away].sort();
   const games = L().teams.meetings[`${a}|${b}`] ?? [];
   if (!games.length) {
-    wrap.appendChild(el("p", "muted", "They haven't met in the league in the last three seasons, so this counts as neutral."));
+    wrap.appendChild(el("p", "muted", "They haven't met in the league in the last three seasons."));
     return;
   }
   const tally = { [state.home]: 0, [state.away]: 0, draw: 0 };
@@ -384,7 +398,22 @@ function renderReport() {
   const s = r[state.model][state.cal];
   const book = r.baselines.bookmakers;
   const home = r.baselines.always_home;
-  $("#report-lede").textContent = `${MODEL_NAME[state.model]} with ${state.cal === "raw" ? "no calibration" : `${state.cal} calibration`}, tested on all ${s.n} games of ${meta.seasons.test}, a season it never saw. Trained on ${meta.seasons.train[0]} to ${meta.seasons.train.at(-1)}.`;
+  $("#report-lede").textContent = `It was tested on all ${s.n} games of ${meta.seasons.test}, a season it never saw while learning. Here's how it did.`;
+
+  const pct = (v) => `${Math.round(v * 100)}%`;
+  $("#score-big").replaceChildren(el("b", null, pct(s.accuracy)), ` of those games called right`);
+  renderBars($("#scoreline"), [
+    { key: "home", label: "Always back the home team", value: home.accuracy },
+    { key: "site", label: "This site", value: s.accuracy, current: true },
+    { key: "book", label: "The bookies", value: book.accuracy },
+  ], pct);
+  const [me, them, naive] = [s.accuracy, book.accuracy, home.accuracy].map((v) => Math.round(v * 100));
+  $("#score-note").textContent =
+    me > them
+      ? "It even beat the bookies on this season, which says as much about luck as anything."
+      : me > naive
+        ? `Better than always backing the home team, ${me === them ? "level with" : "a little behind"} the bookies. Football is hard to call.`
+        : "No better than always backing the home team. Football is hard to call.";
 
   const tiles = [
     ["Called right", `${Math.round(s.accuracy * 100)}%`, `bookmakers ${Math.round(book.accuracy * 100)}%, always home ${Math.round(home.accuracy * 100)}%`],
@@ -445,7 +474,7 @@ function resultItem(g, p, sub) {
   const called = p.indexOf(Math.max(...p)) === outcomeIndex(g.result);
   const mark = el("span", `mark ${called ? "hit" : "miss"}`, called ? "✓" : "✗");
   mark.setAttribute("aria-label", called ? "called it" : "missed it");
-  li.append(game, miniBar(p, [`${display(g.home)} v ${display(g.away)}`, `Model had home ${pc[0]}%, draw ${pc[1]}%, away ${pc[2]}%`]), mark);
+  li.append(game, miniBar(p, [`${display(g.home)} v ${display(g.away)}`, `It had home ${pc[0]}%, draw ${pc[1]}%, away ${pc[2]}%`]), mark);
   return li;
 }
 
@@ -467,7 +496,7 @@ function renderResultsList() {
     .sort((a, b) => a.chance - b.chance)
     .slice(0, 8);
   $("#upsets").replaceChildren(
-    ...shocks.map(({ g, chance }) => resultItem(g, g.p[key], `${shortDate(g.date)}, model gave it ${Math.round(chance * 100)}%`))
+    ...shocks.map(({ g, chance }) => resultItem(g, g.p[key], `${shortDate(g.date)}, it gave this ${Math.round(chance * 100)}%`))
   );
 }
 
@@ -565,6 +594,9 @@ function wire() {
     }
   });
 
+  // the charts in there measure their width, which is zero while it's shut
+  $("#nerd").addEventListener("toggle", () => $("#nerd").open && renderReport());
+
   let resizeTimer;
   addEventListener("resize", () => {
     clearTimeout(resizeTimer);
@@ -593,7 +625,7 @@ async function init() {
   if (model === "xgb" || model === "rf") state.model = model;
   if (["raw", "platt", "isotonic"].includes(cal)) state.cal = cal;
   const league = Object.keys(meta.leagues).find((l) => meta.leagues[l].key === key) ?? Object.keys(meta.leagues)[0];
-  $("#updated").textContent = `Numbers last rebuilt ${longDate(meta.exported)}.`;
+  $("#updated").textContent = `Last updated ${longDate(meta.exported)}.`;
   await setLeague(league);
 }
 

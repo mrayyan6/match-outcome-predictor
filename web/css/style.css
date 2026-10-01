@@ -257,26 +257,57 @@ h2 {
 /* layout */
 
 .page {
-  max-width: 1200px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 26px 24px 40px;
-  display: grid;
-  grid-template-columns: 250px minmax(0, 1fr);
-  gap: 32px;
-  align-items: start;
 }
 
-.settings {
-  position: sticky;
-  top: 20px;
-  display: grid;
-  gap: 20px;
+.lede {
+  max-width: 62ch;
+  margin: 0 0 22px;
+  font-size: 17px;
+  color: var(--ink-2);
 }
 
-.intro {
+/* start here: a little sign pointing at the fixtures */
+.start {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 10px;
   margin: 0;
   font-size: 14.5px;
   color: var(--ink-2);
+}
+
+.start-tag {
+  padding: 4px 8px 3px;
+  border-radius: 3px;
+  background: var(--ink);
+  color: var(--page);
+  font: 700 13px/1 var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.info {
+  display: inline-grid;
+  place-items: center;
+  width: 15px;
+  height: 15px;
+  margin-left: 6px;
+  border: 1px solid var(--line-2);
+  border-radius: 50%;
+  font: italic 600 10px/1 Georgia, serif;
+  color: var(--ink-3);
+  cursor: help;
+  vertical-align: 1px;
+}
+
+.info:hover,
+.info:focus-visible {
+  border-color: var(--ink);
+  color: var(--ink);
 }
 
 .setting {
@@ -586,11 +617,25 @@ h2 {
 }
 
 .kickoff {
-  margin: 8px 0 16px;
+  margin: 8px 0 4px;
   font-size: 13.5px;
   color: var(--ink-3);
   text-align: center;
   min-height: 1.5em;
+}
+
+/* the answer in words, big, before the percentages */
+.verdict {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  margin: 6px 0 18px;
+  font: 700 clamp(22px, 3vw, 30px)/1.1 var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .odds-row {
@@ -659,37 +704,16 @@ h2 {
   border-radius: 1px 4px 4px 1px;
 }
 
-.verdict-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  gap: 10px 20px;
-  margin-top: 14px;
-}
-
-.confidence {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  padding: 6px 12px 6px 8px;
-  border-radius: 999px;
-  background: var(--card-2);
-  border: 1px solid var(--line);
-  font-weight: 600;
-  font-size: 14.5px;
-}
-
 .pips {
   display: inline-flex;
-  gap: 3px;
+  gap: 4px;
 }
 
 .pips i {
-  width: 9px;
-  height: 9px;
+  width: 11px;
+  height: 11px;
   border-radius: 50%;
-  border: 1.5px solid var(--line-2);
+  border: 2px solid var(--line-2);
 }
 
 .pips i.on {
@@ -697,8 +721,11 @@ h2 {
 }
 
 .fair-odds {
+  margin: 12px 0 0;
   font-size: 13.5px;
   color: var(--ink-3);
+  text-align: center;
+  cursor: help;
 }
 
 .fair-odds b {
@@ -1018,9 +1045,113 @@ h2 {
 
 .report-lede {
   margin: 0 0 16px;
-  font-size: 16px;
+  font-size: 17px;
   color: var(--ink-2);
   max-width: 70ch;
+}
+
+.score-big {
+  margin: 4px 0 14px;
+  font-size: 16px;
+  color: var(--ink-2);
+}
+
+.score-big b {
+  margin-right: 4px;
+  font: 700 clamp(44px, 6vw, 60px)/1 var(--display);
+  color: var(--ink);
+  font-variant-numeric: normal;
+}
+
+#scoreline .hbar-row {
+  grid-template-columns: 200px minmax(0, 1fr) 56px;
+  font-size: 15px;
+}
+
+#scoreline .hbar-row .track {
+  height: 18px;
+}
+
+.score-note {
+  margin: 12px 0 0;
+  font-weight: 500;
+  color: var(--ink-2);
+}
+
+/* for the stats nerds: shut by default, everything technical is in here */
+
+.nerd {
+  margin-top: 28px;
+}
+
+.nerd summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  border-radius: 6px;
+  background: var(--board);
+  color: var(--board-ink);
+  cursor: pointer;
+  list-style: none;
+  font: 700 17px/1 var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: background-color 0.2s;
+}
+
+.nerd summary::-webkit-details-marker {
+  display: none;
+}
+
+.nerd summary::after {
+  content: "+";
+  font-size: 22px;
+  line-height: 0.8;
+  transition: transform 0.25s;
+}
+
+.nerd[open] summary {
+  border-radius: 6px 6px 0 0;
+}
+
+.nerd[open] summary::after {
+  transform: rotate(45deg);
+}
+
+.nerd-body {
+  padding: 18px 0 4px;
+  animation: enter 0.3s ease both;
+}
+
+.nerd-settings {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  align-items: start;
+  margin-bottom: 14px;
+  padding: 16px 18px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.nerd-settings .facts {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.nerd .split {
+  margin-bottom: 22px;
+}
+
+.nerd .draw-note {
+  margin-bottom: 18px;
+}
+
+.draw-note h2 {
+  margin-bottom: 8px;
 }
 
 .tiles {
@@ -1325,16 +1456,10 @@ h2 {
 /* smaller screens */
 
 @media (max-width: 960px) {
-  .page {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 20px;
-  }
-  .settings {
-    position: static;
+  .nerd-settings {
     grid-template-columns: 1fr 1fr;
   }
-  .intro,
-  .facts {
+  .nerd-settings .facts {
     grid-column: 1 / -1;
   }
 }
@@ -1364,8 +1489,12 @@ h2 {
     padding-left: 16px;
     padding-right: 16px;
   }
-  .settings {
+  .nerd-settings {
     grid-template-columns: 1fr;
+  }
+  #scoreline .hbar-row {
+    grid-template-columns: 120px minmax(0, 1fr) 44px;
+    font-size: 14px;
   }
   .matchup {
     padding: 16px 14px;
