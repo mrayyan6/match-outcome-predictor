@@ -1,10 +1,21 @@
 # match-outcome-predictor
 
-Home win, draw or away win? This predicts Premier League and La Liga results from each team's recent form, their Elo rating, home advantage and head to head record, using nothing the model couldn't have known before kickoff.
-
-The site (Home, Draw, Away) shows the next round of fixtures with probabilities, lets you set up any matchup and drag each side's form, goals, possession or Elo to see the prediction move, and has a page that's honest about how good the whole thing actually is. Short answer: decent, and the bookmakers are better.
+Home win, draw or away win? **Home, Draw, Away** gives the chances for every upcoming Premier League and La Liga game, based on each team's recent form and how strong they are.
 
 ![Match centre, light theme](docs/screenshot-match.png)
+
+## Using it
+
+1. Pick a league at the top, then tap one of the games under **Next up**. Or choose any two teams yourself.
+2. The big line tells you who's favourite, and the bar shows the chances of a home win, a draw and an away win.
+3. Drag the sliders under **What if?** to see how the chances move when a team's form or strength changes.
+4. **How good is it?** shows how often it calls results right (about half the time, a bit behind the bookies) and every game it has called this season.
+
+The model settings and the technical charts are folded away under **For the stats nerds** on that tab. The rest of this README is about how it's built.
+
+## How it's built
+
+Every prediction comes from each team's recent form, their Elo rating, home advantage and head to head record, using nothing the model couldn't have known before kickoff. Short answer on how good it is: decent, and the bookmakers are better.
 
 ## The two things that matter
 
@@ -38,7 +49,7 @@ Trained on 2020/21 to 2024/25, tested on all 380 games of 2025/26, which the mod
 
 XGBoost with Platt calibration calls 48% of Premier League games and 52% of La Liga games right, against 49% and 54% for the bookmakers. Beating the market was never going to happen with free data, but it's comfortably ahead of the naive baseline and the probabilities are well calibrated (there's a reliability chart on the site).
 
-![Model report, dark theme](docs/screenshot-report.png)
+![The stats nerds section, dark theme](docs/screenshot-report.png)
 
 ## Things I found
 
