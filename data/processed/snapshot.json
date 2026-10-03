@@ -1086,7 +1086,7 @@
    "Chelsea|Coventry": 0.3333,
    "Chelsea|Crystal Palace": 0.4444,
    "Chelsea|Everton": 0.4444,
-   "Chelsea|Fulham": 0.6,
+   "Chelsea|Fulham": 0.5556,
    "Chelsea|Hull": 0.25,
    "Chelsea|Ipswich": 0.2,
    "Chelsea|Leeds": 0.2,
@@ -1159,7 +1159,7 @@
    "Fulham|Bournemouth": 0.2222,
    "Fulham|Brentford": 0.5,
    "Fulham|Brighton": 0.4444,
-   "Fulham|Chelsea": 0.3,
+   "Fulham|Chelsea": 0.3333,
    "Fulham|Coventry": 0.3333,
    "Fulham|Crystal Palace": 0.2222,
    "Fulham|Everton": 0.125,
@@ -3114,10 +3114,6 @@
     }
    ],
    "Chelsea|Fulham": [
-    {
-     "date": "2023-10-02",
-     "winner": "Chelsea"
-    },
     {
      "date": "2024-01-13",
      "winner": "Chelsea"
