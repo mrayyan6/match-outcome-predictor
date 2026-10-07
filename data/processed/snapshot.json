@@ -550,7 +550,7 @@
     "poss": 45.0,
     "form": 6.0,
     "elo": 1398.5,
-    "home_adv": -0.2581,
+    "home_adv": -0.2857,
     "last": [
      {
       "date": "2026-08-22",
@@ -1028,7 +1028,7 @@
    "Bournemouth|Chelsea": 0.125,
    "Bournemouth|Coventry": 0.3333,
    "Bournemouth|Crystal Palace": 0.4444,
-   "Bournemouth|Everton": 0.5,
+   "Bournemouth|Everton": 0.5556,
    "Bournemouth|Fulham": 0.5556,
    "Bournemouth|Hull": 0.3333,
    "Bournemouth|Ipswich": 0.4,
@@ -1054,7 +1054,7 @@
    "Brentford|Leeds": 0.1667,
    "Brentford|Liverpool": 0.2222,
    "Brentford|Man City": 0.1111,
-   "Brentford|Man United": 0.3333,
+   "Brentford|Man United": 0.375,
    "Brentford|Newcastle": 0.5,
    "Brentford|Nott'm Forest": 0.375,
    "Brentford|Sunderland": 0.3333,
@@ -1132,12 +1132,12 @@
    "Crystal Palace|Man City": 0.1,
    "Crystal Palace|Man United": 0.375,
    "Crystal Palace|Newcastle": 0.3333,
-   "Crystal Palace|Nott'm Forest": 0.1111,
+   "Crystal Palace|Nott'm Forest": 0.125,
    "Crystal Palace|Sunderland": 0.2,
    "Crystal Palace|Tottenham": 0.4444,
    "Everton|Arsenal": 0.125,
    "Everton|Aston Villa": 0.25,
-   "Everton|Bournemouth": 0.3,
+   "Everton|Bournemouth": 0.2222,
    "Everton|Brentford": 0.25,
    "Everton|Brighton": 0.3333,
    "Everton|Chelsea": 0.3333,
@@ -1271,7 +1271,7 @@
    "Man United|Arsenal": 0.25,
    "Man United|Aston Villa": 0.5556,
    "Man United|Bournemouth": 0.1111,
-   "Man United|Brentford": 0.4444,
+   "Man United|Brentford": 0.375,
    "Man United|Brighton": 0.5,
    "Man United|Chelsea": 0.4444,
    "Man United|Coventry": 0.3333,
@@ -1313,7 +1313,7 @@
    "Nott'm Forest|Brighton": 0.2222,
    "Nott'm Forest|Chelsea": 0.25,
    "Nott'm Forest|Coventry": 0.25,
-   "Nott'm Forest|Crystal Palace": 0.2222,
+   "Nott'm Forest|Crystal Palace": 0.25,
    "Nott'm Forest|Everton": 0.2222,
    "Nott'm Forest|Fulham": 0.2222,
    "Nott'm Forest|Hull": 0.3333,
@@ -2213,10 +2213,6 @@
    ],
    "Bournemouth|Everton": [
     {
-     "date": "2023-10-07",
-     "winner": "Everton"
-    },
-    {
      "date": "2024-03-30",
      "winner": "Bournemouth"
     },
@@ -2656,10 +2652,6 @@
     }
    ],
    "Brentford|Man United": [
-    {
-     "date": "2023-10-07",
-     "winner": "Man United"
-    },
     {
      "date": "2024-03-30",
      "winner": null
@@ -3530,10 +3522,6 @@
     }
    ],
    "Crystal Palace|Nott'm Forest": [
-    {
-     "date": "2023-10-07",
-     "winner": null
-    },
     {
      "date": "2024-03-30",
      "winner": null
@@ -5846,7 +5834,7 @@
    "Osasuna|La Coruna": 0.3333,
    "Osasuna|Levante": 0.3333,
    "Osasuna|Malaga": 0.3333,
-   "Osasuna|Real Madrid": 0.2222,
+   "Osasuna|Real Madrid": 0.25,
    "Osasuna|Santander": 0.3333,
    "Osasuna|Sevilla": 0.375,
    "Osasuna|Sociedad": 0.4444,
@@ -5865,7 +5853,7 @@
    "Real Madrid|La Coruna": 0.3333,
    "Real Madrid|Levante": 0.6,
    "Real Madrid|Malaga": 0.5,
-   "Real Madrid|Osasuna": 0.5556,
+   "Real Madrid|Osasuna": 0.5,
    "Real Madrid|Santander": 0.3333,
    "Real Madrid|Sevilla": 0.6667,
    "Real Madrid|Sociedad": 0.7778,
@@ -5908,7 +5896,7 @@
    "Sevilla|Santander": 0.3333,
    "Sevilla|Sociedad": 0.4444,
    "Sevilla|Valencia": 0.2222,
-   "Sevilla|Vallecano": 0.5,
+   "Sevilla|Vallecano": 0.5556,
    "Sevilla|Villarreal": 0.2222,
    "Sociedad|Alaves": 0.2222,
    "Sociedad|Ath Bilbao": 0.25,
@@ -5963,7 +5951,7 @@
    "Vallecano|Osasuna": 0.3,
    "Vallecano|Real Madrid": 0.1,
    "Vallecano|Santander": 0.5,
-   "Vallecano|Sevilla": 0.1,
+   "Vallecano|Sevilla": 0.1111,
    "Vallecano|Sociedad": 0.3333,
    "Vallecano|Valencia": 0.2222,
    "Vallecano|Villarreal": 0.25,
@@ -8520,10 +8508,6 @@
    ],
    "Osasuna|Real Madrid": [
     {
-     "date": "2023-10-07",
-     "winner": "Real Madrid"
-    },
-    {
      "date": "2024-03-16",
      "winner": "Real Madrid"
     },
@@ -8869,10 +8853,6 @@
     }
    ],
    "Sevilla|Vallecano": [
-    {
-     "date": "2023-10-07",
-     "winner": null
-    },
     {
      "date": "2024-02-05",
      "winner": "Sevilla"
