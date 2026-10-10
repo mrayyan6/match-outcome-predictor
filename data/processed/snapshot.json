@@ -996,7 +996,7 @@
    "Arsenal|Ipswich": 0.6,
    "Arsenal|Leeds": 0.6,
    "Arsenal|Liverpool": 0.2222,
-   "Arsenal|Man City": 0.3333,
+   "Arsenal|Man City": 0.25,
    "Arsenal|Man United": 0.5,
    "Arsenal|Newcastle": 0.5556,
    "Arsenal|Nott'm Forest": 0.5,
@@ -1071,7 +1071,7 @@
    "Brighton|Hull": 0.3333,
    "Brighton|Ipswich": 0.4,
    "Brighton|Leeds": 0.3333,
-   "Brighton|Liverpool": 0.3333,
+   "Brighton|Liverpool": 0.375,
    "Brighton|Man City": 0.3333,
    "Brighton|Man United": 0.375,
    "Brighton|Newcastle": 0.375,
@@ -1234,7 +1234,7 @@
    "Liverpool|Aston Villa": 0.375,
    "Liverpool|Bournemouth": 0.6667,
    "Liverpool|Brentford": 0.5556,
-   "Liverpool|Brighton": 0.4444,
+   "Liverpool|Brighton": 0.5,
    "Liverpool|Chelsea": 0.375,
    "Liverpool|Coventry": 0.3333,
    "Liverpool|Crystal Palace": 0.4444,
@@ -1249,7 +1249,7 @@
    "Liverpool|Nott'm Forest": 0.4,
    "Liverpool|Sunderland": 0.4,
    "Liverpool|Tottenham": 0.625,
-   "Man City|Arsenal": 0.2222,
+   "Man City|Arsenal": 0.25,
    "Man City|Aston Villa": 0.3333,
    "Man City|Bournemouth": 0.6,
    "Man City|Brentford": 0.6667,
@@ -1622,10 +1622,6 @@
     }
    ],
    "Arsenal|Man City": [
-    {
-     "date": "2023-10-08",
-     "winner": "Arsenal"
-    },
     {
      "date": "2024-03-31",
      "winner": null
@@ -2896,10 +2892,6 @@
     }
    ],
    "Brighton|Liverpool": [
-    {
-     "date": "2023-10-08",
-     "winner": null
-    },
     {
      "date": "2024-03-31",
      "winner": "Liverpool"
@@ -5597,7 +5589,7 @@
    "Alaves|Ath Bilbao": 0.2222,
    "Alaves|Ath Madrid": 0.2222,
    "Alaves|Barcelona": 0.2222,
-   "Alaves|Betis": 0.3333,
+   "Alaves|Betis": 0.375,
    "Alaves|Celta": 0.375,
    "Alaves|Elche": 0.4,
    "Alaves|Espanol": 0.4286,
@@ -5647,7 +5639,7 @@
    "Ath Madrid|Real Madrid": 0.3333,
    "Ath Madrid|Santander": 0.3333,
    "Ath Madrid|Sevilla": 0.6,
-   "Ath Madrid|Sociedad": 0.6,
+   "Ath Madrid|Sociedad": 0.5556,
    "Ath Madrid|Valencia": 0.75,
    "Ath Madrid|Vallecano": 0.5,
    "Ath Madrid|Villarreal": 0.4,
@@ -5670,7 +5662,7 @@
    "Barcelona|Valencia": 0.6,
    "Barcelona|Vallecano": 0.6,
    "Barcelona|Villarreal": 0.5,
-   "Betis|Alaves": 0.2222,
+   "Betis|Alaves": 0.25,
    "Betis|Ath Bilbao": 0.25,
    "Betis|Ath Madrid": 0.375,
    "Betis|Barcelona": 0.125,
@@ -5696,7 +5688,7 @@
    "Celta|Betis": 0.3333,
    "Celta|Elche": 0.4,
    "Celta|Espanol": 0.1429,
-   "Celta|Getafe": 0.3,
+   "Celta|Getafe": 0.3333,
    "Celta|La Coruna": 0.3333,
    "Celta|Levante": 0.4,
    "Celta|Malaga": 0.25,
@@ -5751,7 +5743,7 @@
    "Getafe|Ath Madrid": 0.2222,
    "Getafe|Barcelona": 0.125,
    "Getafe|Betis": 0.2,
-   "Getafe|Celta": 0.3,
+   "Getafe|Celta": 0.3333,
    "Getafe|Elche": 0.4,
    "Getafe|Espanol": 0.4286,
    "Getafe|La Coruna": 0.25,
@@ -5900,7 +5892,7 @@
    "Sevilla|Villarreal": 0.2222,
    "Sociedad|Alaves": 0.2222,
    "Sociedad|Ath Bilbao": 0.25,
-   "Sociedad|Ath Madrid": 0.1,
+   "Sociedad|Ath Madrid": 0.1111,
    "Sociedad|Barcelona": 0.3333,
    "Sociedad|Betis": 0.3,
    "Sociedad|Celta": 0.3333,
@@ -6055,10 +6047,6 @@
     }
    ],
    "Alaves|Betis": [
-    {
-     "date": "2023-10-08",
-     "winner": null
-    },
     {
      "date": "2024-02-18",
      "winner": null
@@ -6932,10 +6920,6 @@
    ],
    "Ath Madrid|Sociedad": [
     {
-     "date": "2023-10-08",
-     "winner": "Ath Madrid"
-    },
-    {
      "date": "2024-05-25",
      "winner": "Ath Madrid"
     },
@@ -7653,10 +7637,6 @@
     }
    ],
    "Celta|Getafe": [
-    {
-     "date": "2023-10-08",
-     "winner": null
-    },
     {
      "date": "2024-02-11",
      "winner": "Getafe"
