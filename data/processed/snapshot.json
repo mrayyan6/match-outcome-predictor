@@ -4,22 +4,15 @@
    "Arsenal": {
     "display": "Arsenal",
     "n": 5.0,
-    "gf": 1.6,
-    "ga": 0.8,
+    "gf": 1.4,
+    "ga": 1.0,
     "sotf": 4.8,
-    "sota": 2.8,
-    "poss": 59.4,
+    "sota": 3.6,
+    "poss": 55.2533,
     "form": 12.0,
-    "elo": 1802.1,
-    "home_adv": 0.3312,
+    "elo": 1805.6,
+    "home_adv": 0.3793,
     "last": [
-     {
-      "date": "2026-08-21",
-      "opp": "Coventry",
-      "venue": "H",
-      "gf": 3,
-      "ga": 0
-     },
      {
       "date": "2026-08-31",
       "opp": "Aston Villa",
@@ -47,28 +40,28 @@
       "venue": "A",
       "gf": 0,
       "ga": 3
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Leeds",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
      }
     ]
    },
    "Aston Villa": {
     "display": "Aston Villa",
     "n": 5.0,
-    "gf": 0.8,
-    "ga": 1.8,
-    "sotf": 2.4,
-    "sota": 5.2,
-    "poss": 46.0,
-    "form": 4.0,
-    "elo": 1601.3,
-    "home_adv": 0.2759,
+    "gf": 1.2,
+    "ga": 1.4,
+    "sotf": 3.8,
+    "sota": 4.8,
+    "poss": 49.2533,
+    "form": 5.0,
+    "elo": 1599.9,
+    "home_adv": 0.2069,
     "last": [
-     {
-      "date": "2026-08-23",
-      "opp": "Brighton",
-      "venue": "A",
-      "gf": 0,
-      "ga": 4
-     },
      {
       "date": "2026-08-31",
       "opp": "Arsenal",
@@ -96,6 +89,13 @@
       "venue": "A",
       "gf": 3,
       "ga": 2
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Brentford",
+      "venue": "H",
+      "gf": 2,
+      "ga": 2
      }
     ]
    },
@@ -103,21 +103,14 @@
     "display": "Bournemouth",
     "n": 5.0,
     "gf": 1.2,
-    "ga": 1.6,
+    "ga": 2.2,
     "sotf": 5.2,
     "sota": 4.0,
-    "poss": 47.6,
+    "poss": 49.4533,
     "form": 3.0,
-    "elo": 1616.4,
-    "home_adv": 0.069,
+    "elo": 1596.7,
+    "home_adv": 0.1034,
     "last": [
-     {
-      "date": "2026-08-23",
-      "opp": "Man City",
-      "venue": "A",
-      "gf": 1,
-      "ga": 2
-     },
      {
       "date": "2026-08-29",
       "opp": "Everton",
@@ -145,28 +138,28 @@
       "venue": "H",
       "gf": 0,
       "ga": 1
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Chelsea",
+      "venue": "A",
+      "gf": 1,
+      "ga": 5
      }
     ]
    },
    "Brentford": {
     "display": "Brentford",
     "n": 5.0,
-    "gf": 2.0,
-    "ga": 0.8,
-    "sotf": 4.6,
-    "sota": 4.6,
-    "poss": 45.0,
-    "form": 9.0,
-    "elo": 1613.3,
-    "home_adv": 0.3094,
+    "gf": 1.8,
+    "ga": 1.2,
+    "sotf": 3.8,
+    "sota": 5.2,
+    "poss": 45.6533,
+    "form": 7.0,
+    "elo": 1614.7,
+    "home_adv": 0.2759,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Tottenham",
-      "venue": "H",
-      "gf": 3,
-      "ga": 0
-     },
      {
       "date": "2026-08-30",
       "opp": "Leeds",
@@ -194,28 +187,28 @@
       "venue": "H",
       "gf": 3,
       "ga": 0
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Aston Villa",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
      }
     ]
    },
    "Brighton": {
     "display": "Brighton & Hove Albion",
     "n": 5.0,
-    "gf": 3.2,
+    "gf": 2.8,
     "ga": 1.0,
-    "sotf": 5.8,
-    "sota": 3.8,
-    "poss": 64.6,
+    "sotf": 5.4,
+    "sota": 4.4,
+    "poss": 58.6533,
     "form": 10.0,
-    "elo": 1642.3,
+    "elo": 1655.0,
     "home_adv": 0.4138,
     "last": [
-     {
-      "date": "2026-08-23",
-      "opp": "Aston Villa",
-      "venue": "H",
-      "gf": 4,
-      "ga": 0
-     },
      {
       "date": "2026-08-30",
       "opp": "Chelsea",
@@ -243,28 +236,28 @@
       "venue": "H",
       "gf": 3,
       "ga": 0
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Sunderland",
+      "venue": "A",
+      "gf": 2,
+      "ga": 0
      }
     ]
    },
    "Chelsea": {
     "display": "Chelsea",
     "n": 5.0,
-    "gf": 2.0,
-    "ga": 2.4,
+    "gf": 2.4,
+    "ga": 2.2,
     "sotf": 5.2,
-    "sota": 6.4,
-    "poss": 47.4,
+    "sota": 6.0,
+    "poss": 48.4533,
     "form": 7.0,
-    "elo": 1576.4,
-    "home_adv": 0.0345,
+    "elo": 1596.1,
+    "home_adv": 0.1379,
     "last": [
-     {
-      "date": "2026-08-24",
-      "opp": "Fulham",
-      "venue": "A",
-      "gf": 3,
-      "ga": 2
-     },
      {
       "date": "2026-08-30",
       "opp": "Brighton",
@@ -292,28 +285,28 @@
       "venue": "A",
       "gf": 0,
       "ga": 3
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Bournemouth",
+      "venue": "H",
+      "gf": 5,
+      "ga": 1
      }
     ]
    },
    "Coventry": {
     "display": "Coventry City",
     "n": 5.0,
-    "gf": 0.2,
-    "ga": 2.0,
-    "sotf": 3.2,
+    "gf": 1.0,
+    "ga": 1.6,
+    "sotf": 4.2,
     "sota": 4.4,
-    "poss": 39.2,
-    "form": 3.0,
-    "elo": 1416.3,
-    "home_adv": -0.2,
+    "poss": 40.6533,
+    "form": 6.0,
+    "elo": 1441.4,
+    "home_adv": 0.0,
     "last": [
-     {
-      "date": "2026-08-21",
-      "opp": "Arsenal",
-      "venue": "A",
-      "gf": 0,
-      "ga": 3
-     },
      {
       "date": "2026-08-29",
       "opp": "Hull",
@@ -341,28 +334,28 @@
       "venue": "A",
       "gf": 1,
       "ga": 0
+     },
+     {
+      "date": "2026-10-12",
+      "opp": "Newcastle",
+      "venue": "H",
+      "gf": 4,
+      "ga": 1
      }
     ]
    },
    "Crystal Palace": {
     "display": "Crystal Palace",
     "n": 5.0,
-    "gf": 1.2,
-    "ga": 2.2,
-    "sotf": 3.6,
-    "sota": 5.6,
-    "poss": 43.4,
-    "form": 4.0,
-    "elo": 1516.7,
+    "gf": 1.8,
+    "ga": 2.0,
+    "sotf": 4.2,
+    "sota": 5.8,
+    "poss": 40.4533,
+    "form": 7.0,
+    "elo": 1532.7,
     "home_adv": -0.069,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Everton",
-      "venue": "A",
-      "gf": 0,
-      "ga": 2
-     },
      {
       "date": "2026-08-28",
       "opp": "Man City",
@@ -390,6 +383,13 @@
       "venue": "A",
       "gf": 0,
       "ga": 0
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Nott'm Forest",
+      "venue": "H",
+      "gf": 3,
+      "ga": 1
      }
     ]
    },
@@ -397,21 +397,14 @@
     "display": "Everton",
     "n": 5.0,
     "gf": 1.2,
-    "ga": 0.6,
-    "sotf": 4.6,
-    "sota": 3.6,
-    "poss": 43.6,
-    "form": 9.0,
-    "elo": 1568.7,
-    "home_adv": -0.0582,
+    "ga": 1.0,
+    "sotf": 5.0,
+    "sota": 3.8,
+    "poss": 43.8533,
+    "form": 7.0,
+    "elo": 1566.6,
+    "home_adv": -0.0345,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Crystal Palace",
-      "venue": "H",
-      "gf": 2,
-      "ga": 0
-     },
      {
       "date": "2026-08-29",
       "opp": "Bournemouth",
@@ -439,28 +432,28 @@
       "venue": "H",
       "gf": 1,
       "ga": 0
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Hull",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
      }
     ]
    },
    "Fulham": {
     "display": "Fulham",
     "n": 5.0,
-    "gf": 1.0,
-    "ga": 1.6,
-    "sotf": 4.4,
-    "sota": 4.8,
-    "poss": 54.2,
+    "gf": 0.8,
+    "ga": 1.4,
+    "sotf": 4.2,
+    "sota": 4.6,
+    "poss": 50.4533,
     "form": 2.0,
-    "elo": 1534.7,
+    "elo": 1521.2,
     "home_adv": 0.4138,
     "last": [
-     {
-      "date": "2026-08-24",
-      "opp": "Chelsea",
-      "venue": "H",
-      "gf": 2,
-      "ga": 3
-     },
      {
       "date": "2026-08-30",
       "opp": "Sunderland",
@@ -488,6 +481,13 @@
       "venue": "H",
       "gf": 1,
       "ga": 1
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Ipswich",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
      }
     ]
    },
@@ -495,21 +495,14 @@
     "display": "Hull City",
     "n": 5.0,
     "gf": 1.2,
-    "ga": 0.8,
-    "sotf": 3.8,
-    "sota": 4.2,
-    "poss": 32.2,
-    "form": 8.0,
-    "elo": 1445.4,
-    "home_adv": 0.1333,
+    "ga": 1.2,
+    "sotf": 4.0,
+    "sota": 4.6,
+    "poss": 35.2533,
+    "form": 6.0,
+    "elo": 1447.5,
+    "home_adv": 0.0769,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Man United",
-      "venue": "H",
-      "gf": 2,
-      "ga": 0
-     },
      {
       "date": "2026-08-29",
       "opp": "Coventry",
@@ -536,6 +529,13 @@
       "opp": "Newcastle",
       "venue": "A",
       "gf": 1,
+      "ga": 2
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Everton",
+      "venue": "H",
+      "gf": 2,
       "ga": 2
      }
     ]
@@ -545,20 +545,13 @@
     "n": 5.0,
     "gf": 1.4,
     "ga": 2.2,
-    "sotf": 4.6,
-    "sota": 5.6,
-    "poss": 45.0,
+    "sotf": 5.0,
+    "sota": 5.8,
+    "poss": 46.0533,
     "form": 6.0,
-    "elo": 1398.5,
-    "home_adv": -0.2857,
+    "elo": 1412.0,
+    "home_adv": -0.2012,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Sunderland",
-      "venue": "H",
-      "gf": 2,
-      "ga": 1
-     },
      {
       "date": "2026-08-30",
       "opp": "Man United",
@@ -586,6 +579,13 @@
       "venue": "A",
       "gf": 0,
       "ga": 1
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Fulham",
+      "venue": "H",
+      "gf": 2,
+      "ga": 1
      }
     ]
    },
@@ -593,21 +593,14 @@
     "display": "Leeds United",
     "n": 5.0,
     "gf": 1.4,
-    "ga": 0.6,
-    "sotf": 3.6,
-    "sota": 4.2,
-    "poss": 45.0,
-    "form": 9.0,
-    "elo": 1563.5,
-    "home_adv": 0.4987,
+    "ga": 1.0,
+    "sotf": 4.0,
+    "sota": 5.0,
+    "poss": 44.8533,
+    "form": 6.0,
+    "elo": 1560.0,
+    "home_adv": 0.5517,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Nott'm Forest",
-      "venue": "A",
-      "gf": 1,
-      "ga": 0
-     },
      {
       "date": "2026-08-30",
       "opp": "Brentford",
@@ -635,28 +628,28 @@
       "venue": "H",
       "gf": 0,
       "ga": 0
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Arsenal",
+      "venue": "A",
+      "gf": 1,
+      "ga": 2
      }
     ]
    },
    "Liverpool": {
     "display": "Liverpool FC",
     "n": 5.0,
-    "gf": 1.4,
-    "ga": 0.8,
-    "sotf": 4.8,
+    "gf": 1.0,
+    "ga": 1.0,
+    "sotf": 4.6,
     "sota": 3.6,
-    "poss": 59.0,
-    "form": 9.0,
-    "elo": 1677.7,
-    "home_adv": 0.2366,
+    "poss": 55.4533,
+    "form": 8.0,
+    "elo": 1662.9,
+    "home_adv": 0.1379,
     "last": [
-     {
-      "date": "2026-08-23",
-      "opp": "Newcastle",
-      "venue": "A",
-      "gf": 2,
-      "ga": 2
-     },
      {
       "date": "2026-08-29",
       "opp": "Nott'm Forest",
@@ -684,28 +677,28 @@
       "venue": "A",
       "gf": 1,
       "ga": 0
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Man City",
+      "venue": "H",
+      "gf": 0,
+      "ga": 3
      }
     ]
    },
    "Man City": {
     "display": "Manchester City",
     "n": 5.0,
-    "gf": 2.6,
-    "ga": 1.0,
-    "sotf": 5.4,
-    "sota": 4.0,
-    "poss": 63.2,
+    "gf": 2.8,
+    "ga": 0.8,
+    "sotf": 5.0,
+    "sota": 4.4,
+    "poss": 58.6533,
     "form": 15.0,
-    "elo": 1813.3,
-    "home_adv": 0.3967,
+    "elo": 1828.2,
+    "home_adv": 0.3448,
     "last": [
-     {
-      "date": "2026-08-23",
-      "opp": "Bournemouth",
-      "venue": "H",
-      "gf": 2,
-      "ga": 1
-     },
      {
       "date": "2026-08-28",
       "opp": "Crystal Palace",
@@ -733,28 +726,28 @@
       "venue": "H",
       "gf": 5,
       "ga": 3
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Liverpool",
+      "venue": "A",
+      "gf": 3,
+      "ga": 0
      }
     ]
    },
    "Man United": {
     "display": "Manchester United",
     "n": 5.0,
-    "gf": 1.6,
-    "ga": 1.6,
-    "sotf": 5.6,
-    "sota": 4.6,
-    "poss": 60.0,
-    "form": 5.0,
-    "elo": 1647.7,
-    "home_adv": 0.4368,
+    "gf": 1.8,
+    "ga": 1.4,
+    "sotf": 5.4,
+    "sota": 4.4,
+    "poss": 54.2533,
+    "form": 6.0,
+    "elo": 1641.0,
+    "home_adv": 0.3448,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Hull",
-      "venue": "A",
-      "gf": 0,
-      "ga": 2
-     },
      {
       "date": "2026-08-30",
       "opp": "Ipswich",
@@ -782,28 +775,28 @@
       "venue": "A",
       "gf": 1,
       "ga": 1
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Tottenham",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
      }
     ]
    },
    "Newcastle": {
     "display": "Newcastle United",
     "n": 5.0,
-    "gf": 1.8,
-    "ga": 1.8,
-    "sotf": 3.6,
-    "sota": 5.6,
-    "poss": 49.0,
-    "form": 8.0,
-    "elo": 1580.2,
-    "home_adv": 0.495,
+    "gf": 1.6,
+    "ga": 2.2,
+    "sotf": 4.0,
+    "sota": 5.4,
+    "poss": 49.8533,
+    "form": 7.0,
+    "elo": 1555.1,
+    "home_adv": 0.5862,
     "last": [
-     {
-      "date": "2026-08-23",
-      "opp": "Liverpool",
-      "venue": "H",
-      "gf": 2,
-      "ga": 2
-     },
      {
       "date": "2026-08-29",
       "opp": "Tottenham",
@@ -831,28 +824,28 @@
       "venue": "H",
       "gf": 2,
       "ga": 1
+     },
+     {
+      "date": "2026-10-12",
+      "opp": "Coventry",
+      "venue": "A",
+      "gf": 1,
+      "ga": 4
      }
     ]
    },
    "Nott'm Forest": {
     "display": "Nottingham Forest",
     "n": 5.0,
-    "gf": 0.8,
-    "ga": 1.0,
-    "sotf": 3.4,
-    "sota": 3.0,
-    "poss": 47.2,
+    "gf": 1.0,
+    "ga": 1.4,
+    "sotf": 4.2,
+    "sota": 3.8,
+    "poss": 44.6533,
     "form": 5.0,
-    "elo": 1561.3,
-    "home_adv": -0.3567,
+    "elo": 1545.3,
+    "home_adv": -0.2759,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Leeds",
-      "venue": "H",
-      "gf": 0,
-      "ga": 1
-     },
      {
       "date": "2026-08-29",
       "opp": "Liverpool",
@@ -880,28 +873,28 @@
       "venue": "H",
       "gf": 0,
       "ga": 1
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Crystal Palace",
+      "venue": "A",
+      "gf": 1,
+      "ga": 3
      }
     ]
    },
    "Sunderland": {
     "display": "Sunderland",
     "n": 5.0,
-    "gf": 1.2,
+    "gf": 1.0,
     "ga": 2.0,
-    "sotf": 5.0,
-    "sota": 3.2,
-    "poss": 48.4,
+    "sotf": 4.8,
+    "sota": 3.4,
+    "poss": 44.6533,
     "form": 4.0,
-    "elo": 1506.4,
-    "home_adv": 0.3676,
+    "elo": 1493.6,
+    "home_adv": 0.3793,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Ipswich",
-      "venue": "A",
-      "gf": 1,
-      "ga": 2
-     },
      {
       "date": "2026-08-30",
       "opp": "Fulham",
@@ -929,28 +922,28 @@
       "venue": "A",
       "gf": 3,
       "ga": 5
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Brighton",
+      "venue": "H",
+      "gf": 0,
+      "ga": 2
      }
     ]
    },
    "Tottenham": {
     "display": "Tottenham Hotspur",
     "n": 5.0,
-    "gf": 0.4,
-    "ga": 1.6,
-    "sotf": 3.8,
-    "sota": 4.2,
-    "poss": 60.6,
-    "form": 2.0,
-    "elo": 1459.0,
-    "home_adv": -0.3021,
+    "gf": 0.6,
+    "ga": 1.2,
+    "sotf": 3.6,
+    "sota": 3.4,
+    "poss": 57.2533,
+    "form": 3.0,
+    "elo": 1465.6,
+    "home_adv": -0.3103,
     "last": [
-     {
-      "date": "2026-08-22",
-      "opp": "Brentford",
-      "venue": "A",
-      "gf": 0,
-      "ga": 3
-     },
      {
       "date": "2026-08-29",
       "opp": "Newcastle",
@@ -978,6 +971,13 @@
       "venue": "H",
       "gf": 2,
       "ga": 3
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Man United",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
      }
     ]
    }
@@ -994,7 +994,7 @@
    "Arsenal|Fulham": 0.5,
    "Arsenal|Hull": 0.3333,
    "Arsenal|Ipswich": 0.6,
-   "Arsenal|Leeds": 0.6,
+   "Arsenal|Leeds": 0.6667,
    "Arsenal|Liverpool": 0.2222,
    "Arsenal|Man City": 0.25,
    "Arsenal|Man United": 0.5,
@@ -1004,7 +1004,7 @@
    "Arsenal|Tottenham": 0.75,
    "Aston Villa|Arsenal": 0.4,
    "Aston Villa|Bournemouth": 0.4444,
-   "Aston Villa|Brentford": 0.4444,
+   "Aston Villa|Brentford": 0.4,
    "Aston Villa|Brighton": 0.4444,
    "Aston Villa|Chelsea": 0.375,
    "Aston Villa|Coventry": 0.3333,
@@ -1025,7 +1025,7 @@
    "Bournemouth|Aston Villa": 0.1111,
    "Bournemouth|Brentford": 0.1111,
    "Bournemouth|Brighton": 0.375,
-   "Bournemouth|Chelsea": 0.125,
+   "Bournemouth|Chelsea": 0.1111,
    "Bournemouth|Coventry": 0.3333,
    "Bournemouth|Crystal Palace": 0.4444,
    "Bournemouth|Everton": 0.5556,
@@ -1041,7 +1041,7 @@
    "Bournemouth|Sunderland": 0.2,
    "Bournemouth|Tottenham": 0.5,
    "Brentford|Arsenal": 0.1111,
-   "Brentford|Aston Villa": 0.3333,
+   "Brentford|Aston Villa": 0.3,
    "Brentford|Bournemouth": 0.5556,
    "Brentford|Brighton": 0.2222,
    "Brentford|Chelsea": 0.3,
@@ -1076,11 +1076,11 @@
    "Brighton|Man United": 0.375,
    "Brighton|Newcastle": 0.375,
    "Brighton|Nott'm Forest": 0.5556,
-   "Brighton|Sunderland": 0.4,
+   "Brighton|Sunderland": 0.5,
    "Brighton|Tottenham": 0.4444,
    "Chelsea|Arsenal": 0.1,
    "Chelsea|Aston Villa": 0.375,
-   "Chelsea|Bournemouth": 0.375,
+   "Chelsea|Bournemouth": 0.4444,
    "Chelsea|Brentford": 0.3,
    "Chelsea|Brighton": 0.5,
    "Chelsea|Coventry": 0.3333,
@@ -1112,7 +1112,7 @@
    "Coventry|Liverpool": 0.3333,
    "Coventry|Man City": 0.25,
    "Coventry|Man United": 0.3333,
-   "Coventry|Newcastle": 0.3333,
+   "Coventry|Newcastle": 0.5,
    "Coventry|Nott'm Forest": 0.5,
    "Coventry|Sunderland": 0.3333,
    "Coventry|Tottenham": 0.3333,
@@ -1132,7 +1132,7 @@
    "Crystal Palace|Man City": 0.1,
    "Crystal Palace|Man United": 0.375,
    "Crystal Palace|Newcastle": 0.3333,
-   "Crystal Palace|Nott'm Forest": 0.125,
+   "Crystal Palace|Nott'm Forest": 0.2222,
    "Crystal Palace|Sunderland": 0.2,
    "Crystal Palace|Tottenham": 0.4444,
    "Everton|Arsenal": 0.125,
@@ -1144,7 +1144,7 @@
    "Everton|Coventry": 0.3333,
    "Everton|Crystal Palace": 0.6,
    "Everton|Fulham": 0.5,
-   "Everton|Hull": 0.3333,
+   "Everton|Hull": 0.25,
    "Everton|Ipswich": 0.5,
    "Everton|Leeds": 0.2,
    "Everton|Liverpool": 0.2222,
@@ -1164,7 +1164,7 @@
    "Fulham|Crystal Palace": 0.2222,
    "Fulham|Everton": 0.125,
    "Fulham|Hull": 0.3333,
-   "Fulham|Ipswich": 0.2,
+   "Fulham|Ipswich": 0.1667,
    "Fulham|Leeds": 0.4,
    "Fulham|Liverpool": 0.2,
    "Fulham|Man City": 0.125,
@@ -1181,7 +1181,7 @@
    "Hull|Chelsea": 0.25,
    "Hull|Coventry": 0.5,
    "Hull|Crystal Palace": 0.3333,
-   "Hull|Everton": 0.3333,
+   "Hull|Everton": 0.25,
    "Hull|Fulham": 0.3333,
    "Hull|Ipswich": 0.3333,
    "Hull|Leeds": 0.3333,
@@ -1201,7 +1201,7 @@
    "Ipswich|Coventry": 0.3333,
    "Ipswich|Crystal Palace": 0.3333,
    "Ipswich|Everton": 0.1667,
-   "Ipswich|Fulham": 0.2,
+   "Ipswich|Fulham": 0.3333,
    "Ipswich|Hull": 0.3333,
    "Ipswich|Leeds": 0.3333,
    "Ipswich|Liverpool": 0.1667,
@@ -1211,7 +1211,7 @@
    "Ipswich|Nott'm Forest": 0.2,
    "Ipswich|Sunderland": 0.5,
    "Ipswich|Tottenham": 0.4,
-   "Leeds|Arsenal": 0.2,
+   "Leeds|Arsenal": 0.1667,
    "Leeds|Aston Villa": 0.2,
    "Leeds|Bournemouth": 0.2,
    "Leeds|Brentford": 0.1667,
@@ -1243,7 +1243,7 @@
    "Liverpool|Hull": 0.3333,
    "Liverpool|Ipswich": 0.6667,
    "Liverpool|Leeds": 0.2,
-   "Liverpool|Man City": 0.3333,
+   "Liverpool|Man City": 0.3,
    "Liverpool|Man United": 0.2222,
    "Liverpool|Newcastle": 0.5556,
    "Liverpool|Nott'm Forest": 0.4,
@@ -1262,7 +1262,7 @@
    "Man City|Hull": 0.3333,
    "Man City|Ipswich": 0.6,
    "Man City|Leeds": 0.6,
-   "Man City|Liverpool": 0.3333,
+   "Man City|Liverpool": 0.4,
    "Man City|Man United": 0.5,
    "Man City|Newcastle": 0.5,
    "Man City|Nott'm Forest": 0.5,
@@ -1286,14 +1286,14 @@
    "Man United|Newcastle": 0.3333,
    "Man United|Nott'm Forest": 0.25,
    "Man United|Sunderland": 0.4,
-   "Man United|Tottenham": 0.25,
+   "Man United|Tottenham": 0.2222,
    "Newcastle|Arsenal": 0.3333,
    "Newcastle|Aston Villa": 0.375,
    "Newcastle|Bournemouth": 0.1,
    "Newcastle|Brentford": 0.375,
    "Newcastle|Brighton": 0.25,
    "Newcastle|Chelsea": 0.4444,
-   "Newcastle|Coventry": 0.3333,
+   "Newcastle|Coventry": 0.25,
    "Newcastle|Crystal Palace": 0.4444,
    "Newcastle|Everton": 0.2222,
    "Newcastle|Fulham": 0.4444,
@@ -1313,7 +1313,7 @@
    "Nott'm Forest|Brighton": 0.2222,
    "Nott'm Forest|Chelsea": 0.25,
    "Nott'm Forest|Coventry": 0.25,
-   "Nott'm Forest|Crystal Palace": 0.25,
+   "Nott'm Forest|Crystal Palace": 0.2222,
    "Nott'm Forest|Everton": 0.2222,
    "Nott'm Forest|Fulham": 0.2222,
    "Nott'm Forest|Hull": 0.3333,
@@ -1329,7 +1329,7 @@
    "Sunderland|Aston Villa": 0.2,
    "Sunderland|Bournemouth": 0.4,
    "Sunderland|Brentford": 0.3333,
-   "Sunderland|Brighton": 0.2,
+   "Sunderland|Brighton": 0.1667,
    "Sunderland|Chelsea": 0.6,
    "Sunderland|Coventry": 0.3333,
    "Sunderland|Crystal Palace": 0.4,
@@ -1359,7 +1359,7 @@
    "Tottenham|Leeds": 0.4,
    "Tottenham|Liverpool": 0.125,
    "Tottenham|Man City": 0.3333,
-   "Tottenham|Man United": 0.375,
+   "Tottenham|Man United": 0.3333,
    "Tottenham|Newcastle": 0.2,
    "Tottenham|Nott'm Forest": 0.3,
    "Tottenham|Sunderland": 0.2
@@ -1593,6 +1593,10 @@
     {
      "date": "2026-01-31",
      "winner": "Arsenal"
+    },
+    {
+     "date": "2026-10-10",
+     "winner": "Arsenal"
     }
    ],
    "Arsenal|Liverpool": [
@@ -1799,6 +1803,10 @@
     {
      "date": "2026-02-01",
      "winner": "Brentford"
+    },
+    {
+     "date": "2026-10-10",
+     "winner": null
     }
    ],
    "Aston Villa|Brighton": [
@@ -2179,6 +2187,10 @@
     {
      "date": "2025-12-30",
      "winner": null
+    },
+    {
+     "date": "2026-10-10",
+     "winner": "Chelsea"
     }
    ],
    "Bournemouth|Crystal Palace": [
@@ -3017,6 +3029,10 @@
     {
      "date": "2026-03-14",
      "winner": "Brighton"
+    },
+    {
+     "date": "2026-10-10",
+     "winner": "Brighton"
     }
    ],
    "Brighton|Tottenham": [
@@ -3319,6 +3335,12 @@
      "winner": "Man City"
     }
    ],
+   "Coventry|Newcastle": [
+    {
+     "date": "2026-10-12",
+     "winner": "Coventry"
+    }
+   ],
    "Coventry|Nott'm Forest": [
     {
      "date": "2026-09-19",
@@ -3533,6 +3555,10 @@
     {
      "date": "2026-02-01",
      "winner": null
+    },
+    {
+     "date": "2026-10-11",
+     "winner": "Crystal Palace"
     }
    ],
    "Crystal Palace|Sunderland": [
@@ -3591,6 +3617,12 @@
     {
      "date": "2026-02-07",
      "winner": "Everton"
+    }
+   ],
+   "Everton|Hull": [
+    {
+     "date": "2026-10-11",
+     "winner": null
     }
    ],
    "Everton|Ipswich": [
@@ -3799,6 +3831,10 @@
     {
      "date": "2025-01-05",
      "winner": null
+    },
+    {
+     "date": "2026-10-10",
+     "winner": "Ipswich"
     }
    ],
    "Fulham|Leeds": [
@@ -4173,6 +4209,10 @@
     {
      "date": "2026-02-08",
      "winner": "Man City"
+    },
+    {
+     "date": "2026-10-11",
+     "winner": "Man City"
     }
    ],
    "Liverpool|Man United": [
@@ -4481,6 +4521,10 @@
     {
      "date": "2026-02-07",
      "winner": "Man United"
+    },
+    {
+     "date": "2026-10-10",
+     "winner": null
     }
    ],
    "Newcastle|Nott'm Forest": [
@@ -4600,7 +4644,7 @@
     }
    ]
   },
-  "home_adv_league": 0.3158
+  "home_adv_league": 0.3316
  },
  "La Liga": {
   "teams": {
@@ -4608,21 +4652,14 @@
     "display": "Deportivo Alavés",
     "n": 5.0,
     "gf": 1.4,
-    "ga": 1.0,
-    "sotf": 4.0,
-    "sota": 4.8,
-    "poss": 38.4,
-    "form": 7.0,
-    "elo": 1503.8,
-    "home_adv": 0.5387,
+    "ga": 1.4,
+    "sotf": 4.2,
+    "sota": 5.0,
+    "poss": 42.2533,
+    "form": 4.0,
+    "elo": 1496.4,
+    "home_adv": 0.4404,
     "last": [
-     {
-      "date": "2026-08-28",
-      "opp": "Villarreal",
-      "venue": "H",
-      "gf": 1,
-      "ga": 0
-     },
      {
       "date": "2026-09-06",
       "opp": "Osasuna",
@@ -4650,6 +4687,13 @@
       "venue": "A",
       "gf": 0,
       "ga": 0
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Ath Madrid",
+      "venue": "H",
+      "gf": 1,
+      "ga": 2
      }
     ]
    },
@@ -4705,22 +4749,15 @@
    "Ath Madrid": {
     "display": "Atlético Madrid",
     "n": 5.0,
-    "gf": 2.4,
+    "gf": 2.2,
     "ga": 1.0,
-    "sotf": 7.0,
-    "sota": 3.2,
-    "poss": 59.0,
+    "sotf": 7.4,
+    "sota": 2.8,
+    "poss": 56.0533,
     "form": 12.0,
-    "elo": 1676.4,
-    "home_adv": 0.6552,
+    "elo": 1683.9,
+    "home_adv": 0.5862,
     "last": [
-     {
-      "date": "2026-08-29",
-      "opp": "Sevilla",
-      "venue": "A",
-      "gf": 3,
-      "ga": 1
-     },
      {
       "date": "2026-09-05",
       "opp": "Ath Bilbao",
@@ -4748,28 +4785,28 @@
       "venue": "H",
       "gf": 2,
       "ga": 1
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Alaves",
+      "venue": "A",
+      "gf": 2,
+      "ga": 1
      }
     ]
    },
    "Barcelona": {
     "display": "FC Barcelona",
     "n": 5.0,
-    "gf": 4.8,
-    "ga": 1.4,
-    "sotf": 8.2,
-    "sota": 4.0,
-    "poss": 71.0,
+    "gf": 4.4,
+    "ga": 1.0,
+    "sotf": 8.0,
+    "sota": 3.2,
+    "poss": 65.8533,
     "form": 15.0,
-    "elo": 1872.2,
-    "home_adv": 0.6207,
+    "elo": 1875.1,
+    "home_adv": 0.546,
     "last": [
-     {
-      "date": "2026-08-31",
-      "opp": "Vallecano",
-      "venue": "H",
-      "gf": 5,
-      "ga": 2
-     },
      {
       "date": "2026-09-06",
       "opp": "Valencia",
@@ -4797,28 +4834,28 @@
       "venue": "A",
       "gf": 3,
       "ga": 1
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Getafe",
+      "venue": "H",
+      "gf": 3,
+      "ga": 0
      }
     ]
    },
    "Betis": {
     "display": "Real Betis",
     "n": 5.0,
-    "gf": 1.4,
-    "ga": 1.4,
-    "sotf": 7.0,
-    "sota": 7.0,
-    "poss": 54.4,
-    "form": 10.0,
-    "elo": 1633.2,
-    "home_adv": 0.3931,
+    "gf": 2.0,
+    "ga": 0.8,
+    "sotf": 7.2,
+    "sota": 6.0,
+    "poss": 51.0533,
+    "form": 13.0,
+    "elo": 1641.5,
+    "home_adv": 0.4828,
     "last": [
-     {
-      "date": "2026-08-29",
-      "opp": "Levante",
-      "venue": "A",
-      "gf": 2,
-      "ga": 5
-     },
      {
       "date": "2026-09-04",
       "opp": "Real Madrid",
@@ -4846,6 +4883,13 @@
       "venue": "A",
       "gf": 1,
       "ga": 1
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Osasuna",
+      "venue": "H",
+      "gf": 5,
+      "ga": 2
      }
     ]
    },
@@ -4853,21 +4897,14 @@
     "display": "Celta Vigo",
     "n": 5.0,
     "gf": 1.4,
-    "ga": 0.8,
-    "sotf": 4.2,
-    "sota": 4.2,
-    "poss": 52.0,
-    "form": 6.0,
-    "elo": 1529.5,
-    "home_adv": -0.2759,
+    "ga": 0.4,
+    "sotf": 3.8,
+    "sota": 3.2,
+    "poss": 49.8533,
+    "form": 7.0,
+    "elo": 1529.0,
+    "home_adv": -0.2439,
     "last": [
-     {
-      "date": "2026-08-30",
-      "opp": "Ath Bilbao",
-      "venue": "H",
-      "gf": 0,
-      "ga": 2
-     },
      {
       "date": "2026-09-03",
       "opp": "Sociedad",
@@ -4895,28 +4932,28 @@
       "venue": "H",
       "gf": 5,
       "ga": 0
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Elche",
+      "venue": "A",
+      "gf": 0,
+      "ga": 0
      }
     ]
    },
    "Elche": {
     "display": "Elche",
     "n": 5.0,
-    "gf": 2.0,
-    "ga": 2.2,
-    "sotf": 5.4,
-    "sota": 4.6,
-    "poss": 48.4,
-    "form": 4.0,
-    "elo": 1458.5,
-    "home_adv": 0.5824,
+    "gf": 1.6,
+    "ga": 1.6,
+    "sotf": 4.4,
+    "sota": 3.4,
+    "poss": 45.0533,
+    "form": 5.0,
+    "elo": 1459.0,
+    "home_adv": 0.5517,
     "last": [
-     {
-      "date": "2026-08-28",
-      "opp": "Santander",
-      "venue": "A",
-      "gf": 2,
-      "ga": 3
-     },
      {
       "date": "2026-09-07",
       "opp": "Sociedad",
@@ -4944,6 +4981,13 @@
       "venue": "A",
       "gf": 3,
       "ga": 1
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Celta",
+      "venue": "H",
+      "gf": 0,
+      "ga": 0
      }
     ]
    },
@@ -4951,21 +4995,14 @@
     "display": "Espanyol",
     "n": 5.0,
     "gf": 1.2,
-    "ga": 1.6,
-    "sotf": 3.6,
-    "sota": 5.0,
-    "poss": 51.0,
-    "form": 4.0,
-    "elo": 1462.0,
-    "home_adv": -0.0345,
+    "ga": 1.4,
+    "sotf": 3.8,
+    "sota": 4.4,
+    "poss": 49.8533,
+    "form": 5.0,
+    "elo": 1460.7,
+    "home_adv": 0.0073,
     "last": [
-     {
-      "date": "2026-08-29",
-      "opp": "Sociedad",
-      "venue": "A",
-      "gf": 1,
-      "ga": 2
-     },
      {
       "date": "2026-09-06",
       "opp": "Sevilla",
@@ -4993,6 +5030,13 @@
       "venue": "H",
       "gf": 1,
       "ga": 3
+     },
+     {
+      "date": "2026-10-09",
+      "opp": "Malaga",
+      "venue": "A",
+      "gf": 1,
+      "ga": 1
      }
     ]
    },
@@ -5000,21 +5044,14 @@
     "display": "Getafe",
     "n": 5.0,
     "gf": 0.6,
-    "ga": 0.8,
+    "ga": 1.2,
     "sotf": 3.2,
-    "sota": 4.0,
-    "poss": 38.0,
+    "sota": 5.2,
+    "poss": 35.6533,
     "form": 5.0,
-    "elo": 1490.2,
+    "elo": 1487.4,
     "home_adv": 0.3276,
     "last": [
-     {
-      "date": "2026-08-31",
-      "opp": "Osasuna",
-      "venue": "A",
-      "gf": 0,
-      "ga": 1
-     },
      {
       "date": "2026-09-07",
       "opp": "Celta",
@@ -5042,28 +5079,28 @@
       "venue": "H",
       "gf": 1,
       "ga": 0
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Barcelona",
+      "venue": "A",
+      "gf": 0,
+      "ga": 3
      }
     ]
    },
    "La Coruna": {
     "display": "Deportivo de A Coruña",
     "n": 5.0,
-    "gf": 1.6,
-    "ga": 1.2,
-    "sotf": 4.0,
+    "gf": 1.4,
+    "ga": 1.6,
+    "sotf": 4.6,
     "sota": 4.6,
-    "poss": 48.4,
-    "form": 8.0,
-    "elo": 1432.9,
-    "home_adv": -0.108,
+    "poss": 48.0533,
+    "form": 5.0,
+    "elo": 1426.0,
+    "home_adv": 0.0,
     "last": [
-     {
-      "date": "2026-08-30",
-      "opp": "Valencia",
-      "venue": "H",
-      "gf": 3,
-      "ga": 1
-     },
      {
       "date": "2026-09-05",
       "opp": "Villarreal",
@@ -5091,28 +5128,28 @@
       "venue": "H",
       "gf": 1,
       "ga": 1
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Sociedad",
+      "venue": "A",
+      "gf": 2,
+      "ga": 3
      }
     ]
    },
    "Levante": {
     "display": "Levante UD",
     "n": 5.0,
-    "gf": 1.6,
-    "ga": 1.8,
-    "sotf": 4.4,
-    "sota": 5.8,
-    "poss": 38.8,
+    "gf": 2.2,
+    "ga": 2.4,
+    "sotf": 5.8,
+    "sota": 5.4,
+    "poss": 36.6533,
     "form": 5.0,
-    "elo": 1483.3,
-    "home_adv": 0.5278,
+    "elo": 1482.0,
+    "home_adv": 0.5172,
     "last": [
-     {
-      "date": "2026-08-24",
-      "opp": "Osasuna",
-      "venue": "A",
-      "gf": 0,
-      "ga": 0
-     },
      {
       "date": "2026-08-29",
       "opp": "Betis",
@@ -5140,28 +5177,28 @@
       "venue": "A",
       "gf": 1,
       "ga": 3
+     },
+     {
+      "date": "2026-10-12",
+      "opp": "Sevilla",
+      "venue": "H",
+      "gf": 3,
+      "ga": 3
      }
     ]
    },
    "Malaga": {
     "display": "Málaga CF",
     "n": 5.0,
-    "gf": 0.4,
-    "ga": 1.8,
-    "sotf": 2.2,
-    "sota": 6.0,
-    "poss": 50.8,
-    "form": 2.0,
-    "elo": 1365.5,
-    "home_adv": 0.108,
+    "gf": 0.6,
+    "ga": 1.2,
+    "sotf": 3.4,
+    "sota": 5.2,
+    "poss": 50.6533,
+    "form": 3.0,
+    "elo": 1366.8,
+    "home_adv": 0.1429,
     "last": [
-     {
-      "date": "2026-08-30",
-      "opp": "Real Madrid",
-      "venue": "A",
-      "gf": 0,
-      "ga": 4
-     },
      {
       "date": "2026-09-06",
       "opp": "Levante",
@@ -5189,28 +5226,28 @@
       "venue": "A",
       "gf": 0,
       "ga": 1
+     },
+     {
+      "date": "2026-10-09",
+      "opp": "Espanol",
+      "venue": "H",
+      "gf": 1,
+      "ga": 1
      }
     ]
    },
    "Osasuna": {
     "display": "Osasuna",
     "n": 5.0,
-    "gf": 0.8,
-    "ga": 2.4,
-    "sotf": 3.0,
-    "sota": 4.8,
-    "poss": 45.0,
-    "form": 4.0,
-    "elo": 1464.0,
-    "home_adv": 0.5096,
+    "gf": 1.0,
+    "ga": 3.4,
+    "sotf": 3.6,
+    "sota": 6.0,
+    "poss": 44.6533,
+    "form": 1.0,
+    "elo": 1455.7,
+    "home_adv": 0.4828,
     "last": [
-     {
-      "date": "2026-08-31",
-      "opp": "Getafe",
-      "venue": "H",
-      "gf": 1,
-      "ga": 0
-     },
      {
       "date": "2026-09-06",
       "opp": "Alaves",
@@ -5238,28 +5275,28 @@
       "venue": "H",
       "gf": 1,
       "ga": 1
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Betis",
+      "venue": "A",
+      "gf": 2,
+      "ga": 5
      }
     ]
    },
    "Real Madrid": {
     "display": "Real Madrid",
     "n": 5.0,
-    "gf": 2.4,
+    "gf": 1.8,
     "ga": 1.2,
-    "sotf": 6.8,
-    "sota": 5.0,
-    "poss": 50.6,
+    "sotf": 6.0,
+    "sota": 5.6,
+    "poss": 48.0533,
     "form": 9.0,
-    "elo": 1777.2,
+    "elo": 1782.3,
     "home_adv": 0.5172,
     "last": [
-     {
-      "date": "2026-08-30",
-      "opp": "Malaga",
-      "venue": "H",
-      "gf": 4,
-      "ga": 0
-     },
      {
       "date": "2026-09-04",
       "opp": "Betis",
@@ -5287,28 +5324,28 @@
       "venue": "A",
       "gf": 1,
       "ga": 2
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Villarreal",
+      "venue": "H",
+      "gf": 1,
+      "ga": 0
      }
     ]
    },
    "Santander": {
     "display": "Real Racing Club",
     "n": 5.0,
-    "gf": 1.8,
+    "gf": 1.6,
     "ga": 3.6,
-    "sotf": 4.4,
-    "sota": 8.6,
-    "poss": 47.6,
-    "form": 6.0,
-    "elo": 1426.6,
-    "home_adv": 0.6049,
+    "sotf": 5.4,
+    "sota": 7.6,
+    "poss": 48.2533,
+    "form": 4.0,
+    "elo": 1427.3,
+    "home_adv": 0.5714,
     "last": [
-     {
-      "date": "2026-08-28",
-      "opp": "Elche",
-      "venue": "H",
-      "gf": 3,
-      "ga": 2
-     },
      {
       "date": "2026-09-05",
       "opp": "Vallecano",
@@ -5336,28 +5373,28 @@
       "venue": "A",
       "gf": 0,
       "ga": 5
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Valencia",
+      "venue": "H",
+      "gf": 2,
+      "ga": 2
      }
     ]
    },
    "Sevilla": {
     "display": "Sevilla",
     "n": 5.0,
-    "gf": 1.0,
+    "gf": 1.4,
     "ga": 1.4,
     "sotf": 4.2,
-    "sota": 3.6,
-    "poss": 42.0,
-    "form": 7.0,
-    "elo": 1496.0,
-    "home_adv": 0.4004,
+    "sota": 4.2,
+    "poss": 42.2533,
+    "form": 8.0,
+    "elo": 1497.4,
+    "home_adv": 0.3448,
     "last": [
-     {
-      "date": "2026-08-29",
-      "opp": "Ath Madrid",
-      "venue": "H",
-      "gf": 1,
-      "ga": 3
-     },
      {
       "date": "2026-09-06",
       "opp": "Espanol",
@@ -5385,28 +5422,28 @@
       "venue": "H",
       "gf": 1,
       "ga": 3
+     },
+     {
+      "date": "2026-10-12",
+      "opp": "Levante",
+      "venue": "A",
+      "gf": 3,
+      "ga": 3
      }
     ]
    },
    "Sociedad": {
     "display": "Real Sociedad",
     "n": 5.0,
-    "gf": 1.6,
-    "ga": 1.6,
-    "sotf": 6.0,
-    "sota": 5.0,
-    "poss": 48.6,
+    "gf": 1.8,
+    "ga": 1.8,
+    "sotf": 4.8,
+    "sota": 5.8,
+    "poss": 47.0533,
     "form": 10.0,
-    "elo": 1517.2,
-    "home_adv": 0.2414,
+    "elo": 1524.0,
+    "home_adv": 0.3448,
     "last": [
-     {
-      "date": "2026-08-29",
-      "opp": "Espanol",
-      "venue": "H",
-      "gf": 2,
-      "ga": 1
-     },
      {
       "date": "2026-09-03",
       "opp": "Celta",
@@ -5434,28 +5471,28 @@
       "venue": "A",
       "gf": 3,
       "ga": 2
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "La Coruna",
+      "venue": "H",
+      "gf": 3,
+      "ga": 2
      }
     ]
    },
    "Valencia": {
     "display": "Valencia",
     "n": 5.0,
-    "gf": 0.8,
-    "ga": 2.4,
-    "sotf": 2.8,
-    "sota": 5.4,
-    "poss": 49.4,
-    "form": 3.0,
-    "elo": 1503.5,
-    "home_adv": 0.1034,
+    "gf": 1.0,
+    "ga": 2.2,
+    "sotf": 2.4,
+    "sota": 6.8,
+    "poss": 47.0533,
+    "form": 4.0,
+    "elo": 1502.8,
+    "home_adv": 0.069,
     "last": [
-     {
-      "date": "2026-08-30",
-      "opp": "La Coruna",
-      "venue": "A",
-      "gf": 1,
-      "ga": 3
-     },
      {
       "date": "2026-09-06",
       "opp": "Barcelona",
@@ -5483,6 +5520,13 @@
       "venue": "H",
       "gf": 2,
       "ga": 3
+     },
+     {
+      "date": "2026-10-11",
+      "opp": "Santander",
+      "venue": "A",
+      "gf": 2,
+      "ga": 2
      }
     ]
    },
@@ -5540,20 +5584,13 @@
     "n": 5.0,
     "gf": 1.8,
     "ga": 1.6,
-    "sotf": 6.6,
-    "sota": 3.8,
-    "poss": 65.2,
+    "sotf": 6.2,
+    "sota": 4.2,
+    "poss": 58.6533,
     "form": 6.0,
-    "elo": 1624.2,
+    "elo": 1619.1,
     "home_adv": 0.4623,
     "last": [
-     {
-      "date": "2026-08-28",
-      "opp": "Alaves",
-      "venue": "A",
-      "gf": 0,
-      "ga": 1
-     },
      {
       "date": "2026-09-05",
       "opp": "La Coruna",
@@ -5581,13 +5618,20 @@
       "venue": "H",
       "gf": 3,
       "ga": 1
+     },
+     {
+      "date": "2026-10-10",
+      "opp": "Real Madrid",
+      "venue": "A",
+      "gf": 0,
+      "ga": 1
      }
     ]
    }
   },
   "h2h": {
    "Alaves|Ath Bilbao": 0.2222,
-   "Alaves|Ath Madrid": 0.2222,
+   "Alaves|Ath Madrid": 0.2,
    "Alaves|Barcelona": 0.2222,
    "Alaves|Betis": 0.375,
    "Alaves|Celta": 0.375,
@@ -5624,7 +5668,7 @@
    "Ath Bilbao|Valencia": 0.3333,
    "Ath Bilbao|Vallecano": 0.6667,
    "Ath Bilbao|Villarreal": 0.3333,
-   "Ath Madrid|Alaves": 0.4444,
+   "Ath Madrid|Alaves": 0.5,
    "Ath Madrid|Ath Bilbao": 0.5,
    "Ath Madrid|Barcelona": 0.2222,
    "Ath Madrid|Betis": 0.5,
@@ -5650,7 +5694,7 @@
    "Barcelona|Celta": 0.625,
    "Barcelona|Elche": 0.6667,
    "Barcelona|Espanol": 0.7143,
-   "Barcelona|Getafe": 0.625,
+   "Barcelona|Getafe": 0.6667,
    "Barcelona|La Coruna": 0.3333,
    "Barcelona|Levante": 0.6667,
    "Barcelona|Malaga": 0.3333,
@@ -5673,7 +5717,7 @@
    "Betis|La Coruna": 0.25,
    "Betis|Levante": 0.3333,
    "Betis|Malaga": 0.3333,
-   "Betis|Osasuna": 0.5556,
+   "Betis|Osasuna": 0.6,
    "Betis|Real Madrid": 0.3,
    "Betis|Santander": 0.3333,
    "Betis|Sevilla": 0.3333,
@@ -5686,7 +5730,7 @@
    "Celta|Ath Madrid": 0.2222,
    "Celta|Barcelona": 0.125,
    "Celta|Betis": 0.3333,
-   "Celta|Elche": 0.4,
+   "Celta|Elche": 0.3333,
    "Celta|Espanol": 0.1429,
    "Celta|Getafe": 0.3333,
    "Celta|La Coruna": 0.3333,
@@ -5705,7 +5749,7 @@
    "Elche|Ath Madrid": 0.4,
    "Elche|Barcelona": 0.1667,
    "Elche|Betis": 0.2,
-   "Elche|Celta": 0.4,
+   "Elche|Celta": 0.3333,
    "Elche|Espanol": 0.3333,
    "Elche|Getafe": 0.4,
    "Elche|La Coruna": 0.25,
@@ -5729,7 +5773,7 @@
    "Espanol|Getafe": 0.4286,
    "Espanol|La Coruna": 0.3333,
    "Espanol|Levante": 0.3333,
-   "Espanol|Malaga": 0.3333,
+   "Espanol|Malaga": 0.25,
    "Espanol|Osasuna": 0.5,
    "Espanol|Real Madrid": 0.25,
    "Espanol|Santander": 0.3333,
@@ -5741,7 +5785,7 @@
    "Getafe|Alaves": 0.4444,
    "Getafe|Ath Bilbao": 0.375,
    "Getafe|Ath Madrid": 0.2222,
-   "Getafe|Barcelona": 0.125,
+   "Getafe|Barcelona": 0.1111,
    "Getafe|Betis": 0.2,
    "Getafe|Celta": 0.3333,
    "Getafe|Elche": 0.4,
@@ -5772,7 +5816,7 @@
    "La Coruna|Real Madrid": 0.3333,
    "La Coruna|Santander": 0.3333,
    "La Coruna|Sevilla": 0.25,
-   "La Coruna|Sociedad": 0.3333,
+   "La Coruna|Sociedad": 0.25,
    "La Coruna|Valencia": 0.5,
    "La Coruna|Vallecano": 0.3333,
    "La Coruna|Villarreal": 0.5,
@@ -5790,7 +5834,7 @@
    "Levante|Osasuna": 0.3333,
    "Levante|Real Madrid": 0.2,
    "Levante|Santander": 0.3333,
-   "Levante|Sevilla": 0.6,
+   "Levante|Sevilla": 0.5,
    "Levante|Sociedad": 0.2,
    "Levante|Valencia": 0.2,
    "Levante|Vallecano": 0.2,
@@ -5802,7 +5846,7 @@
    "Malaga|Betis": 0.3333,
    "Malaga|Celta": 0.25,
    "Malaga|Elche": 0.3333,
-   "Malaga|Espanol": 0.3333,
+   "Malaga|Espanol": 0.25,
    "Malaga|Getafe": 0.25,
    "Malaga|La Coruna": 0.25,
    "Malaga|Levante": 0.25,
@@ -5818,7 +5862,7 @@
    "Osasuna|Ath Bilbao": 0.125,
    "Osasuna|Ath Madrid": 0.3333,
    "Osasuna|Barcelona": 0.25,
-   "Osasuna|Betis": 0.1111,
+   "Osasuna|Betis": 0.1,
    "Osasuna|Celta": 0.4444,
    "Osasuna|Elche": 0.2,
    "Osasuna|Espanol": 0.25,
@@ -5851,7 +5895,7 @@
    "Real Madrid|Sociedad": 0.7778,
    "Real Madrid|Valencia": 0.5556,
    "Real Madrid|Vallecano": 0.4,
-   "Real Madrid|Villarreal": 0.6667,
+   "Real Madrid|Villarreal": 0.7,
    "Santander|Alaves": 0.5,
    "Santander|Ath Bilbao": 0.3333,
    "Santander|Ath Madrid": 0.3333,
@@ -5868,7 +5912,7 @@
    "Santander|Real Madrid": 0.3333,
    "Santander|Sevilla": 0.3333,
    "Santander|Sociedad": 0.3333,
-   "Santander|Valencia": 0.3333,
+   "Santander|Valencia": 0.25,
    "Santander|Vallecano": 0.25,
    "Santander|Villarreal": 0.25,
    "Sevilla|Alaves": 0.25,
@@ -5881,7 +5925,7 @@
    "Sevilla|Espanol": 0.375,
    "Sevilla|Getafe": 0.4444,
    "Sevilla|La Coruna": 0.5,
-   "Sevilla|Levante": 0.2,
+   "Sevilla|Levante": 0.1667,
    "Sevilla|Malaga": 0.3333,
    "Sevilla|Osasuna": 0.25,
    "Sevilla|Real Madrid": 0.1111,
@@ -5899,7 +5943,7 @@
    "Sociedad|Elche": 0.5,
    "Sociedad|Espanol": 0.5,
    "Sociedad|Getafe": 0.25,
-   "Sociedad|La Coruna": 0.3333,
+   "Sociedad|La Coruna": 0.5,
    "Sociedad|Levante": 0.4,
    "Sociedad|Malaga": 0.3333,
    "Sociedad|Osasuna": 0.3333,
@@ -5923,7 +5967,7 @@
    "Valencia|Malaga": 0.3333,
    "Valencia|Osasuna": 0.375,
    "Valencia|Real Madrid": 0.2222,
-   "Valencia|Santander": 0.3333,
+   "Valencia|Santander": 0.25,
    "Valencia|Sevilla": 0.3333,
    "Valencia|Sociedad": 0.3333,
    "Valencia|Vallecano": 0.2222,
@@ -5960,7 +6004,7 @@
    "Villarreal|Levante": 0.6667,
    "Villarreal|Malaga": 0.5,
    "Villarreal|Osasuna": 0.4444,
-   "Villarreal|Real Madrid": 0.1111,
+   "Villarreal|Real Madrid": 0.1,
    "Villarreal|Santander": 0.25,
    "Villarreal|Sevilla": 0.5556,
    "Villarreal|Sociedad": 0.4444,
@@ -6017,6 +6061,10 @@
     },
     {
      "date": "2026-01-18",
+     "winner": "Ath Madrid"
+    },
+    {
+     "date": "2026-10-10",
      "winner": "Ath Madrid"
     }
    ],
@@ -7114,6 +7162,10 @@
     {
      "date": "2026-04-25",
      "winner": "Barcelona"
+    },
+    {
+     "date": "2026-10-10",
+     "winner": "Barcelona"
     }
    ],
    "Barcelona|Levante": [
@@ -7446,6 +7498,10 @@
     {
      "date": "2026-04-12",
      "winner": null
+    },
+    {
+     "date": "2026-10-11",
+     "winner": "Betis"
     }
    ],
    "Betis|Real Madrid": [
@@ -7616,6 +7672,10 @@
     {
      "date": "2026-05-03",
      "winner": "Celta"
+    },
+    {
+     "date": "2026-10-11",
+     "winner": null
     }
    ],
    "Celta|Espanol": [
@@ -8022,6 +8082,12 @@
      "winner": "Espanol"
     }
    ],
+   "Espanol|Malaga": [
+    {
+     "date": "2026-10-09",
+     "winner": null
+    }
+   ],
    "Espanol|Osasuna": [
     {
      "date": "2024-12-14",
@@ -8378,6 +8444,12 @@
      "winner": "Sevilla"
     }
    ],
+   "La Coruna|Sociedad": [
+    {
+     "date": "2026-10-11",
+     "winner": "Sociedad"
+    }
+   ],
    "La Coruna|Valencia": [
     {
      "date": "2026-08-30",
@@ -8428,6 +8500,10 @@
     {
      "date": "2026-04-23",
      "winner": "Levante"
+    },
+    {
+     "date": "2026-10-12",
+     "winner": null
     }
    ],
    "Levante|Sociedad": [
@@ -8766,6 +8842,16 @@
     {
      "date": "2026-01-24",
      "winner": "Real Madrid"
+    },
+    {
+     "date": "2026-10-10",
+     "winner": "Real Madrid"
+    }
+   ],
+   "Santander|Valencia": [
+    {
+     "date": "2026-10-11",
+     "winner": null
     }
    ],
    "Santander|Vallecano": [
@@ -9037,6 +9123,6 @@
     }
    ]
   },
-  "home_adv_league": 0.6158
+  "home_adv_league": 0.6237
  }
 }
