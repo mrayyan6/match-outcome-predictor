@@ -1172,7 +1172,7 @@
    "Fulham|Newcastle": 0.4444,
    "Fulham|Nott'm Forest": 0.5556,
    "Fulham|Sunderland": 0.5,
-   "Fulham|Tottenham": 0.5556,
+   "Fulham|Tottenham": 0.625,
    "Hull|Arsenal": 0.3333,
    "Hull|Aston Villa": 0.25,
    "Hull|Bournemouth": 0.3333,
@@ -1353,7 +1353,7 @@
    "Tottenham|Coventry": 0.5,
    "Tottenham|Crystal Palace": 0.4444,
    "Tottenham|Everton": 0.5,
-   "Tottenham|Fulham": 0.2222,
+   "Tottenham|Fulham": 0.125,
    "Tottenham|Hull": 0.3333,
    "Tottenham|Ipswich": 0.4,
    "Tottenham|Leeds": 0.4,
@@ -4017,10 +4017,6 @@
    ],
    "Fulham|Tottenham": [
     {
-     "date": "2023-10-23",
-     "winner": "Tottenham"
-    },
-    {
      "date": "2024-03-16",
      "winner": "Fulham"
     },
@@ -4728,22 +4724,15 @@
    "Ath Bilbao": {
     "display": "Athletic Club",
     "n": 5.0,
-    "gf": 1.2,
-    "ga": 0.2,
-    "sotf": 4.4,
-    "sota": 2.2,
-    "poss": 52.4533,
-    "form": 9.0,
-    "elo": 1528.1,
-    "home_adv": 0.4138,
+    "gf": 1.0,
+    "ga": 0.8,
+    "sotf": 3.8,
+    "sota": 3.2,
+    "poss": 51.9067,
+    "form": 6.0,
+    "elo": 1512.0,
+    "home_adv": 0.3858,
     "last": [
-     {
-      "date": "2026-08-30",
-      "opp": "Celta",
-      "venue": "A",
-      "gf": 2,
-      "ga": 0
-     },
      {
       "date": "2026-09-05",
       "opp": "Ath Madrid",
@@ -4771,6 +4760,13 @@
       "venue": "A",
       "gf": 0,
       "ga": 0
+     },
+     {
+      "date": "2026-10-21",
+      "opp": "Levante",
+      "venue": "A",
+      "gf": 1,
+      "ga": 3
      }
     ]
    },
@@ -5169,22 +5165,15 @@
    "Levante": {
     "display": "Levante UD",
     "n": 5.0,
-    "gf": 1.4,
-    "ga": 2.2,
-    "sotf": 4.6,
-    "sota": 5.2,
-    "poss": 37.3067,
-    "form": 3.0,
-    "elo": 1482.0,
-    "home_adv": 0.5862,
+    "gf": 2.0,
+    "ga": 2.4,
+    "sotf": 5.4,
+    "sota": 5.4,
+    "poss": 38.56,
+    "form": 5.0,
+    "elo": 1498.1,
+    "home_adv": 0.6897,
     "last": [
-     {
-      "date": "2026-09-06",
-      "opp": "Malaga",
-      "venue": "A",
-      "gf": 0,
-      "ga": 0
-     },
      {
       "date": "2026-09-13",
       "opp": "Barcelona",
@@ -5211,6 +5200,13 @@
       "opp": "La Coruna",
       "venue": "A",
       "gf": 1,
+      "ga": 1
+     },
+     {
+      "date": "2026-10-21",
+      "opp": "Ath Bilbao",
+      "venue": "H",
+      "gf": 3,
       "ga": 1
      }
     ]
@@ -5676,17 +5672,17 @@
    "Alaves|Sociedad": 0.4444,
    "Alaves|Valencia": 0.3333,
    "Alaves|Vallecano": 0.2222,
-   "Alaves|Villarreal": 0.3,
+   "Alaves|Villarreal": 0.3333,
    "Ath Bilbao|Alaves": 0.4444,
    "Ath Bilbao|Ath Madrid": 0.4,
-   "Ath Bilbao|Barcelona": 0.1,
+   "Ath Bilbao|Barcelona": 0.1111,
    "Ath Bilbao|Betis": 0.375,
    "Ath Bilbao|Celta": 0.5,
    "Ath Bilbao|Elche": 0.3333,
    "Ath Bilbao|Espanol": 0.2857,
    "Ath Bilbao|Getafe": 0.375,
    "Ath Bilbao|La Coruna": 0.3333,
-   "Ath Bilbao|Levante": 0.6,
+   "Ath Bilbao|Levante": 0.5,
    "Ath Bilbao|Malaga": 0.3333,
    "Ath Bilbao|Osasuna": 0.375,
    "Ath Bilbao|Real Madrid": 0.25,
@@ -5716,7 +5712,7 @@
    "Ath Madrid|Vallecano": 0.5,
    "Ath Madrid|Villarreal": 0.4,
    "Barcelona|Alaves": 0.6667,
-   "Barcelona|Ath Bilbao": 0.7,
+   "Barcelona|Ath Bilbao": 0.6667,
    "Barcelona|Ath Madrid": 0.6667,
    "Barcelona|Betis": 0.5556,
    "Barcelona|Celta": 0.625,
@@ -5849,7 +5845,7 @@
    "La Coruna|Vallecano": 0.3333,
    "La Coruna|Villarreal": 0.5,
    "Levante|Alaves": 0.4,
-   "Levante|Ath Bilbao": 0.2,
+   "Levante|Ath Bilbao": 0.3333,
    "Levante|Ath Madrid": 0.2,
    "Levante|Barcelona": 0.1667,
    "Levante|Betis": 0.3333,
@@ -6019,7 +6015,7 @@
    "Vallecano|Sociedad": 0.3333,
    "Vallecano|Valencia": 0.2222,
    "Vallecano|Villarreal": 0.25,
-   "Villarreal|Alaves": 0.3,
+   "Villarreal|Alaves": 0.3333,
    "Villarreal|Ath Bilbao": 0.3333,
    "Villarreal|Ath Madrid": 0.2,
    "Villarreal|Barcelona": 0.375,
@@ -6394,10 +6390,6 @@
    ],
    "Alaves|Villarreal": [
     {
-     "date": "2023-10-22",
-     "winner": null
-    },
-    {
      "date": "2024-02-10",
      "winner": null
     },
@@ -6453,10 +6445,6 @@
     }
    ],
    "Ath Bilbao|Barcelona": [
-    {
-     "date": "2023-10-22",
-     "winner": "Barcelona"
-    },
     {
      "date": "2024-03-03",
      "winner": null
@@ -6596,6 +6584,10 @@
     {
      "date": "2026-02-08",
      "winner": "Ath Bilbao"
+    },
+    {
+     "date": "2026-10-21",
+     "winner": "Levante"
     }
    ],
    "Ath Bilbao|Osasuna": [
@@ -9185,6 +9177,6 @@
     }
    ]
   },
-  "home_adv_league": 0.6316
+  "home_adv_league": 0.6474
  }
 }
