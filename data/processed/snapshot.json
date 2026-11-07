@@ -1096,7 +1096,7 @@
    "Chelsea|Newcastle": 0.3333,
    "Chelsea|Nott'm Forest": 0.5,
    "Chelsea|Sunderland": 0.2,
-   "Chelsea|Tottenham": 0.7,
+   "Chelsea|Tottenham": 0.6667,
    "Coventry|Arsenal": 0.25,
    "Coventry|Aston Villa": 0.3333,
    "Coventry|Bournemouth": 0.3333,
@@ -1349,7 +1349,7 @@
    "Tottenham|Bournemouth": 0.25,
    "Tottenham|Brentford": 0.5556,
    "Tottenham|Brighton": 0.2222,
-   "Tottenham|Chelsea": 0.2,
+   "Tottenham|Chelsea": 0.2222,
    "Tottenham|Coventry": 0.5,
    "Tottenham|Crystal Palace": 0.4444,
    "Tottenham|Everton": 0.5,
@@ -3336,10 +3336,6 @@
     }
    ],
    "Chelsea|Tottenham": [
-    {
-     "date": "2023-11-06",
-     "winner": "Chelsea"
-    },
     {
      "date": "2024-05-02",
      "winner": "Chelsea"
