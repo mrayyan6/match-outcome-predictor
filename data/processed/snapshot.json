@@ -550,7 +550,7 @@
     "poss": 43.2667,
     "form": 5.0,
     "elo": 1409.6,
-    "home_adv": -0.2069,
+    "home_adv": -0.1291,
     "last": [
      {
       "date": "2026-10-10",
@@ -1036,7 +1036,7 @@
    "Bournemouth|Liverpool": 0.2222,
    "Bournemouth|Man City": 0.2222,
    "Bournemouth|Man United": 0.4,
-   "Bournemouth|Newcastle": 0.4,
+   "Bournemouth|Newcastle": 0.3333,
    "Bournemouth|Nott'm Forest": 0.4444,
    "Bournemouth|Sunderland": 0.3333,
    "Bournemouth|Tottenham": 0.5,
@@ -1123,7 +1123,7 @@
    "Crystal Palace|Brighton": 0.4,
    "Crystal Palace|Chelsea": 0.1111,
    "Crystal Palace|Coventry": 0.3333,
-   "Crystal Palace|Everton": 0.1,
+   "Crystal Palace|Everton": 0.1111,
    "Crystal Palace|Fulham": 0.4444,
    "Crystal Palace|Hull": 0.3333,
    "Crystal Palace|Ipswich": 0.5,
@@ -1142,7 +1142,7 @@
    "Everton|Brighton": 0.375,
    "Everton|Chelsea": 0.3,
    "Everton|Coventry": 0.5,
-   "Everton|Crystal Palace": 0.6,
+   "Everton|Crystal Palace": 0.5556,
    "Everton|Fulham": 0.5,
    "Everton|Hull": 0.25,
    "Everton|Ipswich": 0.5,
@@ -1289,7 +1289,7 @@
    "Man United|Tottenham": 0.2222,
    "Newcastle|Arsenal": 0.25,
    "Newcastle|Aston Villa": 0.3333,
-   "Newcastle|Bournemouth": 0.1,
+   "Newcastle|Bournemouth": 0.1111,
    "Newcastle|Brentford": 0.375,
    "Newcastle|Brighton": 0.25,
    "Newcastle|Chelsea": 0.4444,
@@ -2405,10 +2405,6 @@
    ],
    "Bournemouth|Newcastle": [
     {
-     "date": "2023-11-11",
-     "winner": "Bournemouth"
-    },
-    {
      "date": "2024-02-17",
      "winner": null
     },
@@ -3432,10 +3428,6 @@
     }
    ],
    "Crystal Palace|Everton": [
-    {
-     "date": "2023-11-11",
-     "winner": "Everton"
-    },
     {
      "date": "2024-02-19",
      "winner": null
@@ -6005,7 +5997,7 @@
    "Real Madrid|Santander": 0.5,
    "Real Madrid|Sevilla": 0.7778,
    "Real Madrid|Sociedad": 0.7778,
-   "Real Madrid|Valencia": 0.6,
+   "Real Madrid|Valencia": 0.5556,
    "Real Madrid|Vallecano": 0.4444,
    "Real Madrid|Villarreal": 0.7,
    "Santander|Alaves": 0.5,
@@ -6078,7 +6070,7 @@
    "Valencia|Levante": 0.6,
    "Valencia|Malaga": 0.3333,
    "Valencia|Osasuna": 0.375,
-   "Valencia|Real Madrid": 0.2,
+   "Valencia|Real Madrid": 0.2222,
    "Valencia|Santander": 0.25,
    "Valencia|Sevilla": 0.3333,
    "Valencia|Sociedad": 0.3333,
@@ -8997,10 +8989,6 @@
     }
    ],
    "Real Madrid|Valencia": [
-    {
-     "date": "2023-11-11",
-     "winner": "Real Madrid"
-    },
     {
      "date": "2024-03-02",
      "winner": null
