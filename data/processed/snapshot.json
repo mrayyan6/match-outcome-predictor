@@ -1010,7 +1010,7 @@
    "Aston Villa|Coventry": 0.3333,
    "Aston Villa|Crystal Palace": 0.125,
    "Aston Villa|Everton": 0.375,
-   "Aston Villa|Fulham": 0.6,
+   "Aston Villa|Fulham": 0.5556,
    "Aston Villa|Hull": 0.25,
    "Aston Villa|Ipswich": 0.2,
    "Aston Villa|Leeds": 0.4,
@@ -1052,7 +1052,7 @@
    "Brentford|Hull": 0.25,
    "Brentford|Ipswich": 0.6,
    "Brentford|Leeds": 0.1667,
-   "Brentford|Liverpool": 0.2,
+   "Brentford|Liverpool": 0.2222,
    "Brentford|Man City": 0.1111,
    "Brentford|Man United": 0.375,
    "Brentford|Newcastle": 0.5,
@@ -1091,7 +1091,7 @@
    "Chelsea|Ipswich": 0.2,
    "Chelsea|Leeds": 0.2,
    "Chelsea|Liverpool": 0.375,
-   "Chelsea|Man City": 0.1111,
+   "Chelsea|Man City": 0.125,
    "Chelsea|Man United": 0.4,
    "Chelsea|Newcastle": 0.3333,
    "Chelsea|Nott'm Forest": 0.5,
@@ -1155,7 +1155,7 @@
    "Everton|Sunderland": 0.2,
    "Everton|Tottenham": 0.2,
    "Fulham|Arsenal": 0.25,
-   "Fulham|Aston Villa": 0.2,
+   "Fulham|Aston Villa": 0.2222,
    "Fulham|Bournemouth": 0.2222,
    "Fulham|Brentford": 0.5,
    "Fulham|Brighton": 0.5,
@@ -1233,7 +1233,7 @@
    "Liverpool|Arsenal": 0.2,
    "Liverpool|Aston Villa": 0.375,
    "Liverpool|Bournemouth": 0.6667,
-   "Liverpool|Brentford": 0.6,
+   "Liverpool|Brentford": 0.5556,
    "Liverpool|Brighton": 0.5556,
    "Liverpool|Chelsea": 0.375,
    "Liverpool|Coventry": 0.3333,
@@ -1254,7 +1254,7 @@
    "Man City|Bournemouth": 0.5556,
    "Man City|Brentford": 0.6667,
    "Man City|Brighton": 0.2222,
-   "Man City|Chelsea": 0.4444,
+   "Man City|Chelsea": 0.5,
    "Man City|Coventry": 0.5,
    "Man City|Crystal Palace": 0.6,
    "Man City|Everton": 0.5556,
@@ -1912,10 +1912,6 @@
     }
    ],
    "Aston Villa|Fulham": [
-    {
-     "date": "2023-11-12",
-     "winner": "Aston Villa"
-    },
     {
      "date": "2024-02-17",
      "winner": "Aston Villa"
@@ -2645,10 +2641,6 @@
    ],
    "Brentford|Liverpool": [
     {
-     "date": "2023-11-12",
-     "winner": "Liverpool"
-    },
-    {
      "date": "2024-02-17",
      "winner": "Liverpool"
     },
@@ -3236,10 +3228,6 @@
     }
    ],
    "Chelsea|Man City": [
-    {
-     "date": "2023-11-12",
-     "winner": null
-    },
     {
      "date": "2024-02-17",
      "winner": null
@@ -5736,7 +5724,7 @@
   "h2h": {
    "Alaves|Ath Bilbao": 0.2222,
    "Alaves|Ath Madrid": 0.2222,
-   "Alaves|Barcelona": 0.2,
+   "Alaves|Barcelona": 0.2222,
    "Alaves|Betis": 0.375,
    "Alaves|Celta": 0.3333,
    "Alaves|Elche": 0.4,
@@ -5790,8 +5778,8 @@
    "Ath Madrid|Sociedad": 0.5556,
    "Ath Madrid|Valencia": 0.75,
    "Ath Madrid|Vallecano": 0.5,
-   "Ath Madrid|Villarreal": 0.4,
-   "Barcelona|Alaves": 0.7,
+   "Ath Madrid|Villarreal": 0.3333,
+   "Barcelona|Alaves": 0.6667,
    "Barcelona|Ath Bilbao": 0.6667,
    "Barcelona|Ath Madrid": 0.7,
    "Barcelona|Betis": 0.5556,
@@ -5824,7 +5812,7 @@
    "Betis|Osasuna": 0.5556,
    "Betis|Real Madrid": 0.3,
    "Betis|Santander": 0.3333,
-   "Betis|Sevilla": 0.3333,
+   "Betis|Sevilla": 0.375,
    "Betis|Sociedad": 0.4,
    "Betis|Valencia": 0.4444,
    "Betis|Vallecano": 0.125,
@@ -6023,7 +6011,7 @@
    "Sevilla|Ath Bilbao": 0.3,
    "Sevilla|Ath Madrid": 0.3,
    "Sevilla|Barcelona": 0.2222,
-   "Sevilla|Betis": 0.2222,
+   "Sevilla|Betis": 0.25,
    "Sevilla|Celta": 0.25,
    "Sevilla|Elche": 0.2,
    "Sevilla|Espanol": 0.375,
@@ -6097,7 +6085,7 @@
    "Vallecano|Villarreal": 0.25,
    "Villarreal|Alaves": 0.3333,
    "Villarreal|Ath Bilbao": 0.375,
-   "Villarreal|Ath Madrid": 0.2,
+   "Villarreal|Ath Madrid": 0.2222,
    "Villarreal|Barcelona": 0.375,
    "Villarreal|Betis": 0.3333,
    "Villarreal|Celta": 0.4444,
@@ -6169,10 +6157,6 @@
     }
    ],
    "Alaves|Barcelona": [
-    {
-     "date": "2023-11-12",
-     "winner": "Barcelona"
-    },
     {
      "date": "2024-02-03",
      "winner": "Barcelona"
@@ -7170,10 +7154,6 @@
    ],
    "Ath Madrid|Villarreal": [
     {
-     "date": "2023-11-12",
-     "winner": "Ath Madrid"
-    },
-    {
      "date": "2024-04-01",
      "winner": "Ath Madrid"
     },
@@ -7673,10 +7653,6 @@
     }
    ],
    "Betis|Sevilla": [
-    {
-     "date": "2023-11-12",
-     "winner": null
-    },
     {
      "date": "2024-04-28",
      "winner": null
